@@ -18,7 +18,8 @@ jobs:
           python3 << 'PYEOF'
           import urllib.request, urllib.parse, json, os
 
-          BASE = "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master"
+          # CAMBIADO: usa jsDelivr en lugar de GitHub directo
+          BASE = "https://cdn.jsdelivr.net/gh/TheGiddyLimit/homebrew@master"
 
           FILES = [
             "collection/Darrington Press; Tal'Dorei Campaign Setting Reborn.json",
@@ -33,7 +34,6 @@ jobs:
 
           index_entries = []
           source_map = {}
-          source_id = 0
 
           for f in FILES:
             encoded = urllib.parse.quote(f)
@@ -51,40 +51,27 @@ jobs:
               source_code = source_full_name.replace(" ", "").replace("'", "")
 
               if source_code not in source_map:
-                  source_map[source_code] = source_id
-                  source_id += 1
+                  source_map[source_code] = source_full_name
 
               monsters = data.get("monster", [])
               for m in monsters:
                 name = m.get("name", "")
                 entry = {
-                  "id": len(index_entries),
-                  "c": 1,
                   "n": name,
-                  "s": source_map[source_code],
+                  "s": source_code,
+                  "c": "monster",
                   "u": f"{name}_{source_code}".lower().replace(" ", "_").replace(",", ""),
-                  "uu": name.lower(),
-                  "h": 1
+                  "p": outpath
                 }
                 index_entries.append(entry)
 
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          # Este sourceMap es el que Full Suite necesita
-          source_names = {}
-          for source_code, source_id in source_map.items():
-              if "Matthew" in source_code:
-                  source_names[source_id] = "Matthew Mercer - Tal'Dorei Campaign Guide"
-              elif "Kobold" in source_code:
-                  source_names[source_id] = "Kobold Press - Tome of Beasts"
-              else:
-                  source_names[source_id] = source_code
-
-          index = {"x": index_entries, "sourceMap": source_names}
+          index = {"x": index_entries, "m": {"s": source_map}}
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
-          print(f"index.json: {len(index_entries)} monsters, sourceMap: {source_names}")
+          print(f"index.json: {len(index_entries)} monsters, {len(source_map)} sources")
           PYEOF
 
       - name: Commit and push
