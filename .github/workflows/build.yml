@@ -62,13 +62,13 @@ jobs:
               print(f"FAIL: {f} -> {e}")
 
           source_map = {}
-for entry in index_entries:
-    s = entry["s"]
-    p = entry.get("p", "")
-    if s not in source_map:
-        source_map[s] = p
+          for entry in index_entries:
+              s = entry["s"]
+              p = entry.get("p", "")
+              if s not in source_map:
+                  source_map[s] = p
 
-index = {"x": index_entries, "m": {"s": source_map}}
+          index = {"x": index_entries, "m": {"s": source_map}}
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
           print(f"index.json: {len(index_entries)} monsters")
