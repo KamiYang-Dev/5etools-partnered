@@ -31,7 +31,6 @@ jobs:
             "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json",
           ]
 
-          # monsters grouped by source code
           by_source = {}
 
           for f in FILES:
@@ -55,7 +54,6 @@ jobs:
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          # write one file per source
           index_entries = []
           source_map = {}
 
@@ -64,8 +62,7 @@ jobs:
             with open(outpath, "w", encoding="utf-8") as fp:
               json.dump({"monster": monsters}, fp, ensure_ascii=False)
 
-            rel_path = outpath
-            source_map[source] = rel_path
+            source_map[source] = outpath
 
             for m in monsters:
               name = m.get("name", "")
