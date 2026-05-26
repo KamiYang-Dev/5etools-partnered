@@ -21,14 +21,70 @@ jobs:
           BASE = "https://cdn.jsdelivr.net/gh/TheGiddyLimit/homebrew@master"
 
           FILES = [
+            # Critical Role
             "collection/Darrington Press; Tal'Dorei Campaign Setting Reborn.json",
             "collection/Matthew Mercer; TalDorei Campaign Guide.json",
+            # Kobold Press
             "creature/Kobold Press; Tome of Beasts.json",
             "creature/Kobold Press; Tome of Beasts 1 (2023 Edition).json",
             "creature/Kobold Press; Tome of Beasts 2.json",
             "creature/Kobold Press; Tome of Beasts 3.json",
             "creature/Kobold Press; Creature Codex.json",
-            "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json",
+            "creature/Kobold Press; Gem Dragons of Faerun.json",
+            # MCDM
+            "creature/MCDM Productions; Flee, Mortals! preview.json",
+            "creature/MCDM Productions; Flee, Mortals! Packet 1.json",
+            "creature/MCDM Productions; Flee, Mortals!.json",
+            "collection/MCDM Productions; Strongholds and Followers.json",
+            "collection/MCDM Productions; Where Evil Lives.json",
+            # Ghostfire Gaming
+            "collection/Ghostfire Gaming; Dungeons of Drakkenheim.json",
+            "collection/Ghostfire Gaming; Monsters of Drakkenheim.json",
+            "collection/Ghostfire Gaming; Grim Hollow - Adventures in Etharis.json",
+            "collection/Ghostfire Gaming; Grim Hollow - Campaign Guide - 2024.json",
+            "collection/Ghostfire Gaming; Grim Hollow - Lairs of Etharis.json",
+            "collection/Ghostfire Gaming; Grim Hollow - The Monster Grimoire.json",
+            # Hit Point Press
+            "collection/Hit Point Press; Humblewood Campaign Setting.json",
+            "collection/Hit Point Press; Humblewood Tales.json",
+            # MonkeyDM
+            "collection/MonkeyDM; Steinhardt's Guide to the Eldritch Hunt.json",
+            "collection/MonkeyDM; Northern Lights Compendium.json",
+            # Mage Hand Press
+            "collection/Mage Hand Press; Dark Matter.json",
+            "collection/Mage Hand Press; Dark Matter - 2024.json",
+            # Eberron
+            "collection/Keith Baker; Exploring Eberron.json",
+            "collection/Keith Baker; Exploring Eberron - 2024.json",
+            "collection/Keith Baker; Chronicles of Eberron.json",
+            # Otros publishers
+            "collection/Free League; The Lord of the Rings Roleplaying.json",
+            "collection/Loot Tavern; Heliana's Guide To Monster Hunting.json",
+            "collection/Loot Tavern; Ryoko's Guide to Yokai Realms.json",
+            "collection/Loot Tavern; Wrath of the Kaijus.json",
+            "collection/Monte Cook; Arcana of the Ancients.json",
+            "collection/Nord Games; Game Master's Toolbox Ultimate Bestiary Revenge of the Horde.json",
+            "creature/Andrew Cawood; Monsters of the Underworld.json",
+            "creature/LaserLlama; Compendium of Beasts.json",
+            "creature/LaserLlama; Compendium of Beasts - Dinosaurs.json",
+            "creature/Frog God Games; Fifth Edition Foes.json",
+            "creature/Bruce R. Cordell; Planar Bestiary.json",
+            "creature/Robert J. Schwalb; The Book of Fiends.json",
+            "creature/Onyx Path; Scarred Lands Creature Collection.json",
+            # Web Community
+            "creature/Web Community; Community Drow Creature Collection.json",
+            "creature/Web Community; Community Aberration Creature Collection.json",
+            "creature/Web Community; Community Aberration Legendary Creature Collection.json",
+            "creature/Web Community; Community Celestial Creature Collection.json",
+            "creature/Web Community; Community Celestial Legendary Creature Collection.json",
+            "creature/Web Community; Community Construct Creature Collection.json",
+            "creature/Web Community; Community Elemental Creature Collection.json",
+            "creature/Web Community; Community Elemental Legendary Creature Collection.json",
+            "creature/Web Community; Community Fey,Faeries Creature Collection.json",
+            "creature/Web Community; Community Fey,Faeries Legendary Creature Collection.json",
+            "creature/Web Community; Community Fiend Creature Collection.json",
+            "creature/Web Community; Community Humanoid Creature Collection.json",
+            "creature/Web Community; Community Ravenloft Collection.json",
           ]
 
           by_source = {}
@@ -40,17 +96,14 @@ jobs:
               tmp = "/tmp/tmp_hb.json"
               urllib.request.urlretrieve(url, tmp)
               print(f"OK: {f}")
-
               with open(tmp, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
-
               monsters = data.get("monster", [])
               for m in monsters:
                 source = m.get("source", "HOMEBREW")
                 if source not in by_source:
                   by_source[source] = []
                 by_source[source].append(m)
-
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
@@ -77,9 +130,7 @@ jobs:
             outpath = f"data/bestiary/bestiary-{source}.json"
             with open(outpath, "w", encoding="utf-8") as fp:
               json.dump({"monster": monsters}, fp, ensure_ascii=False)
-
             source_map[source] = outpath
-
             for m in monsters:
               name = m.get("name", "")
               page = m.get("page", 0)
