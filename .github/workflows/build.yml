@@ -18,7 +18,6 @@ jobs:
           python3 << 'PYEOF'
           import urllib.request, urllib.parse, json, os
 
-          # CAMBIADO: usa jsDelivr en lugar de GitHub directo
           BASE = "https://cdn.jsdelivr.net/gh/TheGiddyLimit/homebrew@master"
 
           FILES = [
@@ -32,46 +31,58 @@ jobs:
             "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json",
           ]
 
-          index_entries = []
-          source_map = {}
+          # monsters grouped by source code
+          by_source = {}
 
           for f in FILES:
             encoded = urllib.parse.quote(f)
             url = f"{BASE}/{encoded}"
-            outname = f.replace("/", "-").replace(" ", "-").replace(";", "").replace("'", "")
-            outpath = f"data/bestiary/{outname}"
             try:
-              urllib.request.urlretrieve(url, outpath)
+              tmp = "/tmp/tmp_hb.json"
+              urllib.request.urlretrieve(url, tmp)
               print(f"OK: {f}")
 
-              with open(outpath, "r", encoding="utf-8") as fp:
+              with open(tmp, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
-
-              source_full_name = f.split('/')[-1].split(';')[0].strip()
-              source_code = source_full_name.replace(" ", "").replace("'", "")
-
-              if source_code not in source_map:
-                  source_map[source_code] = source_full_name
 
               monsters = data.get("monster", [])
               for m in monsters:
-                name = m.get("name", "")
-                entry = {
-                  "n": name,
-                  "s": source_code,
-                  "c": "monster",
-                  "u": f"{name}_{source_code}".lower().replace(" ", "_").replace(",", ""),
-                  "p": outpath
-                }
-                index_entries.append(entry)
+                source = m.get("source", "HOMEBREW")
+                if source not in by_source:
+                  by_source[source] = []
+                by_source[source].append(m)
 
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
+          # write one file per source
+          index_entries = []
+          source_map = {}
+
+          for source, monsters in by_source.items():
+            outpath = f"data/bestiary/bestiary-{source}.json"
+            with open(outpath, "w", encoding="utf-8") as fp:
+              json.dump({"monster": monsters}, fp, ensure_ascii=False)
+
+            rel_path = outpath
+            source_map[source] = rel_path
+
+            for m in monsters:
+              name = m.get("name", "")
+              page = m.get("page", 0)
+              entry = {
+                "n": name,
+                "s": source,
+                "c": 1,
+                "p": page if isinstance(page, int) else 0,
+                "u": f"{name}_{source}".lower().replace(" ", "_").replace(",", "")
+              }
+              index_entries.append(entry)
+
           index = {"x": index_entries, "m": {"s": source_map}}
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
-          print(f"index.json: {len(index_entries)} monsters, {len(source_map)} sources")
+          print(f"Done: {len(index_entries)} monsters, {len(by_source)} sources")
           PYEOF
 
       - name: Commit and push
