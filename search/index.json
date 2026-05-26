@@ -14573,6 +14573,13 @@
       "c": 1,
       "p": 21,
       "u": "zoryas_ccodex"
+    },
+    {
+      "n": "Demonfeed Spider",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "demonfeed_spider_kamihomebrew"
     }
   ],
   "m": {
@@ -14582,7 +14589,8 @@
       "ToB1-2023": "data/bestiary/bestiary-ToB1-2023.json",
       "ToB2": "data/bestiary/bestiary-ToB2.json",
       "ToB3": "data/bestiary/bestiary-ToB3.json",
-      "CCodex": "data/bestiary/bestiary-CCodex.json"
+      "CCodex": "data/bestiary/bestiary-CCodex.json",
+      "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json"
     }
   }
 }
