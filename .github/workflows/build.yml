@@ -32,6 +32,7 @@ jobs:
           ]
 
           index_entries = []
+          source_map = {}
 
           for f in FILES:
             encoded = urllib.parse.quote(f)
@@ -45,15 +46,20 @@ jobs:
               with open(outpath, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
 
+              source_full_name = f.split('/')[-1].split(';')[0].strip()
+              source_code = source_full_name.replace(" ", "").replace("'", "")
+
+              if source_code not in source_map:
+                  source_map[source_code] = source_full_name
+
               monsters = data.get("monster", [])
               for m in monsters:
                 name = m.get("name", "")
-                source = m.get("source", "")
                 entry = {
                   "n": name,
-                  "s": source,
+                  "s": source_code,
                   "c": "monster",
-                  "u": f"{name}_{source}".lower().replace(" ", "_"),
+                  "u": f"{name}_{source_code}".lower().replace(" ", "_").replace(",", ""),
                   "p": outpath
                 }
                 index_entries.append(entry)
@@ -61,17 +67,10 @@ jobs:
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          source_map = {}
-          for entry in index_entries:
-              s = entry["s"]
-              p = entry.get("p", "")
-              if s not in source_map:
-                  source_map[s] = p
-
-          index = {"x": index_entries, "m": {"s": source_map}}
+          index = {"x": index_entries, "sourceMap": source_map}
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
-          print(f"index.json: {len(index_entries)} monsters")
+          print(f"index.json: {len(index_entries)} monsters, {len(source_map)} sources")
           PYEOF
 
       - name: Commit and push
