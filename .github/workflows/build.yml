@@ -60,21 +60,31 @@ jobs:
                 entry = {
                   "id": len(index_entries),
                   "c": 1,
-                  "u": f"{name}_{source_code}".lower().replace(" ", "_").replace(",", ""),
+                  "n": name,
                   "s": source_map[source_code],
-                  "h": 1,
+                  "u": f"{name}_{source_code}".lower().replace(" ", "_").replace(",", ""),
                   "uu": name.lower(),
-                  "n": name
+                  "h": 1
                 }
                 index_entries.append(entry)
 
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          index = {"x": index_entries}
+          # Crear el sourceMap que Full Suite necesita
+          source_names = {}
+          for source_code, source_id in source_map.items():
+              if "Matthew" in source_code:
+                  source_names[source_id] = "Matthew Mercer - Tal'Dorei Campaign Guide"
+              elif "Kobold" in source_code:
+                  source_names[source_id] = "Kobold Press - Tome of Beasts"
+              else:
+                  source_names[source_id] = source_code
+
+          index = {"x": index_entries, "sourceMap": source_names}
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
-          print(f"index.json: {len(index_entries)} monsters")
+          print(f"index.json: {len(index_entries)} monsters, sourceMap: {source_names}")
           PYEOF
 
       - name: Commit and push
