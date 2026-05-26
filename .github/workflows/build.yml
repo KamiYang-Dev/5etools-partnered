@@ -45,7 +45,7 @@ jobs:
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          index = {"monsters": sorted(downloaded)}
+          index = {"x": sorted(downloaded)}
           with open("search/index.json", "w") as fp:
             json.dump(index, fp, indent=2)
           print(f"index.json: {len(downloaded)} files")
