@@ -16,7 +16,7 @@ jobs:
           mkdir -p data/bestiary search
 
           python3 << 'PYEOF'
-          import urllib.request, json, os
+          import urllib.request, urllib.parse, json, os
 
           BASE = "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master"
 
@@ -31,24 +31,40 @@ jobs:
             "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json",
           ]
 
-          downloaded = []
+          index_entries = []
+
           for f in FILES:
             encoded = urllib.parse.quote(f)
             url = f"{BASE}/{encoded}"
-            outname = f.replace("/", "-").replace(" ", "-").replace(";", "").replace("'", "") + ""
-            outname = outname.replace(".json-", "-").strip("-")
+            outname = f.replace("/", "-").replace(" ", "-").replace(";", "").replace("'", "")
             outpath = f"data/bestiary/{outname}"
             try:
               urllib.request.urlretrieve(url, outpath)
-              downloaded.append(outpath)
               print(f"OK: {f}")
+
+              with open(outpath, "r", encoding="utf-8") as fp:
+                data = json.load(fp)
+
+              monsters = data.get("monster", [])
+              for m in monsters:
+                name = m.get("name", "")
+                source = m.get("source", "")
+                entry = {
+                  "n": name,
+                  "s": source,
+                  "c": "monster",
+                  "u": f"{name}_{source}".lower().replace(" ", "_"),
+                  "p": outpath
+                }
+                index_entries.append(entry)
+
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
-          index = {"x": sorted(downloaded)}
-          with open("search/index.json", "w") as fp:
-            json.dump(index, fp, indent=2)
-          print(f"index.json: {len(downloaded)} files")
+          index = {"x": index_entries}
+          with open("search/index.json", "w", encoding="utf-8") as fp:
+            json.dump(index, fp, indent=2, ensure_ascii=False)
+          print(f"index.json: {len(index_entries)} monsters")
           PYEOF
 
       - name: Commit and push
