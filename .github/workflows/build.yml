@@ -54,6 +54,22 @@ jobs:
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
+          # Leer archivos locales de homebrew/
+          homebrew_dir = "homebrew"
+          if os.path.exists(homebrew_dir):
+            for fname in os.listdir(homebrew_dir):
+              if fname.endswith(".json"):
+                fpath = os.path.join(homebrew_dir, fname)
+                with open(fpath, "r", encoding="utf-8") as fp:
+                  data = json.load(fp)
+                monsters = data.get("monster", [])
+                for m in monsters:
+                  source = m.get("source", "KamiHomebrew")
+                  if source not in by_source:
+                    by_source[source] = []
+                  by_source[source].append(m)
+                print(f"Local OK: {fname} ({len(monsters)} monsters)")
+
           index_entries = []
           source_map = {}
 
