@@ -14575,8 +14575,10 @@
       "p": "data/bestiary/creature-Kobold-Press-Creature-Codex.json"
     }
   ],
-  "sourceMap": {
-    "MatthewMercer": "Matthew Mercer",
-    "KoboldPress": "Kobold Press"
+  "m": {
+    "s": {
+      "MatthewMercer": "Matthew Mercer",
+      "KoboldPress": "Kobold Press"
+    }
   }
 }
