@@ -2,8 +2,8 @@ name: Build Partnered Library
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Se actualiza cada día
-  workflow_dispatch:       # También puedes lanzarlo manualmente
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,40 +11,45 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download partnered creature files
+      - name: Download and build library
         run: |
-          mkdir -p data/bestiary
+          mkdir -p data/bestiary search
 
-          BASE="https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master"
+          python3 << 'PYEOF'
+          import urllib.request, json, os
 
-          declare -a FILES=(
-            "collection/Darrington Press; Tal'Dorei Campaign Setting Reborn.json"
-            "collection/Matthew Mercer; TalDorei Campaign Guide.json"
-            "creature/Kobold Press; Tome of Beasts.json"
-            "creature/Kobold Press; Tome of Beasts 1 (2023 Edition).json"
-            "creature/Kobold Press; Tome of Beasts 2.json"
-            "creature/Kobold Press; Tome of Beasts 3.json"
-            "creature/Kobold Press; Creature Codex.json"
-            "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json"
-          )
+          BASE = "https://raw.githubusercontent.com/TheGiddyLimit/homebrew/master"
 
-          for FILE in "${FILES[@]}"; do
-            ENCODED=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$FILE'))")
-            OUTNAME=$(basename "$FILE" | sed 's/ /-/g' | sed 's/;/-/g')
-            curl -sSL "$BASE/$ENCODED" -o "data/bestiary/$OUTNAME" || echo "Failed: $FILE"
-          done
+          FILES = [
+            "collection/Darrington Press; Tal'Dorei Campaign Setting Reborn.json",
+            "collection/Matthew Mercer; TalDorei Campaign Guide.json",
+            "creature/Kobold Press; Tome of Beasts.json",
+            "creature/Kobold Press; Tome of Beasts 1 (2023 Edition).json",
+            "creature/Kobold Press; Tome of Beasts 2.json",
+            "creature/Kobold Press; Tome of Beasts 3.json",
+            "creature/Kobold Press; Creature Codex.json",
+            "creature/Ghostfire Gaming; Dungeons of Drakkenheim.json",
+          ]
 
-      - name: Build search/index.json
-        run: |
-          mkdir -p search
-          python3 - <<'EOF'
-          import os, json
-          files = os.listdir("data/bestiary")
-          index = {"monsters": [f"data/bestiary/{f}" for f in sorted(files) if f.endswith(".json")]}
-          with open("search/index.json", "w") as f:
-              json.dump(index, f, indent=2)
-          print("index.json generated with", len(index["monsters"]), "files")
-          EOF
+          downloaded = []
+          for f in FILES:
+            encoded = urllib.parse.quote(f)
+            url = f"{BASE}/{encoded}"
+            outname = f.replace("/", "-").replace(" ", "-").replace(";", "").replace("'", "") + ""
+            outname = outname.replace(".json-", "-").strip("-")
+            outpath = f"data/bestiary/{outname}"
+            try:
+              urllib.request.urlretrieve(url, outpath)
+              downloaded.append(outpath)
+              print(f"OK: {f}")
+            except Exception as e:
+              print(f"FAIL: {f} -> {e}")
+
+          index = {"monsters": sorted(downloaded)}
+          with open("search/index.json", "w") as fp:
+            json.dump(index, fp, indent=2)
+          print(f"index.json: {len(downloaded)} files")
+          PYEOF
 
       - name: Commit and push
         run: |
