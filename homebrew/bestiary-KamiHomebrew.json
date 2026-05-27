@@ -36,6 +36,227 @@
         "type": "external",
         "url": "https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/main/img/TalDoreiCampaignSettingReborn/bestiary/tokens/Demonfeed Spider.webp"
       }
+    },
+    {
+      "name": "Draudnu",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": {"type": "fiend", "tags": ["demon"]},
+      "alignment": ["C", "E"],
+      "ac": [{"ac": 19, "from": ["natural armor"]}],
+      "hp": {"average": 119, "formula": "14d8 + 56"},
+      "speed": {"walk": 50},
+      "str": 18, "dex": 19, "con": 18, "int": 16, "wis": 13, "cha": 17,
+      "save": {"dex": "+8", "con": "+8", "wis": "+7"},
+      "skill": {"acrobatics": "+8", "perception": "+7", "survival": "+7"},
+      "resist": [
+        "cold", "fire", "lightning",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical attacks"}
+      ],
+      "immune": ["acid", "poison"],
+      "conditionImmune": ["charmed", "frightened", "poisoned", "stunned"],
+      "senses": ["darkvision 60 ft.", "truesight 30 ft."],
+      "passive": 17,
+      "languages": ["Abyssal", "telepathy 120 ft."],
+      "cr": "10",
+      "trait": [
+        {"name": "Acid Blisters", "entries": ["Whenever the draudnu takes damage, each creature within 5 feet of it must succeed on a {@dc 16} Constitution saving throw, taking {@damage 2d8} acid damage on a failed save, or half as much on a successful one."]},
+        {"name": "Form of Madness", "entries": ["Any creature other than a fiend that starts its turn within 60 feet of the draudnu must succeed on a {@dc 16} Wisdom saving throw or be overwhelmed by the belief that something is growing inside it. A creature afflicted in this way is {@condition poisoned}. A Greater Restoration spell or similar magic ends this effect. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the draudnu's Form of Madness for the next 24 hours."]},
+        {"name": "Magic Resistance", "entries": ["The draudnu has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The draudnu's weapon attacks are magical."]},
+        {"name": "Vicious Critical", "entries": ["The draudnu scores a critical hit on a roll of 19 or 20."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The draudnu makes three attacks with its Flesh Hooks."]},
+        {"name": "Flesh Hook", "entries": ["{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}11 ({@damage 2d6 + 4}) piercing damage. If the target is a Medium or smaller creature, it is {@condition restrained}, as it is pinned down by the draudnu's flesh hook. A creature restrained in this way can use an action to attempt a {@dc 16} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check, freeing itself on a success, but taking {@damage 1d10} slashing damage. The draudnu has three hooks, each of which can restrain one creature."]}
+      ]
+    },
+    {
+      "name": "Ekolid",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["S"],
+      "type": {"type": "fiend", "tags": ["demon"]},
+      "alignment": ["C", "E"],
+      "ac": [{"ac": 14, "from": ["natural armor"]}],
+      "hp": {"average": 33, "formula": "6d6 + 12"},
+      "speed": {"walk": 30, "climb": 30, "fly": 60},
+      "str": 10, "dex": 16, "con": 15, "int": 10, "wis": 18, "cha": 13,
+      "skill": {"acrobatics": "+5", "stealth": "+5"},
+      "resist": [
+        "acid", "cold", "fire", "lightning",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical attacks"}
+      ],
+      "conditionImmune": ["poisoned"],
+      "senses": ["darkvision 60 ft.", "truesight 10 ft."],
+      "passive": 14,
+      "languages": ["Abyssal", "telepathy 60 ft."],
+      "cr": "3",
+      "trait": [
+        {"name": "Form of Madness", "entries": ["Any creature other than a fiend that starts its turn within 60 feet of the ekolid must succeed on a {@dc 12} Wisdom saving throw or begin to hallucinate that tiny insects are crawling over its hair, clothes, and skin. A creature that is hallucinating in this way suffers disadvantage on all ability checks and on Constitution saving throws made to maintain concentration on a spell. A Lesser Restoration spell or similar magic ends this effect. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the ekolid's Form of Madness for 24 hours."]},
+        {"name": "Magic Resistance", "entries": ["The ekolid has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Supernatural Quickness", "entries": ["The ekolid can take the Dash action as a bonus action on each of its turns."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The ekolid makes six attacks with its sting."]},
+        {"name": "Sting", "entries": ["{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d4 + 3}) piercing damage and the target must succeed on a {@dc 12} Constitution saving throw or become infested with an ekolid egg. At the start of the target's next turn, the egg hatches and the target takes 3 ({@damage 1d6}) piercing damage as the ekolid grub gnaws its way out of the victim. The grub has AC 5, 1 hit point, and no effective attacks, and grows into an adult ekolid after {@dice 1d8} hours."]}
+      ]
+    },
+    {
+      "name": "Golothoma",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["H"],
+      "type": {"type": "fiend", "tags": ["demon"]},
+      "alignment": ["C", "E"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 225, "formula": "18d12 + 108"},
+      "speed": {"walk": 30, "burrow": 50, "swim": 50},
+      "str": 24, "dex": 19, "con": 22, "int": 4, "wis": 20, "cha": 17,
+      "save": {"str": "+12", "con": "+11"},
+      "skill": {"athletics": "+12", "perception": "+8"},
+      "resist": [
+        "acid", "cold", "fire", "lightning",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical attacks"}
+      ],
+      "immune": ["poison"],
+      "conditionImmune": ["charmed", "frightened", "poisoned", "stunned"],
+      "senses": ["darkvision 60 ft.", "truesight 30 ft."],
+      "passive": 18,
+      "languages": ["Abyssal", "telepathy 120 ft."],
+      "cr": "16",
+      "trait": [
+        {"name": "Amphibious", "entries": ["The golothoma can breathe air and water."]},
+        {"name": "Dimensional Reach", "entries": ["The golothoma can reach between dimensions to strike targets with its claws, giving its claw attacks a reach of 60 feet (included in the attack)."]},
+        {"name": "Form of Madness", "entries": ["Any creature other than a fiend that starts its turn within 60 feet of the golothoma must succeed on a {@dc 19} Wisdom saving throw or become obsessed with shadows, gaining disadvantage on attack rolls and ability checks unless it is in dim light. A Greater Restoration spell or similar magic ends this effect. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the golothoma's Form of Madness for 24 hours."]},
+        {"name": "Magic Resistance", "entries": ["The golothoma has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golothoma's weapon attacks are magical."]},
+        {"name": "Ravenous Shadow", "entries": ["Whenever a creature ends its turn within 15 feet of the golothoma, it must succeed on a {@dc 19} Constitution saving throw or gain 1 level of exhaustion. Whenever a creature gains a level of exhaustion in this way, the golothoma recovers 5 hit points."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golothoma makes three attacks: two with its claws and one with its tail."]},
+        {"name": "Claw", "entries": ["{@atk mw} {@hit 12} to hit, reach 60 ft., one target. {@h}23 ({@damage 3d10 + 7}) slashing damage."]},
+        {"name": "Tail", "entries": ["{@atk mw} {@hit 12} to hit, reach 15 ft., one target. {@h}14 ({@damage 2d6 + 7}) bludgeoning damage plus 28 ({@damage 8d6}) acid damage."]}
+      ]
+    },
+    {
+      "name": "Uzollru",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["G"],
+      "type": {"type": "fiend", "tags": ["demon"]},
+      "alignment": ["C", "E"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 350, "formula": "20d20 + 140"},
+      "speed": {"walk": 20, "swim": 60},
+      "str": 28, "dex": 11, "con": 25, "int": 6, "wis": 22, "cha": 20,
+      "save": {"dex": "+6", "con": "+13", "wis": "+12", "cha": "+11"},
+      "skill": {"perception": "+12", "stealth": "+6"},
+      "resist": [
+        "acid", "fire", "lightning",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical attacks"}
+      ],
+      "immune": ["cold", "poison"],
+      "conditionImmune": ["charmed", "frightened", "poisoned", "prone"],
+      "senses": ["darkvision 240 ft.", "truesight 60 ft."],
+      "passive": 21,
+      "languages": ["Abyssal", "telepathy 120 ft."],
+      "cr": "17",
+      "trait": [
+        {"name": "Form of Madness", "entries": ["Any creature other than a fiend that starts its turn within 60 feet of the uzollru must succeed on a {@dc 19} Charisma saving throw or have its Charisma score reduced to 1 until the start of its next turn. A Greater Restoration spell or similar magic ends this effect. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the uzollru's Form of Madness for 24 hours."]},
+        {"name": "Magic Resistance", "entries": ["The uzollru has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The uzollru's weapon attacks are magical."]},
+        {"name": "Regeneration", "entries": ["The uzollru regains 10 hit points at the start of its turn if it has at least 1 hit point."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The uzollru uses its Stunning Gaze. Then it makes two attacks with its claws."]},
+        {"name": "Claw", "entries": ["{@atk mw} {@hit 15} to hit, reach 30 ft., one target. {@h}27 ({@damage 4d8 + 9}) bludgeoning damage. If the target is a creature, it is {@condition grappled} (escape {@dc 22}). Until this grapple ends, the target is {@condition restrained}. The uzollru has two claws, each of which can grapple only one target."]},
+        {"name": "Feeder Tentacles", "entries": ["{@atk mw} {@hit 15} to hit, reach 30 ft., one target {@condition grappled} by the uzollru. {@h}18 ({@damage 2d8 + 9}) piercing damage and the target's Constitution score is reduced by {@dice 2d6}. The target dies if this reduces its Constitution score to 0. Otherwise, the reduction lasts until the target finishes a long rest."]},
+        {"name": "Stunning Gaze", "entries": ["The uzollru targets one creature it can see within 120 feet of it. That creature must succeed on a {@dc 19} Wisdom saving throw or be {@condition stunned} for 1 minute. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."]}
+      ],
+      "legendary": [
+        {"name": "Glide", "entries": ["The uzollru moves up to half its speed without provoking opportunity attacks."]},
+        {"name": "Implacable", "entries": ["If the uzollru is {@condition grappled} or {@condition restrained}, it ends the condition on itself."]},
+        {"name": "Liquefy (Costs 2 Actions)", "entries": ["The uzollru targets one creature it can see within 60 feet of it that is immune to its Form of Madness. The target must succeed on a {@dc 19} Wisdom saving throw or become {@condition frightened} for 1 minute and lose its immunity to the uzollru's Form of Madness."]}
+      ],
+      "legendaryActions": 3
+    },
+    {
+      "name": "Verakia",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["G"],
+      "type": {"type": "fiend", "tags": ["demon"]},
+      "alignment": ["C", "E"],
+      "ac": [{"ac": 17, "from": ["natural armor"]}],
+      "hp": {"average": 232, "formula": "16d20 + 64"},
+      "speed": {"walk": 50},
+      "str": 26, "dex": 14, "con": 19, "int": 6, "wis": 15, "cha": 17,
+      "save": {"str": "+13", "con": "+9"},
+      "skill": {"athletics": "+13", "perception": "+7", "stealth": "+7"},
+      "resist": [
+        "acid", "cold", "lightning",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical attacks"}
+      ],
+      "conditionImmune": ["charmed", "frightened", "poisoned", "stunned"],
+      "senses": ["darkvision 60 ft.", "truesight 30 ft."],
+      "passive": 17,
+      "languages": ["Abyssal", "telepathy 120 ft."],
+      "cr": "15",
+      "trait": [
+        {"name": "Forest Camouflage", "entries": ["The verakia has advantage on Dexterity (Stealth) checks made to hide in forested terrain."]},
+        {"name": "Form of Madness", "entries": ["Any creature other than a fiend that starts its turn within 60 feet of the verakia must succeed on a {@dc 16} Wisdom saving throw or be overwhelmed by raw fury, using its action each turn to make a melee attack against a creature other than itself or the verakia. A Greater Restoration spell or similar magic ends this effect. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the verakia's Form of Madness for 24 hours."]},
+        {"name": "Freedom of Movement", "entries": ["The verakia ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled."]},
+        {"name": "Magic Resistance", "entries": ["The verakia has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The verakia's weapon attacks are magical."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The verakia makes four attacks: two with its talons and one each with its bite and tail. If the verakia hits the same target with three or more of these attacks, the target must succeed on a {@dc 16} Wisdom saving throw or be {@condition stunned} until the end of its next turn."]},
+        {"name": "Bite", "entries": ["{@atk mw} {@hit 13} to hit, reach 20 ft., one target. {@h}26 ({@damage 4d8 + 8}) piercing damage."]},
+        {"name": "Talon", "entries": ["{@atk mw} {@hit 13} to hit, reach 15 ft., one target. {@h}17 ({@damage 2d8 + 8}) slashing damage."]},
+        {"name": "Tail", "entries": ["{@atk mw} {@hit 13} to hit, reach 25 ft., one target. {@h}30 ({@damage 4d10 + 8}) bludgeoning damage. If the target is a creature, it must succeed on a {@dc 21} Strength saving throw or be knocked {@condition prone}."]},
+        {"name": "Breath Weapon (Recharge 5-6)", "entries": ["The verakia exhales unholy fire in a 60-foot cone. Each creature in that area must make a {@dc 20} Dexterity saving throw. On a failed save, a creature takes 45 ({@damage 10d8}) fire damage and its Charisma score is reduced by {@dice 1d6}. The reduction lasts until the creature finishes a long rest. On a successful save, a creature takes half as much damage and its Charisma score isn't reduced."]}
+      ]
+    },
+    {
+      "name": "Eyesore",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["L"],
+      "type": "aberration",
+      "alignment": ["L", "E"],
+      "ac": [{"ac": 12}],
+      "hp": {"average": 212, "formula": "25d10 + 75"},
+      "speed": {"walk": 0, "fly": 20, "canHover": true},
+      "str": 10, "dex": 14, "con": 16, "int": 18, "wis": 16, "cha": 17,
+      "save": {"int": "+9", "wis": "+8", "cha": "+6"},
+      "skill": {"deception": "+13", "perception": "+13"},
+      "conditionImmune": ["prone"],
+      "senses": ["blindsense 30 ft.", "darkvision 120 ft."],
+      "passive": 23,
+      "languages": ["understands Deep Speech and Undercommon but can't speak", "telepathy 120 ft."],
+      "cr": "15",
+      "action": [
+        {
+          "name": "Eye Powers",
+          "entries": [
+            "The eyesore uses two of the following magical eye powers:",
+            {"type": "list", "items": [
+              "{@b Charm Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw or be {@condition charmed} by the eyesore for 1 hour, or until the eyesore harms the creature.",
+              "{@b Paralyzing Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+              "{@b Sickening Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Constitution saving throw or take 18 ({@damage 4d8}) poison damage and be {@condition poisoned} for 1 minute, or half as much damage and not be poisoned on a successful one.",
+              "{@b Fear Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw or be {@condition frightened} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+              "{@b Slowing Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.",
+              "{@b Psychic Wave.} All creatures within 30 feet of the eyesore must make a {@dc 17} Intelligence saving throw, taking 36 ({@damage 8d8}) psychic damage on a failed save, or half as much damage on a successful save.",
+              "{@b Telekinetic Field.} The eyesore can target a single object or creature within 30 feet of it. Any creature targeted must make a {@dc 17} Strength saving throw or the eyesore moves it up to 30 feet in any direction. It is {@condition restrained} by the aura's crushing force until the start of the eyesore's next turn or until the eyesore is incapacitated.",
+              "{@b Healing Aura.} All creatures within 30 feet of the eyesore (including the eyesore) magically regain 36 ({@damage 8d8}) hit points and are freed from any curse, disease, poison, blindness, or deafness.",
+              "{@b Invulnerability Aura.} A 15-foot radius globe surrounds the eyesore until the start of the eyesore's next turn. Any spell of 5th level or higher cast from outside the barrier can't affect creatures or objects within it.",
+              "{@b Flame Aura.} All creatures within 30 feet of the eyesore must make a {@dc 17} Dexterity saving throw, taking 36 ({@damage 8d8}) fire damage on a failed save, or half as much damage on a successful one."
+            ]}
+          ]
+        }
+      ]
     }
   ]
 }
