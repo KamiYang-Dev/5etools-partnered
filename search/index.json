@@ -27532,6 +27532,76 @@
       "u": "valaara_exploringeberron"
     },
     {
+      "n": "Du'ulora Quori",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "du'ulora_quori_exploringeberron24"
+    },
+    {
+      "n": "Final Messenger",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "final_messenger_exploringeberron24"
+    },
+    {
+      "n": "Inspired",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "inspired_exploringeberron24"
+    },
+    {
+      "n": "Meld",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "meld_exploringeberron24"
+    },
+    {
+      "n": "Merfolk Stormcaller",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "merfolk_stormcaller_exploringeberron24"
+    },
+    {
+      "n": "Plasmid",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "plasmid_exploringeberron24"
+    },
+    {
+      "n": "Sahuagin Claw of Sha'argon",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "sahuagin_claw_of_sha'argon_exploringeberron24"
+    },
+    {
+      "n": "The Forest Queen",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "the_forest_queen_exploringeberron24"
+    },
+    {
+      "n": "The Forgotten Prince",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "the_forgotten_prince_exploringeberron24"
+    },
+    {
+      "n": "Valaara",
+      "s": "ExploringEberron24",
+      "c": 1,
+      "p": 0,
+      "u": "valaara_exploringeberron24"
+    },
+    {
       "n": "Avassh",
       "s": "ChroniclesOfEberron",
       "c": 1,
@@ -36890,6 +36960,7 @@
       "DarkMatter": "data/bestiary/bestiary-DarkMatter.json",
       "DarkMatter24": "data/bestiary/bestiary-DarkMatter24.json",
       "ExploringEberron": "data/bestiary/bestiary-ExploringEberron.json",
+      "ExploringEberron24": "data/bestiary/bestiary-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/bestiary/bestiary-ChroniclesOfEberron.json",
       "TLotRR": "data/bestiary/bestiary-TLotRR.json",
       "HelianasGuidetoMonsterHunting": "data/bestiary/bestiary-HelianasGuidetoMonsterHunting.json",
