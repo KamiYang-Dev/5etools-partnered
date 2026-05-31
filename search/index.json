@@ -30038,788 +30038,1026 @@
       "u": "boatman_underworld"
     },
     {
-      "n": "Alligator Turtle",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 10,
-      "u": "alligator_turtle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Anaconda",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 31,
-      "u": "anaconda_llcompendiumofbeasts"
-    },
-    {
-      "n": "Aurochs",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 23,
-      "u": "aurochs_llcompendiumofbeasts"
-    },
-    {
-      "n": "Badger",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 3,
-      "u": "badger_llcompendiumofbeasts"
-    },
-    {
       "n": "Bat",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 3,
+      "p": 0,
       "u": "bat_llcompendiumofbeasts"
-    },
-    {
-      "n": "Black Bear",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 19,
-      "u": "black_bear_llcompendiumofbeasts"
-    },
-    {
-      "n": "Boa Constrictor",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 14,
-      "u": "boa_constrictor_llcompendiumofbeasts"
-    },
-    {
-      "n": "Boar",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 15,
-      "u": "boar_llcompendiumofbeasts"
-    },
-    {
-      "n": "Camel",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 10,
-      "u": "camel_llcompendiumofbeasts"
     },
     {
       "n": "Cat",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 3,
+      "p": 0,
       "u": "cat_llcompendiumofbeasts"
-    },
-    {
-      "n": "Cave Bear",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 39,
-      "u": "cave_bear_llcompendiumofbeasts"
-    },
-    {
-      "n": "Cheetah",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 19,
-      "u": "cheetah_llcompendiumofbeasts"
-    },
-    {
-      "n": "Chicken",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 4,
-      "u": "chicken_llcompendiumofbeasts"
-    },
-    {
-      "n": "Chimpanzee",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 19,
-      "u": "chimpanzee_llcompendiumofbeasts"
-    },
-    {
-      "n": "Colossal Crab",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 42,
-      "u": "colossal_crab_llcompendiumofbeasts"
-    },
-    {
-      "n": "Colossal Toad",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 41,
-      "u": "colossal_toad_llcompendiumofbeasts"
     },
     {
       "n": "Crab",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 4,
+      "p": 0,
       "u": "crab_llcompendiumofbeasts"
     },
     {
-      "n": "Crocodile",
+      "n": "Fox",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 24,
-      "u": "crocodile_llcompendiumofbeasts"
-    },
-    {
-      "n": "Dire Tiger",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 42,
-      "u": "dire_tiger_llcompendiumofbeasts"
-    },
-    {
-      "n": "Dire Wolf",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 24,
-      "u": "dire_wolf_llcompendiumofbeasts"
-    },
-    {
-      "n": "Dolphin",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 11,
-      "u": "dolphin_llcompendiumofbeasts"
-    },
-    {
-      "n": "Eagle",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 25,
-      "u": "eagle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Electric Eel",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 15,
-      "u": "electric_eel_llcompendiumofbeasts"
-    },
-    {
-      "n": "Elephant",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 40,
-      "u": "elephant_llcompendiumofbeasts"
-    },
-    {
-      "n": "Emu",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 20,
-      "u": "emu_llcompendiumofbeasts"
-    },
-    {
-      "n": "Falcon",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 16,
-      "u": "falcon_llcompendiumofbeasts"
+      "p": 0,
+      "u": "fox_llcompendiumofbeasts"
     },
     {
       "n": "Firefly",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 5,
+      "p": 0,
       "u": "firefly_llcompendiumofbeasts"
     },
     {
       "n": "Fish",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 5,
+      "p": 0,
       "u": "fish_llcompendiumofbeasts"
-    },
-    {
-      "n": "Fox",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 4,
-      "u": "fox_llcompendiumofbeasts"
     },
     {
       "n": "Frog",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 5,
+      "p": 0,
       "u": "frog_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Alligator Turtle",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 35,
-      "u": "giant_alligator_turtle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Badger",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 14,
-      "u": "giant_badger_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Bat",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 23,
-      "u": "giant_bat_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Beetle",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 10,
-      "u": "giant_beetle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Boar",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 31,
-      "u": "giant_boar_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Cave Bear",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 45,
-      "u": "giant_cave_bear_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Centipede",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 15,
-      "u": "giant_centipede_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Chicken",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 15,
-      "u": "giant_chicken_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Crab",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 11,
-      "u": "giant_crab_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Crocodile",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 45,
-      "u": "giant_crocodile_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Electric Eel",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 35,
-      "u": "giant_electric_eel_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Emu",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 32,
-      "u": "giant_emu_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Falcon",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 36,
-      "u": "giant_falcon_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Fish",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 16,
-      "u": "giant_fish_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Frog",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 16,
-      "u": "giant_frog_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Goat",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 20,
-      "u": "giant_goat_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Gorilla",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 46,
-      "u": "giant_gorilla_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Hawk",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 33,
-      "u": "giant_hawk_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Heron",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 40,
-      "u": "giant_heron_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Lizard",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 17,
-      "u": "giant_lizard_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Octopus",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 27,
-      "u": "giant_octopus_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Owl",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 28,
-      "u": "giant_owl_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Rodent",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 13,
-      "u": "giant_rodent_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Scorpion",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 38,
-      "u": "giant_scorpion_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Shark",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 47,
-      "u": "giant_shark_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Sloth",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 43,
-      "u": "giant_sloth_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Soldier Ant",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 21,
-      "u": "giant_soldier_ant_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Spider",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 28,
-      "u": "giant_spider_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Squid",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 43,
-      "u": "giant_squid_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Stag",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 34,
-      "u": "giant_stag_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Stag Beetle",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 34,
-      "u": "giant_stag_beetle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Toad",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 29,
-      "u": "giant_toad_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Tortoise",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 22,
-      "u": "giant_tortoise_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Vulture",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 30,
-      "u": "giant_vulture_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Walrus",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 41,
-      "u": "giant_walrus_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Wasp",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 22,
-      "u": "giant_wasp_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Wild Dog",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 30,
-      "u": "giant_wild_dog_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giant Wolf Spider",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 18,
-      "u": "giant_wolf_spider_llcompendiumofbeasts"
-    },
-    {
-      "n": "Giraffe",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 26,
-      "u": "giraffe_llcompendiumofbeasts"
     },
     {
       "n": "Goat",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 5,
+      "p": 0,
       "u": "goat_llcompendiumofbeasts"
-    },
-    {
-      "n": "Gorilla",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 25,
-      "u": "gorilla_llcompendiumofbeasts"
-    },
-    {
-      "n": "Grizzly Bear",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 32,
-      "u": "grizzly_bear_llcompendiumofbeasts"
     },
     {
       "n": "Hare",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 6,
+      "p": 0,
       "u": "hare_llcompendiumofbeasts"
-    },
-    {
-      "n": "Hawk",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 11,
-      "u": "hawk_llcompendiumofbeasts"
-    },
-    {
-      "n": "Heron",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 12,
-      "u": "heron_llcompendiumofbeasts"
-    },
-    {
-      "n": "Hippopotamus",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 36,
-      "u": "hippopotamus_llcompendiumofbeasts"
-    },
-    {
-      "n": "Horse",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 20,
-      "u": "horse_llcompendiumofbeasts"
-    },
-    {
-      "n": "Hunter Shark",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 33,
-      "u": "hunter_shark_llcompendiumofbeasts"
-    },
-    {
-      "n": "Hunting Dog",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 12,
-      "u": "hunting_dog_llcompendiumofbeasts"
-    },
-    {
-      "n": "Killer Whale",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 37,
-      "u": "killer_whale_llcompendiumofbeasts"
-    },
-    {
-      "n": "King Cobra",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 26,
-      "u": "king_cobra_llcompendiumofbeasts"
-    },
-    {
-      "n": "Komodo Dragon",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 21,
-      "u": "komodo_dragon_llcompendiumofbeasts"
-    },
-    {
-      "n": "Lion",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 27,
-      "u": "lion_llcompendiumofbeasts"
     },
     {
       "n": "Lizard",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 6,
+      "p": 0,
       "u": "lizard_llcompendiumofbeasts"
     },
     {
-      "n": "Llama",
+      "n": "Mole",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 12,
-      "u": "llama_llcompendiumofbeasts"
-    },
-    {
-      "n": "Mammoth",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 46,
-      "u": "mammoth_llcompendiumofbeasts"
+      "p": 0,
+      "u": "mole_llcompendiumofbeasts"
     },
     {
       "n": "Monkey",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 6,
+      "p": 0,
       "u": "monkey_llcompendiumofbeasts"
-    },
-    {
-      "n": "Mule",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 12,
-      "u": "mule_llcompendiumofbeasts"
     },
     {
       "n": "Octopus",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 7,
+      "p": 0,
       "u": "octopus_llcompendiumofbeasts"
     },
     {
       "n": "Owl",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 7,
+      "p": 0,
       "u": "owl_llcompendiumofbeasts"
     },
     {
-      "n": "Ox",
+      "n": "Raccoon",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 17,
-      "u": "ox_llcompendiumofbeasts"
-    },
-    {
-      "n": "Panther",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 17,
-      "u": "panther_llcompendiumofbeasts"
-    },
-    {
-      "n": "Polar Bear",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 34,
-      "u": "polar_bear_llcompendiumofbeasts"
+      "p": 0,
+      "u": "raccoon_llcompendiumofbeasts"
     },
     {
       "n": "Raven",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 8,
+      "p": 0,
       "u": "raven_llcompendiumofbeasts"
-    },
-    {
-      "n": "Reef Shark",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 21,
-      "u": "reef_shark_llcompendiumofbeasts"
-    },
-    {
-      "n": "Rhinoceros",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 37,
-      "u": "rhinoceros_llcompendiumofbeasts"
     },
     {
       "n": "Rodent",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 8,
+      "p": 0,
       "u": "rodent_llcompendiumofbeasts"
     },
     {
-      "n": "Royal Eagle",
+      "n": "Rooster",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 47,
-      "u": "royal_eagle_llcompendiumofbeasts"
-    },
-    {
-      "n": "Saber-Toothed Tiger",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 38,
-      "u": "saber-toothed_tiger_llcompendiumofbeasts"
+      "p": 0,
+      "u": "rooster_llcompendiumofbeasts"
     },
     {
       "n": "Scorpion",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 8,
+      "p": 0,
       "u": "scorpion_llcompendiumofbeasts"
-    },
-    {
-      "n": "Sperm Whale",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 48,
-      "u": "sperm_whale_llcompendiumofbeasts"
     },
     {
       "n": "Spider",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 9,
+      "p": 0,
       "u": "spider_llcompendiumofbeasts"
-    },
-    {
-      "n": "Stag",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 18,
-      "u": "stag_llcompendiumofbeasts"
-    },
-    {
-      "n": "Terror Bird",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 44,
-      "u": "terror_bird_llcompendiumofbeasts"
-    },
-    {
-      "n": "Tiger",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 29,
-      "u": "tiger_llcompendiumofbeasts"
-    },
-    {
-      "n": "Titanoboa",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 44,
-      "u": "titanoboa_llcompendiumofbeasts"
     },
     {
       "n": "Tortoise",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 9,
+      "p": 0,
       "u": "tortoise_llcompendiumofbeasts"
+    },
+    {
+      "n": "Alligator Turtle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "alligator_turtle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Badger",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "badger_llcompendiumofbeasts"
+    },
+    {
+      "n": "Beaver",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "beaver_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Beetle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_beetle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Camel",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "camel_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Crab",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_crab_llcompendiumofbeasts"
+    },
+    {
+      "n": "Dolphin",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "dolphin_llcompendiumofbeasts"
+    },
+    {
+      "n": "Hawk",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "hawk_llcompendiumofbeasts"
+    },
+    {
+      "n": "Hellwasp",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "hellwasp_llcompendiumofbeasts"
+    },
+    {
+      "n": "Heron",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "heron_llcompendiumofbeasts"
+    },
+    {
+      "n": "Hunting Dog",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "hunting_dog_llcompendiumofbeasts"
+    },
+    {
+      "n": "Llama",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "llama_llcompendiumofbeasts"
+    },
+    {
+      "n": "Lynx",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "lynx_llcompendiumofbeasts"
+    },
+    {
+      "n": "Piranha",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "piranha_llcompendiumofbeasts"
+    },
+    {
+      "n": "Pony",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "pony_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Rodent",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_rodent_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Scarab",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_scarab_llcompendiumofbeasts"
+    },
+    {
+      "n": "Vampire Bat",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "vampire_bat_llcompendiumofbeasts"
     },
     {
       "n": "Viper",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 13,
+      "p": 0,
       "u": "viper_llcompendiumofbeasts"
     },
     {
       "n": "Vulture",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 9,
+      "p": 0,
       "u": "vulture_llcompendiumofbeasts"
-    },
-    {
-      "n": "Walrus",
-      "s": "LLCompendiumOfBeasts",
-      "c": 1,
-      "p": 22,
-      "u": "walrus_llcompendiumofbeasts"
     },
     {
       "n": "Wild Dog",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 13,
+      "p": 0,
       "u": "wild_dog_llcompendiumofbeasts"
+    },
+    {
+      "n": "Boa Constrictor",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "boa_constrictor_llcompendiumofbeasts"
+    },
+    {
+      "n": "Boar",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "boar_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Centipede",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_centipede_llcompendiumofbeasts"
+    },
+    {
+      "n": "Electric Eel",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "electric_eel_llcompendiumofbeasts"
+    },
+    {
+      "n": "Falcon",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "falcon_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Fish",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_fish_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Frog",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_frog_llcompendiumofbeasts"
+    },
+    {
+      "n": "Ox (Cow)",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "ox_(cow)_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Lizard",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_lizard_llcompendiumofbeasts"
+    },
+    {
+      "n": "Panther",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "panther_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Raccoon",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_raccoon_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Rooster",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_rooster_llcompendiumofbeasts"
+    },
+    {
+      "n": "Stag",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "stag_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Bats",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_bats_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Birds",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_birds_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Bugs",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_bugs_llcompendiumofbeasts"
     },
     {
       "n": "Wolf",
       "s": "LLCompendiumOfBeasts",
       "c": 1,
-      "p": 18,
+      "p": 0,
       "u": "wolf_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Wolf Spider",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_wolf_spider_llcompendiumofbeasts"
+    },
+    {
+      "n": "Black Bear",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "black_bear_llcompendiumofbeasts"
+    },
+    {
+      "n": "Cheetah",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "cheetah_llcompendiumofbeasts"
+    },
+    {
+      "n": "Chimpanzee",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "chimpanzee_llcompendiumofbeasts"
+    },
+    {
+      "n": "Emu",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "emu_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Goat",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_goat_llcompendiumofbeasts"
+    },
+    {
+      "n": "Horse",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "horse_llcompendiumofbeasts"
+    },
+    {
+      "n": "Komodo Dragon",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "komodo_dragon_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Porcupine",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_porcupine_llcompendiumofbeasts"
+    },
+    {
+      "n": "Reef Shark",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "reef_shark_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Soldier Ant",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_soldier_ant_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Rodents",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_rodents_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Spiders",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_spiders_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Tortoise",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_tortoise_llcompendiumofbeasts"
+    },
+    {
+      "n": "Walrus",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "walrus_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Wasp",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_wasp_llcompendiumofbeasts"
+    },
+    {
+      "n": "Aurochs",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "aurochs_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Badger",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_badger_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Bat",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_bat_llcompendiumofbeasts"
+    },
+    {
+      "n": "Crocodile",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "crocodile_llcompendiumofbeasts"
+    },
+    {
+      "n": "Dire Wolf",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "dire_wolf_llcompendiumofbeasts"
+    },
+    {
+      "n": "Eagle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "eagle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Gorilla",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "gorilla_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giraffe",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giraffe_llcompendiumofbeasts"
+    },
+    {
+      "n": "Lion",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "lion_llcompendiumofbeasts"
+    },
+    {
+      "n": "King Cobra",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "king_cobra_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Mantis",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_mantis_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Octopus",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_octopus_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Owl",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_owl_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Spider",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_spider_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Piranhas",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_piranhas_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Wasps",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_wasps_llcompendiumofbeasts"
+    },
+    {
+      "n": "Tiger",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "tiger_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Toad",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_toad_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Vulture",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_vulture_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Wild Dog",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_wild_dog_llcompendiumofbeasts"
+    },
+    {
+      "n": "Anaconda",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "anaconda_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Boar",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_boar_llcompendiumofbeasts"
+    },
+    {
+      "n": "Dire Beaver",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "dire_beaver_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Emu",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_emu_llcompendiumofbeasts"
+    },
+    {
+      "n": "Grizzly Bear",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "grizzly_bear_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Hawk",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_hawk_llcompendiumofbeasts"
+    },
+    {
+      "n": "Hunter Shark",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "hunter_shark_llcompendiumofbeasts"
+    },
+    {
+      "n": "Polar Bear",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "polar_bear_llcompendiumofbeasts"
+    },
+    {
+      "n": "Rodent of Unusual Size",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "rodent_of_unusual_size_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Stag",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_stag_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Stag Beetle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_stag_beetle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Fire Ants",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_fire_ants_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Vipers",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_vipers_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Alligator Turtle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_alligator_turtle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Ant Queen",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_ant_queen_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Electric Eel",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_electric_eel_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Falcon",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_falcon_llcompendiumofbeasts"
+    },
+    {
+      "n": "Hippopotamus",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "hippopotamus_llcompendiumofbeasts"
+    },
+    {
+      "n": "Killer Whale",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "killer_whale_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Mole",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_mole_llcompendiumofbeasts"
+    },
+    {
+      "n": "Rhinoceros",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "rhinoceros_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Scorpion",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_scorpion_llcompendiumofbeasts"
+    },
+    {
+      "n": "Saber-Toothed Tiger",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "saber-toothed_tiger_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Vampire Bats",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_vampire_bats_llcompendiumofbeasts"
+    },
+    {
+      "n": "Cave Bear",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "cave_bear_llcompendiumofbeasts"
+    },
+    {
+      "n": "Elder Vampire Bat",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "elder_vampire_bat_llcompendiumofbeasts"
+    },
+    {
+      "n": "Elephant",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "elephant_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Heron",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_heron_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Rhino Beetle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_rhino_beetle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Scarabs",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_scarabs_llcompendiumofbeasts"
+    },
+    {
+      "n": "Colossal Toad",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "colossal_toad_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Walrus",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_walrus_llcompendiumofbeasts"
+    },
+    {
+      "n": "Colossal Centipede",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "colossal_centipede_llcompendiumofbeasts"
+    },
+    {
+      "n": "Colossal Crab",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "colossal_crab_llcompendiumofbeasts"
+    },
+    {
+      "n": "Deep Mole",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "deep_mole_llcompendiumofbeasts"
+    },
+    {
+      "n": "Dire Tiger",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "dire_tiger_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Squid",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_squid_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Sloth",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_sloth_llcompendiumofbeasts"
+    },
+    {
+      "n": "Swarm of Plague Rats",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_plague_rats_llcompendiumofbeasts"
+    },
+    {
+      "n": "Terror Bird",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "terror_bird_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Wasp Queen",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_wasp_queen_llcompendiumofbeasts"
+    },
+    {
+      "n": "Titanoboa",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "titanoboa_llcompendiumofbeasts"
+    },
+    {
+      "n": "Badger Lord",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "badger_lord_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Cave Bear",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_cave_bear_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Crocodile",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_crocodile_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Gorilla",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_gorilla_llcompendiumofbeasts"
+    },
+    {
+      "n": "Mammoth",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "mammoth_llcompendiumofbeasts"
+    },
+    {
+      "n": "Giant Shark",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "giant_shark_llcompendiumofbeasts"
+    },
+    {
+      "n": "Royal Eagle",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "royal_eagle_llcompendiumofbeasts"
+    },
+    {
+      "n": "Colossal Spider",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "colossal_spider_llcompendiumofbeasts"
+    },
+    {
+      "n": "Sperm Whale",
+      "s": "LLCompendiumOfBeasts",
+      "c": 1,
+      "p": 0,
+      "u": "sperm_whale_llcompendiumofbeasts"
     },
     {
       "n": "Allosaurus",
