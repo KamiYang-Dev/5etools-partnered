@@ -26776,60 +26776,879 @@
       "u": "umbral_skullbearer_nlc"
     },
     {
+      "n": "Crocadog",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 270,
+      "u": "crocadog_darkmatter24"
+    },
+    {
+      "n": "Stirge Raptor",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 270,
+      "u": "stirge_raptor_darkmatter24"
+    },
+    {
+      "n": "Hardlight Spirit",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 397,
+      "u": "hardlight_spirit_darkmatter24"
+    },
+    {
+      "n": "Arachno-Horse",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 268,
+      "u": "arachno-horse_darkmatter24"
+    },
+    {
+      "n": "Cephalo-Boar",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 269,
+      "u": "cephalo-boar_darkmatter24"
+    },
+    {
+      "n": "Android",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 271,
+      "u": "android_darkmatter24"
+    },
+    {
+      "n": "AI",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 272,
+      "u": "ai_darkmatter24"
+    },
+    {
+      "n": "Rogue AI",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 273,
+      "u": "rogue_ai_darkmatter24"
+    },
+    {
+      "n": "Mastermind AI",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 274,
+      "u": "mastermind_ai_darkmatter24"
+    },
+    {
+      "n": "Astrogator",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 276,
+      "u": "astrogator_darkmatter24"
+    },
+    {
+      "n": "Body Snatcher",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 279,
+      "u": "body_snatcher_darkmatter24"
+    },
+    {
       "n": "Advocate",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 282,
       "u": "advocate_darkmatter24"
     },
     {
       "n": "Construct Form",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 101,
       "u": "construct_form_darkmatter24"
     },
     {
       "n": "Forlorn Husk",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 306,
       "u": "forlorn_husk_darkmatter24"
     },
     {
       "n": "Husk",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 305,
       "u": "husk_darkmatter24"
     },
     {
       "n": "M.A.C.",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 75,
       "u": "m.a.c._darkmatter24"
     },
     {
       "n": "Personal Drone",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 186,
       "u": "personal_drone_darkmatter24"
     },
     {
       "n": "Soul Broker",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 282,
       "u": "soul_broker_darkmatter24"
     },
     {
       "n": "Space Kobold",
       "s": "DarkMatter24",
       "c": 1,
-      "p": 0,
+      "p": 341,
       "u": "space_kobold_darkmatter24"
+    },
+    {
+      "n": "Single-Task Automaton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 277,
+      "u": "single-task_automaton_darkmatter24"
+    },
+    {
+      "n": "Multi-Task Automaton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 278,
+      "u": "multi-task_automaton_darkmatter24"
+    },
+    {
+      "n": "Heavy-Duty Automaton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 278,
+      "u": "heavy-duty_automaton_darkmatter24"
+    },
+    {
+      "n": "Brain in a Jar",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 280,
+      "u": "brain_in_a_jar_darkmatter24"
+    },
+    {
+      "n": "Bureaucrat",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 281,
+      "u": "bureaucrat_darkmatter24"
+    },
+    {
+      "n": "Cat Box",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 283,
+      "u": "cat_box_darkmatter24"
+    },
+    {
+      "n": "Coalition Marine",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 284,
+      "u": "coalition_marine_darkmatter24"
+    },
+    {
+      "n": "Coalition Captain",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 285,
+      "u": "coalition_captain_darkmatter24"
+    },
+    {
+      "n": "Coalition Warmage",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 285,
+      "u": "coalition_warmage_darkmatter24"
+    },
+    {
+      "n": "Collector Vat",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 286,
+      "u": "collector_vat_darkmatter24"
+    },
+    {
+      "n": "Cyber Lich",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 288,
+      "u": "cyber_lich_darkmatter24"
+    },
+    {
+      "n": "DD&D Artifactor",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 289,
+      "u": "dd&d_artifactor_darkmatter24"
+    },
+    {
+      "n": "Drone Swarm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 290,
+      "u": "drone_swarm_darkmatter24"
+    },
+    {
+      "n": "Drone",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 290,
+      "u": "drone_darkmatter24"
+    },
+    {
+      "n": "Electricity Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 291,
+      "u": "electricity_elemental_darkmatter24"
+    },
+    {
+      "n": "Firm Bruiser",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 294,
+      "u": "firm_bruiser_darkmatter24"
+    },
+    {
+      "n": "Firm Contractor",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 295,
+      "u": "firm_contractor_darkmatter24"
+    },
+    {
+      "n": "Firm Middle-Manager",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 295,
+      "u": "firm_middle-manager_darkmatter24"
+    },
+    {
+      "n": "Gladiatopus",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 301,
+      "u": "gladiatopus_darkmatter24"
+    },
+    {
+      "n": "Graphid",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 302,
+      "u": "graphid_darkmatter24"
+    },
+    {
+      "n": "Hardlight Avatar",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 303,
+      "u": "hardlight_avatar_darkmatter24"
+    },
+    {
+      "n": "Wild Hardlight",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 304,
+      "u": "wild_hardlight_darkmatter24"
+    },
+    {
+      "n": "Hardlight Juggernaut",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 304,
+      "u": "hardlight_juggernaut_darkmatter24"
+    },
+    {
+      "n": "Inventor",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 307,
+      "u": "inventor_darkmatter24"
+    },
+    {
+      "n": "Kgnack",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 308,
+      "u": "kgnack_darkmatter24"
+    },
+    {
+      "n": "Swarm of Kgnacks",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 309,
+      "u": "swarm_of_kgnacks_darkmatter24"
+    },
+    {
+      "n": "Lakshay Oni",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 309,
+      "u": "lakshay_oni_darkmatter24"
+    },
+    {
+      "n": "Civilian",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 310,
+      "u": "civilian_darkmatter24"
+    },
+    {
+      "n": "Low World Soldier",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 310,
+      "u": "low_world_soldier_darkmatter24"
+    },
+    {
+      "n": "Indoctrinated",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 311,
+      "u": "indoctrinated_darkmatter24"
+    },
+    {
+      "n": "Mechademon",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 312,
+      "u": "mechademon_darkmatter24"
+    },
+    {
+      "n": "Mechabyssal",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 313,
+      "u": "mechabyssal_darkmatter24"
+    },
+    {
+      "n": "Mechanical Spider",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 314,
+      "u": "mechanical_spider_darkmatter24"
+    },
+    {
+      "n": "Hired Gun",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 315,
+      "u": "hired_gun_darkmatter24"
+    },
+    {
+      "n": "Grax's Guy",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 316,
+      "u": "grax's_guy_darkmatter24"
+    },
+    {
+      "n": "Scale and Fang Merc",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 316,
+      "u": "scale_and_fang_merc_darkmatter24"
+    },
+    {
+      "n": "Bronze Skeleton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 317,
+      "u": "bronze_skeleton_darkmatter24"
+    },
+    {
+      "n": "Silver Skeleton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 318,
+      "u": "silver_skeleton_darkmatter24"
+    },
+    {
+      "n": "Gold Skeleton",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 318,
+      "u": "gold_skeleton_darkmatter24"
+    },
+    {
+      "n": "Nanite Blob",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 319,
+      "u": "nanite_blob_darkmatter24"
+    },
+    {
+      "n": "N-Vect",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 321,
+      "u": "n-vect_darkmatter24"
+    },
+    {
+      "n": "Nuclear Chicken",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 322,
+      "u": "nuclear_chicken_darkmatter24"
+    },
+    {
+      "n": "Psi-Worm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 324,
+      "u": "psi-worm_darkmatter24"
+    },
+    {
+      "n": "Worm Walker",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 325,
+      "u": "worm_walker_darkmatter24"
+    },
+    {
+      "n": "Psi-Worm Gestalt",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 326,
+      "u": "psi-worm_gestalt_darkmatter24"
+    },
+    {
+      "n": "Psi-Worm Tide",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 327,
+      "u": "psi-worm_tide_darkmatter24"
+    },
+    {
+      "n": "Radiation Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 328,
+      "u": "radiation_elemental_darkmatter24"
+    },
+    {
+      "n": "Radioactive Goo",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 329,
+      "u": "radioactive_goo_darkmatter24"
+    },
+    {
+      "n": "Redshirt",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 330,
+      "u": "redshirt_darkmatter24"
+    },
+    {
+      "n": "Roach",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 332,
+      "u": "roach_darkmatter24"
+    },
+    {
+      "n": "Sandworm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 333,
+      "u": "sandworm_darkmatter24"
+    },
+    {
+      "n": "Scrap Golem",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 334,
+      "u": "scrap_golem_darkmatter24"
+    },
+    {
+      "n": "Maw Guard",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 335,
+      "u": "maw_guard_darkmatter24"
+    },
+    {
+      "n": "Sepulcher Knight",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 336,
+      "u": "sepulcher_knight_darkmatter24"
+    },
+    {
+      "n": "Sepulcher Knight Captain",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 336,
+      "u": "sepulcher_knight_captain_darkmatter24"
+    },
+    {
+      "n": "Smuggler",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 337,
+      "u": "smuggler_darkmatter24"
+    },
+    {
+      "n": "Software Bug",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 338,
+      "u": "software_bug_darkmatter24"
+    },
+    {
+      "n": "Bluescreen Swarm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 339,
+      "u": "bluescreen_swarm_darkmatter24"
+    },
+    {
+      "n": "Songfish",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 340,
+      "u": "songfish_darkmatter24"
+    },
+    {
+      "n": "Space Vampire",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 342,
+      "u": "space_vampire_darkmatter24"
+    },
+    {
+      "n": "Evolved Space Vampire",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 343,
+      "u": "evolved_space_vampire_darkmatter24"
+    },
+    {
+      "n": "Spacer",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 344,
+      "u": "spacer_darkmatter24"
+    },
+    {
+      "n": "Sporeserker",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 346,
+      "u": "sporeserker_darkmatter24"
+    },
+    {
+      "n": "Sporegantua",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 347,
+      "u": "sporegantua_darkmatter24"
+    },
+    {
+      "n": "St. Vincent Archon",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 348,
+      "u": "st._vincent_archon_darkmatter24"
+    },
+    {
+      "n": "Thwirrel",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 349,
+      "u": "thwirrel_darkmatter24"
+    },
+    {
+      "n": "Tower Agent",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 350,
+      "u": "tower_agent_darkmatter24"
+    },
+    {
+      "n": "Tower Elite",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 351,
+      "u": "tower_elite_darkmatter24"
+    },
+    {
+      "n": "Trooper",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 352,
+      "u": "trooper_darkmatter24"
+    },
+    {
+      "n": "Trooper Commander",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 352,
+      "u": "trooper_commander_darkmatter24"
+    },
+    {
+      "n": "Var'zuul Wurm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 354,
+      "u": "var'zuul_wurm_darkmatter24"
+    },
+    {
+      "n": "Var'zuul Direwurm",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 355,
+      "u": "var'zuul_direwurm_darkmatter24"
+    },
+    {
+      "n": "Void Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 359,
+      "u": "void_elemental_darkmatter24"
+    },
+    {
+      "n": "Vortirrackt Larva",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 360,
+      "u": "vortirrackt_larva_darkmatter24"
+    },
+    {
+      "n": "Vortirrackt Chrysalis",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 361,
+      "u": "vortirrackt_chrysalis_darkmatter24"
+    },
+    {
+      "n": "Demi-Vortirrackt",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 361,
+      "u": "demi-vortirrackt_darkmatter24"
+    },
+    {
+      "n": "Adult Vortirrackt",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 362,
+      "u": "adult_vortirrackt_darkmatter24"
+    },
+    {
+      "n": "Wizmo",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 364,
+      "u": "wizmo_darkmatter24"
+    },
+    {
+      "n": "Wizmo Mob",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 365,
+      "u": "wizmo_mob_darkmatter24"
+    },
+    {
+      "n": "Wrothian Failure",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 367,
+      "u": "wrothian_failure_darkmatter24"
+    },
+    {
+      "n": "Wrothian",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 368,
+      "u": "wrothian_darkmatter24"
+    },
+    {
+      "n": "Wrothian Alpha",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 369,
+      "u": "wrothian_alpha_darkmatter24"
+    },
+    {
+      "n": "Wrothian Primarch",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 370,
+      "u": "wrothian_primarch_darkmatter24"
+    },
+    {
+      "n": "Wrothian Dragon",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 371,
+      "u": "wrothian_dragon_darkmatter24"
+    },
+    {
+      "n": "Xenostiltskin",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 372,
+      "u": "xenostiltskin_darkmatter24"
+    },
+    {
+      "n": "Armored Car",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 356,
+      "u": "armored_car_darkmatter24"
+    },
+    {
+      "n": "Hovercar",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 357,
+      "u": "hovercar_darkmatter24"
+    },
+    {
+      "n": "Hovertank",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 357,
+      "u": "hovertank_darkmatter24"
+    },
+    {
+      "n": "Speedcycle",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 358,
+      "u": "speedcycle_darkmatter24"
+    },
+    {
+      "n": "Tripod",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 358,
+      "u": "tripod_darkmatter24"
+    },
+    {
+      "n": "Asteroid Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 275,
+      "u": "asteroid_elemental_darkmatter24"
+    },
+    {
+      "n": "Eternal Dragon Wyrmling",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 292,
+      "u": "eternal_dragon_wyrmling_darkmatter24"
+    },
+    {
+      "n": "Eternal Dragon",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 293,
+      "u": "eternal_dragon_darkmatter24"
+    },
+    {
+      "n": "Flare Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 296,
+      "u": "flare_elemental_darkmatter24"
+    },
+    {
+      "n": "Ghost Transport",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 297,
+      "u": "ghost_transport_darkmatter24"
+    },
+    {
+      "n": "Ghost Frigate",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 298,
+      "u": "ghost_frigate_darkmatter24"
+    },
+    {
+      "n": "Gigapod",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 300,
+      "u": "gigapod_darkmatter24"
+    },
+    {
+      "n": "Nebula Elemental",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 320,
+      "u": "nebula_elemental_darkmatter24"
+    },
+    {
+      "n": "Planet Ooze",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 323,
+      "u": "planet_ooze_darkmatter24"
+    },
+    {
+      "n": "Replicator",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 331,
+      "u": "replicator_darkmatter24"
+    },
+    {
+      "n": "Swarm of Replicators",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 331,
+      "u": "swarm_of_replicators_darkmatter24"
+    },
+    {
+      "n": "Spaceshark",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 345,
+      "u": "spaceshark_darkmatter24"
+    },
+    {
+      "n": "Great White Spaceshark",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 345,
+      "u": "great_white_spaceshark_darkmatter24"
+    },
+    {
+      "n": "Var'zuul Colossus",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 353,
+      "u": "var'zuul_colossus_darkmatter24"
+    },
+    {
+      "n": "Wandering Rift",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 363,
+      "u": "wandering_rift_darkmatter24"
+    },
+    {
+      "n": "World Turtle Hatchling",
+      "s": "DarkMatter24",
+      "c": 1,
+      "p": 366,
+      "u": "world_turtle_hatchling_darkmatter24"
     },
     {
       "n": "Claw of Sha'argon",
