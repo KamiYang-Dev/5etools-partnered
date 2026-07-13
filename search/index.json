@@ -31263,11 +31263,11 @@
       "u": "ankylosaurus_llcompendiumofbeastsdinosaurs"
     },
     {
-      "n": "Apatosaurus",
+      "n": "Diplodocus",
       "s": "LLCompendiumOfBeastsDinosaurs",
       "c": 1,
       "p": 11,
-      "u": "apatosaurus_llcompendiumofbeastsdinosaurs"
+      "u": "diplodocus_llcompendiumofbeastsdinosaurs"
     },
     {
       "n": "Archaeopteryx",
@@ -31345,6 +31345,13 @@
       "c": 1,
       "p": 2,
       "u": "ornithomimus_llcompendiumofbeastsdinosaurs"
+    },
+    {
+      "n": "Oviraptor",
+      "s": "LLCompendiumOfBeastsDinosaurs",
+      "c": 1,
+      "p": 2,
+      "u": "oviraptor_llcompendiumofbeastsdinosaurs"
     },
     {
       "n": "Pachycephalosaurus",
