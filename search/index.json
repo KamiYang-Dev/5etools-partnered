@@ -1,6 +1,356 @@
 {
   "x": [
     {
+      "n": "Adranach",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 224,
+      "u": "adranach_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ashari Firetamer",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 226,
+      "u": "ashari_firetamer_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ashari Skydancer",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 227,
+      "u": "ashari_skydancer_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ashari Stoneguard",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 229,
+      "u": "ashari_stoneguard_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ashari Waverider",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 230,
+      "u": "ashari_waverider_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Black King",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 92,
+      "u": "black_king_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Blighted Sapling",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 172,
+      "u": "blighted_sapling_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Centaur Skeleton",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 256,
+      "u": "centaur_skeleton_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Champion of Ravens",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 275,
+      "u": "champion_of_ravens_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Cinderslag Elemental",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 231,
+      "u": "cinderslag_elemental_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Clasp Cutthroat",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 232,
+      "u": "clasp_cutthroat_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Clasp Enforcer",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 233,
+      "u": "clasp_enforcer_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Cobalt Golem",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 240,
+      "u": "cobalt_golem_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Cold Snap Spirit",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 234,
+      "u": "cold_snap_spirit_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Cyclops Stormcaller",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 235,
+      "u": "cyclops_stormcaller_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Demonfeed Spider",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 237,
+      "u": "demonfeed_spider_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Demonfeed Spiderling",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 237,
+      "u": "demonfeed_spiderling_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Diseased Grick",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 122,
+      "u": "diseased_grick_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Doty X",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 272,
+      "u": "doty_x_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Drynna Hydra",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 66,
+      "u": "drynna_hydra_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ember Roc",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 238,
+      "u": "ember_roc_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Flaming Skeleton",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 256,
+      "u": "flaming_skeleton_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Forge Guardian",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 241,
+      "u": "forge_guardian_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Goat-Knight Steed",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 246,
+      "u": "goat-knight_steed_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Grog Strongjaw",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 261,
+      "u": "grog_strongjaw_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Jourrael, the Caedogeist",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 245,
+      "u": "jourrael_the_caedogeist_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Keyleth, Voice of the Tempest",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 263,
+      "u": "keyleth_voice_of_the_tempest_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Kraghammer Goat-Knight",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 246,
+      "u": "kraghammer_goat-knight_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Mage Hunter Golem",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 242,
+      "u": "mage_hunter_golem_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Magma Landshark",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 247,
+      "u": "magma_landshark_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Master Adranach",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 245,
+      "u": "master_adranach_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Percival de Rolo",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 266,
+      "u": "percival_de_rolo_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Pike Trickfoot",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 269,
+      "u": "pike_trickfoot_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Plainscow",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 248,
+      "u": "plainscow_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Platinum Golem",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 243,
+      "u": "platinum_golem_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ravager Slaughter Lord",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 250,
+      "u": "ravager_slaughter_lord_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Ravager Stabby-Stabber",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 250,
+      "u": "ravager_stabby-stabber_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Remnant Chosen",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 251,
+      "u": "remnant_chosen_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Remnant Cultist",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 252,
+      "u": "remnant_cultist_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Rivermaw Brawler",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 254,
+      "u": "rivermaw_brawler_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Rivermaw Stormborn",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 254,
+      "u": "rivermaw_stormborn_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Sagacitous Erusaire",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 122,
+      "u": "sagacitous_erusaire_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Scanlan Shorthalt",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 271,
+      "u": "scanlan_shorthalt_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Taryon Darrington",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 273,
+      "u": "taryon_darrington_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Trinket",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 266,
+      "u": "trinket_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Vex'ahlia",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 267,
+      "u": "vex'ahlia_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Vos'skyriss Serpentfolk",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 258,
+      "u": "vos'skyriss_serpentfolk_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Vos'skyriss Serpentfolk Ghost",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 258,
+      "u": "vos'skyriss_serpentfolk_ghost_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Wraithroot Tree",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 259,
+      "u": "wraithroot_tree_taldoreicampaignsettingreborn"
+    },
+    {
+      "n": "Young Magma Landshark",
+      "s": "TalDoreiCampaignSettingReborn",
+      "c": 1,
+      "p": 248,
+      "u": "young_magma_landshark_taldoreicampaignsettingreborn"
+    },
+    {
       "n": "Ashari Firetamer",
       "s": "TalDorei",
       "c": 1,
@@ -37369,6 +37719,7 @@
   ],
   "m": {
     "s": {
+      "TalDoreiCampaignSettingReborn": "data/bestiary/bestiary-TalDoreiCampaignSettingReborn.json",
       "TalDorei": "data/bestiary/bestiary-TalDorei.json",
       "ToB": "data/bestiary/bestiary-ToB.json",
       "ToB1-2023": "data/bestiary/bestiary-ToB1-2023.json",
