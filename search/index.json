@@ -37715,6 +37715,69 @@
       "c": 1,
       "p": 0,
       "u": "eyesore_kamihomebrew"
+    },
+    {
+      "n": "Gate Golem",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "gate_golem_kamihomebrew"
+    },
+    {
+      "n": "Golden Hound",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "golden_hound_kamihomebrew"
+    },
+    {
+      "n": "Golden Angel",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "golden_angel_kamihomebrew"
+    },
+    {
+      "n": "Porcelain Arcanoroid",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "porcelain_arcanoroid_kamihomebrew"
+    },
+    {
+      "n": "Maragoon",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "maragoon_kamihomebrew"
+    },
+    {
+      "n": "Hargarin Golem",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "hargarin_golem_kamihomebrew"
+    },
+    {
+      "n": "Coinmass",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "coinmass_kamihomebrew"
+    },
+    {
+      "n": "Chain Horror",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "chain_horror_kamihomebrew"
+    },
+    {
+      "n": "Watcher",
+      "s": "KamiHomebrew",
+      "c": 1,
+      "p": 0,
+      "u": "watcher_kamihomebrew"
     }
   ],
   "m": {
