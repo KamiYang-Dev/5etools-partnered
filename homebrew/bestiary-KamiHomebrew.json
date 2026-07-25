@@ -247,15 +247,348 @@
               "{@b Paralyzing Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
               "{@b Sickening Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Constitution saving throw or take 18 ({@damage 4d8}) poison damage and be {@condition poisoned} for 1 minute, or half as much damage and not be poisoned on a successful one.",
               "{@b Fear Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw or be {@condition frightened} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
-              "{@b Slowing Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a success.",
+              "{@b Slowing Aura.} All creatures within 30 feet of the eyesore must succeed on a {@dc 17} Wisdom saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both.",
               "{@b Psychic Wave.} All creatures within 30 feet of the eyesore must make a {@dc 17} Intelligence saving throw, taking 36 ({@damage 8d8}) psychic damage on a failed save, or half as much damage on a successful save.",
-              "{@b Telekinetic Field.} The eyesore can target a single object or creature within 30 feet of it. Any creature targeted must make a {@dc 17} Strength saving throw or the eyesore moves it up to 30 feet in any direction. It is {@condition restrained} by the aura's crushing force until the start of the eyesore's next turn or until the eyesore is incapacitated.",
+              "{@b Telekinetic Field.} The eyesore can target a single object or creature within 30 feet of it. Any creature targeted must make a {@dc 17} Strength saving throw or the eyesore moves it up to 30 feet in any direction. It is {@condition restrained} by the aura's crushing force until the start of the eyesore's next turn.",
               "{@b Healing Aura.} All creatures within 30 feet of the eyesore (including the eyesore) magically regain 36 ({@damage 8d8}) hit points and are freed from any curse, disease, poison, blindness, or deafness.",
               "{@b Invulnerability Aura.} A 15-foot radius globe surrounds the eyesore until the start of the eyesore's next turn. Any spell of 5th level or higher cast from outside the barrier can't affect creatures or objects within it.",
               "{@b Flame Aura.} All creatures within 30 feet of the eyesore must make a {@dc 17} Dexterity saving throw, taking 36 ({@damage 8d8}) fire damage on a failed save, or half as much damage on a successful one."
             ]}
           ]
         }
+      ]
+    },
+    {
+      "name": "Gate Golem",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["H"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}, {"ac": 22, "condition": "when in Gate Form", "from": ["natural armor"]}],
+      "hp": {"average": 225, "formula": "18d12 + 108"},
+      "speed": {"walk": 20},
+      "str": 22, "dex": 8, "con": 22, "int": 3, "wis": 12, "cha": 1,
+      "immune": [
+        "poison", "psychic",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned", "stunned"],
+      "senses": ["darkvision 120 ft."],
+      "passive": 11,
+      "languages": ["understands the languages of its creator but cannot speak"],
+      "cr": "15",
+      "trait": [
+        {"name": "Gate Form", "entries": ["The golem can occupy a 15 feet square area and act as a vault gate. When acting in this manner, a creature must succeed on a {@dc 18} Intelligence (Investigation) or a {@dc 22} Wisdom (Perception) check to discern the true nature of the golem. When the golem extends its legs, it can create enough space for a Medium creature to pass without any hindrance, or a Large creature while crouching. Any attempt to tamper with the gate such as using Thieves' Tools automatically turns the golem hostile."]},
+        {"name": "Immutable Form", "entries": ["The golem is immune to any spell or effect that would alter its form."]},
+        {"name": "Magic Resistance", "entries": ["The golem has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golem's weapon attacks are magical."]},
+        {"name": "Shielded Build", "entries": ["The golem has a gate on its back that acts as a shield. When the golem is targeted from behind, its AC is increased to 22."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golem makes two melee attacks."]},
+        {"name": "Slam", "entries": ["{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}22 ({@damage 3d10 + 6}) bludgeoning damage."]}
+      ]
+    },
+    {
+      "name": "Golden Hound",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 15, "from": ["natural armor"]}],
+      "hp": {"average": 82, "formula": "11d8 + 33"},
+      "speed": {"walk": 40},
+      "str": 14, "dex": 16, "con": 16, "int": 4, "wis": 16, "cha": 4,
+      "skill": {"perception": "+6", "stealth": "+6"},
+      "resist": [
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "immune": ["poison", "psychic"],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"],
+      "senses": ["darkvision 60 ft."],
+      "passive": 21,
+      "languages": ["understands the languages of its creator but cannot speak"],
+      "cr": "5",
+      "trait": [
+        {"name": "Immutable Form", "entries": ["The golem is immune to any spell or effect that would alter its form."]},
+        {"name": "Keen Hearing and Smell", "entries": ["The golem has advantage on Wisdom (Perception) checks that rely on hearing or smell."]},
+        {"name": "Magic Resistance", "entries": ["The golem has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golem's weapon attacks are magical."]},
+        {"name": "Pack Tactics", "entries": ["The golem has advantage on an attack roll against a creature if at least one of the golem's allies is within 5 feet of the creature and the ally isn't incapacitated."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golem makes two bite attacks."]},
+        {"name": "Bite", "entries": ["{@atk mw} {@hit 6} to hit, reach 5 ft., one creature. {@h}6 ({@damage 1d6 + 3}) piercing damage."]}
+      ]
+    },
+    {
+      "name": "Golden Angel",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 129, "formula": "18d8 + 48"},
+      "speed": {"walk": 30},
+      "str": 22, "dex": 9, "con": 18, "int": 3, "wis": 14, "cha": 7,
+      "resist": ["fire"],
+      "immune": [
+        "poison", "psychic",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"],
+      "senses": ["darkvision 120 ft."],
+      "passive": 12,
+      "languages": ["understands the languages of its creator but cannot speak"],
+      "cr": "13",
+      "trait": [
+        {"name": "Golden Body", "entries": ["The golem is made of gold and other metals. It has resistance against spells that deal damage against objects and constructs. Furthermore, if the golem is slain, it can be salvaged for golden plates worth around 2,000 gp. It can only be salvaged with tools made of adamantine or with magic such as a hand torch."]},
+        {"name": "Golden Sentinel", "entries": ["When the golem is deactivated it appears to be a statue. A creature must succeed on a {@dc 19} Wisdom (Perception) or {@dc 17} Intelligence (Investigation) check to discern the true nature of the golem."]},
+        {"name": "Immutable Form", "entries": ["The golem is immune to any spell or effect that would alter its form."]},
+        {"name": "Magic Resistance", "entries": ["The golem has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golem's weapon attacks are magical."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golem makes three melee attacks: two with its sword and one with its wings."]},
+        {"name": "Golden Sword", "entries": ["{@atk mw} {@hit 12} to hit, reach 10 ft., one target. {@h}16 ({@damage 2d8 + 7}) slashing damage."]},
+        {"name": "Wing Slam", "entries": ["{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}13 ({@damage 2d6 + 6}) slashing damage."]}
+      ],
+      "reaction": [
+        {"name": "Wing Parry", "entries": ["The golem uses its wings to raise its AC by 2 against a single attack."]}
+      ]
+    },
+    {
+      "name": "Porcelain Arcanoroid",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 16, "from": ["natural armor"]}],
+      "hp": {"average": 78, "formula": "12d8 + 24"},
+      "speed": {"walk": 30},
+      "str": 12, "dex": 18, "con": 14, "int": 12, "wis": 14, "cha": 16,
+      "save": {"dex": "+8"},
+      "skill": {"deception": "+7", "persuasion": "+7"},
+      "immune": [
+        "poison", "psychic",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"],
+      "senses": ["darkvision 120 ft."],
+      "passive": 12,
+      "languages": ["can understand and speak all languages"],
+      "cr": "9",
+      "trait": [
+        {"name": "Aberrant Movement", "entries": ["Whenever the Arcanoroid moves more than 10 feet in a single turn, its AC increases by 2."]},
+        {"name": "Agile Frame", "entries": ["The Arcanoroid compensates its fragility with quick movements. Whenever the Arcanoroid takes damage, it can immediately choose to move 5 feet in the opposite direction."]},
+        {"name": "Arcanoroid", "entries": ["The Arcanoroid has advantage on all Charisma (Deception) checks to masquerade as a living being. When wearing heavy clothing, the Arcanoroid is indistinguishable from a living being, unless it is examined from within 5 feet."]},
+        {"name": "Immutable Form", "entries": ["The Arcanoroid is immune to any spell or effect that would alter its form."]},
+        {"name": "Porcelain Body", "entries": ["The Arcanoroid is made of porcelain and organic materials. It has immunity against spells that deal damage against objects and constructs."]},
+        {"name": "Tongue of Ancients", "entries": ["The Arcanoroid can understand and speak all languages, as if it was constantly under the tongues spell."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The Arcanoroid makes two melee attacks."]},
+        {"name": "Retractable Claws", "entries": ["{@atk mw} {@hit 8} to hit, reach 5 ft., one target. {@h}9 ({@damage 1d10 + 4}) slashing damage."]}
+      ],
+      "reaction": [
+        {"name": "Abrupt Dodge", "entries": ["The Arcanoroid can use its reaction to increase its AC by 5 against a single attack."]}
+      ]
+    },
+    {
+      "name": "Maragoon",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": {"type": "fiend", "tags": ["devil"]},
+      "alignment": ["L", "E"],
+      "ac": [{"ac": 24, "from": ["natural armor"]}],
+      "hp": {"average": 350, "formula": "28d8 + 224"},
+      "speed": {"walk": 30, "fly": 50},
+      "str": 23, "dex": 22, "con": 26, "int": 22, "wis": 30, "cha": 28,
+      "save": {"con": "+15", "int": "+13", "wis": "+17", "cha": "+16"},
+      "skill": {"deception": "+23", "history": "+13", "intimidation": "+16", "perception": "+17", "persuasion": "+23"},
+      "resist": ["cold"],
+      "immune": [
+        "fire", "necrotic",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "frightened", "poisoned"],
+      "senses": ["truesight 120 ft."],
+      "passive": 27,
+      "languages": ["Common", "Infernal", "telepathy 120 ft."],
+      "cr": "24",
+      "trait": [
+        {"name": "Greedy Weapons", "entries": ["Maragoon's weapon attacks are magical and deal an additional 14 ({@damage 4d6}) psychic damage."]},
+        {"name": "Innate Spellcasting", "entries": ["Maragoon's innate spellcasting ability is Charisma (spell save {@dc 24}, {@hit 16} to hit with spell attacks). It can innately cast the following spells, requiring no components:", "At will: detect magic, detect thoughts, disguise self, fireball, prestidigitation", "3/day each: charlatan's escape, deceiver's mask, dimensional swap, diminish wealth, plane shift, sanctify deal, scholar's riposte, teleport", "1/day each: destroy wealth, escape the mind's eye, mind lock, suffocate, weight of riches"]},
+        {"name": "Know Wealth", "entries": ["Maragoon knows the approximate value of all possessions of creatures it can see, including gold, magic items, or properties, even if they are not carried by the creature."]},
+        {"name": "Legendary Resistance (3/Day)", "entries": ["If Maragoon fails a saving throw, it can choose to succeed instead."]},
+        {"name": "Magic Resistance", "entries": ["Maragoon has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Special Equipment", "entries": ["Maragoon wields the Golden Rapier."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["Maragoon makes three attacks: two with its weapon, one with its tail."]},
+        {"name": "Golden Rapier", "entries": ["{@atk mw} {@hit 16} to hit, reach 5 ft., one target. {@h}13 ({@damage 1d8 + 9}) piercing damage plus 14 ({@damage 4d6}) psychic damage."]},
+        {"name": "Tail", "entries": ["{@atk mw} {@hit 13} to hit, reach 5 ft., one target. {@h}13 ({@damage 1d8 + 6}) bludgeoning damage plus 14 ({@damage 4d6}) psychic damage."]},
+        {"name": "Summon Wealth (Recharge 5-6)", "entries": ["Maragoon summons a pile of illusory coins in a point within 120 feet that it can see. Any creature within 30 feet of the coin pile must succeed on a {@dc 24} Wisdom saving throw, or they are {@condition charmed} by the coin pile for 1 minute. Charmed creatures rush towards it and jump inside, filling their pockets. A charmed creature can make a new save at the end of its turn. Taking any damage allows the creature to break free from this effect."]},
+        {"name": "Visions of Greed (Recharge 6)", "entries": ["Maragoon sends out a psychic blast in a 30-foot radius. All creatures within the area must succeed on a {@dc 15} Charisma saving throw, or they are plagued with visions of their belongings and their imminent fall to poverty. Creatures that fail are {@condition stunned} and take {@damage 2d6} psychic damage. If a creature has extraordinary wealth, the DC increases by 5 for each 50,000 gp worth of items the creature has."]}
+      ],
+      "reaction": [
+        {"name": "Collect Souls", "entries": ["When a creature is slain within 300 feet of Maragoon, it may use its reaction to collect the soul and transform it into a soul gem. A creature cannot be resurrected while its soul is captured. The soul must be collected in the same turn the creature is slain."]}
+      ],
+      "legendary": [
+        {"name": "Attack", "entries": ["Maragoon makes one attack."]},
+        {"name": "Teleport", "entries": ["Maragoon magically teleports up to 120 feet to an unoccupied space it can see."]},
+        {"name": "Consume Souls (Costs 2 Actions)", "entries": ["Maragoon consumes a harvested soul and regains 42 ({@damage 12d6}) hit points."]}
+      ],
+      "legendaryActions": 3
+    },
+    {
+      "name": "Hargarin Golem",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["L"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 21, "from": ["natural armor"]}],
+      "hp": {"average": 262, "formula": "21d10 + 147"},
+      "speed": {"walk": 30},
+      "str": 28, "dex": 8, "con": 24, "int": 3, "wis": 13, "cha": 1,
+      "vulnerable": ["bludgeoning", "thunder"],
+      "resist": ["fire", "necrotic", "piercing", "slashing"],
+      "immune": ["cold", "poison", "psychic"],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"],
+      "senses": ["blindsight 120 ft."],
+      "passive": 11,
+      "languages": ["understands the languages of its creator but cannot speak"],
+      "cr": "19",
+      "trait": [
+        {"name": "Arcane Nullification Field", "entries": ["Any spells of 6th level or below are automatically suppressed while within 60 feet of the golem."]},
+        {"name": "Arcane Valediction", "entries": ["When the golem reaches 0 hit points, it explodes with magical energy in a 30-foot radius. Each creature in the area must succeed on a {@dc 20} Dexterity saving throw, taking 45 ({@damage 10d6 + 10}) force damage on a failed save, or half as much on a successful one. If a spellcaster takes damage from this attack, it rolls three d6 dice, regaining a spell slot for the rolled spell level for each die."]},
+        {"name": "Immutable Form", "entries": ["The golem is immune to any spell or effect that would alter its form."]},
+        {"name": "Magic Absorption", "entries": ["Whenever the golem is subjected to damage by a spell or magical effect, it takes no damage and instead regains a number of hit points equal to the damage dealt. Furthermore, whenever the golem successfully makes a melee attack against a creature with spell slots, roll a {@dice 1d6}. The target loses a spell level equal to the dice result."]},
+        {"name": "Magic Resistance", "entries": ["The golem has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golem's weapon attacks are magical."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golem makes two melee attacks."]},
+        {"name": "Crystal Spear", "entries": ["{@atk mw} {@hit 15} to hit, reach 5 ft., one target. {@h}22 ({@damage 3d8 + 9}) piercing damage."]}
+      ],
+      "legendary": [
+        {"name": "Attack", "entries": ["The golem makes one melee attack."]},
+        {"name": "Conjure Spear", "entries": ["The golem conjures a Crystal Spear."]},
+        {"name": "Teleport (Costs 2 Actions)", "entries": ["The golem magically teleports up to 120 feet to an unoccupied space it can perceive."]}
+      ],
+      "legendaryActions": 3
+    },
+    {
+      "name": "Coinmass",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["H"],
+      "type": "ooze",
+      "alignment": ["N", "E"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 315, "formula": "18d20 + 126"},
+      "speed": {"walk": 20, "climb": 20},
+      "str": 26, "dex": 14, "con": 24, "int": 15, "wis": 16, "cha": 22,
+      "save": {"str": "+14", "con": "+13", "cha": "+12"},
+      "immune": [
+        "poison",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "frightened", "paralyzed", "petrified", "poisoned"],
+      "senses": ["blindsight 120 ft. (blind beyond this radius)"],
+      "passive": 11,
+      "languages": ["understands Infernal", "telepathy 120 ft."],
+      "cr": "20",
+      "trait": [
+        {"name": "Blinding Greed", "entries": ["Large or smaller creatures that occupy the same space as the coinmass are {@condition blinded}."]},
+        {"name": "Coin Form", "entries": ["The coinmass can occupy the same space as any other creature."]},
+        {"name": "Coin Movement", "entries": ["The ooze can move through other creatures and objects as if they were difficult terrain. When the ooze moves into the same square as other creatures, they take 5 ({@damage 1d10}) bludgeoning damage."]},
+        {"name": "Formless", "entries": ["The coinmass can move through a space as narrow as 1 foot wide without squeezing."]},
+        {"name": "Hoard's Lure", "entries": ["While masquerading as a hoard or treasure, the coinmass can communicate telepathically with creatures and attempt to lure them closer. A creature must succeed on a {@dc 21} Wisdom saving throw to resist these commands. If a creature succeeds, they are immune to this calling for 24 hours."]},
+        {"name": "Magic Weapons", "entries": ["The hoard's attacks are magical."]},
+        {"name": "Meld into Hoard", "entries": ["While standing idle, the coinmass is indistinguishable from a hoard of treasure."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The ooze can make three slam attacks, each of which it can replace with Spit Coins or Torrent of Coins."]},
+        {"name": "Slam", "entries": ["{@atk mw} {@hit 14} to hit, reach 5 ft., one target. {@h}22 ({@damage 3d8 + 9}) bludgeoning damage."]},
+        {"name": "Spit Coins (Recharge 5-6)", "entries": ["The coinmass spits coins in a 90-foot cone. Each creature in the area must succeed on a {@dc 22} Dexterity saving throw, taking 72 ({@damage 16d8}) bludgeoning damage on a failed save, or half as much on a successful one."]},
+        {"name": "Torrent of Coins (Recharge 5-6)", "entries": ["The coinmass violently oscillates, hurling thousands of sharp coins in the space it occupies. Each creature that occupies the same space must succeed on a {@dc 23} Dexterity saving throw, taking 54 ({@damage 12d8}) bludgeoning damage on a failed save, or half as much on a successful one. Prone creatures take double damage."]}
+      ]
+    },
+    {
+      "name": "Chain Horror",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["L"],
+      "type": "construct",
+      "alignment": ["N"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 199, "formula": "19d10 + 95"},
+      "speed": {"walk": 30, "climb": 30},
+      "str": 22, "dex": 12, "con": 20, "int": 3, "wis": 11, "cha": 1,
+      "skill": {"acrobatics": "+6", "athletics": "+11"},
+      "immune": [
+        "poison", "psychic",
+        {"immune": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons that aren't adamantine"}
+      ],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned", "restrained"],
+      "senses": ["tremorsense 120 ft."],
+      "passive": 10,
+      "languages": ["understands the languages of its creator but cannot speak"],
+      "cr": "14",
+      "trait": [
+        {"name": "Encased Movement", "entries": ["The golem can move while grappling other creatures. When it moves, encased creatures can use their reactions to attempt an escape or prevent the golem from moving with a successful {@dc 18} Strength saving throw."]},
+        {"name": "Free Chains", "entries": ["The golem is always under the freedom of movement spell."]},
+        {"name": "Immutable Form", "entries": ["The golem is immune to any spell or effect that would alter its form."]},
+        {"name": "Magic Resistance", "entries": ["The golem has advantage on saving throws against spells and other magical effects."]},
+        {"name": "Magic Weapons", "entries": ["The golem's weapon attacks are magical."]},
+        {"name": "Shifting Chains", "entries": ["The golem can occupy another creature's space and vice versa, and the golem can move through any opening large enough for a Small creature."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The golem makes two chain whip attacks. The number of attacks is decreased for each target it uses Encase on."]},
+        {"name": "Chain Whip", "entries": ["{@atk mw} {@hit 11} to hit, reach 5 ft., one target. {@h}20 ({@damage 4d6 + 6}) bludgeoning damage."]},
+        {"name": "Encase", "entries": ["Whenever the golem makes a Chain Whip attack on a creature that it occupies the same space with, the target is {@condition grappled} (escape {@dc 17}). Until the grapple ends the target is {@condition restrained}. The golem can release restrained targets at will. Encase can only be used on Large or smaller creatures."]},
+        {"name": "Torrent of Chains", "entries": ["Whenever a creature starts their turn in a square that the golem occupies, it takes 7 ({@damage 2d6}) slashing damage. Grappled targets take 14 ({@damage 4d6}) piercing damage instead."]}
+      ]
+    },
+    {
+      "name": "Watcher",
+      "source": "KamiHomebrew",
+      "page": 0,
+      "size": ["M"],
+      "type": "undead",
+      "alignment": ["L", "E"],
+      "ac": [{"ac": 18, "from": ["natural armor"]}],
+      "hp": {"average": 133, "formula": "18d10 + 34"},
+      "speed": {"walk": 20, "fly": 20},
+      "str": 6, "dex": 12, "con": 14, "int": 17, "wis": 22, "cha": 17,
+      "save": {"int": "+7", "wis": "+10", "cha": "+7"},
+      "skill": {"insight": "+10", "perception": "+10"},
+      "resist": [
+        "cold", "necrotic",
+        {"resist": ["bludgeoning", "piercing", "slashing"], "note": "from nonmagical weapons"}
+      ],
+      "immune": ["fire", "poison"],
+      "conditionImmune": ["charmed", "exhaustion", "frightened", "paralyzed", "poisoned"],
+      "senses": ["darkvision 120 ft.", "truesight 120 ft."],
+      "passive": 20,
+      "languages": ["Common", "Infernal"],
+      "cr": "12",
+      "trait": [
+        {"name": "Innate Spellcasting", "entries": ["The Watcher's innate spellcasting ability is Wisdom (spell save {@dc 18}, {@hit 10} to hit with spell attacks). It can innately cast the following spells, requiring no components:", "At will: detect magic, detect thoughts, gaseous form, zone of truth", "3/day each: fireball, locate creature, sending", "1/day each: harm, hold monster, teleport"]},
+        {"name": "Flame of Binding", "entries": ["The watcher is bound to a place it has to protect. Unless the flame is put out, the Watcher cannot die. If slain, its corpse and equipment are disintegrated, and it appears in an empty square within 30 feet of the flame on its next turn. A watcher bound to a place knows the location of all creatures within 300 feet, and can raise or lower alarms connected to the place at will."]},
+        {"name": "Watcher's Resistance", "entries": ["The watcher has advantage on saving throws against any effect that turns undead as long as it remains within 300 feet of the fire it is bound to."]}
+      ],
+      "action": [
+        {"name": "Multiattack", "entries": ["The watcher makes two Black Bolt attacks or two Fiery Touch attacks."]},
+        {"name": "Black Bolt", "entries": ["{@atk rs} {@hit 10} to hit, range 120 ft., one target. {@h}13 ({@damage 2d6 + 6}) necrotic damage plus 13 ({@damage 2d6 + 6}) fire damage."]},
+        {"name": "Fiery Touch", "entries": ["{@atk mw} {@hit 5} to hit, reach 5 ft., one target. {@h}6 ({@damage 2d6}) necrotic damage plus 6 ({@damage 2d6}) fire damage."]}
       ]
     }
   ]
