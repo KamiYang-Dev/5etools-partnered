@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "ES",
+        "abbreviation": "ES",
+        "full": "Traducción al Español",
+        "authors": ["KamiYang-Dev"],
+        "convertedBy": ["KamiYang-Dev"],
+        "version": "1.0.0",
+        "url": "https://kamiyang-dev.github.io/5etools-partnered",
+        "targetSchema": "1.2.6"
+      }
+    ]
+  },
+  "monster": [
+    {
+      "name": "Mind Flayer",
+      "source": "ES",
+      "page": 0,
+      "size": ["M"],
+      "type": "aberration",
+      "alignment": ["L", "E"],
+      "ac": [15],
+      "hp": { "average": 71, "formula": "13d8 + 13" },
+      "speed": { "walk": 30 },
+      "str": 11,
+      "dex": 12,
+      "con": 12,
+      "int": 19,
+      "wis": 17,
+      "cha": 17,
+      "save": { "int": "+7", "wis": "+6", "cha": "+6" },
+      "skill": {
+        "arcana": "+7",
+        "deception": "+6",
+        "insight": "+6",
+        "perception": "+6",
+        "persuasion": "+6",
+        "stealth": "+4"
+      },
+      "senses": ["darkvision 120 ft."],
+      "passive": 16,
+      "languages": ["Deep Speech", "Undercommon", "telepatía 120 ft."],
+      "cr": "7",
+      "trait": [
+        {
+          "name": "Absorción Mental",
+          "entries": ["Si el Mind Flayer mata a una criatura consumiendo su cerebro, gana la capacidad de lanzar uno de los hechizos que conocía la víctima (si conocía alguno) hasta el siguiente amanecer."]
+        },
+        {
+          "name": "Mente de Colmena",
+          "entries": ["El Mind Flayer es immune a cualquier efecto que lo forzara a actuar en contra de su Cerebro Anciano."]
+        },
+        {
+          "name": "Resistencia Mágica",
+          "entries": ["El Mind Flayer tiene ventaja en las tiradas de salvación contra hechizos y otros efectos mágicos."]
+        },
+        {
+          "name": "Lanzamiento de Conjuros",
+          "entries": [
+            "El Mind Flayer es un lanzador de conjuros de nivel 10. Su característica de lanzamiento es Inteligencia (DC de salvación 15, {@hit 7} al ataque con conjuros). Tiene preparados los siguientes hechizos de mago:",
+            {
+              "type": "list",
+              "items": [
+                "Trucos (a voluntad): {@spell mage hand}, {@spell prestidigitation}, {@spell shocking grasp}",
+                "1er nivel (4 ranuras): {@spell charm person}, {@spell detect magic}, {@spell disguise self}, {@spell shield}",
+                "2do nivel (3 ranuras): {@spell detect thoughts}, {@spell levitate}, {@spell suggestion}",
+                "3er nivel (3 ranuras): {@spell clairvoyance}, {@spell lightning bolt}, {@spell sending}",
+                "4to nivel (3 ranuras): {@spell confusion}, {@spell hallucinatory terrain}",
+                "5to nivel (2 ranuras): {@spell dominate person}, {@spell telekinesis}"
+              ]
+            }
+          ]
+        }
+      ],
+      "action": [
+        {
+          "name": "Tentáculos",
+          "entries": ["Ataque de arma cuerpo a cuerpo: {@hit 7} al golpe, alcance 5 ft., un objetivo. Impacto: {@damage 2d10 + 4} de daño psíquico. Si el objetivo es una criatura Grande o más pequeña, queda grappled (DC de escape 15) y stunned hasta que el agarre termine."]
+        },
+        {
+          "name": "Extracción de Cerebro",
+          "entries": ["El Mind Flayer intenta devorar el cerebro de un humanoide que esté grappled por él y tenga 0 puntos de golpe. El objetivo debe superar una tirada de salvación de Inteligencia DC 15 o sufrir {@damage 10d10} de daño psíquico. Si este daño reduce al objetivo a 0 puntos de golpe, el Mind Flayer lo mata extrayendo y consumiendo su cerebro."]
+        },
+        {
+          "name": "Mind Blast (Recarga 5-6)",
+          "entries": ["El Mind Flayer emite mágicamente energía psíquica en un cono de 60 ft. Cada criatura en esa área debe superar una tirada de salvación de Inteligencia DC 15 o sufrir {@damage 4d8 + 4} de daño psíquico y quedar stunned durante 1 minuto. Una criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, poniendo fin al efecto sobre sí misma al tener éxito."]
+        }
+      ],
+      "fluff": {
+        "entries": [
+          "Los Mind Flayers, también conocidos como illithids, son aberraciones de apariencia alienígena con cabezas similares a las de un pulpo, ojos completamente blancos y cuatro tentáculos en lugar de boca. Se alimentan del tejido cerebral de criaturas inteligentes.",
+          "Toda sociedad illithid está dominada por un Cerebro Anciano — una masa psiónica de tejido nervioso que coordina a todos los Mind Flayers bajo su mando a través de telepatía. Los illithids sirven al Cerebro Anciano con devoción absoluta, considerándolo el pináculo de la evolución psiónica."
+        ]
+      }
+    }
+  ]
+}
