@@ -37778,6 +37778,13 @@
       "c": 1,
       "p": 0,
       "u": "watcher_kamihomebrew"
+    },
+    {
+      "n": "Mind Flayer",
+      "s": "ES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_es"
     }
   ],
   "m": {
@@ -37832,7 +37839,8 @@
       "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
-      "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json"
+      "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
+      "ES": "data/bestiary/bestiary-ES.json"
     }
   }
 }
