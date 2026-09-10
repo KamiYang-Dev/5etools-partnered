@@ -13,7 +13,7 @@ jobs:
 
       - name: Download and build library
         run: |
-          mkdir -p data/bestiary search
+          mkdir -p data/bestiary data/items search
 
           python3 << 'PYEOF'
           import urllib.request, urllib.parse, json, os
@@ -87,7 +87,8 @@ jobs:
             "creature/Web Community; Community Ravenloft Collection.json",
           ]
 
-          by_source = {}
+          by_source_monsters = {}
+          by_source_items = {}
 
           for f in FILES:
             encoded = urllib.parse.quote(f)
@@ -98,12 +99,23 @@ jobs:
               print(f"OK: {f}")
               with open(tmp, "r", encoding="utf-8") as fp:
                 data = json.load(fp)
+
+              # Process monsters
               monsters = data.get("monster", [])
               for m in monsters:
                 source = m.get("source", "HOMEBREW")
-                if source not in by_source:
-                  by_source[source] = []
-                by_source[source].append(m)
+                if source not in by_source_monsters:
+                  by_source_monsters[source] = []
+                by_source_monsters[source].append(m)
+
+              # Process items
+              items = data.get("item", [])
+              for item in items:
+                source = item.get("source", "HOMEBREW")
+                if source not in by_source_items:
+                  by_source_items[source] = []
+                by_source_items[source].append(item)
+
             except Exception as e:
               print(f"FAIL: {f} -> {e}")
 
@@ -115,18 +127,31 @@ jobs:
                 fpath = os.path.join(homebrew_dir, fname)
                 with open(fpath, "r", encoding="utf-8") as fp:
                   data = json.load(fp)
+
+                # Process monsters
                 monsters = data.get("monster", [])
                 for m in monsters:
                   source = m.get("source", "KamiHomebrew")
-                  if source not in by_source:
-                    by_source[source] = []
-                  by_source[source].append(m)
-                print(f"Local OK: {fname} ({len(monsters)} monsters)")
+                  if source not in by_source_monsters:
+                    by_source_monsters[source] = []
+                  by_source_monsters[source].append(m)
+
+                # Process items
+                items = data.get("item", [])
+                for item in items:
+                  source = item.get("source", "KamiHomebrew")
+                  if source not in by_source_items:
+                    by_source_items[source] = []
+                  by_source_items[source].append(item)
+
+                print(f"Local OK: {fname} ({len(monsters)} monsters, {len(items)} items)")
 
           index_entries = []
           source_map = {}
+          item_source_map = {}
 
-          for source, monsters in by_source.items():
+          # Write monster files
+          for source, monsters in by_source_monsters.items():
             outpath = f"data/bestiary/bestiary-{source}.json"
             with open(outpath, "w", encoding="utf-8") as fp:
               json.dump({"monster": monsters}, fp, ensure_ascii=False)
@@ -143,10 +168,37 @@ jobs:
               }
               index_entries.append(entry)
 
-          index = {"x": index_entries, "m": {"s": source_map}}
+          # Write item files
+          item_index_entries = []
+          for source, items in by_source_items.items():
+            outpath = f"data/items/items-{source}.json"
+            with open(outpath, "w", encoding="utf-8") as fp:
+              json.dump({"item": items}, fp, ensure_ascii=False)
+            item_source_map[source] = outpath
+            for item in items:
+              name = item.get("name", "")
+              page = item.get("page", 0)
+              entry = {
+                "n": name,
+                "s": source,
+                "c": 5,
+                "p": page if isinstance(page, int) else 0,
+                "u": f"{name}_{source}".lower().replace(" ", "_").replace(",", "")
+              }
+              item_index_entries.append(entry)
+
+          index = {
+            "x": index_entries,
+            "i": item_index_entries,
+            "m": {"s": source_map},
+            "it": {"s": item_source_map}
+          }
           with open("search/index.json", "w", encoding="utf-8") as fp:
             json.dump(index, fp, indent=2, ensure_ascii=False)
-          print(f"Done: {len(index_entries)} monsters, {len(by_source)} sources")
+
+          total_monsters = len(index_entries)
+          total_items = len(item_index_entries)
+          print(f"Done: {total_monsters} monstruos, {total_items} items, {len(by_source_monsters)} fuentes")
           PYEOF
 
       - name: Commit and push
@@ -156,3 +208,4 @@ jobs:
           git add data/ search/
           git diff --cached --quiet || git commit -m "Auto-update partnered library"
           git push
+          
