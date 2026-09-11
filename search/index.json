@@ -37668,118 +37668,6 @@
       "u": "wachter_cultist_mob_comravenloft"
     },
     {
-      "n": "Mind Flayer (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "mind_flayer_(kami)_kamies"
-    },
-    {
-      "n": "Mind Flayer Psion (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "mind_flayer_psion_(kami)_kamies"
-    },
-    {
-      "n": "Elder Brain (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "elder_brain_(kami)_kamies"
-    },
-    {
-      "n": "Intellect Devourer (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "intellect_devourer_(kami)_kamies"
-    },
-    {
-      "n": "Intellect Snare (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "intellect_snare_(kami)_kamies"
-    },
-    {
-      "n": "Grell (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "grell_(kami)_kamies"
-    },
-    {
-      "n": "Grell Psychic (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "grell_psychic_(kami)_kamies"
-    },
-    {
-      "n": "Star Spawn Grue (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "star_spawn_grue_(kami)_kamies"
-    },
-    {
-      "n": "Star Spawn Hulk (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "star_spawn_hulk_(kami)_kamies"
-    },
-    {
-      "n": "Star Spawn Larva Mage (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "star_spawn_larva_mage_(kami)_kamies"
-    },
-    {
-      "n": "Star Spawn Mangler (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "star_spawn_mangler_(kami)_kamies"
-    },
-    {
-      "n": "Star Spawn Seer (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "star_spawn_seer_(kami)_kamies"
-    },
-    {
-      "n": "Ulitharid (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "ulitharid_(kami)_kamies"
-    },
-    {
-      "n": "Mind Flayer Hivewarden (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "mind_flayer_hivewarden_(kami)_kamies"
-    },
-    {
-      "n": "Mind Flayer Mindhulk (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "mind_flayer_mindhulk_(kami)_kamies"
-    },
-    {
-      "n": "Mind Flayer Infiltrator (Kami)",
-      "s": "KamiES",
-      "c": 1,
-      "p": 0,
-      "u": "mind_flayer_infiltrator_(kami)_kamies"
-    },
-    {
       "n": "Demonfeed Spider",
       "s": "KamiHomebrew",
       "c": 1,
@@ -37890,6 +37778,118 @@
       "c": 1,
       "p": 0,
       "u": "watcher_kamihomebrew"
+    },
+    {
+      "n": "Mind Flayer (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_(kami)_kamies"
+    },
+    {
+      "n": "Mind Flayer Psion (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_psion_(kami)_kamies"
+    },
+    {
+      "n": "Elder Brain (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "elder_brain_(kami)_kamies"
+    },
+    {
+      "n": "Intellect Devourer (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "intellect_devourer_(kami)_kamies"
+    },
+    {
+      "n": "Intellect Snare (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "intellect_snare_(kami)_kamies"
+    },
+    {
+      "n": "Grell (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "grell_(kami)_kamies"
+    },
+    {
+      "n": "Grell Psychic (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "grell_psychic_(kami)_kamies"
+    },
+    {
+      "n": "Star Spawn Grue (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "star_spawn_grue_(kami)_kamies"
+    },
+    {
+      "n": "Star Spawn Hulk (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "star_spawn_hulk_(kami)_kamies"
+    },
+    {
+      "n": "Star Spawn Larva Mage (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "star_spawn_larva_mage_(kami)_kamies"
+    },
+    {
+      "n": "Star Spawn Mangler (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "star_spawn_mangler_(kami)_kamies"
+    },
+    {
+      "n": "Star Spawn Seer (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "star_spawn_seer_(kami)_kamies"
+    },
+    {
+      "n": "Ulitharid (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "ulitharid_(kami)_kamies"
+    },
+    {
+      "n": "Mind Flayer Hivewarden (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_hivewarden_(kami)_kamies"
+    },
+    {
+      "n": "Mind Flayer Mindhulk (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_mindhulk_(kami)_kamies"
+    },
+    {
+      "n": "Mind Flayer Infiltrator (Kami)",
+      "s": "KamiES",
+      "c": 1,
+      "p": 0,
+      "u": "mind_flayer_infiltrator_(kami)_kamies"
     }
   ],
   "i": [
@@ -48691,8 +48691,8 @@
       "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
-      "KamiES": "data/bestiary/bestiary-KamiES.json",
-      "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json"
+      "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
+      "KamiES": "data/bestiary/bestiary-KamiES.json"
     }
   },
   "it": {
