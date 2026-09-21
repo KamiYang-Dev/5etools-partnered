@@ -37780,6 +37780,111 @@
       "u": "watcher_kamihomebrew"
     },
     {
+      "n": "Zombie (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "zombie_(kami)_kamino"
+    },
+    {
+      "n": "Wraith (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "wraith_(kami)_kamino"
+    },
+    {
+      "n": "Swarm of Crawling Claws (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_crawling_claws_(kami)_kamino"
+    },
+    {
+      "n": "Skeleton (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "skeleton_(kami)_kamino"
+    },
+    {
+      "n": "Shadow (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "shadow_(kami)_kamino"
+    },
+    {
+      "n": "Ogre Zombie (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_zombie_(kami)_kamino"
+    },
+    {
+      "n": "Mummy (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "mummy_(kami)_kamino"
+    },
+    {
+      "n": "Human Death Cultist (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "human_death_cultist_(kami)_kamino"
+    },
+    {
+      "n": "Ghoul (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "ghoul_(kami)_kamino"
+    },
+    {
+      "n": "Ghast Gravecaller (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "ghast_gravecaller_(kami)_kamino"
+    },
+    {
+      "n": "Ghast (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "ghast_(kami)_kamino"
+    },
+    {
+      "n": "Flaming Skeleton (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "flaming_skeleton_(kami)_kamino"
+    },
+    {
+      "n": "Flameskull (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "flameskull_(kami)_kamino"
+    },
+    {
+      "n": "Black Pudding (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "black_pudding_(kami)_kamino"
+    },
+    {
+      "n": "Black Dragon Wyrmling (Kami)",
+      "s": "KamiNO",
+      "c": 1,
+      "p": 0,
+      "u": "black_dragon_wyrmling_(kami)_kamino"
+    },
+    {
       "n": "Mind Flayer (Kami)",
       "s": "KamiES",
       "c": 1,
@@ -48692,6 +48797,7 @@
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
+      "KamiNO": "data/bestiary/bestiary-KamiNO.json",
       "KamiES": "data/bestiary/bestiary-KamiES.json"
     }
   },
