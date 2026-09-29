@@ -37255,6 +37255,13 @@
       "u": "geyadrone_dihada_comaberrationlegendary"
     },
     {
+      "n": "Midgets",
+      "s": "COMCelestial",
+      "c": 1,
+      "p": 0,
+      "u": "midgets_comcelestial"
+    },
+    {
       "n": "Champion of Barachiel",
       "s": "COMCelestialLegendary",
       "c": 1,
@@ -48779,6 +48786,7 @@
       "SLCC": "data/bestiary/bestiary-SLCC.json",
       "COMAberration": "data/bestiary/bestiary-COMAberration.json",
       "COMAberrationLegendary": "data/bestiary/bestiary-COMAberrationLegendary.json",
+      "COMCelestial": "data/bestiary/bestiary-COMCelestial.json",
       "COMCelestialLegendary": "data/bestiary/bestiary-COMCelestialLegendary.json",
       "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
       "COMElemental": "data/bestiary/bestiary-COMElemental.json",
