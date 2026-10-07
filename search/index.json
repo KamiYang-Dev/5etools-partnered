@@ -20049,6 +20049,1644 @@
       "u": "water_elemental_dungeonsdrakkenheim"
     },
     {
+      "n": "Aberrant Host",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 217,
+      "u": "aberrant_host_monstersofdrakkenheim"
+    },
+    {
+      "n": "Academy Apprentice",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 337,
+      "u": "academy_apprentice_monstersofdrakkenheim"
+    },
+    {
+      "n": "Academy Grandmaster",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 339,
+      "u": "academy_grandmaster_monstersofdrakkenheim"
+    },
+    {
+      "n": "Academy Mage",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 337,
+      "u": "academy_mage_monstersofdrakkenheim"
+    },
+    {
+      "n": "Academy Outcast",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 339,
+      "u": "academy_outcast_monstersofdrakkenheim"
+    },
+    {
+      "n": "Adult Delerium Dragon",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 296,
+      "u": "adult_delerium_dragon_monstersofdrakkenheim"
+    },
+    {
+      "n": "Agog",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 292,
+      "u": "agog_monstersofdrakkenheim"
+    },
+    {
+      "n": "Alienist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 182,
+      "u": "alienist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Allopine",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 293,
+      "u": "allopine_monstersofdrakkenheim"
+    },
+    {
+      "n": "Amalgamation",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 24,
+      "u": "amalgamation_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ancient Delerium Dragon",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 297,
+      "u": "ancient_delerium_dragon_monstersofdrakkenheim"
+    },
+    {
+      "n": "Animated Delerium Sludge",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 46,
+      "u": "animated_delerium_sludge_monstersofdrakkenheim"
+    },
+    {
+      "n": "Anomollusk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 26,
+      "u": "anomollusk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Apex",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 195,
+      "u": "apex_monstersofdrakkenheim"
+    },
+    {
+      "n": "Arcane Wraith",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 27,
+      "u": "arcane_wraith_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ascendant Vladimir von Drakken",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 265,
+      "u": "ascendant_vladimir_von_drakken_monstersofdrakkenheim"
+    },
+    {
+      "n": "Beetle Knight",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 28,
+      "u": "beetle_knight_monstersofdrakkenheim"
+    },
+    {
+      "n": "Belfray",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 29,
+      "u": "belfray_monstersofdrakkenheim"
+    },
+    {
+      "n": "Big Linda",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 30,
+      "u": "big_linda_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bigger Linda",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 31,
+      "u": "bigger_linda_monstersofdrakkenheim"
+    },
+    {
+      "n": "Blackjack Mel",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 351,
+      "u": "blackjack_mel_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bloated Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 93,
+      "u": "bloated_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bloated Hive",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 32,
+      "u": "bloated_hive_monstersofdrakkenheim"
+    },
+    {
+      "n": "Blood Leech",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 204,
+      "u": "blood_leech_monstersofdrakkenheim"
+    },
+    {
+      "n": "Body Snatcher",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 196,
+      "u": "body_snatcher_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bojack",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 35,
+      "u": "bojack_monstersofdrakkenheim"
+    },
+    {
+      "n": "Cacophonous Chimera",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 36,
+      "u": "cacophonous_chimera_monstersofdrakkenheim"
+    },
+    {
+      "n": "Captain Ansom Lang",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 364,
+      "u": "captain_ansom_lang_monstersofdrakkenheim"
+    },
+    {
+      "n": "Cerebrograft",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 197,
+      "u": "cerebrograft_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chemist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 183,
+      "u": "chemist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chemystral",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 198,
+      "u": "chemystral_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chitinous Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 94,
+      "u": "chitinous_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chitter",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 38,
+      "u": "chitter_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chorus",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 53,
+      "u": "chorus_monstersofdrakkenheim"
+    },
+    {
+      "n": "Congregation",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 345,
+      "u": "congregation_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crater Wurm",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 39,
+      "u": "crater_wurm_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crimson Countess",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 169,
+      "u": "crimson_countess_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crimson Knight",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 239,
+      "u": "crimson_knight_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crypt-Starved Vladimir von Drakken",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 261,
+      "u": "crypt-starved_vladimir_von_drakken_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crystalline Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 95,
+      "u": "crystalline_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Cyclopean Hulk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 105,
+      "u": "cyclopean_hulk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Dark Confessor",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 241,
+      "u": "dark_confessor_monstersofdrakkenheim"
+    },
+    {
+      "n": "Dark Growth",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 40,
+      "u": "dark_growth_monstersofdrakkenheim"
+    },
+    {
+      "n": "Dark Growth Shambler",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 41,
+      "u": "dark_growth_shambler_monstersofdrakkenheim"
+    },
+    {
+      "n": "Deep Dreg Warrior",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 155,
+      "u": "deep_dreg_warrior_monstersofdrakkenheim"
+    },
+    {
+      "n": "Deep Knight",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 156,
+      "u": "deep_knight_monstersofdrakkenheim"
+    },
+    {
+      "n": "Deep Siren",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 157,
+      "u": "deep_siren_monstersofdrakkenheim"
+    },
+    {
+      "n": "Delerium Dragon Wyrmling",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 295,
+      "u": "delerium_dragon_wyrmling_monstersofdrakkenheim"
+    },
+    {
+      "n": "Delerium Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 92,
+      "u": "delerium_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Digipede",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 42,
+      "u": "digipede_monstersofdrakkenheim"
+    },
+    {
+      "n": "Disembodied Psyche",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 199,
+      "u": "disembodied_psyche_monstersofdrakkenheim"
+    },
+    {
+      "n": "Displacer Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 96,
+      "u": "displacer_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Dr. Everett Freed, Reanimator",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 188,
+      "u": "dr._everett_freed_reanimator_monstersofdrakkenheim"
+    },
+    {
+      "n": "Drakkenheim Sewer Gator",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 43,
+      "u": "drakkenheim_sewer_gator_monstersofdrakkenheim"
+    },
+    {
+      "n": "Druid of the Sanguine Rite",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 243,
+      "u": "druid_of_the_sanguine_rite_monstersofdrakkenheim"
+    },
+    {
+      "n": "Effulgent Cnidarian",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 45,
+      "u": "effulgent_cnidarian_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldrick Runeweaver",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 341,
+      "u": "eldrick_runeweaver_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldritch Cataclysm",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 50,
+      "u": "eldritch_cataclysm_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldritch Crawler",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 310,
+      "u": "eldritch_crawler_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldritch Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 97,
+      "u": "eldritch_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldritch Trickster",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 350,
+      "u": "eldritch_trickster_monstersofdrakkenheim"
+    },
+    {
+      "n": "Eldritch Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 277,
+      "u": "eldritch_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Entropic Flame",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 47,
+      "u": "entropic_flame_monstersofdrakkenheim"
+    },
+    {
+      "n": "Entropic Watcher",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 302,
+      "u": "entropic_watcher_monstersofdrakkenheim"
+    },
+    {
+      "n": "Executioner",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 162,
+      "u": "executioner_monstersofdrakkenheim"
+    },
+    {
+      "n": "Exorcist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 184,
+      "u": "exorcist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Faerie Host",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 216,
+      "u": "faerie_host_monstersofdrakkenheim"
+    },
+    {
+      "n": "Far Dweller",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 299,
+      "u": "far_dweller_monstersofdrakkenheim"
+    },
+    {
+      "n": "Far Dweller Abductor",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 300,
+      "u": "far_dweller_abductor_monstersofdrakkenheim"
+    },
+    {
+      "n": "Far Dweller Mastermind",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 301,
+      "u": "far_dweller_mastermind_monstersofdrakkenheim"
+    },
+    {
+      "n": "Fiendish Host",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 215,
+      "u": "fiendish_host_monstersofdrakkenheim"
+    },
+    {
+      "n": "Flamekeeper",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 356,
+      "u": "flamekeeper_monstersofdrakkenheim"
+    },
+    {
+      "n": "Fractal Lepidoptera",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 304,
+      "u": "fractal_lepidoptera_monstersofdrakkenheim"
+    },
+    {
+      "n": "Frenzied Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 98,
+      "u": "frenzied_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Fungal Trolling",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 282,
+      "u": "fungal_trolling_monstersofdrakkenheim"
+    },
+    {
+      "n": "Garmyr Berserker",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 147,
+      "u": "garmyr_berserker_monstersofdrakkenheim"
+    },
+    {
+      "n": "Garmyr Bloodhound",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 146,
+      "u": "garmyr_bloodhound_monstersofdrakkenheim"
+    },
+    {
+      "n": "Garmyr Thaumaturge",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 148,
+      "u": "garmyr_thaumaturge_monstersofdrakkenheim"
+    },
+    {
+      "n": "Garmyr War Dog",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 149,
+      "u": "garmyr_war_dog_monstersofdrakkenheim"
+    },
+    {
+      "n": "Garmyr Warrior",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 151,
+      "u": "garmyr_warrior_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ghoul Lord",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 246,
+      "u": "ghoul_lord_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ghoul Priest",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 245,
+      "u": "ghoul_priest_monstersofdrakkenheim"
+    },
+    {
+      "n": "Giant Ratling",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 129,
+      "u": "giant_ratling_monstersofdrakkenheim"
+    },
+    {
+      "n": "Graffiti",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 52,
+      "u": "graffiti_monstersofdrakkenheim"
+    },
+    {
+      "n": "Grasping Shadow",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 163,
+      "u": "grasping_shadow_monstersofdrakkenheim"
+    },
+    {
+      "n": "Gravekeeper",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 54,
+      "u": "gravekeeper_monstersofdrakkenheim"
+    },
+    {
+      "n": "Grim Custodian",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 247,
+      "u": "grim_custodian_monstersofdrakkenheim"
+    },
+    {
+      "n": "Grotesque Gargantuan",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 107,
+      "u": "grotesque_gargantuan_monstersofdrakkenheim"
+    },
+    {
+      "n": "Gutbuster Hulk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 108,
+      "u": "gutbuster_hulk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Gutwretch Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 99,
+      "u": "gutwretch_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Haze Hulk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 104,
+      "u": "haze_hulk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Haze Husk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 56,
+      "u": "haze_husk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Haze Regent Lenore von Kessel",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 113,
+      "u": "haze_regent_lenore_von_kessel_monstersofdrakkenheim"
+    },
+    {
+      "n": "Haze Wight",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 57,
+      "u": "haze_wight_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazeblood Vampire",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 249,
+      "u": "hazeblood_vampire_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewind Harpy Crone",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 166,
+      "u": "hazewind_harpy_crone_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewind Harpy Hunter",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 167,
+      "u": "hazewind_harpy_hunter_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewind Harpy Valkyrie",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 168,
+      "u": "hazewind_harpy_valkyrie_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewing Moth Adult",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 60,
+      "u": "hazewing_moth_adult_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewing Moth Caterpillar",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 58,
+      "u": "hazewing_moth_caterpillar_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewing Moth Chrysalis",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 59,
+      "u": "hazewing_moth_chrysalis_monstersofdrakkenheim"
+    },
+    {
+      "n": "He Who Laughs Last",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 326,
+      "u": "he_who_laughs_last_monstersofdrakkenheim"
+    },
+    {
+      "n": "Helpful Hand",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 192,
+      "u": "helpful_hand_monstersofdrakkenheim"
+    },
+    {
+      "n": "High Flamekeeper Ophelia Reed",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 357,
+      "u": "high_flamekeeper_ophelia_reed_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hooded Lantern Apothecary",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 362,
+      "u": "hooded_lantern_apothecary_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hooded Lantern Scout",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 360,
+      "u": "hooded_lantern_scout_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hooded Lantern Trapper",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 361,
+      "u": "hooded_lantern_trapper_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hooded Lantern Veteran",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 362,
+      "u": "hooded_lantern_veteran_monstersofdrakkenheim"
+    },
+    {
+      "n": "Humongous Fungus Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 281,
+      "u": "humongous_fungus_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hunter Hulk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 109,
+      "u": "hunter_hulk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hypnotic Eldritch Blossom",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 61,
+      "u": "hypnotic_eldritch_blossom_monstersofdrakkenheim"
+    },
+    {
+      "n": "Injector",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 200,
+      "u": "injector_monstersofdrakkenheim"
+    },
+    {
+      "n": "Innocent Harvester",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 201,
+      "u": "innocent_harvester_monstersofdrakkenheim"
+    },
+    {
+      "n": "Interloper",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 307,
+      "u": "interloper_monstersofdrakkenheim"
+    },
+    {
+      "n": "Juggernaut Hulk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 110,
+      "u": "juggernaut_hulk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Kingkiller Hydra",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 203,
+      "u": "kingkiller_hydra_monstersofdrakkenheim"
+    },
+    {
+      "n": "Knight-Captain Theodore Marshal",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 358,
+      "u": "knight-captain_theodore_marshal_monstersofdrakkenheim"
+    },
+    {
+      "n": "Kronen",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 62,
+      "u": "kronen_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lambent Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 100,
+      "u": "lambent_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Last Memory",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 63,
+      "u": "last_memory_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lenore von Kessel",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 112,
+      "u": "lenore_von_kessel_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lieutenant Petra Lang",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 364,
+      "u": "lieutenant_petra_lang_monstersofdrakkenheim"
+    },
+    {
+      "n": "Liminal Herald",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 308,
+      "u": "liminal_herald_monstersofdrakkenheim"
+    },
+    {
+      "n": "Living Biohazard",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 206,
+      "u": "living_biohazard_monstersofdrakkenheim"
+    },
+    {
+      "n": "Living City",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 64,
+      "u": "living_city_monstersofdrakkenheim"
+    },
+    {
+      "n": "Living Deep Haze",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 48,
+      "u": "living_deep_haze_monstersofdrakkenheim"
+    },
+    {
+      "n": "Loathsome Gag Fly",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 66,
+      "u": "loathsome_gag_fly_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lob Frog",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 67,
+      "u": "lob_frog_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lord Commander Elias Drexel",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 365,
+      "u": "lord_commander_elias_drexel_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lord of the Feast",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 152,
+      "u": "lord_of_the_feast_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lucretia Mathias",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 348,
+      "u": "lucretia_mathias_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lurker on the Threshold",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 309,
+      "u": "lurker_on_the_threshold_monstersofdrakkenheim"
+    },
+    {
+      "n": "Lurking Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 101,
+      "u": "lurking_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Magma Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 275,
+      "u": "magma_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Master Mage",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 338,
+      "u": "master_mage_monstersofdrakkenheim"
+    },
+    {
+      "n": "Maw Vermin",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 133,
+      "u": "maw_vermin_monstersofdrakkenheim"
+    },
+    {
+      "n": "Minazorond",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 165,
+      "u": "minazorond_monstersofdrakkenheim"
+    },
+    {
+      "n": "Mind Leech",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 205,
+      "u": "mind_leech_monstersofdrakkenheim"
+    },
+    {
+      "n": "Missionary",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 344,
+      "u": "missionary_monstersofdrakkenheim"
+    },
+    {
+      "n": "Mutagenist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 185,
+      "u": "mutagenist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Nathaniel Flint, Pilgrimage Leader",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 347,
+      "u": "nathaniel_flint_pilgrimage_leader_monstersofdrakkenheim"
+    },
+    {
+      "n": "Night Blade",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 251,
+      "u": "night_blade_monstersofdrakkenheim"
+    },
+    {
+      "n": "Oak Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 283,
+      "u": "oak_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Octarine Tree",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 68,
+      "u": "octarine_tree_monstersofdrakkenheim"
+    },
+    {
+      "n": "Oracle of the Rat God",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 134,
+      "u": "oracle_of_the_rat_god_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pale Man",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 114,
+      "u": "pale_man_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pathogenist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 187,
+      "u": "pathogenist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Phage",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 311,
+      "u": "phage_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pilgrim",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 343,
+      "u": "pilgrim_monstersofdrakkenheim"
+    },
+    {
+      "n": "Plague Carrier",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 207,
+      "u": "plague_carrier_monstersofdrakkenheim"
+    },
+    {
+      "n": "Protean Abomination",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 111,
+      "u": "protean_abomination_monstersofdrakkenheim"
+    },
+    {
+      "n": "Psychophant",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 313,
+      "u": "psychophant_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pyknic Maunder",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 71,
+      "u": "pyknic_maunder_monstersofdrakkenheim"
+    },
+    {
+      "n": "Queen of Thieves",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 352,
+      "u": "queen_of_thieves_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rat Crown-Prince",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 137,
+      "u": "rat_crown-prince_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rat God",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 332,
+      "u": "rat_god_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rat King",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 135,
+      "u": "rat_king_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rat Prince",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 136,
+      "u": "rat_prince_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ratling Alchemist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 130,
+      "u": "ratling_alchemist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ratling Burrow Warden",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 125,
+      "u": "ratling_burrow_warden_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ratling Guttersnipe",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 126,
+      "u": "ratling_guttersnipe_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ratling Pathogenist",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 132,
+      "u": "ratling_pathogenist_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ratling Warrior",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 124,
+      "u": "ratling_warrior_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ravenous Flora",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 212,
+      "u": "ravenous_flora_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ravenous Ghoul",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 245,
+      "u": "ravenous_ghoul_monstersofdrakkenheim"
+    },
+    {
+      "n": "Reality Cyst",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 72,
+      "u": "reality_cyst_monstersofdrakkenheim"
+    },
+    {
+      "n": "Reautomata",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 209,
+      "u": "reautomata_monstersofdrakkenheim"
+    },
+    {
+      "n": "Reautomata Wrecker",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 211,
+      "u": "reautomata_wrecker_monstersofdrakkenheim"
+    },
+    {
+      "n": "Reborn Vladimir von Drakken",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 263,
+      "u": "reborn_vladimir_von_drakken_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ripper",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 213,
+      "u": "ripper_monstersofdrakkenheim"
+    },
+    {
+      "n": "River, Amethyst Academy Liaison",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 340,
+      "u": "river_amethyst_academy_liaison_monstersofdrakkenheim"
+    },
+    {
+      "n": "Royal Assassin",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 350,
+      "u": "royal_assassin_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sanctified Knight",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 346,
+      "u": "sanctified_knight_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sanctified Monk",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 345,
+      "u": "sanctified_monk_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sanctified Soul",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 346,
+      "u": "sanctified_soul_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sanguine Witch",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 253,
+      "u": "sanguine_witch_monstersofdrakkenheim"
+    },
+    {
+      "n": "Scrap Reautomata",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 210,
+      "u": "scrap_reautomata_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sentient Planetoid",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 323,
+      "u": "sentient_planetoid_monstersofdrakkenheim"
+    },
+    {
+      "n": "Sewer Thing",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 74,
+      "u": "sewer_thing_monstersofdrakkenheim"
+    },
+    {
+      "n": "Shardmaul Manticore",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 75,
+      "u": "shardmaul_manticore_monstersofdrakkenheim"
+    },
+    {
+      "n": "Silver Order Cavalier",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 356,
+      "u": "silver_order_cavalier_monstersofdrakkenheim"
+    },
+    {
+      "n": "Silver Order Paladin",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 355,
+      "u": "silver_order_paladin_monstersofdrakkenheim"
+    },
+    {
+      "n": "Silver Order Recruit",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 354,
+      "u": "silver_order_recruit_monstersofdrakkenheim"
+    },
+    {
+      "n": "Silver Order Squire",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 354,
+      "u": "silver_order_squire_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skeleton Archer",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 255,
+      "u": "skeleton_archer_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skeleton Mage",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 255,
+      "u": "skeleton_mage_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skeleton Soldier",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 254,
+      "u": "skeleton_soldier_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skin Crawler",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 76,
+      "u": "skin_crawler_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skinwing",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 214,
+      "u": "skinwing_monstersofdrakkenheim"
+    },
+    {
+      "n": "Skretch",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 77,
+      "u": "skretch_monstersofdrakkenheim"
+    },
+    {
+      "n": "Speaking Skull",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 193,
+      "u": "speaking_skull_monstersofdrakkenheim"
+    },
+    {
+      "n": "Spell Leech",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 205,
+      "u": "spell_leech_monstersofdrakkenheim"
+    },
+    {
+      "n": "Spined Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 102,
+      "u": "spined_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "Star Warden",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 320,
+      "u": "star_warden_monstersofdrakkenheim"
+    },
+    {
+      "n": "Stitcher",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 219,
+      "u": "stitcher_monstersofdrakkenheim"
+    },
+    {
+      "n": "Storm Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 273,
+      "u": "storm_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Striga",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 257,
+      "u": "striga_monstersofdrakkenheim"
+    },
+    {
+      "n": "Swarm of Contaminated Insects",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 33,
+      "u": "swarm_of_contaminated_insects_monstersofdrakkenheim"
+    },
+    {
+      "n": "Swarm of Ratlings",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 131,
+      "u": "swarm_of_ratlings_monstersofdrakkenheim"
+    },
+    {
+      "n": "Tanker",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 220,
+      "u": "tanker_monstersofdrakkenheim"
+    },
+    {
+      "n": "Tentacled Dreg",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 103,
+      "u": "tentacled_dreg_monstersofdrakkenheim"
+    },
+    {
+      "n": "The Algorithm",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 334,
+      "u": "the_algorithm_monstersofdrakkenheim"
+    },
+    {
+      "n": "The Duchess",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 158,
+      "u": "the_duchess_monstersofdrakkenheim"
+    },
+    {
+      "n": "The Whispered Promise",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 330,
+      "u": "the_whispered_promise_monstersofdrakkenheim"
+    },
+    {
+      "n": "The World Ender",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 83,
+      "u": "the_world_ender_monstersofdrakkenheim"
+    },
+    {
+      "n": "Thing with the Writhing Tail",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 328,
+      "u": "thing_with_the_writhing_tail_monstersofdrakkenheim"
+    },
+    {
+      "n": "Think Tank",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 190,
+      "u": "think_tank_monstersofdrakkenheim"
+    },
+    {
+      "n": "Tower Dragon",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 161,
+      "u": "tower_dragon_monstersofdrakkenheim"
+    },
+    {
+      "n": "Troll Hag",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 279,
+      "u": "troll_hag_monstersofdrakkenheim"
+    },
+    {
+      "n": "Troll Hag (Coven Variant)",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 279,
+      "u": "troll_hag_(coven_variant)_monstersofdrakkenheim"
+    },
+    {
+      "n": "Uncontained Growth",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 221,
+      "u": "uncontained_growth_monstersofdrakkenheim"
+    },
+    {
+      "n": "Undulating Polyp",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 79,
+      "u": "undulating_polyp_monstersofdrakkenheim"
+    },
+    {
+      "n": "Void Pirate Captain",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 319,
+      "u": "void_pirate_captain_monstersofdrakkenheim"
+    },
+    {
+      "n": "Void Pirate Herald",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 318,
+      "u": "void_pirate_herald_monstersofdrakkenheim"
+    },
+    {
+      "n": "Void Pirate Quartermaster",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 317,
+      "u": "void_pirate_quartermaster_monstersofdrakkenheim"
+    },
+    {
+      "n": "Void Pirate Squib",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 317,
+      "u": "void_pirate_squib_monstersofdrakkenheim"
+    },
+    {
+      "n": "Walking Delerium Geode",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 49,
+      "u": "walking_delerium_geode_monstersofdrakkenheim"
+    },
+    {
+      "n": "Wall Gargoyle",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 160,
+      "u": "wall_gargoyle_monstersofdrakkenheim"
+    },
+    {
+      "n": "Warlock of the Rat God",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 127,
+      "u": "warlock_of_the_rat_god_monstersofdrakkenheim"
+    },
+    {
+      "n": "Warp Marauder",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 314,
+      "u": "warp_marauder_monstersofdrakkenheim"
+    },
+    {
+      "n": "Warp Witch",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 81,
+      "u": "warp_witch_monstersofdrakkenheim"
+    },
+    {
+      "n": "Winter Troll",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 274,
+      "u": "winter_troll_monstersofdrakkenheim"
+    },
+    {
+      "n": "Wretched Patient",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 222,
+      "u": "wretched_patient_monstersofdrakkenheim"
+    },
+    {
+      "n": "Young Delerium Dragon",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 295,
+      "u": "young_delerium_dragon_monstersofdrakkenheim"
+    },
+    {
+      "n": "Zealot",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 343,
+      "u": "zealot_monstersofdrakkenheim"
+    },
+    {
+      "n": "Zealot of Morrigan",
+      "s": "MonstersOfDrakkenheim",
+      "c": 1,
+      "p": 258,
+      "u": "zealot_of_morrigan_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bödvar Örskýrsson",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 21,
+      "u": "bödvar_örskýrsson_grimhollowwb"
+    },
+    {
+      "n": "Meyana",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 21,
+      "u": "meyana_grimhollowwb"
+    },
+    {
+      "n": "Young Meyana",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 21,
+      "u": "young_meyana_grimhollowwb"
+    },
+    {
+      "n": "Svár",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 22,
+      "u": "svár_grimhollowwb"
+    },
+    {
+      "n": "Raatvidur",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 23,
+      "u": "raatvidur_grimhollowwb"
+    },
+    {
+      "n": "Rime Hunger",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 24,
+      "u": "rime_hunger_grimhollowwb"
+    },
+    {
+      "n": "Valikan Berserker",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 24,
+      "u": "valikan_berserker_grimhollowwb"
+    },
+    {
+      "n": "Norn",
+      "s": "GrimHollowWB",
+      "c": 1,
+      "p": 22,
+      "u": "norn_grimhollowwb"
+    },
+    {
       "n": "Avatar of Slaughter",
       "s": "GrimHollowCG24",
       "c": 1,
@@ -25488,881 +27126,6 @@
       "u": "umbral_skullbearer_nlc"
     },
     {
-      "n": "Crocadog",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 270,
-      "u": "crocadog_darkmatter24"
-    },
-    {
-      "n": "Stirge Raptor",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 270,
-      "u": "stirge_raptor_darkmatter24"
-    },
-    {
-      "n": "Hardlight Spirit",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 397,
-      "u": "hardlight_spirit_darkmatter24"
-    },
-    {
-      "n": "Arachno-Horse",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 268,
-      "u": "arachno-horse_darkmatter24"
-    },
-    {
-      "n": "Cephalo-Boar",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 269,
-      "u": "cephalo-boar_darkmatter24"
-    },
-    {
-      "n": "Android",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 271,
-      "u": "android_darkmatter24"
-    },
-    {
-      "n": "AI",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 272,
-      "u": "ai_darkmatter24"
-    },
-    {
-      "n": "Rogue AI",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 273,
-      "u": "rogue_ai_darkmatter24"
-    },
-    {
-      "n": "Mastermind AI",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 274,
-      "u": "mastermind_ai_darkmatter24"
-    },
-    {
-      "n": "Astrogator",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 276,
-      "u": "astrogator_darkmatter24"
-    },
-    {
-      "n": "Body Snatcher",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 279,
-      "u": "body_snatcher_darkmatter24"
-    },
-    {
-      "n": "Advocate",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 282,
-      "u": "advocate_darkmatter24"
-    },
-    {
-      "n": "Construct Form",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 101,
-      "u": "construct_form_darkmatter24"
-    },
-    {
-      "n": "Forlorn Husk",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 306,
-      "u": "forlorn_husk_darkmatter24"
-    },
-    {
-      "n": "Husk",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 305,
-      "u": "husk_darkmatter24"
-    },
-    {
-      "n": "M.A.C.",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 75,
-      "u": "m.a.c._darkmatter24"
-    },
-    {
-      "n": "Personal Drone",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 186,
-      "u": "personal_drone_darkmatter24"
-    },
-    {
-      "n": "Soul Broker",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 282,
-      "u": "soul_broker_darkmatter24"
-    },
-    {
-      "n": "Space Kobold",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 341,
-      "u": "space_kobold_darkmatter24"
-    },
-    {
-      "n": "Single-Task Automaton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 277,
-      "u": "single-task_automaton_darkmatter24"
-    },
-    {
-      "n": "Multi-Task Automaton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 278,
-      "u": "multi-task_automaton_darkmatter24"
-    },
-    {
-      "n": "Heavy-Duty Automaton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 278,
-      "u": "heavy-duty_automaton_darkmatter24"
-    },
-    {
-      "n": "Brain in a Jar",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 280,
-      "u": "brain_in_a_jar_darkmatter24"
-    },
-    {
-      "n": "Bureaucrat",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 281,
-      "u": "bureaucrat_darkmatter24"
-    },
-    {
-      "n": "Cat Box",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 283,
-      "u": "cat_box_darkmatter24"
-    },
-    {
-      "n": "Coalition Marine",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 284,
-      "u": "coalition_marine_darkmatter24"
-    },
-    {
-      "n": "Coalition Captain",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 285,
-      "u": "coalition_captain_darkmatter24"
-    },
-    {
-      "n": "Coalition Warmage",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 285,
-      "u": "coalition_warmage_darkmatter24"
-    },
-    {
-      "n": "Collector Vat",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 286,
-      "u": "collector_vat_darkmatter24"
-    },
-    {
-      "n": "Cyber Lich",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 288,
-      "u": "cyber_lich_darkmatter24"
-    },
-    {
-      "n": "DD&D Artifactor",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 289,
-      "u": "dd&d_artifactor_darkmatter24"
-    },
-    {
-      "n": "Drone Swarm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 290,
-      "u": "drone_swarm_darkmatter24"
-    },
-    {
-      "n": "Drone",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 290,
-      "u": "drone_darkmatter24"
-    },
-    {
-      "n": "Electricity Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 291,
-      "u": "electricity_elemental_darkmatter24"
-    },
-    {
-      "n": "Firm Bruiser",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 294,
-      "u": "firm_bruiser_darkmatter24"
-    },
-    {
-      "n": "Firm Contractor",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 295,
-      "u": "firm_contractor_darkmatter24"
-    },
-    {
-      "n": "Firm Middle-Manager",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 295,
-      "u": "firm_middle-manager_darkmatter24"
-    },
-    {
-      "n": "Gladiatopus",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 301,
-      "u": "gladiatopus_darkmatter24"
-    },
-    {
-      "n": "Graphid",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 302,
-      "u": "graphid_darkmatter24"
-    },
-    {
-      "n": "Hardlight Avatar",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 303,
-      "u": "hardlight_avatar_darkmatter24"
-    },
-    {
-      "n": "Wild Hardlight",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 304,
-      "u": "wild_hardlight_darkmatter24"
-    },
-    {
-      "n": "Hardlight Juggernaut",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 304,
-      "u": "hardlight_juggernaut_darkmatter24"
-    },
-    {
-      "n": "Inventor",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 307,
-      "u": "inventor_darkmatter24"
-    },
-    {
-      "n": "Kgnack",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 308,
-      "u": "kgnack_darkmatter24"
-    },
-    {
-      "n": "Swarm of Kgnacks",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 309,
-      "u": "swarm_of_kgnacks_darkmatter24"
-    },
-    {
-      "n": "Lakshay Oni",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 309,
-      "u": "lakshay_oni_darkmatter24"
-    },
-    {
-      "n": "Civilian",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 310,
-      "u": "civilian_darkmatter24"
-    },
-    {
-      "n": "Low World Soldier",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 310,
-      "u": "low_world_soldier_darkmatter24"
-    },
-    {
-      "n": "Indoctrinated",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 311,
-      "u": "indoctrinated_darkmatter24"
-    },
-    {
-      "n": "Mechademon",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 312,
-      "u": "mechademon_darkmatter24"
-    },
-    {
-      "n": "Mechabyssal",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 313,
-      "u": "mechabyssal_darkmatter24"
-    },
-    {
-      "n": "Mechanical Spider",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 314,
-      "u": "mechanical_spider_darkmatter24"
-    },
-    {
-      "n": "Hired Gun",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 315,
-      "u": "hired_gun_darkmatter24"
-    },
-    {
-      "n": "Grax's Guy",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 316,
-      "u": "grax's_guy_darkmatter24"
-    },
-    {
-      "n": "Scale and Fang Merc",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 316,
-      "u": "scale_and_fang_merc_darkmatter24"
-    },
-    {
-      "n": "Bronze Skeleton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 317,
-      "u": "bronze_skeleton_darkmatter24"
-    },
-    {
-      "n": "Silver Skeleton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 318,
-      "u": "silver_skeleton_darkmatter24"
-    },
-    {
-      "n": "Gold Skeleton",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 318,
-      "u": "gold_skeleton_darkmatter24"
-    },
-    {
-      "n": "Nanite Blob",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 319,
-      "u": "nanite_blob_darkmatter24"
-    },
-    {
-      "n": "N-Vect",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 321,
-      "u": "n-vect_darkmatter24"
-    },
-    {
-      "n": "Nuclear Chicken",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 322,
-      "u": "nuclear_chicken_darkmatter24"
-    },
-    {
-      "n": "Psi-Worm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 324,
-      "u": "psi-worm_darkmatter24"
-    },
-    {
-      "n": "Worm Walker",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 325,
-      "u": "worm_walker_darkmatter24"
-    },
-    {
-      "n": "Psi-Worm Gestalt",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 326,
-      "u": "psi-worm_gestalt_darkmatter24"
-    },
-    {
-      "n": "Psi-Worm Tide",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 327,
-      "u": "psi-worm_tide_darkmatter24"
-    },
-    {
-      "n": "Radiation Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 328,
-      "u": "radiation_elemental_darkmatter24"
-    },
-    {
-      "n": "Radioactive Goo",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 329,
-      "u": "radioactive_goo_darkmatter24"
-    },
-    {
-      "n": "Redshirt",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 330,
-      "u": "redshirt_darkmatter24"
-    },
-    {
-      "n": "Roach",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 332,
-      "u": "roach_darkmatter24"
-    },
-    {
-      "n": "Sandworm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 333,
-      "u": "sandworm_darkmatter24"
-    },
-    {
-      "n": "Scrap Golem",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 334,
-      "u": "scrap_golem_darkmatter24"
-    },
-    {
-      "n": "Maw Guard",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 335,
-      "u": "maw_guard_darkmatter24"
-    },
-    {
-      "n": "Sepulcher Knight",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 336,
-      "u": "sepulcher_knight_darkmatter24"
-    },
-    {
-      "n": "Sepulcher Knight Captain",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 336,
-      "u": "sepulcher_knight_captain_darkmatter24"
-    },
-    {
-      "n": "Smuggler",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 337,
-      "u": "smuggler_darkmatter24"
-    },
-    {
-      "n": "Software Bug",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 338,
-      "u": "software_bug_darkmatter24"
-    },
-    {
-      "n": "Bluescreen Swarm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 339,
-      "u": "bluescreen_swarm_darkmatter24"
-    },
-    {
-      "n": "Songfish",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 340,
-      "u": "songfish_darkmatter24"
-    },
-    {
-      "n": "Space Vampire",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 342,
-      "u": "space_vampire_darkmatter24"
-    },
-    {
-      "n": "Evolved Space Vampire",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 343,
-      "u": "evolved_space_vampire_darkmatter24"
-    },
-    {
-      "n": "Spacer",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 344,
-      "u": "spacer_darkmatter24"
-    },
-    {
-      "n": "Sporeserker",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 346,
-      "u": "sporeserker_darkmatter24"
-    },
-    {
-      "n": "Sporegantua",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 347,
-      "u": "sporegantua_darkmatter24"
-    },
-    {
-      "n": "St. Vincent Archon",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 348,
-      "u": "st._vincent_archon_darkmatter24"
-    },
-    {
-      "n": "Thwirrel",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 349,
-      "u": "thwirrel_darkmatter24"
-    },
-    {
-      "n": "Tower Agent",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 350,
-      "u": "tower_agent_darkmatter24"
-    },
-    {
-      "n": "Tower Elite",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 351,
-      "u": "tower_elite_darkmatter24"
-    },
-    {
-      "n": "Trooper",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 352,
-      "u": "trooper_darkmatter24"
-    },
-    {
-      "n": "Trooper Commander",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 352,
-      "u": "trooper_commander_darkmatter24"
-    },
-    {
-      "n": "Var'zuul Wurm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 354,
-      "u": "var'zuul_wurm_darkmatter24"
-    },
-    {
-      "n": "Var'zuul Direwurm",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 355,
-      "u": "var'zuul_direwurm_darkmatter24"
-    },
-    {
-      "n": "Void Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 359,
-      "u": "void_elemental_darkmatter24"
-    },
-    {
-      "n": "Vortirrackt Larva",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 360,
-      "u": "vortirrackt_larva_darkmatter24"
-    },
-    {
-      "n": "Vortirrackt Chrysalis",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 361,
-      "u": "vortirrackt_chrysalis_darkmatter24"
-    },
-    {
-      "n": "Demi-Vortirrackt",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 361,
-      "u": "demi-vortirrackt_darkmatter24"
-    },
-    {
-      "n": "Adult Vortirrackt",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 362,
-      "u": "adult_vortirrackt_darkmatter24"
-    },
-    {
-      "n": "Wizmo",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 364,
-      "u": "wizmo_darkmatter24"
-    },
-    {
-      "n": "Wizmo Mob",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 365,
-      "u": "wizmo_mob_darkmatter24"
-    },
-    {
-      "n": "Wrothian Failure",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 367,
-      "u": "wrothian_failure_darkmatter24"
-    },
-    {
-      "n": "Wrothian",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 368,
-      "u": "wrothian_darkmatter24"
-    },
-    {
-      "n": "Wrothian Alpha",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 369,
-      "u": "wrothian_alpha_darkmatter24"
-    },
-    {
-      "n": "Wrothian Primarch",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 370,
-      "u": "wrothian_primarch_darkmatter24"
-    },
-    {
-      "n": "Wrothian Dragon",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 371,
-      "u": "wrothian_dragon_darkmatter24"
-    },
-    {
-      "n": "Xenostiltskin",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 372,
-      "u": "xenostiltskin_darkmatter24"
-    },
-    {
-      "n": "Armored Car",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 356,
-      "u": "armored_car_darkmatter24"
-    },
-    {
-      "n": "Hovercar",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 357,
-      "u": "hovercar_darkmatter24"
-    },
-    {
-      "n": "Hovertank",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 357,
-      "u": "hovertank_darkmatter24"
-    },
-    {
-      "n": "Speedcycle",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 358,
-      "u": "speedcycle_darkmatter24"
-    },
-    {
-      "n": "Tripod",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 358,
-      "u": "tripod_darkmatter24"
-    },
-    {
-      "n": "Asteroid Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 275,
-      "u": "asteroid_elemental_darkmatter24"
-    },
-    {
-      "n": "Eternal Dragon Wyrmling",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 292,
-      "u": "eternal_dragon_wyrmling_darkmatter24"
-    },
-    {
-      "n": "Eternal Dragon",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 293,
-      "u": "eternal_dragon_darkmatter24"
-    },
-    {
-      "n": "Flare Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 296,
-      "u": "flare_elemental_darkmatter24"
-    },
-    {
-      "n": "Ghost Transport",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 297,
-      "u": "ghost_transport_darkmatter24"
-    },
-    {
-      "n": "Ghost Frigate",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 298,
-      "u": "ghost_frigate_darkmatter24"
-    },
-    {
-      "n": "Gigapod",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 300,
-      "u": "gigapod_darkmatter24"
-    },
-    {
-      "n": "Nebula Elemental",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 320,
-      "u": "nebula_elemental_darkmatter24"
-    },
-    {
-      "n": "Planet Ooze",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 323,
-      "u": "planet_ooze_darkmatter24"
-    },
-    {
-      "n": "Replicator",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 331,
-      "u": "replicator_darkmatter24"
-    },
-    {
-      "n": "Swarm of Replicators",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 331,
-      "u": "swarm_of_replicators_darkmatter24"
-    },
-    {
-      "n": "Spaceshark",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 345,
-      "u": "spaceshark_darkmatter24"
-    },
-    {
-      "n": "Great White Spaceshark",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 345,
-      "u": "great_white_spaceshark_darkmatter24"
-    },
-    {
-      "n": "Var'zuul Colossus",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 353,
-      "u": "var'zuul_colossus_darkmatter24"
-    },
-    {
-      "n": "Wandering Rift",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 363,
-      "u": "wandering_rift_darkmatter24"
-    },
-    {
-      "n": "World Turtle Hatchling",
-      "s": "DarkMatter24",
-      "c": 1,
-      "p": 366,
-      "u": "world_turtle_hatchling_darkmatter24"
-    },
-    {
       "n": "Claw of Sha'argon",
       "s": "ExploringEberron",
       "c": 1,
@@ -30162,6 +30925,1861 @@
       "c": 1,
       "p": 2,
       "u": "velociraptor_llcompendiumofbeastsdinosaurs"
+    },
+    {
+      "n": "Aaztar-Ghola",
+      "s": "FEF",
+      "c": 1,
+      "p": 5,
+      "u": "aaztar-ghola_fef"
+    },
+    {
+      "n": "Adherer",
+      "s": "FEF",
+      "c": 1,
+      "p": 6,
+      "u": "adherer_fef"
+    },
+    {
+      "n": "Adult Leucrotta",
+      "s": "FEF",
+      "c": 1,
+      "p": 164,
+      "u": "adult_leucrotta_fef"
+    },
+    {
+      "n": "Aerial Servant",
+      "s": "FEF",
+      "c": 1,
+      "p": 7,
+      "u": "aerial_servant_fef"
+    },
+    {
+      "n": "Algoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 8,
+      "u": "algoid_fef"
+    },
+    {
+      "n": "Amphoron of Yothri (Juggernaut)",
+      "s": "FEF",
+      "c": 1,
+      "p": 10,
+      "u": "amphoron_of_yothri_(juggernaut)_fef"
+    },
+    {
+      "n": "Amphoron of Yothri (Warrior)",
+      "s": "FEF",
+      "c": 1,
+      "p": 10,
+      "u": "amphoron_of_yothri_(warrior)_fef"
+    },
+    {
+      "n": "Amphoron of Yothri (Worker)",
+      "s": "FEF",
+      "c": 1,
+      "p": 9,
+      "u": "amphoron_of_yothri_(worker)_fef"
+    },
+    {
+      "n": "Ant Lion",
+      "s": "FEF",
+      "c": 1,
+      "p": 11,
+      "u": "ant_lion_fef"
+    },
+    {
+      "n": "Aranea",
+      "s": "FEF",
+      "c": 1,
+      "p": 13,
+      "u": "aranea_fef"
+    },
+    {
+      "n": "Arcanoplasm",
+      "s": "FEF",
+      "c": 1,
+      "p": 14,
+      "u": "arcanoplasm_fef"
+    },
+    {
+      "n": "Artificer of Yothri",
+      "s": "FEF",
+      "c": 1,
+      "p": 15,
+      "u": "artificer_of_yothri_fef"
+    },
+    {
+      "n": "Ascomoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 16,
+      "u": "ascomoid_fef"
+    },
+    {
+      "n": "Assassin Bug",
+      "s": "FEF",
+      "c": 1,
+      "p": 17,
+      "u": "assassin_bug_fef"
+    },
+    {
+      "n": "Astral Moth",
+      "s": "FEF",
+      "c": 1,
+      "p": 18,
+      "u": "astral_moth_fef"
+    },
+    {
+      "n": "Astral Shark",
+      "s": "FEF",
+      "c": 1,
+      "p": 19,
+      "u": "astral_shark_fef"
+    },
+    {
+      "n": "Aurumvorax (Golden Gorger)",
+      "s": "FEF",
+      "c": 1,
+      "p": 20,
+      "u": "aurumvorax_(golden_gorger)_fef"
+    },
+    {
+      "n": "Biclops",
+      "s": "FEF",
+      "c": 1,
+      "p": 26,
+      "u": "biclops_fef"
+    },
+    {
+      "n": "Black Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "black_dracolisk_fef"
+    },
+    {
+      "n": "Blood Hawk",
+      "s": "FEF",
+      "c": 1,
+      "p": 27,
+      "u": "blood_hawk_fef"
+    },
+    {
+      "n": "Blood Orchid",
+      "s": "FEF",
+      "c": 1,
+      "p": 28,
+      "u": "blood_orchid_fef"
+    },
+    {
+      "n": "Blood Orchid Grand Savant",
+      "s": "FEF",
+      "c": 1,
+      "p": 29,
+      "u": "blood_orchid_grand_savant_fef"
+    },
+    {
+      "n": "Blood Orchid Savant",
+      "s": "FEF",
+      "c": 1,
+      "p": 28,
+      "u": "blood_orchid_savant_fef"
+    },
+    {
+      "n": "Blood Pudding",
+      "s": "FEF",
+      "c": 1,
+      "p": 187,
+      "u": "blood_pudding_fef"
+    },
+    {
+      "n": "Bloodsuckle",
+      "s": "FEF",
+      "c": 1,
+      "p": 30,
+      "u": "bloodsuckle_fef"
+    },
+    {
+      "n": "Bloody Bones",
+      "s": "FEF",
+      "c": 1,
+      "p": 31,
+      "u": "bloody_bones_fef"
+    },
+    {
+      "n": "Blue Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "blue_dracolisk_fef"
+    },
+    {
+      "n": "Boalisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 32,
+      "u": "boalisk_fef"
+    },
+    {
+      "n": "Bone Cobbler",
+      "s": "FEF",
+      "c": 1,
+      "p": 33,
+      "u": "bone_cobbler_fef"
+    },
+    {
+      "n": "Bonesucker",
+      "s": "FEF",
+      "c": 1,
+      "p": 35,
+      "u": "bonesucker_fef"
+    },
+    {
+      "n": "Borsin (Ape Centaur)",
+      "s": "FEF",
+      "c": 1,
+      "p": 36,
+      "u": "borsin_(ape_centaur)_fef"
+    },
+    {
+      "n": "Brass Man",
+      "s": "FEF",
+      "c": 1,
+      "p": 37,
+      "u": "brass_man_fef"
+    },
+    {
+      "n": "Brine Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 199,
+      "u": "brine_sea_serpent_fef"
+    },
+    {
+      "n": "Brontotherium (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 183,
+      "u": "brontotherium_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Brume",
+      "s": "FEF",
+      "c": 1,
+      "p": 38,
+      "u": "brume_fef"
+    },
+    {
+      "n": "Burning Dervish",
+      "s": "FEF",
+      "c": 1,
+      "p": 39,
+      "u": "burning_dervish_fef"
+    },
+    {
+      "n": "Cadaver",
+      "s": "FEF",
+      "c": 1,
+      "p": 40,
+      "u": "cadaver_fef"
+    },
+    {
+      "n": "Cadaver Lord",
+      "s": "FEF",
+      "c": 1,
+      "p": 41,
+      "u": "cadaver_lord_fef"
+    },
+    {
+      "n": "Carbuncle",
+      "s": "FEF",
+      "c": 1,
+      "p": 42,
+      "u": "carbuncle_fef"
+    },
+    {
+      "n": "Caryatid Column",
+      "s": "FEF",
+      "c": 1,
+      "p": 43,
+      "u": "caryatid_column_fef"
+    },
+    {
+      "n": "Caterprism",
+      "s": "FEF",
+      "c": 1,
+      "p": 45,
+      "u": "caterprism_fef"
+    },
+    {
+      "n": "Catoblepas",
+      "s": "FEF",
+      "c": 1,
+      "p": 47,
+      "u": "catoblepas_fef"
+    },
+    {
+      "n": "Cave Cricket",
+      "s": "FEF",
+      "c": 1,
+      "p": 48,
+      "u": "cave_cricket_fef"
+    },
+    {
+      "n": "Cave Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 49,
+      "u": "cave_eel_fef"
+    },
+    {
+      "n": "Cave Fisher",
+      "s": "FEF",
+      "c": 1,
+      "p": 50,
+      "u": "cave_fisher_fef"
+    },
+    {
+      "n": "Cave Leech",
+      "s": "FEF",
+      "c": 1,
+      "p": 51,
+      "u": "cave_leech_fef"
+    },
+    {
+      "n": "Centipede Nest",
+      "s": "FEF",
+      "c": 1,
+      "p": 52,
+      "u": "centipede_nest_fef"
+    },
+    {
+      "n": "Cerebral Stalker",
+      "s": "FEF",
+      "c": 1,
+      "p": 53,
+      "u": "cerebral_stalker_fef"
+    },
+    {
+      "n": "Chain Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 54,
+      "u": "chain_worm_fef"
+    },
+    {
+      "n": "Chaos Knight",
+      "s": "FEF",
+      "c": 1,
+      "p": 55,
+      "u": "chaos_knight_fef"
+    },
+    {
+      "n": "Chupacabra",
+      "s": "FEF",
+      "c": 1,
+      "p": 56,
+      "u": "chupacabra_fef"
+    },
+    {
+      "n": "Church Grim",
+      "s": "FEF",
+      "c": 1,
+      "p": 57,
+      "u": "church_grim_fef"
+    },
+    {
+      "n": "Churr",
+      "s": "FEF",
+      "c": 1,
+      "p": 58,
+      "u": "churr_fef"
+    },
+    {
+      "n": "Cimota",
+      "s": "FEF",
+      "c": 1,
+      "p": 59,
+      "u": "cimota_fef"
+    },
+    {
+      "n": "Cimota Guardian",
+      "s": "FEF",
+      "c": 1,
+      "p": 59,
+      "u": "cimota_guardian_fef"
+    },
+    {
+      "n": "Clamor",
+      "s": "FEF",
+      "c": 1,
+      "p": 62,
+      "u": "clamor_fef"
+    },
+    {
+      "n": "Cobra Flower",
+      "s": "FEF",
+      "c": 1,
+      "p": 63,
+      "u": "cobra_flower_fef"
+    },
+    {
+      "n": "Coffer Corpse",
+      "s": "FEF",
+      "c": 1,
+      "p": 64,
+      "u": "coffer_corpse_fef"
+    },
+    {
+      "n": "Cooshee",
+      "s": "FEF",
+      "c": 1,
+      "p": 65,
+      "u": "cooshee_fef"
+    },
+    {
+      "n": "Corpse Rook",
+      "s": "FEF",
+      "c": 1,
+      "p": 66,
+      "u": "corpse_rook_fef"
+    },
+    {
+      "n": "Corpsespinner",
+      "s": "FEF",
+      "c": 1,
+      "p": 67,
+      "u": "corpsespinner_fef"
+    },
+    {
+      "n": "Corpsespun",
+      "s": "FEF",
+      "c": 1,
+      "p": 68,
+      "u": "corpsespun_fef"
+    },
+    {
+      "n": "Crabman",
+      "s": "FEF",
+      "c": 1,
+      "p": 69,
+      "u": "crabman_fef"
+    },
+    {
+      "n": "Crimson Basilisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 21,
+      "u": "crimson_basilisk_fef"
+    },
+    {
+      "n": "Crimson Mist",
+      "s": "FEF",
+      "c": 1,
+      "p": 71,
+      "u": "crimson_mist_fef"
+    },
+    {
+      "n": "Crypt Thing",
+      "s": "FEF",
+      "c": 1,
+      "p": 72,
+      "u": "crypt_thing_fef"
+    },
+    {
+      "n": "Dagon",
+      "s": "FEF",
+      "c": 1,
+      "p": 73,
+      "u": "dagon_fef"
+    },
+    {
+      "n": "Dark Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 74,
+      "u": "dark_creeper_fef"
+    },
+    {
+      "n": "Dark Stalker",
+      "s": "FEF",
+      "c": 1,
+      "p": 74,
+      "u": "dark_stalker_fef"
+    },
+    {
+      "n": "Dark Triton",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_fef"
+    },
+    {
+      "n": "Dark Triton Captain",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_captain_fef"
+    },
+    {
+      "n": "Dark Triton Lieutenant",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_lieutenant_fef"
+    },
+    {
+      "n": "Dark Triton Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_shaman_fef"
+    },
+    {
+      "n": "Darnoc",
+      "s": "FEF",
+      "c": 1,
+      "p": 76,
+      "u": "darnoc_fef"
+    },
+    {
+      "n": "Death Dog",
+      "s": "FEF",
+      "c": 1,
+      "p": 77,
+      "u": "death_dog_fef"
+    },
+    {
+      "n": "Death Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 78,
+      "u": "death_worm_fef"
+    },
+    {
+      "n": "Decapus",
+      "s": "FEF",
+      "c": 1,
+      "p": 79,
+      "u": "decapus_fef"
+    },
+    {
+      "n": "Deep Hunter Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 200,
+      "u": "deep_hunter_sea_serpent_fef"
+    },
+    {
+      "n": "Demonic Knight",
+      "s": "FEF",
+      "c": 1,
+      "p": 82,
+      "u": "demonic_knight_fef"
+    },
+    {
+      "n": "Denizen of Leng",
+      "s": "FEF",
+      "c": 1,
+      "p": 83,
+      "u": "denizen_of_leng_fef"
+    },
+    {
+      "n": "Dire Corby",
+      "s": "FEF",
+      "c": 1,
+      "p": 84,
+      "u": "dire_corby_fef"
+    },
+    {
+      "n": "Doombat",
+      "s": "FEF",
+      "c": 1,
+      "p": 23,
+      "u": "doombat_fef"
+    },
+    {
+      "n": "Dust Digger",
+      "s": "FEF",
+      "c": 1,
+      "p": 88,
+      "u": "dust_digger_fef"
+    },
+    {
+      "n": "Eblis",
+      "s": "FEF",
+      "c": 1,
+      "p": 89,
+      "u": "eblis_fef"
+    },
+    {
+      "n": "Ectoplasm",
+      "s": "FEF",
+      "c": 1,
+      "p": 90,
+      "u": "ectoplasm_fef"
+    },
+    {
+      "n": "Elusa Hound",
+      "s": "FEF",
+      "c": 1,
+      "p": 93,
+      "u": "elusa_hound_fef"
+    },
+    {
+      "n": "Encephalon Gorger",
+      "s": "FEF",
+      "c": 1,
+      "p": 94,
+      "u": "encephalon_gorger_fef"
+    },
+    {
+      "n": "Fanged Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 201,
+      "u": "fanged_sea_serpent_fef"
+    },
+    {
+      "n": "Fear Guard",
+      "s": "FEF",
+      "c": 1,
+      "p": 98,
+      "u": "fear_guard_fef"
+    },
+    {
+      "n": "Fen Witch",
+      "s": "FEF",
+      "c": 1,
+      "p": 99,
+      "u": "fen_witch_fef"
+    },
+    {
+      "n": "Feral Undead Cat",
+      "s": "FEF",
+      "c": 1,
+      "p": 44,
+      "u": "feral_undead_cat_fef"
+    },
+    {
+      "n": "Fetch",
+      "s": "FEF",
+      "c": 1,
+      "p": 100,
+      "u": "fetch_fef"
+    },
+    {
+      "n": "Fire Drake",
+      "s": "FEF",
+      "c": 1,
+      "p": 86,
+      "u": "fire_drake_fef"
+    },
+    {
+      "n": "Flagstone Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 126,
+      "u": "flagstone_golem_fef"
+    },
+    {
+      "n": "Flail Snail",
+      "s": "FEF",
+      "c": 1,
+      "p": 103,
+      "u": "flail_snail_fef"
+    },
+    {
+      "n": "Flowershroud",
+      "s": "FEF",
+      "c": 1,
+      "p": 104,
+      "u": "flowershroud_fef"
+    },
+    {
+      "n": "Flying Ape",
+      "s": "FEF",
+      "c": 1,
+      "p": 12,
+      "u": "flying_ape_fef"
+    },
+    {
+      "n": "Foo Dog",
+      "s": "FEF",
+      "c": 1,
+      "p": 105,
+      "u": "foo_dog_fef"
+    },
+    {
+      "n": "Forester's Bane",
+      "s": "FEF",
+      "c": 1,
+      "p": 106,
+      "u": "forester's_bane_fef"
+    },
+    {
+      "n": "Four-Armed Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 113,
+      "u": "four-armed_gargoyle_fef"
+    },
+    {
+      "n": "Foxwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 227,
+      "u": "foxwere_fef"
+    },
+    {
+      "n": "Froghemoth",
+      "s": "FEF",
+      "c": 1,
+      "p": 107,
+      "u": "froghemoth_fef"
+    },
+    {
+      "n": "Fungoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 108,
+      "u": "fungoid_fef"
+    },
+    {
+      "n": "Fungus Bat",
+      "s": "FEF",
+      "c": 1,
+      "p": 109,
+      "u": "fungus_bat_fef"
+    },
+    {
+      "n": "Fungus Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 114,
+      "u": "fungus_gargoyle_fef"
+    },
+    {
+      "n": "Furnace Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 127,
+      "u": "furnace_golem_fef"
+    },
+    {
+      "n": "Fyr",
+      "s": "FEF",
+      "c": 1,
+      "p": 110,
+      "u": "fyr_fef"
+    },
+    {
+      "n": "Gallows Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 111,
+      "u": "gallows_tree_fef"
+    },
+    {
+      "n": "Gallows Tree Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 112,
+      "u": "gallows_tree_zombie_fef"
+    },
+    {
+      "n": "Ghost Ammonite",
+      "s": "FEF",
+      "c": 1,
+      "p": 118,
+      "u": "ghost_ammonite_fef"
+    },
+    {
+      "n": "Giant Ant Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 95,
+      "u": "giant_ant_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Beetle Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 96,
+      "u": "giant_beetle_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Clam",
+      "s": "FEF",
+      "c": 1,
+      "p": 61,
+      "u": "giant_clam_fef"
+    },
+    {
+      "n": "Giant Crab Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 97,
+      "u": "giant_crab_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Electric Catfish",
+      "s": "FEF",
+      "c": 1,
+      "p": 46,
+      "u": "giant_electric_catfish_fef"
+    },
+    {
+      "n": "Giant Horsefly",
+      "s": "FEF",
+      "c": 1,
+      "p": 146,
+      "u": "giant_horsefly_fef"
+    },
+    {
+      "n": "Giant Moray Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 91,
+      "u": "giant_moray_eel_fef"
+    },
+    {
+      "n": "Giant Rhinoceros Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 24,
+      "u": "giant_rhinoceros_beetle_fef"
+    },
+    {
+      "n": "Giant Seahorse",
+      "s": "FEF",
+      "c": 1,
+      "p": 205,
+      "u": "giant_seahorse_fef"
+    },
+    {
+      "n": "Giant Slicer Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 24,
+      "u": "giant_slicer_beetle_fef"
+    },
+    {
+      "n": "Giant Slug of P'nakh",
+      "s": "FEF",
+      "c": 1,
+      "p": 119,
+      "u": "giant_slug_of_p'nakh_fef"
+    },
+    {
+      "n": "Giant Water Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 25,
+      "u": "giant_water_beetle_fef"
+    },
+    {
+      "n": "Gillmonkey",
+      "s": "FEF",
+      "c": 1,
+      "p": 121,
+      "u": "gillmonkey_fef"
+    },
+    {
+      "n": "Glacial Ooze",
+      "s": "FEF",
+      "c": 1,
+      "p": 178,
+      "u": "glacial_ooze_fef"
+    },
+    {
+      "n": "Gloom Crawler",
+      "s": "FEF",
+      "c": 1,
+      "p": 122,
+      "u": "gloom_crawler_fef"
+    },
+    {
+      "n": "Gnarlwood",
+      "s": "FEF",
+      "c": 1,
+      "p": 123,
+      "u": "gnarlwood_fef"
+    },
+    {
+      "n": "Golden Cat",
+      "s": "FEF",
+      "c": 1,
+      "p": 125,
+      "u": "golden_cat_fef"
+    },
+    {
+      "n": "Gorbel",
+      "s": "FEF",
+      "c": 1,
+      "p": 130,
+      "u": "gorbel_fef"
+    },
+    {
+      "n": "Gorgimera",
+      "s": "FEF",
+      "c": 1,
+      "p": 131,
+      "u": "gorgimera_fef"
+    },
+    {
+      "n": "Gorilla Bear",
+      "s": "FEF",
+      "c": 1,
+      "p": 132,
+      "u": "gorilla_bear_fef"
+    },
+    {
+      "n": "Gray Nisp",
+      "s": "FEF",
+      "c": 1,
+      "p": 133,
+      "u": "gray_nisp_fef"
+    },
+    {
+      "n": "Greater Basilisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 22,
+      "u": "greater_basilisk_fef"
+    },
+    {
+      "n": "Greater Boneneedle",
+      "s": "FEF",
+      "c": 1,
+      "p": 34,
+      "u": "greater_boneneedle_fef"
+    },
+    {
+      "n": "Greater Fire Crab",
+      "s": "FEF",
+      "c": 1,
+      "p": 101,
+      "u": "greater_fire_crab_fef"
+    },
+    {
+      "n": "Green Brain",
+      "s": "FEF",
+      "c": 1,
+      "p": 134,
+      "u": "green_brain_fef"
+    },
+    {
+      "n": "Green Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "green_dracolisk_fef"
+    },
+    {
+      "n": "Green Guardian Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 115,
+      "u": "green_guardian_gargoyle_fef"
+    },
+    {
+      "n": "Grimm",
+      "s": "FEF",
+      "c": 1,
+      "p": 135,
+      "u": "grimm_fef"
+    },
+    {
+      "n": "Grippli",
+      "s": "FEF",
+      "c": 1,
+      "p": 136,
+      "u": "grippli_fef"
+    },
+    {
+      "n": "Grippli Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 136,
+      "u": "grippli_shaman_fef"
+    },
+    {
+      "n": "Grue (Type 1)",
+      "s": "FEF",
+      "c": 1,
+      "p": 137,
+      "u": "grue_(type_1)_fef"
+    },
+    {
+      "n": "Grue (Type 2)",
+      "s": "FEF",
+      "c": 1,
+      "p": 138,
+      "u": "grue_(type_2)_fef"
+    },
+    {
+      "n": "Gulper Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 92,
+      "u": "gulper_eel_fef"
+    },
+    {
+      "n": "Hanged Man",
+      "s": "FEF",
+      "c": 1,
+      "p": 139,
+      "u": "hanged_man_fef"
+    },
+    {
+      "n": "Hangman Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 140,
+      "u": "hangman_tree_fef"
+    },
+    {
+      "n": "Hanu-Naga",
+      "s": "FEF",
+      "c": 1,
+      "p": 175,
+      "u": "hanu-naga_fef"
+    },
+    {
+      "n": "Hawanar Genie",
+      "s": "FEF",
+      "c": 1,
+      "p": 117,
+      "u": "hawanar_genie_fef"
+    },
+    {
+      "n": "Hawktoad",
+      "s": "FEF",
+      "c": 1,
+      "p": 141,
+      "u": "hawktoad_fef"
+    },
+    {
+      "n": "Helix Moth Adult",
+      "s": "FEF",
+      "c": 1,
+      "p": 142,
+      "u": "helix_moth_adult_fef"
+    },
+    {
+      "n": "Helix Moth Larva",
+      "s": "FEF",
+      "c": 1,
+      "p": 142,
+      "u": "helix_moth_larva_fef"
+    },
+    {
+      "n": "Hieroglyphicroc",
+      "s": "FEF",
+      "c": 1,
+      "p": 143,
+      "u": "hieroglyphicroc_fef"
+    },
+    {
+      "n": "High Cimota",
+      "s": "FEF",
+      "c": 1,
+      "p": 60,
+      "u": "high_cimota_fef"
+    },
+    {
+      "n": "Hippocampus",
+      "s": "FEF",
+      "c": 1,
+      "p": 144,
+      "u": "hippocampus_fef"
+    },
+    {
+      "n": "Hoar Fox",
+      "s": "FEF",
+      "c": 1,
+      "p": 145,
+      "u": "hoar_fox_fef"
+    },
+    {
+      "n": "Huggermugger",
+      "s": "FEF",
+      "c": 1,
+      "p": 147,
+      "u": "huggermugger_fef"
+    },
+    {
+      "n": "Hyaenodon (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 184,
+      "u": "hyaenodon_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Hydra Cloud Gohl",
+      "s": "FEF",
+      "c": 1,
+      "p": 124,
+      "u": "hydra_cloud_gohl_fef"
+    },
+    {
+      "n": "Ice Drake",
+      "s": "FEF",
+      "c": 1,
+      "p": 87,
+      "u": "ice_drake_fef"
+    },
+    {
+      "n": "Igniguana",
+      "s": "FEF",
+      "c": 1,
+      "p": 148,
+      "u": "igniguana_fef"
+    },
+    {
+      "n": "Jack-in-Irons Giant",
+      "s": "FEF",
+      "c": 1,
+      "p": 120,
+      "u": "jack-in-irons_giant_fef"
+    },
+    {
+      "n": "Jackal of Darkness",
+      "s": "FEF",
+      "c": 1,
+      "p": 149,
+      "u": "jackal_of_darkness_fef"
+    },
+    {
+      "n": "Jaculi",
+      "s": "FEF",
+      "c": 1,
+      "p": 150,
+      "u": "jaculi_fef"
+    },
+    {
+      "n": "Jupiter Bloodsucker",
+      "s": "FEF",
+      "c": 1,
+      "p": 152,
+      "u": "jupiter_bloodsucker_fef"
+    },
+    {
+      "n": "Kamadan",
+      "s": "FEF",
+      "c": 1,
+      "p": 153,
+      "u": "kamadan_fef"
+    },
+    {
+      "n": "Kampfult",
+      "s": "FEF",
+      "c": 1,
+      "p": 154,
+      "u": "kampfult_fef"
+    },
+    {
+      "n": "Kech",
+      "s": "FEF",
+      "c": 1,
+      "p": 155,
+      "u": "kech_fef"
+    },
+    {
+      "n": "Kelpie",
+      "s": "FEF",
+      "c": 1,
+      "p": 156,
+      "u": "kelpie_fef"
+    },
+    {
+      "n": "Khargra",
+      "s": "FEF",
+      "c": 1,
+      "p": 157,
+      "u": "khargra_fef"
+    },
+    {
+      "n": "Korred",
+      "s": "FEF",
+      "c": 1,
+      "p": 158,
+      "u": "korred_fef"
+    },
+    {
+      "n": "Kurok-spirit",
+      "s": "FEF",
+      "c": 1,
+      "p": 159,
+      "u": "kurok-spirit_fef"
+    },
+    {
+      "n": "Land Lamprey",
+      "s": "FEF",
+      "c": 1,
+      "p": 160,
+      "u": "land_lamprey_fef"
+    },
+    {
+      "n": "Lava Child",
+      "s": "FEF",
+      "c": 1,
+      "p": 161,
+      "u": "lava_child_fef"
+    },
+    {
+      "n": "Lava Child Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 161,
+      "u": "lava_child_shaman_fef"
+    },
+    {
+      "n": "Lava Weird",
+      "s": "FEF",
+      "c": 1,
+      "p": 244,
+      "u": "lava_weird_fef"
+    },
+    {
+      "n": "Leng Spider",
+      "s": "FEF",
+      "c": 1,
+      "p": 162,
+      "u": "leng_spider_fef"
+    },
+    {
+      "n": "Lesser Boneneedle",
+      "s": "FEF",
+      "c": 1,
+      "p": 34,
+      "u": "lesser_boneneedle_fef"
+    },
+    {
+      "n": "Lesser Fire Crab",
+      "s": "FEF",
+      "c": 1,
+      "p": 101,
+      "u": "lesser_fire_crab_fef"
+    },
+    {
+      "n": "Lesser Shadow",
+      "s": "FEF",
+      "c": 1,
+      "p": 208,
+      "u": "lesser_shadow_fef"
+    },
+    {
+      "n": "Lightning Treant",
+      "s": "FEF",
+      "c": 1,
+      "p": 231,
+      "u": "lightning_treant_fef"
+    },
+    {
+      "n": "Lionwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 228,
+      "u": "lionwere_fef"
+    },
+    {
+      "n": "Lithonnite",
+      "s": "FEF",
+      "c": 1,
+      "p": 165,
+      "u": "lithonnite_fef"
+    },
+    {
+      "n": "Magma Ooze",
+      "s": "FEF",
+      "c": 1,
+      "p": 179,
+      "u": "magma_ooze_fef"
+    },
+    {
+      "n": "Magmoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 166,
+      "u": "magmoid_fef"
+    },
+    {
+      "n": "Mandragora",
+      "s": "FEF",
+      "c": 1,
+      "p": 167,
+      "u": "mandragora_fef"
+    },
+    {
+      "n": "Mandrill",
+      "s": "FEF",
+      "c": 1,
+      "p": 168,
+      "u": "mandrill_fef"
+    },
+    {
+      "n": "Mantari",
+      "s": "FEF",
+      "c": 1,
+      "p": 169,
+      "u": "mantari_fef"
+    },
+    {
+      "n": "Margoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 116,
+      "u": "margoyle_fef"
+    },
+    {
+      "n": "Mastodon (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 185,
+      "u": "mastodon_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Midnight Peddler",
+      "s": "FEF",
+      "c": 1,
+      "p": 170,
+      "u": "midnight_peddler_fef"
+    },
+    {
+      "n": "Mite",
+      "s": "FEF",
+      "c": 1,
+      "p": 171,
+      "u": "mite_fef"
+    },
+    {
+      "n": "Monstrous Crayfish",
+      "s": "FEF",
+      "c": 1,
+      "p": 70,
+      "u": "monstrous_crayfish_fef"
+    },
+    {
+      "n": "Mummy of the Deep",
+      "s": "FEF",
+      "c": 1,
+      "p": 173,
+      "u": "mummy_of_the_deep_fef"
+    },
+    {
+      "n": "Murder Crow",
+      "s": "FEF",
+      "c": 1,
+      "p": 174,
+      "u": "murder_crow_fef"
+    },
+    {
+      "n": "Mustard Jelly",
+      "s": "FEF",
+      "c": 1,
+      "p": 151,
+      "u": "mustard_jelly_fef"
+    },
+    {
+      "n": "Olive Slime",
+      "s": "FEF",
+      "c": 1,
+      "p": 176,
+      "u": "olive_slime_fef"
+    },
+    {
+      "n": "Olive Slime Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 177,
+      "u": "olive_slime_zombie_fef"
+    },
+    {
+      "n": "Origami Warrior",
+      "s": "FEF",
+      "c": 1,
+      "p": 180,
+      "u": "origami_warrior_fef"
+    },
+    {
+      "n": "Owlwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 229,
+      "u": "owlwere_fef"
+    },
+    {
+      "n": "Pech",
+      "s": "FEF",
+      "c": 1,
+      "p": 181,
+      "u": "pech_fef"
+    },
+    {
+      "n": "Pestie Mite",
+      "s": "FEF",
+      "c": 1,
+      "p": 172,
+      "u": "pestie_mite_fef"
+    },
+    {
+      "n": "Phycomid",
+      "s": "FEF",
+      "c": 1,
+      "p": 182,
+      "u": "phycomid_fef"
+    },
+    {
+      "n": "Poisonous Fire Snake",
+      "s": "FEF",
+      "c": 1,
+      "p": 102,
+      "u": "poisonous_fire_snake_fef"
+    },
+    {
+      "n": "Poisonous Kamadan",
+      "s": "FEF",
+      "c": 1,
+      "p": 153,
+      "u": "poisonous_kamadan_fef"
+    },
+    {
+      "n": "Pyrolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 188,
+      "u": "pyrolisk_fef"
+    },
+    {
+      "n": "Quadricorn",
+      "s": "FEF",
+      "c": 1,
+      "p": 189,
+      "u": "quadricorn_fef"
+    },
+    {
+      "n": "Quickwood",
+      "s": "FEF",
+      "c": 1,
+      "p": 190,
+      "u": "quickwood_fef"
+    },
+    {
+      "n": "Red Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "red_dracolisk_fef"
+    },
+    {
+      "n": "Red Jester",
+      "s": "FEF",
+      "c": 1,
+      "p": 192,
+      "u": "red_jester_fef"
+    },
+    {
+      "n": "Ronus",
+      "s": "FEF",
+      "c": 1,
+      "p": 193,
+      "u": "ronus_fef"
+    },
+    {
+      "n": "Russet Mold",
+      "s": "FEF",
+      "c": 1,
+      "p": 194,
+      "u": "russet_mold_fef"
+    },
+    {
+      "n": "Ryven",
+      "s": "FEF",
+      "c": 1,
+      "p": 195,
+      "u": "ryven_fef"
+    },
+    {
+      "n": "Ryven Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 195,
+      "u": "ryven_shaman_fef"
+    },
+    {
+      "n": "Sandling",
+      "s": "FEF",
+      "c": 1,
+      "p": 196,
+      "u": "sandling_fef"
+    },
+    {
+      "n": "Screaming Devilkin",
+      "s": "FEF",
+      "c": 1,
+      "p": 197,
+      "u": "screaming_devilkin_fef"
+    },
+    {
+      "n": "Scythe Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 198,
+      "u": "scythe_tree_fef"
+    },
+    {
+      "n": "Sepulchral Guardian",
+      "s": "FEF",
+      "c": 1,
+      "p": 206,
+      "u": "sepulchral_guardian_fef"
+    },
+    {
+      "n": "Shadow Mastiff",
+      "s": "FEF",
+      "c": 1,
+      "p": 207,
+      "u": "shadow_mastiff_fef"
+    },
+    {
+      "n": "Shadow Rat",
+      "s": "FEF",
+      "c": 1,
+      "p": 191,
+      "u": "shadow_rat_fef"
+    },
+    {
+      "n": "Shipbreaker Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 202,
+      "u": "shipbreaker_sea_serpent_fef"
+    },
+    {
+      "n": "Shroom",
+      "s": "FEF",
+      "c": 1,
+      "p": 209,
+      "u": "shroom_fef"
+    },
+    {
+      "n": "Skeleton Warrior",
+      "s": "FEF",
+      "c": 1,
+      "p": 210,
+      "u": "skeleton_warrior_fef"
+    },
+    {
+      "n": "Skelzi",
+      "s": "FEF",
+      "c": 1,
+      "p": 213,
+      "u": "skelzi_fef"
+    },
+    {
+      "n": "Skulk",
+      "s": "FEF",
+      "c": 1,
+      "p": 214,
+      "u": "skulk_fef"
+    },
+    {
+      "n": "Slithering Tracker",
+      "s": "FEF",
+      "c": 1,
+      "p": 215,
+      "u": "slithering_tracker_fef"
+    },
+    {
+      "n": "Snow Leopard",
+      "s": "FEF",
+      "c": 1,
+      "p": 163,
+      "u": "snow_leopard_fef"
+    },
+    {
+      "n": "Soul Reaper",
+      "s": "FEF",
+      "c": 1,
+      "p": 216,
+      "u": "soul_reaper_fef"
+    },
+    {
+      "n": "Spectral Troll",
+      "s": "FEF",
+      "c": 1,
+      "p": 234,
+      "u": "spectral_troll_fef"
+    },
+    {
+      "n": "Spitting Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 204,
+      "u": "spitting_sea_serpent_fef"
+    },
+    {
+      "n": "Stegocentipede",
+      "s": "FEF",
+      "c": 1,
+      "p": 217,
+      "u": "stegocentipede_fef"
+    },
+    {
+      "n": "Stone Guardian Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 128,
+      "u": "stone_guardian_golem_fef"
+    },
+    {
+      "n": "Strangle Weed",
+      "s": "FEF",
+      "c": 1,
+      "p": 218,
+      "u": "strangle_weed_fef"
+    },
+    {
+      "n": "Stygian Skeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 212,
+      "u": "stygian_skeleton_fef"
+    },
+    {
+      "n": "Tabaxi",
+      "s": "FEF",
+      "c": 1,
+      "p": 219,
+      "u": "tabaxi_fef"
+    },
+    {
+      "n": "Taer",
+      "s": "FEF",
+      "c": 1,
+      "p": 220,
+      "u": "taer_fef"
+    },
+    {
+      "n": "Tangtal",
+      "s": "FEF",
+      "c": 1,
+      "p": 221,
+      "u": "tangtal_fef"
+    },
+    {
+      "n": "Tazelwurm",
+      "s": "FEF",
+      "c": 1,
+      "p": 222,
+      "u": "tazelwurm_fef"
+    },
+    {
+      "n": "Temporal Crawler",
+      "s": "FEF",
+      "c": 1,
+      "p": 223,
+      "u": "temporal_crawler_fef"
+    },
+    {
+      "n": "Tendriculos",
+      "s": "FEF",
+      "c": 1,
+      "p": 224,
+      "u": "tendriculos_fef"
+    },
+    {
+      "n": "Tentacled Horror",
+      "s": "FEF",
+      "c": 1,
+      "p": 225,
+      "u": "tentacled_horror_fef"
+    },
+    {
+      "n": "Teratashia, Demon Princess of Dimensions",
+      "s": "FEF",
+      "c": 1,
+      "p": 80,
+      "u": "teratashia_demon_princess_of_dimensions_fef"
+    },
+    {
+      "n": "Thalasskoptis, Demon Prince",
+      "s": "FEF",
+      "c": 1,
+      "p": 81,
+      "u": "thalasskoptis_demon_prince_fef"
+    },
+    {
+      "n": "Tri-FLower Frond",
+      "s": "FEF",
+      "c": 1,
+      "p": 232,
+      "u": "tri-flower_frond_fef"
+    },
+    {
+      "n": "Tunnel Prawn",
+      "s": "FEF",
+      "c": 1,
+      "p": 236,
+      "u": "tunnel_prawn_fef"
+    },
+    {
+      "n": "Tunnel Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 237,
+      "u": "tunnel_worm_fef"
+    },
+    {
+      "n": "Two-Headed Troll",
+      "s": "FEF",
+      "c": 1,
+      "p": 235,
+      "u": "two-headed_troll_fef"
+    },
+    {
+      "n": "Vampire Rose",
+      "s": "FEF",
+      "c": 1,
+      "p": 238,
+      "u": "vampire_rose_fef"
+    },
+    {
+      "n": "Vegepygmy Chief",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_chief_fef"
+    },
+    {
+      "n": "Vegepygmy Commoner and Worker",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_commoner_and_worker_fef"
+    },
+    {
+      "n": "Vegepygmy Guard",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_guard_fef"
+    },
+    {
+      "n": "Volt (Bolt Wurm)",
+      "s": "FEF",
+      "c": 1,
+      "p": 241,
+      "u": "volt_(bolt_wurm)_fef"
+    },
+    {
+      "n": "Vorin",
+      "s": "FEF",
+      "c": 1,
+      "p": 242,
+      "u": "vorin_fef"
+    },
+    {
+      "n": "Vulchling",
+      "s": "FEF",
+      "c": 1,
+      "p": 243,
+      "u": "vulchling_fef"
+    },
+    {
+      "n": "Were-Mist",
+      "s": "FEF",
+      "c": 1,
+      "p": 245,
+      "u": "were-mist_fef"
+    },
+    {
+      "n": "Weredactyl",
+      "s": "FEF",
+      "c": 1,
+      "p": 246,
+      "u": "weredactyl_fef"
+    },
+    {
+      "n": "White Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "white_dracolisk_fef"
+    },
+    {
+      "n": "Widow Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 247,
+      "u": "widow_creeper_fef"
+    },
+    {
+      "n": "Witch Grass",
+      "s": "FEF",
+      "c": 1,
+      "p": 248,
+      "u": "witch_grass_fef"
+    },
+    {
+      "n": "Witherstench",
+      "s": "FEF",
+      "c": 1,
+      "p": 249,
+      "u": "witherstench_fef"
+    },
+    {
+      "n": "Wolfwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 230,
+      "u": "wolfwere_fef"
+    },
+    {
+      "n": "Wooden Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 129,
+      "u": "wooden_golem_fef"
+    },
+    {
+      "n": "Woolly Rhinoceros (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 186,
+      "u": "woolly_rhinoceros_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Yellow Musk Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 250,
+      "u": "yellow_musk_creeper_fef"
+    },
+    {
+      "n": "Yellow Musk Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 251,
+      "u": "yellow_musk_zombie_fef"
+    },
+    {
+      "n": "Young Leucrotta",
+      "s": "FEF",
+      "c": 1,
+      "p": 164,
+      "u": "young_leucrotta_fef"
+    },
+    {
+      "n": "Zombie Raven",
+      "s": "FEF",
+      "c": 1,
+      "p": 252,
+      "u": "zombie_raven_fef"
     },
     {
       "n": "Abolisher of Sorrow",
@@ -36270,6 +38888,363 @@
       "u": "the_shield_of_sacred_flame_dungeonsdrakkenheim"
     },
     {
+      "n": "Amulet of Incineration",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 382,
+      "u": "amulet_of_incineration_monstersofdrakkenheim"
+    },
+    {
+      "n": "Amulet of Primal Wisdom",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 382,
+      "u": "amulet_of_primal_wisdom_monstersofdrakkenheim"
+    },
+    {
+      "n": "Aqua Delerium",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 382,
+      "u": "aqua_delerium_monstersofdrakkenheim"
+    },
+    {
+      "n": "Aqua Expurgo",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 382,
+      "u": "aqua_expurgo_monstersofdrakkenheim"
+    },
+    {
+      "n": "Bracers of Arc Lightning",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 383,
+      "u": "bracers_of_arc_lightning_monstersofdrakkenheim"
+    },
+    {
+      "n": "Charged Gauntlets",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 383,
+      "u": "charged_gauntlets_monstersofdrakkenheim"
+    },
+    {
+      "n": "Charm of Swarms",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 384,
+      "u": "charm_of_swarms_monstersofdrakkenheim"
+    },
+    {
+      "n": "Chip",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "chip_monstersofdrakkenheim"
+    },
+    {
+      "n": "Circlet of Valor",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 384,
+      "u": "circlet_of_valor_monstersofdrakkenheim"
+    },
+    {
+      "n": "Cold Snap Circlet",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 384,
+      "u": "cold_snap_circlet_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crest of the Sacred Flame",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 384,
+      "u": "crest_of_the_sacred_flame_monstersofdrakkenheim"
+    },
+    {
+      "n": "Crystal",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "crystal_monstersofdrakkenheim"
+    },
+    {
+      "n": "Electric Charge Ring",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 385,
+      "u": "electric_charge_ring_monstersofdrakkenheim"
+    },
+    {
+      "n": "Everhot Stew Pot",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 385,
+      "u": "everhot_stew_pot_monstersofdrakkenheim"
+    },
+    {
+      "n": "Familiar Figurine",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 385,
+      "u": "familiar_figurine_monstersofdrakkenheim"
+    },
+    {
+      "n": "Fractal Key",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 305,
+      "u": "fractal_key_monstersofdrakkenheim"
+    },
+    {
+      "n": "Fragment",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "fragment_monstersofdrakkenheim"
+    },
+    {
+      "n": "Geode",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "geode_monstersofdrakkenheim"
+    },
+    {
+      "n": "Ghost Sight Bow",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 386,
+      "u": "ghost_sight_bow_monstersofdrakkenheim"
+    },
+    {
+      "n": "Giant Femur Club",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 387,
+      "u": "giant_femur_club_monstersofdrakkenheim"
+    },
+    {
+      "n": "Gloves of Ratling Agility",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 387,
+      "u": "gloves_of_ratling_agility_monstersofdrakkenheim"
+    },
+    {
+      "n": "Greater Rejuvenation Potion",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 387,
+      "u": "greater_rejuvenation_potion_monstersofdrakkenheim"
+    },
+    {
+      "n": "Hazewind Cape",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 388,
+      "u": "hazewind_cape_monstersofdrakkenheim"
+    },
+    {
+      "n": "Helm of Burning Rage",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 388,
+      "u": "helm_of_burning_rage_monstersofdrakkenheim"
+    },
+    {
+      "n": "Mantle of Otherworldly Charisma",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 389,
+      "u": "mantle_of_otherworldly_charisma_monstersofdrakkenheim"
+    },
+    {
+      "n": "Manual of Occult Anatomy +1",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 389,
+      "u": "manual_of_occult_anatomy_+1_monstersofdrakkenheim"
+    },
+    {
+      "n": "Manual of Occult Anatomy +2",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 389,
+      "u": "manual_of_occult_anatomy_+2_monstersofdrakkenheim"
+    },
+    {
+      "n": "Manual of Occult Anatomy +3",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 389,
+      "u": "manual_of_occult_anatomy_+3_monstersofdrakkenheim"
+    },
+    {
+      "n": "Mask of Monstrous Forms",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 389,
+      "u": "mask_of_monstrous_forms_monstersofdrakkenheim"
+    },
+    {
+      "n": "Massive Cluster",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "massive_cluster_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pelt of the Pack Lord",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "pelt_of_the_pack_lord_monstersofdrakkenheim"
+    },
+    {
+      "n": "Pendant of Prismatic Protection",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "pendant_of_prismatic_protection_monstersofdrakkenheim"
+    },
+    {
+      "n": "Potion of Controlled Mutation",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "potion_of_controlled_mutation_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rat Tooth Dagger",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "rat_tooth_dagger_monstersofdrakkenheim"
+    },
+    {
+      "n": "Reflector Shield",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "reflector_shield_monstersofdrakkenheim"
+    },
+    {
+      "n": "Rejuvenation Potion",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 391,
+      "u": "rejuvenation_potion_monstersofdrakkenheim"
+    },
+    {
+      "n": "Retracer Boots",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 392,
+      "u": "retracer_boots_monstersofdrakkenheim"
+    },
+    {
+      "n": "Scroll of Spell Power",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 392,
+      "u": "scroll_of_spell_power_monstersofdrakkenheim"
+    },
+    {
+      "n": "Scythed Arm Blades",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 392,
+      "u": "scythed_arm_blades_monstersofdrakkenheim"
+    },
+    {
+      "n": "Shard",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 370,
+      "u": "shard_monstersofdrakkenheim"
+    },
+    {
+      "n": "Swashbuckler's Boots",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 392,
+      "u": "swashbuckler's_boots_monstersofdrakkenheim"
+    },
+    {
+      "n": "Talon Gloves",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 393,
+      "u": "talon_gloves_monstersofdrakkenheim"
+    },
+    {
+      "n": "Tentacle Whip",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 393,
+      "u": "tentacle_whip_monstersofdrakkenheim"
+    },
+    {
+      "n": "Time Dilation Medallion",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 394,
+      "u": "time_dilation_medallion_monstersofdrakkenheim"
+    },
+    {
+      "n": "Trollblood Potion",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 394,
+      "u": "trollblood_potion_monstersofdrakkenheim"
+    },
+    {
+      "n": "Vampire Blood Potion",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 394,
+      "u": "vampire_blood_potion_monstersofdrakkenheim"
+    },
+    {
+      "n": "Wand of Jinxes",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 394,
+      "u": "wand_of_jinxes_monstersofdrakkenheim"
+    },
+    {
+      "n": "Wand of the Precocious Apprentice",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 395,
+      "u": "wand_of_the_precocious_apprentice_monstersofdrakkenheim"
+    },
+    {
+      "n": "Whirling Bonesaw",
+      "s": "MonstersOfDrakkenheim",
+      "c": 5,
+      "p": 395,
+      "u": "whirling_bonesaw_monstersofdrakkenheim"
+    },
+    {
+      "n": "Porridge of Healing",
+      "s": "GrimHollowWB",
+      "c": 5,
+      "p": 7,
+      "u": "porridge_of_healing_grimhollowwb"
+    },
+    {
+      "n": "T'vir's Sword",
+      "s": "GrimHollowWB",
+      "c": 5,
+      "p": 7,
+      "u": "t'vir's_sword_grimhollowwb"
+    },
+    {
       "n": "Adder Stone",
       "s": "GrimHollowCG24",
       "c": 5,
@@ -38823,1259 +41798,6 @@
       "c": 5,
       "p": 30,
       "u": "spark_of_the_ice_phoenix_nlc"
-    },
-    {
-      "n": "Additional Arms",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 177,
-      "u": "additional_arms_darkmatter24"
-    },
-    {
-      "n": "AI Core",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "ai_core_darkmatter24"
-    },
-    {
-      "n": "Android Skin",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 178,
-      "u": "android_skin_darkmatter24"
-    },
-    {
-      "n": "Ankh of Ra",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 178,
-      "u": "ankh_of_ra_darkmatter24"
-    },
-    {
-      "n": "Arcane Cannon",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "arcane_cannon_darkmatter24"
-    },
-    {
-      "n": "Arcane Resonator",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 178,
-      "u": "arcane_resonator_darkmatter24"
-    },
-    {
-      "n": "Cantrip Module",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 183,
-      "u": "cantrip_module_darkmatter24"
-    },
-    {
-      "n": "Arcane Terminal",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 178,
-      "u": "arcane_terminal_darkmatter24"
-    },
-    {
-      "n": "Arcane Warhead",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 178,
-      "u": "arcane_warhead_darkmatter24"
-    },
-    {
-      "n": "Arm Blade",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 179,
-      "u": "arm_blade_darkmatter24"
-    },
-    {
-      "n": "Arm Cannon",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 179,
-      "u": "arm_cannon_darkmatter24"
-    },
-    {
-      "n": "Attractor Mine",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 179,
-      "u": "attractor_mine_darkmatter24"
-    },
-    {
-      "n": "B.E.G.",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 180,
-      "u": "b.e.g._darkmatter24"
-    },
-    {
-      "n": "Ballistic Sledge",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "ballistic_sledge_darkmatter24"
-    },
-    {
-      "n": "Bandolier",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "bandolier_darkmatter24"
-    },
-    {
-      "n": "Binoculars",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "binoculars_darkmatter24"
-    },
-    {
-      "n": "Black Box",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 180,
-      "u": "black_box_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (+1 Enchanted Battery)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(+1_enchanted_battery)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (+2 Enchanted Battery)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(+2_enchanted_battery)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (+3 Enchanted Battery)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(+3_enchanted_battery)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Aimbot)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(aimbot)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Antimatter Battery)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(antimatter_battery)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Beam Module)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(beam_module)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Dragonfire Break)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(dragonfire_break)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Electrocoil)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(electrocoil)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Extended Barrel)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(extended_barrel)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Magnetic Mount)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(magnetic_mount)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Overcharge Module)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(overcharge_module)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Reinforced Frame)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(reinforced_frame)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Ricochet Barrel)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(ricochet_barrel)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Scope)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(scope)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Silencer)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(silencer)_darkmatter24"
-    },
-    {
-      "n": "Blaster Mod (Thermal Sights)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "blaster_mod_(thermal_sights)_darkmatter24"
-    },
-    {
-      "n": "Blaster Prototype",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 181,
-      "u": "blaster_prototype_darkmatter24"
-    },
-    {
-      "n": "Bottled Lightning",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 182,
-      "u": "bottled_lightning_darkmatter24"
-    },
-    {
-      "n": "Bounty Hunter's Carbine",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 182,
-      "u": "bounty_hunter's_carbine_darkmatter24"
-    },
-    {
-      "n": "Bounty Hunter's Vest",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "bounty_hunter's_vest_darkmatter24"
-    },
-    {
-      "n": "Brass Repeater",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "brass_repeater_darkmatter24"
-    },
-    {
-      "n": "Captain's Chair",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "captain's_chair_darkmatter24"
-    },
-    {
-      "n": "Climbing Apparatus",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "climbing_apparatus_darkmatter24"
-    },
-    {
-      "n": "Cloaking",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "cloaking_darkmatter24"
-    },
-    {
-      "n": "Clockwork Wings",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 183,
-      "u": "clockwork_wings_darkmatter24"
-    },
-    {
-      "n": "Comm Set",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "comm_set_darkmatter24"
-    },
-    {
-      "n": "Concentration Module",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "concentration_module_darkmatter24"
-    },
-    {
-      "n": "Concussion Grenade",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "concussion_grenade_darkmatter24"
-    },
-    {
-      "n": "Contractor Nail",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "contractor_nail_darkmatter24"
-    },
-    {
-      "n": "Contractor Needle",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "contractor_needle_darkmatter24"
-    },
-    {
-      "n": "Cryogenic Pod",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "cryogenic_pod_darkmatter24"
-    },
-    {
-      "n": "Data Drive",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "data_drive_darkmatter24"
-    },
-    {
-      "n": "Datapad",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "datapad_darkmatter24"
-    },
-    {
-      "n": "Death Ray",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "death_ray_darkmatter24"
-    },
-    {
-      "n": "Deck of Holding",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "deck_of_holding_darkmatter24"
-    },
-    {
-      "n": "Deck of Holding (Expanded Storage)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "deck_of_holding_(expanded_storage)_darkmatter24"
-    },
-    {
-      "n": "Deck of Holding (Password Protected)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "deck_of_holding_(password_protected)_darkmatter24"
-    },
-    {
-      "n": "Diode Beam",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "diode_beam_darkmatter24"
-    },
-    {
-      "n": "Dome Projector",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "dome_projector_darkmatter24"
-    },
-    {
-      "n": "Double Laser Sword",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "double_laser_sword_darkmatter24"
-    },
-    {
-      "n": "Drive Wheel",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "drive_wheel_darkmatter24"
-    },
-    {
-      "n": "Drone Controller",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "drone_controller_darkmatter24"
-    },
-    {
-      "n": "Embedded Armor",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 187,
-      "u": "embedded_armor_darkmatter24"
-    },
-    {
-      "n": "Embedded Mini Fridge",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "embedded_mini_fridge_darkmatter24"
-    },
-    {
-      "n": "Embedded Translator",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "embedded_translator_darkmatter24"
-    },
-    {
-      "n": "Embedded Weapon",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 187,
-      "u": "embedded_weapon_darkmatter24"
-    },
-    {
-      "n": "Encyclopedia Multiplanaria",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "encyclopedia_multiplanaria_darkmatter24"
-    },
-    {
-      "n": "Engineer's Pack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "engineer's_pack_darkmatter24"
-    },
-    {
-      "n": "Engineer's Station",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "engineer's_station_darkmatter24"
-    },
-    {
-      "n": "Escape Pods",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "escape_pods_darkmatter24"
-    },
-    {
-      "n": "Etheradio",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "etheradio_darkmatter24"
-    },
-    {
-      "n": "Exo-Frame",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "exo-frame_darkmatter24"
-    },
-    {
-      "n": "Fighter Bay",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "fighter_bay_darkmatter24"
-    },
-    {
-      "n": "Final Word",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "final_word_darkmatter24"
-    },
-    {
-      "n": "Finger Gun Glove",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "finger_gun_glove_darkmatter24"
-    },
-    {
-      "n": "Finger Picks",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "finger_picks_darkmatter24"
-    },
-    {
-      "n": "Flamethrower",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "flamethrower_darkmatter24"
-    },
-    {
-      "n": "Flare",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "flare_darkmatter24"
-    },
-    {
-      "n": "Flashback Polaroid",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "flashback_polaroid_darkmatter24"
-    },
-    {
-      "n": "Flashbang",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "flashbang_darkmatter24"
-    },
-    {
-      "n": "Flashlight",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "flashlight_darkmatter24"
-    },
-    {
-      "n": "Freeze Bomb",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "freeze_bomb_darkmatter24"
-    },
-    {
-      "n": "Gamestation",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gamestation_darkmatter24"
-    },
-    {
-      "n": "Gaming Set (Digital Games)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gaming_set_(digital_games)_darkmatter24"
-    },
-    {
-      "n": "Gamma Fragment",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gamma_fragment_darkmatter24"
-    },
-    {
-      "n": "Gamma Pendant",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gamma_pendant_darkmatter24"
-    },
-    {
-      "n": "Golem Arms",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 190,
-      "u": "golem_arms_darkmatter24"
-    },
-    {
-      "n": "Grasshopper",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "grasshopper_darkmatter24"
-    },
-    {
-      "n": "Gravity Gun",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gravity_gun_darkmatter24"
-    },
-    {
-      "n": "Gravity Nullifier",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gravity_nullifier_darkmatter24"
-    },
-    {
-      "n": "Greater Shipmending Spray",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "greater_shipmending_spray_darkmatter24"
-    },
-    {
-      "n": "Gunner Bay",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "gunner_bay_darkmatter24"
-    },
-    {
-      "n": "Hacker Hands",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 191,
-      "u": "hacker_hands_darkmatter24"
-    },
-    {
-      "n": "Hardlight Bracer",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "hardlight_bracer_darkmatter24"
-    },
-    {
-      "n": "Heart of Steel",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "heart_of_steel_darkmatter24"
-    },
-    {
-      "n": "Heavy Legs",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "heavy_legs_darkmatter24"
-    },
-    {
-      "n": "Heretical Sunstaff of Ra",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "heretical_sunstaff_of_ra_darkmatter24"
-    },
-    {
-      "n": "Holo-Companion",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "holo-companion_darkmatter24"
-    },
-    {
-      "n": "Holo-Sphere",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "holo-sphere_darkmatter24"
-    },
-    {
-      "n": "Holster",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "holster_darkmatter24"
-    },
-    {
-      "n": "Hoverboard",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "hoverboard_darkmatter24"
-    },
-    {
-      "n": "Hyper-Krash",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "hyper-krash_darkmatter24"
-    },
-    {
-      "n": "Hypodermic Needle",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "hypodermic_needle_darkmatter24"
-    },
-    {
-      "n": "Igniter",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "igniter_darkmatter24"
-    },
-    {
-      "n": "Impulse Unit",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "impulse_unit_darkmatter24"
-    },
-    {
-      "n": "Infrasight Eyes",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "infrasight_eyes_darkmatter24"
-    },
-    {
-      "n": "Interface Rig",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "interface_rig_darkmatter24"
-    },
-    {
-      "n": "Invisibomb",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "invisibomb_darkmatter24"
-    },
-    {
-      "n": "Jax",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "jax_darkmatter24"
-    },
-    {
-      "n": "Jetpack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "jetpack_darkmatter24"
-    },
-    {
-      "n": "Justiciar's Gavel",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "justiciar's_gavel_darkmatter24"
-    },
-    {
-      "n": "Krash",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "krash_darkmatter24"
-    },
-    {
-      "n": "Laser Eyes",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "laser_eyes_darkmatter24"
-    },
-    {
-      "n": "Lazarus Unit",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "lazarus_unit_darkmatter24"
-    },
-    {
-      "n": "Life Suit",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "life_suit_darkmatter24"
-    },
-    {
-      "n": "Life Support",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "life_support_darkmatter24"
-    },
-    {
-      "n": "Log Keeper",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "log_keeper_darkmatter24"
-    },
-    {
-      "n": "Logic Unit",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "logic_unit_darkmatter24"
-    },
-    {
-      "n": "Manipulators",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "manipulators_darkmatter24"
-    },
-    {
-      "n": "Marine's Pack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "marine's_pack_darkmatter24"
-    },
-    {
-      "n": "Motion Tracker",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "motion_tracker_darkmatter24"
-    },
-    {
-      "n": "Nanobot Canister (Deconstructive)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "nanobot_canister_(deconstructive)_darkmatter24"
-    },
-    {
-      "n": "Nanobot Canister (Reconstructive)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "nanobot_canister_(reconstructive)_darkmatter24"
-    },
-    {
-      "n": "Nanobot Canister (Transformative)",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "nanobot_canister_(transformative)_darkmatter24"
-    },
-    {
-      "n": "Omnitool",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "omnitool_darkmatter24"
-    },
-    {
-      "n": "Overdrive Module",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "overdrive_module_darkmatter24"
-    },
-    {
-      "n": "Personality Module",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "personality_module_darkmatter24"
-    },
-    {
-      "n": "Pilot's Seat",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "pilot's_seat_darkmatter24"
-    },
-    {
-      "n": "Potion of Liquid Air",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "potion_of_liquid_air_darkmatter24"
-    },
-    {
-      "n": "Potion of Solar Radiance",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "potion_of_solar_radiance_darkmatter24"
-    },
-    {
-      "n": "Probe",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "probe_darkmatter24"
-    },
-    {
-      "n": "Psionic Piercing",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "psionic_piercing_darkmatter24"
-    },
-    {
-      "n": "Quadcorder",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "quadcorder_darkmatter24"
-    },
-    {
-      "n": "Rebounding Blade",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "rebounding_blade_darkmatter24"
-    },
-    {
-      "n": "Remote Eye",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "remote_eye_darkmatter24"
-    },
-    {
-      "n": "Remote Piloting Apparatus",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "remote_piloting_apparatus_darkmatter24"
-    },
-    {
-      "n": "Replacement",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "replacement_darkmatter24"
-    },
-    {
-      "n": "Researcher's Pack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "researcher's_pack_darkmatter24"
-    },
-    {
-      "n": "Resistance Plating",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 197,
-      "u": "resistance_plating_darkmatter24"
-    },
-    {
-      "n": "Ring of Paradoxes",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "ring_of_paradoxes_darkmatter24"
-    },
-    {
-      "n": "Ring of Spacewalking",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "ring_of_spacewalking_darkmatter24"
-    },
-    {
-      "n": "Roach",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "roach_darkmatter24"
-    },
-    {
-      "n": "Scout Scanner",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "scout_scanner_darkmatter24"
-    },
-    {
-      "n": "Sensors",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "sensors_darkmatter24"
-    },
-    {
-      "n": "Shield Emitter",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shield_emitter_darkmatter24"
-    },
-    {
-      "n": "Shield Generator",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shield_generator_darkmatter24"
-    },
-    {
-      "n": "Shield Module",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shield_module_darkmatter24"
-    },
-    {
-      "n": "Shipmending Spray",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shipmending_spray_darkmatter24"
-    },
-    {
-      "n": "Shipmending Sprays",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shipmending_sprays_darkmatter24"
-    },
-    {
-      "n": "Shock Absorbers",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shock_absorbers_darkmatter24"
-    },
-    {
-      "n": "Shoulder Cannon",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "shoulder_cannon_darkmatter24"
-    },
-    {
-      "n": "Signal Jammer",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "signal_jammer_darkmatter24"
-    },
-    {
-      "n": "Singularity Emitter",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "singularity_emitter_darkmatter24"
-    },
-    {
-      "n": "Skeleton Keycard",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "skeleton_keycard_darkmatter24"
-    },
-    {
-      "n": "Sling",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "sling_darkmatter24"
-    },
-    {
-      "n": "Solar Wings of Ra",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "solar_wings_of_ra_darkmatter24"
-    },
-    {
-      "n": "Sorting Beast",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "sorting_beast_darkmatter24"
-    },
-    {
-      "n": "Spacer's Pack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "spacer's_pack_darkmatter24"
-    },
-    {
-      "n": "Spacewalkers",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "spacewalkers_darkmatter24"
-    },
-    {
-      "n": "Spider Pod",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "spider_pod_darkmatter24"
-    },
-    {
-      "n": "Spiked Skin",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 199,
-      "u": "spiked_skin_darkmatter24"
-    },
-    {
-      "n": "Superior Shipmending Spray",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "superior_shipmending_spray_darkmatter24"
-    },
-    {
-      "n": "Supreme Shipmending Spray",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "supreme_shipmending_spray_darkmatter24"
-    },
-    {
-      "n": "Surveyor's Pack",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "surveyor's_pack_darkmatter24"
-    },
-    {
-      "n": "Tachyon Missile Launcher",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "tachyon_missile_launcher_darkmatter24"
-    },
-    {
-      "n": "Tactical Vest",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "tactical_vest_darkmatter24"
-    },
-    {
-      "n": "Teleporters",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "teleporters_darkmatter24"
-    },
-    {
-      "n": "Terraforming Engine",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "terraforming_engine_darkmatter24"
-    },
-    {
-      "n": "Thermalsight Eyes",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "thermalsight_eyes_darkmatter24"
-    },
-    {
-      "n": "Thunder Rifle",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "thunder_rifle_darkmatter24"
-    },
-    {
-      "n": "Titan Armor",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 200,
-      "u": "titan_armor_darkmatter24"
-    },
-    {
-      "n": "Traction Spikes",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "traction_spikes_darkmatter24"
-    },
-    {
-      "n": "Tractor Beam",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "tractor_beam_darkmatter24"
-    },
-    {
-      "n": "Un's Codex",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "un's_codex_darkmatter24"
-    },
-    {
-      "n": "Universal Translator",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "universal_translator_darkmatter24"
-    },
-    {
-      "n": "Vent Tape",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "vent_tape_darkmatter24"
-    },
-    {
-      "n": "Voice Changer",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "voice_changer_darkmatter24"
-    },
-    {
-      "n": "Void Beacon",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "void_beacon_darkmatter24"
-    },
-    {
-      "n": "W-REC",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "w-rec_darkmatter24"
-    },
-    {
-      "n": "Weapon Wheel",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "weapon_wheel_darkmatter24"
-    },
-    {
-      "n": "Wristwatch",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "wristwatch_darkmatter24"
-    },
-    {
-      "n": "Zipgun",
-      "s": "DarkMatter24",
-      "c": 5,
-      "p": 0,
-      "u": "zipgun_darkmatter24"
     },
     {
       "n": "+1 Tools of the Master",
@@ -44910,6 +46632,8 @@
       "SaF": "data/bestiary/bestiary-SaF.json",
       "WhereEvilLives": "data/bestiary/bestiary-WhereEvilLives.json",
       "DungeonsDrakkenheim": "data/bestiary/bestiary-DungeonsDrakkenheim.json",
+      "MonstersOfDrakkenheim": "data/bestiary/bestiary-MonstersOfDrakkenheim.json",
+      "GrimHollowWB": "data/bestiary/bestiary-GrimHollowWB.json",
       "GrimHollowCG24": "data/bestiary/bestiary-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/bestiary/bestiary-GrimHollowLairsEtharis.json",
       "GHMG": "data/bestiary/bestiary-GHMG.json",
@@ -44917,7 +46641,6 @@
       "HumblewoodTales": "data/bestiary/bestiary-HumblewoodTales.json",
       "SGttEH": "data/bestiary/bestiary-SGttEH.json",
       "NLC": "data/bestiary/bestiary-NLC.json",
-      "DarkMatter24": "data/bestiary/bestiary-DarkMatter24.json",
       "ExploringEberron": "data/bestiary/bestiary-ExploringEberron.json",
       "ExploringEberron24": "data/bestiary/bestiary-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/bestiary/bestiary-ChroniclesOfEberron.json",
@@ -44928,6 +46651,7 @@
       "underworld": "data/bestiary/bestiary-underworld.json",
       "LLCompendiumOfBeasts": "data/bestiary/bestiary-LLCompendiumOfBeasts.json",
       "LLCompendiumOfBeastsDinosaurs": "data/bestiary/bestiary-LLCompendiumOfBeastsDinosaurs.json",
+      "FEF": "data/bestiary/bestiary-FEF.json",
       "PB5E": "data/bestiary/bestiary-PB5E.json",
       "BookofFiends": "data/bestiary/bestiary-BookofFiends.json",
       "SLCC": "data/bestiary/bestiary-SLCC.json",
@@ -44963,6 +46687,8 @@
       "SaF": "data/items/items-SaF.json",
       "WhereEvilLives": "data/items/items-WhereEvilLives.json",
       "DungeonsDrakkenheim": "data/items/items-DungeonsDrakkenheim.json",
+      "MonstersOfDrakkenheim": "data/items/items-MonstersOfDrakkenheim.json",
+      "GrimHollowWB": "data/items/items-GrimHollowWB.json",
       "GrimHollowCG24": "data/items/items-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/items/items-GrimHollowLairsEtharis.json",
       "GHMG": "data/items/items-GHMG.json",
@@ -44970,7 +46696,6 @@
       "HumblewoodTales": "data/items/items-HumblewoodTales.json",
       "SGttEH": "data/items/items-SGttEH.json",
       "NLC": "data/items/items-NLC.json",
-      "DarkMatter24": "data/items/items-DarkMatter24.json",
       "ExploringEberron": "data/items/items-ExploringEberron.json",
       "ExploringEberron24": "data/items/items-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/items/items-ChroniclesOfEberron.json",
