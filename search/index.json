@@ -37304,32 +37304,11 @@
       "u": "magis_comelementallegendary"
     },
     {
-      "n": "Air Guardian",
-      "s": "COMFeyFaeries",
-      "c": 1,
-      "p": 0,
-      "u": "air_guardian_comfeyfaeries"
-    },
-    {
       "n": "Queen of the Wisp",
       "s": "COMFeyFaeriesLegendary",
       "c": 1,
       "p": 0,
       "u": "queen_of_the_wisp_comfeyfaerieslegendary"
-    },
-    {
-      "n": "Goredrinker",
-      "s": "COMFiend",
-      "c": 1,
-      "p": 0,
-      "u": "goredrinker_comfiend"
-    },
-    {
-      "n": "Meridiana of Velvet Silk",
-      "s": "COMFiend",
-      "c": 1,
-      "p": 0,
-      "u": "meridiana_of_velvet_silk_comfiend"
     },
     {
       "n": "Barbarian",
@@ -48791,9 +48770,7 @@
       "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
       "COMElemental": "data/bestiary/bestiary-COMElemental.json",
       "COMElementalLegendary": "data/bestiary/bestiary-COMElementalLegendary.json",
-      "COMFeyFaeries": "data/bestiary/bestiary-COMFeyFaeries.json",
       "COMFeyFaeriesLegendary": "data/bestiary/bestiary-COMFeyFaeriesLegendary.json",
-      "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
