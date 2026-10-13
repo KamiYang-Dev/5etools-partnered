@@ -37304,11 +37304,32 @@
       "u": "magis_comelementallegendary"
     },
     {
+      "n": "Air Guardian",
+      "s": "COMFeyFaeries",
+      "c": 1,
+      "p": 0,
+      "u": "air_guardian_comfeyfaeries"
+    },
+    {
       "n": "Queen of the Wisp",
       "s": "COMFeyFaeriesLegendary",
       "c": 1,
       "p": 0,
       "u": "queen_of_the_wisp_comfeyfaerieslegendary"
+    },
+    {
+      "n": "Goredrinker",
+      "s": "COMFiend",
+      "c": 1,
+      "p": 0,
+      "u": "goredrinker_comfiend"
+    },
+    {
+      "n": "Meridiana of Velvet Silk",
+      "s": "COMFiend",
+      "c": 1,
+      "p": 0,
+      "u": "meridiana_of_velvet_silk_comfiend"
     },
     {
       "n": "Barbarian",
@@ -37498,153 +37519,6 @@
       "c": 1,
       "p": 0,
       "u": "witch_human_comhumanoid"
-    },
-    {
-      "n": "Adran Nalty",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "adran_nalty_comravenloft"
-    },
-    {
-      "n": "Anastrasya Karelova",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "anastrasya_karelova_comravenloft"
-    },
-    {
-      "n": "Arrigal",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "arrigal_comravenloft"
-    },
-    {
-      "n": "Baba Lysaga",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "baba_lysaga_comravenloft"
-    },
-    {
-      "n": "Baba Lysaga (Human Form)",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "baba_lysaga_(human_form)_comravenloft"
-    },
-    {
-      "n": "Baba Lysaga's Creeping Hut",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "baba_lysaga's_creeping_hut_comravenloft"
-    },
-    {
-      "n": "Band of Cultists",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "band_of_cultists_comravenloft"
-    },
-    {
-      "n": "Blumue Huanra",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "blumue_huanra_comravenloft"
-    },
-    {
-      "n": "Ekaterina Dilisnya",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "ekaterina_dilisnya_comravenloft"
-    },
-    {
-      "n": "Ernst Larnak",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "ernst_larnak_comravenloft"
-    },
-    {
-      "n": "Filnen Gustanov",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "filnen_gustanov_comravenloft"
-    },
-    {
-      "n": "Heskel Barkridge",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "heskel_barkridge_comravenloft"
-    },
-    {
-      "n": "Ireena Kolyana",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "ireena_kolyana_comravenloft"
-    },
-    {
-      "n": "Jebediah Zonavan",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "jebediah_zonavan_comravenloft"
-    },
-    {
-      "n": "Lady Fiona Wachter",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "lady_fiona_wachter_comravenloft"
-    },
-    {
-      "n": "Lord Leo Dilisnya",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "lord_leo_dilisnya_comravenloft"
-    },
-    {
-      "n": "Majesto the Imp",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "majesto_the_imp_comravenloft"
-    },
-    {
-      "n": "The Real Devil Strahd",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "the_real_devil_strahd_comravenloft"
-    },
-    {
-      "n": "Vampatrina Velikovna",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "vampatrina_velikovna_comravenloft"
-    },
-    {
-      "n": "Wachter Cultist",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "wachter_cultist_comravenloft"
-    },
-    {
-      "n": "Wachter Cultist Mob",
-      "s": "COMRavenloft",
-      "c": 1,
-      "p": 0,
-      "u": "wachter_cultist_mob_comravenloft"
     },
     {
       "n": "Demonfeed Spider",
@@ -48770,9 +48644,10 @@
       "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
       "COMElemental": "data/bestiary/bestiary-COMElemental.json",
       "COMElementalLegendary": "data/bestiary/bestiary-COMElementalLegendary.json",
+      "COMFeyFaeries": "data/bestiary/bestiary-COMFeyFaeries.json",
       "COMFeyFaeriesLegendary": "data/bestiary/bestiary-COMFeyFaeriesLegendary.json",
+      "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
-      "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
       "KamiES": "data/bestiary/bestiary-KamiES.json",
       "KamiNO": "data/bestiary/bestiary-KamiNO.json"
