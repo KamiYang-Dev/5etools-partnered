@@ -37885,6 +37885,13 @@
       "u": "black_dragon_wyrmling_(kami)_kamino"
     },
     {
+      "n": "Death Frond (Kami)",
+      "s": "KamiPlants",
+      "c": 1,
+      "p": 0,
+      "u": "death_frond_(kami)_kamiplants"
+    },
+    {
       "n": "Mind Flayer (Kami)",
       "s": "KamiES",
       "c": 1,
@@ -48798,6 +48805,7 @@
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiHomebrew": "data/bestiary/bestiary-KamiHomebrew.json",
       "KamiNO": "data/bestiary/bestiary-KamiNO.json",
+      "KamiPlants": "data/bestiary/bestiary-KamiPlants.json",
       "KamiES": "data/bestiary/bestiary-KamiES.json"
     }
   },
