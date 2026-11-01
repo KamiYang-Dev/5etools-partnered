@@ -351,125 +351,6 @@
       "u": "young_magma_landshark_taldoreicampaignsettingreborn"
     },
     {
-      "n": "Ashari Firetamer",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 128,
-      "u": "ashari_firetamer_taldorei"
-    },
-    {
-      "n": "Ashari Skydancer",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 129,
-      "u": "ashari_skydancer_taldorei"
-    },
-    {
-      "n": "Ashari Stoneguard",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 128,
-      "u": "ashari_stoneguard_taldorei"
-    },
-    {
-      "n": "Ashari Waverider",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 129,
-      "u": "ashari_waverider_taldorei"
-    },
-    {
-      "n": "Cinderslag Elemental",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 130,
-      "u": "cinderslag_elemental_taldorei"
-    },
-    {
-      "n": "Clasp Cutthroat",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 131,
-      "u": "clasp_cutthroat_taldorei"
-    },
-    {
-      "n": "Clasp Enforcer",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 131,
-      "u": "clasp_enforcer_taldorei"
-    },
-    {
-      "n": "Cyclops Stormcaller",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 132,
-      "u": "cyclops_stormcaller_taldorei"
-    },
-    {
-      "n": "Goat-Knight Steed",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 135,
-      "u": "goat-knight_steed_taldorei"
-    },
-    {
-      "n": "Goliath Brawler",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 134,
-      "u": "goliath_brawler_taldorei"
-    },
-    {
-      "n": "Goliath Stormborn",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 133,
-      "u": "goliath_stormborn_taldorei"
-    },
-    {
-      "n": "Kraghammer Goat-Knight",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 133,
-      "u": "kraghammer_goat-knight_taldorei"
-    },
-    {
-      "n": "Plainscow",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 59,
-      "u": "plainscow_taldorei"
-    },
-    {
-      "n": "Ravager Slaughter Lord",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 137,
-      "u": "ravager_slaughter_lord_taldorei"
-    },
-    {
-      "n": "Ravager Stabby-Stabber",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 137,
-      "u": "ravager_stabby-stabber_taldorei"
-    },
-    {
-      "n": "Remnant Chosen",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 139,
-      "u": "remnant_chosen_taldorei"
-    },
-    {
-      "n": "Remnant Cultist",
-      "s": "TalDorei",
-      "c": 1,
-      "p": 139,
-      "u": "remnant_cultist_taldorei"
-    },
-    {
       "n": "Abominable Beauty",
       "s": "ToB",
       "c": 1,
@@ -21687,6 +21568,174 @@
       "u": "norn_grimhollowwb"
     },
     {
+      "n": "Avatar of Slaughter",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 300,
+      "u": "avatar_of_slaughter_grimhollowcg24"
+    },
+    {
+      "n": "Bloated Gastromorph",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 301,
+      "u": "bloated_gastromorph_grimhollowcg24"
+    },
+    {
+      "n": "Body Snatcher",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 302,
+      "u": "body_snatcher_grimhollowcg24"
+    },
+    {
+      "n": "Dream Whisperer",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 303,
+      "u": "dream_whisperer_grimhollowcg24"
+    },
+    {
+      "n": "Ebon Syndicate Elite Assassin",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 207,
+      "u": "ebon_syndicate_elite_assassin_grimhollowcg24"
+    },
+    {
+      "n": "Ebon Syndicate Enforcer",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 207,
+      "u": "ebon_syndicate_enforcer_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Archer",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 202,
+      "u": "free_swords_archer_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Battlemage",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 202,
+      "u": "free_swords_battlemage_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Captain",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 201,
+      "u": "free_swords_captain_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Infiltrator",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 202,
+      "u": "free_swords_infiltrator_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Sapper",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 202,
+      "u": "free_swords_sapper_grimhollowcg24"
+    },
+    {
+      "n": "Free Swords Veteran",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 201,
+      "u": "free_swords_veteran_grimhollowcg24"
+    },
+    {
+      "n": "Herald of Calamity",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 304,
+      "u": "herald_of_calamity_grimhollowcg24"
+    },
+    {
+      "n": "High Priest",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 221,
+      "u": "high_priest_grimhollowcg24"
+    },
+    {
+      "n": "Mind Siphon",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 305,
+      "u": "mind_siphon_grimhollowcg24"
+    },
+    {
+      "n": "Plague Carrion",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 306,
+      "u": "plague_carrion_grimhollowcg24"
+    },
+    {
+      "n": "Preceptor",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 195,
+      "u": "preceptor_grimhollowcg24"
+    },
+    {
+      "n": "Sightless Agony",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 307,
+      "u": "sightless_agony_grimhollowcg24"
+    },
+    {
+      "n": "Thaumaturge Archmage",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 215,
+      "u": "thaumaturge_archmage_grimhollowcg24"
+    },
+    {
+      "n": "Thaumaturge Initiated",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 214,
+      "u": "thaumaturge_initiated_grimhollowcg24"
+    },
+    {
+      "n": "Trade Factor",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 195,
+      "u": "trade_factor_grimhollowcg24"
+    },
+    {
+      "n": "Verminous Abomination",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 308,
+      "u": "verminous_abomination_grimhollowcg24"
+    },
+    {
+      "n": "Watchful Priest",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 221,
+      "u": "watchful_priest_grimhollowcg24"
+    },
+    {
+      "n": "Weeping Willow",
+      "s": "GrimHollowCG24",
+      "c": 1,
+      "p": 309,
+      "u": "weeping_willow_grimhollowcg24"
+    },
+    {
       "n": "Ancient Corpse Walker",
       "s": "GrimHollowLairsEtharis",
       "c": 1,
@@ -28055,6 +28104,300 @@
       "c": 1,
       "p": 117,
       "u": "var-tolai_priest_chroniclesofeberron"
+    },
+    {
+      "n": "Adelard Took",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 189,
+      "u": "adelard_took_tlotrr"
+    },
+    {
+      "n": "Arin",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 182,
+      "u": "arin_tlotrr"
+    },
+    {
+      "n": "Ash",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 200,
+      "u": "ash_tlotrr"
+    },
+    {
+      "n": "Balin, Son of Fundin",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "balin_son_of_fundin_tlotrr"
+    },
+    {
+      "n": "Barnabas Butterbur",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 124,
+      "u": "barnabas_butterbur_tlotrr"
+    },
+    {
+      "n": "Barrow-wight",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 158,
+      "u": "barrow-wight_tlotrr"
+    },
+    {
+      "n": "Beinion",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 182,
+      "u": "beinion_tlotrr"
+    },
+    {
+      "n": "Bilbo Baggins",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "bilbo_baggins_tlotrr"
+    },
+    {
+      "n": "Búrzgul",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 200,
+      "u": "búrzgul_tlotrr"
+    },
+    {
+      "n": "Cave-troll Slinker",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 156,
+      "u": "cave-troll_slinker_tlotrr"
+    },
+    {
+      "n": "Círdan the Shipwright",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "círdan_the_shipwright_tlotrr"
+    },
+    {
+      "n": "Fell Wraith",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 159,
+      "u": "fell_wraith_tlotrr"
+    },
+    {
+      "n": "Fitch Talltree",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 190,
+      "u": "fitch_talltree_tlotrr"
+    },
+    {
+      "n": "Footpad",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 149,
+      "u": "footpad_tlotrr"
+    },
+    {
+      "n": "Gandalf the Grey",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "gandalf_the_grey_tlotrr"
+    },
+    {
+      "n": "Gilraen the Fair",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "gilraen_the_fair_tlotrr"
+    },
+    {
+      "n": "Goblin Archer",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 152,
+      "u": "goblin_archer_tlotrr"
+    },
+    {
+      "n": "Goldberry",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "goldberry_tlotrr"
+    },
+    {
+      "n": "Great Cave-troll",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 155,
+      "u": "great_cave-troll_tlotrr"
+    },
+    {
+      "n": "Great Orc Bodyguard",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 152,
+      "u": "great_orc_bodyguard_tlotrr"
+    },
+    {
+      "n": "Great Orc Chief",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 151,
+      "u": "great_orc_chief_tlotrr"
+    },
+    {
+      "n": "Highway Robber",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 150,
+      "u": "highway_robber_tlotrr"
+    },
+    {
+      "n": "Hound of Sauron",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 164,
+      "u": "hound_of_sauron_tlotrr"
+    },
+    {
+      "n": "Jalin",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 227,
+      "u": "jalin_tlotrr"
+    },
+    {
+      "n": "John Ferny",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 186,
+      "u": "john_ferny_tlotrr"
+    },
+    {
+      "n": "Lady Elwen - Fell Wraith",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 228,
+      "u": "lady_elwen_-_fell_wraith_tlotrr"
+    },
+    {
+      "n": "Marsh-dwellers",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 160,
+      "u": "marsh-dwellers_tlotrr"
+    },
+    {
+      "n": "Nameless Thing",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 165,
+      "u": "nameless_thing_tlotrr"
+    },
+    {
+      "n": "Orc Guard",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 154,
+      "u": "orc_guard_tlotrr"
+    },
+    {
+      "n": "Orc Soldier",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 154,
+      "u": "orc_soldier_tlotrr"
+    },
+    {
+      "n": "Orc-chieftain",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 153,
+      "u": "orc-chieftain_tlotrr"
+    },
+    {
+      "n": "Oswald Breeker",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 188,
+      "u": "oswald_breeker_tlotrr"
+    },
+    {
+      "n": "Ruffian Leader",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 150,
+      "u": "ruffian_leader_tlotrr"
+    },
+    {
+      "n": "Sabian",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 230,
+      "u": "sabian_tlotrr"
+    },
+    {
+      "n": "Southerner Champion",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 149,
+      "u": "southerner_champion_tlotrr"
+    },
+    {
+      "n": "Southerner Raider",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 149,
+      "u": "southerner_raider_tlotrr"
+    },
+    {
+      "n": "Stone-troll Chief",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 157,
+      "u": "stone-troll_chief_tlotrr"
+    },
+    {
+      "n": "Stone-troll Robber",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 156,
+      "u": "stone-troll_robber_tlotrr"
+    },
+    {
+      "n": "The Wight-king",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 197,
+      "u": "the_wight-king_tlotrr"
+    },
+    {
+      "n": "Tom Bombadil",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 0,
+      "u": "tom_bombadil_tlotrr"
+    },
+    {
+      "n": "Wild Wolf",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 162,
+      "u": "wild_wolf_tlotrr"
+    },
+    {
+      "n": "Wolf-chieftain",
+      "s": "TLotRR",
+      "c": 1,
+      "p": 163,
+      "u": "wolf-chieftain_tlotrr"
     },
     {
       "n": "Aboleth Broodmother",
@@ -36842,11 +37185,11 @@
       "u": "magis_comelementallegendary"
     },
     {
-      "n": "Queen of the Wisp",
-      "s": "COMFeyFaeriesLegendary",
+      "n": "Air Guardian",
+      "s": "COMFeyFaeries",
       "c": 1,
       "p": 0,
-      "u": "queen_of_the_wisp_comfeyfaerieslegendary"
+      "u": "air_guardian_comfeyfaeries"
     },
     {
       "n": "Goredrinker",
@@ -38174,188 +38517,6 @@
       "u": "zeal_taldoreicampaignsettingreborn"
     },
     {
-      "n": "Agony",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 111,
-      "u": "agony_taldorei"
-    },
-    {
-      "n": "Armor of the Valiant Soul",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 111,
-      "u": "armor_of_the_valiant_soul_taldorei"
-    },
-    {
-      "n": "Cabal's Ruin",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 112,
-      "u": "cabal's_ruin_taldorei"
-    },
-    {
-      "n": "Circlet of Barbed Vision",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 112,
-      "u": "circlet_of_barbed_vision_taldorei"
-    },
-    {
-      "n": "Condemner",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 112,
-      "u": "condemner_taldorei"
-    },
-    {
-      "n": "Deathwalker's Ward",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 113,
-      "u": "deathwalker's_ward_taldorei"
-    },
-    {
-      "n": "Dynamite",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 68,
-      "u": "dynamite_taldorei"
-    },
-    {
-      "n": "Fenthras",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 113,
-      "u": "fenthras_taldorei"
-    },
-    {
-      "n": "Glue bomb",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 68,
-      "u": "glue_bomb_taldorei"
-    },
-    {
-      "n": "Graz'tchar, the Decadent End",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 65,
-      "u": "graz'tchar_the_decadent_end_taldorei"
-    },
-    {
-      "n": "Honor's Last Stand",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 114,
-      "u": "honor's_last_stand_taldorei"
-    },
-    {
-      "n": "Kiss of the Changebringer",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 114,
-      "u": "kiss_of_the_changebringer_taldorei"
-    },
-    {
-      "n": "Mythcarver",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 114,
-      "u": "mythcarver_taldorei"
-    },
-    {
-      "n": "Oloore Root",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 55,
-      "u": "oloore_root_taldorei"
-    },
-    {
-      "n": "Plate of the Dawnmartyr",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 115,
-      "u": "plate_of_the_dawnmartyr_taldorei"
-    },
-    {
-      "n": "Pyremaul",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 115,
-      "u": "pyremaul_taldorei"
-    },
-    {
-      "n": "Skysail",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 45,
-      "u": "skysail_taldorei"
-    },
-    {
-      "n": "Skyship",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 93,
-      "u": "skyship_taldorei"
-    },
-    {
-      "n": "Spire of Conflux",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 115,
-      "u": "spire_of_conflux_taldorei"
-    },
-    {
-      "n": "Stink bomb",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 68,
-      "u": "stink_bomb_taldorei"
-    },
-    {
-      "n": "Suude",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 55,
-      "u": "suude_taldorei"
-    },
-    {
-      "n": "Titanstone Knuckles",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 116,
-      "u": "titanstone_knuckles_taldorei"
-    },
-    {
-      "n": "Whisper",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 116,
-      "u": "whisper_taldorei"
-    },
-    {
-      "n": "Wind glider",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 68,
-      "u": "wind_glider_taldorei"
-    },
-    {
-      "n": "Wraps of Dyamak",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 116,
-      "u": "wraps_of_dyamak_taldorei"
-    },
-    {
-      "n": "Zeal",
-      "s": "TalDorei",
-      "c": 5,
-      "p": 55,
-      "u": "zeal_taldorei"
-    },
-    {
       "n": "Wyrmblood Venom",
       "s": "ToB",
       "c": 5,
@@ -39656,6 +39817,832 @@
       "c": 5,
       "p": 7,
       "u": "t'vir's_sword_grimhollowwb"
+    },
+    {
+      "n": "Adder Stone",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "adder_stone_grimhollowcg24"
+    },
+    {
+      "n": "Aether Blood",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "aether_blood_grimhollowcg24"
+    },
+    {
+      "n": "Amulet of Curse Suppression",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "amulet_of_curse_suppression_grimhollowcg24"
+    },
+    {
+      "n": "Angelskin Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "angelskin_armor_grimhollowcg24"
+    },
+    {
+      "n": "Arc Rifle",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "arc_rifle_grimhollowcg24"
+    },
+    {
+      "n": "Arcane Oil",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 257,
+      "u": "arcane_oil_grimhollowcg24"
+    },
+    {
+      "n": "Ardor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "ardor_grimhollowcg24"
+    },
+    {
+      "n": "Armor of Zombie Flesh",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "armor_of_zombie_flesh_grimhollowcg24"
+    },
+    {
+      "n": "Banshee Box",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "banshee_box_grimhollowcg24"
+    },
+    {
+      "n": "Blessed Reliquary",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "blessed_reliquary_grimhollowcg24"
+    },
+    {
+      "n": "Bliss",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "bliss_grimhollowcg24"
+    },
+    {
+      "n": "Blood Capsule",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 258,
+      "u": "blood_capsule_grimhollowcg24"
+    },
+    {
+      "n": "Bow of Four",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "bow_of_four_grimhollowcg24"
+    },
+    {
+      "n": "Brazen Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "brazen_armor_grimhollowcg24"
+    },
+    {
+      "n": "Cap of Bravery",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "cap_of_bravery_grimhollowcg24"
+    },
+    {
+      "n": "Carvaloth Scale Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "carvaloth_scale_armor_grimhollowcg24"
+    },
+    {
+      "n": "Caustic Rapier",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "caustic_rapier_grimhollowcg24"
+    },
+    {
+      "n": "Cinder Coat",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "cinder_coat_grimhollowcg24"
+    },
+    {
+      "n": "Cloak of the Listener",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "cloak_of_the_listener_grimhollowcg24"
+    },
+    {
+      "n": "Cloak of the Mausgeist",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 260,
+      "u": "cloak_of_the_mausgeist_grimhollowcg24"
+    },
+    {
+      "n": "Cloak of the Stygian Bat",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "cloak_of_the_stygian_bat_grimhollowcg24"
+    },
+    {
+      "n": "Cloak of Therianthropy",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "cloak_of_therianthropy_grimhollowcg24"
+    },
+    {
+      "n": "Coat of Lies",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "coat_of_lies_grimhollowcg24"
+    },
+    {
+      "n": "Coin of War and Fear",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "coin_of_war_and_fear_grimhollowcg24"
+    },
+    {
+      "n": "Coldrazor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "coldrazor_grimhollowcg24"
+    },
+    {
+      "n": "Collar of the Undead",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "collar_of_the_undead_grimhollowcg24"
+    },
+    {
+      "n": "Corrupted Tusk-Dagger",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 261,
+      "u": "corrupted_tusk-dagger_grimhollowcg24"
+    },
+    {
+      "n": "Crimson Mist",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 262,
+      "u": "crimson_mist_grimhollowcg24"
+    },
+    {
+      "n": "Crown of the Keppmir King",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 262,
+      "u": "crown_of_the_keppmir_king_grimhollowcg24"
+    },
+    {
+      "n": "Dreams Leaves",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 262,
+      "u": "dreams_leaves_grimhollowcg24"
+    },
+    {
+      "n": "Dämglesvir (Adept)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 275,
+      "u": "dämglesvir_(adept)_grimhollowcg24"
+    },
+    {
+      "n": "Dämglesvir (Aspirant)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 275,
+      "u": "dämglesvir_(aspirant)_grimhollowcg24"
+    },
+    {
+      "n": "Dämglesvir (Master)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 275,
+      "u": "dämglesvir_(master)_grimhollowcg24"
+    },
+    {
+      "n": "Ectoplasmic Whip",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 262,
+      "u": "ectoplasmic_whip_grimhollowcg24"
+    },
+    {
+      "n": "Elixir of Elemental Spittle",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "elixir_of_elemental_spittle_grimhollowcg24"
+    },
+    {
+      "n": "Elixir of Life Protection",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "elixir_of_life_protection_grimhollowcg24"
+    },
+    {
+      "n": "Enchanted Feather",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "enchanted_feather_grimhollowcg24"
+    },
+    {
+      "n": "Faerie Crown",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "faerie_crown_grimhollowcg24"
+    },
+    {
+      "n": "Fin Symbiote",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "fin_symbiote_grimhollowcg24"
+    },
+    {
+      "n": "Flammable Tincture",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "flammable_tincture_grimhollowcg24"
+    },
+    {
+      "n": "Full Moon Extract",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 263,
+      "u": "full_moon_extract_grimhollowcg24"
+    },
+    {
+      "n": "Funeral Mask",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "funeral_mask_grimhollowcg24"
+    },
+    {
+      "n": "Glass-Studded Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "glass-studded_armor_grimhollowcg24"
+    },
+    {
+      "n": "Gold Boar Ring",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "gold_boar_ring_grimhollowcg24"
+    },
+    {
+      "n": "Grenade of Remorse",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "grenade_of_remorse_grimhollowcg24"
+    },
+    {
+      "n": "Gristaline",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "gristaline_grimhollowcg24"
+    },
+    {
+      "n": "Hearthfire Breastplate (Adept)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "hearthfire_breastplate_(adept)_grimhollowcg24"
+    },
+    {
+      "n": "Hearthfire Breastplate (Aspirant)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "hearthfire_breastplate_(aspirant)_grimhollowcg24"
+    },
+    {
+      "n": "Hearthfire Breastplate (Master)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "hearthfire_breastplate_(master)_grimhollowcg24"
+    },
+    {
+      "n": "Heaven's Herald",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "heaven's_herald_grimhollowcg24"
+    },
+    {
+      "n": "Hogs' Wash",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "hogs'_wash_grimhollowcg24"
+    },
+    {
+      "n": "Humble Frock",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "humble_frock_grimhollowcg24"
+    },
+    {
+      "n": "Hunter's Zeal",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 264,
+      "u": "hunter's_zeal_grimhollowcg24"
+    },
+    {
+      "n": "Indorius's Crown (Adept)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "indorius's_crown_(adept)_grimhollowcg24"
+    },
+    {
+      "n": "Indorius's Crown (Aspirant)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "indorius's_crown_(aspirant)_grimhollowcg24"
+    },
+    {
+      "n": "Indorius's Crown (Master)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 276,
+      "u": "indorius's_crown_(master)_grimhollowcg24"
+    },
+    {
+      "n": "Inquisitor's Draught",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "inquisitor's_draught_grimhollowcg24"
+    },
+    {
+      "n": "Iridescent Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "iridescent_armor_grimhollowcg24"
+    },
+    {
+      "n": "Iron Fangs",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "iron_fangs_grimhollowcg24"
+    },
+    {
+      "n": "Knifewing Cape",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "knifewing_cape_grimhollowcg24"
+    },
+    {
+      "n": "Light Drinker",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "light_drinker_grimhollowcg24"
+    },
+    {
+      "n": "Lindwyrm Venom",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "lindwyrm_venom_grimhollowcg24"
+    },
+    {
+      "n": "Living Net",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "living_net_grimhollowcg24"
+    },
+    {
+      "n": "Lodestone Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "lodestone_armor_grimhollowcg24"
+    },
+    {
+      "n": "Lycanthropy Antidote",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 265,
+      "u": "lycanthropy_antidote_grimhollowcg24"
+    },
+    {
+      "n": "Magebane Bomb",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "magebane_bomb_grimhollowcg24"
+    },
+    {
+      "n": "Magical Prosthetics",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "magical_prosthetics_grimhollowcg24"
+    },
+    {
+      "n": "Malleus Macabre",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "malleus_macabre_grimhollowcg24"
+    },
+    {
+      "n": "Mask of the Maestro",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "mask_of_the_maestro_grimhollowcg24"
+    },
+    {
+      "n": "Morose Monocle",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "morose_monocle_grimhollowcg24"
+    },
+    {
+      "n": "Mortal Coil",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 266,
+      "u": "mortal_coil_grimhollowcg24"
+    },
+    {
+      "n": "Muscle Graft",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "muscle_graft_grimhollowcg24"
+    },
+    {
+      "n": "Net of Maiden's Hair",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "net_of_maiden's_hair_grimhollowcg24"
+    },
+    {
+      "n": "Nightmare Staff",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "nightmare_staff_grimhollowcg24"
+    },
+    {
+      "n": "Paragon's Plate",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "paragon's_plate_grimhollowcg24"
+    },
+    {
+      "n": "Pharazorthok Sprout",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "pharazorthok_sprout_grimhollowcg24"
+    },
+    {
+      "n": "Pigskin Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "pigskin_armor_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Glacial Resistance",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "potion_of_glacial_resistance_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Harm",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 267,
+      "u": "potion_of_harm_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Heal",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "potion_of_heal_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Life Sharing",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "potion_of_life_sharing_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Malice",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "potion_of_malice_grimhollowcg24"
+    },
+    {
+      "n": "Potion of Relentlessness",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "potion_of_relentlessness_grimhollowcg24"
+    },
+    {
+      "n": "Profane Charm",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "profane_charm_grimhollowcg24"
+    },
+    {
+      "n": "Quakescale Armor",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "quakescale_armor_grimhollowcg24"
+    },
+    {
+      "n": "Queen's Token",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "queen's_token_grimhollowcg24"
+    },
+    {
+      "n": "Ready Gunk",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "ready_gunk_grimhollowcg24"
+    },
+    {
+      "n": "Resuscitation Bomb",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 268,
+      "u": "resuscitation_bomb_grimhollowcg24"
+    },
+    {
+      "n": "Ring of Hidden Desire",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "ring_of_hidden_desire_grimhollowcg24"
+    },
+    {
+      "n": "Ring of Nightmares",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "ring_of_nightmares_grimhollowcg24"
+    },
+    {
+      "n": "Ring of Radiation",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "ring_of_radiation_grimhollowcg24"
+    },
+    {
+      "n": "Ring of Veracity",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "ring_of_veracity_grimhollowcg24"
+    },
+    {
+      "n": "Rod of Ruin",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "rod_of_ruin_grimhollowcg24"
+    },
+    {
+      "n": "Rod of the Pack Master",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "rod_of_the_pack_master_grimhollowcg24"
+    },
+    {
+      "n": "Sangromancer's Vial",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 270,
+      "u": "sangromancer's_vial_grimhollowcg24"
+    },
+    {
+      "n": "Second Skin",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 271,
+      "u": "second_skin_grimhollowcg24"
+    },
+    {
+      "n": "Sizzling Serum",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 271,
+      "u": "sizzling_serum_grimhollowcg24"
+    },
+    {
+      "n": "Soulbond Stone",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 271,
+      "u": "soulbond_stone_grimhollowcg24"
+    },
+    {
+      "n": "Staff of Briars",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 271,
+      "u": "staff_of_briars_grimhollowcg24"
+    },
+    {
+      "n": "Staff of the Sorcerer King",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 271,
+      "u": "staff_of_the_sorcerer_king_grimhollowcg24"
+    },
+    {
+      "n": "Stalk Symbiote",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "stalk_symbiote_grimhollowcg24"
+    },
+    {
+      "n": "Star Metal Ring",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "star_metal_ring_grimhollowcg24"
+    },
+    {
+      "n": "Straitjacket",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "straitjacket_grimhollowcg24"
+    },
+    {
+      "n": "Suit of the Lamb",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "suit_of_the_lamb_grimhollowcg24"
+    },
+    {
+      "n": "Sun Shades",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "sun_shades_grimhollowcg24"
+    },
+    {
+      "n": "Talisman of Tormach",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "talisman_of_tormach_grimhollowcg24"
+    },
+    {
+      "n": "Telltale Heart",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "telltale_heart_grimhollowcg24"
+    },
+    {
+      "n": "Thought Talker Orbs",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 272,
+      "u": "thought_talker_orbs_grimhollowcg24"
+    },
+    {
+      "n": "Thricecall Mirror",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "thricecall_mirror_grimhollowcg24"
+    },
+    {
+      "n": "Toadstool Toddy",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "toadstool_toddy_grimhollowcg24"
+    },
+    {
+      "n": "Ulmyr's Eye (Adept)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 277,
+      "u": "ulmyr's_eye_(adept)_grimhollowcg24"
+    },
+    {
+      "n": "Ulmyr's Eye (Aspirant)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 277,
+      "u": "ulmyr's_eye_(aspirant)_grimhollowcg24"
+    },
+    {
+      "n": "Ulmyr's Eye (Master)",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 277,
+      "u": "ulmyr's_eye_(master)_grimhollowcg24"
+    },
+    {
+      "n": "Vilesmog Bomb",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "vilesmog_bomb_grimhollowcg24"
+    },
+    {
+      "n": "Wand of Silence",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "wand_of_silence_grimhollowcg24"
+    },
+    {
+      "n": "Wand of the Poltergeist",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "wand_of_the_poltergeist_grimhollowcg24"
+    },
+    {
+      "n": "Wraps of Aphaeleon",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "wraps_of_aphaeleon_grimhollowcg24"
+    },
+    {
+      "n": "Zeal",
+      "s": "GrimHollowCG24",
+      "c": 5,
+      "p": 273,
+      "u": "zeal_grimhollowcg24"
     },
     {
       "n": "Arcane Oil",
@@ -43718,6 +44705,13 @@
       "u": "spellbolt_(cantrip)_chroniclesofeberron"
     },
     {
+      "n": "Mithril Mail-shirt",
+      "s": "TLotRR",
+      "c": 5,
+      "p": 134,
+      "u": "mithril_mail-shirt_tlotrr"
+    },
+    {
       "n": "Arm of the Grey Knight (rare)",
       "s": "HelianasGuidetoMonsterHunting",
       "c": 5,
@@ -47452,7 +48446,6 @@
   "m": {
     "s": {
       "TalDoreiCampaignSettingReborn": "data/bestiary/bestiary-TalDoreiCampaignSettingReborn.json",
-      "TalDorei": "data/bestiary/bestiary-TalDorei.json",
       "ToB": "data/bestiary/bestiary-ToB.json",
       "ToB1-2023": "data/bestiary/bestiary-ToB1-2023.json",
       "ToB2": "data/bestiary/bestiary-ToB2.json",
@@ -47467,6 +48460,7 @@
       "DungeonsDrakkenheim": "data/bestiary/bestiary-DungeonsDrakkenheim.json",
       "MonstersOfDrakkenheim": "data/bestiary/bestiary-MonstersOfDrakkenheim.json",
       "GrimHollowWB": "data/bestiary/bestiary-GrimHollowWB.json",
+      "GrimHollowCG24": "data/bestiary/bestiary-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/bestiary/bestiary-GrimHollowLairsEtharis.json",
       "GHMG": "data/bestiary/bestiary-GHMG.json",
       "HumblewoodCampaignSetting": "data/bestiary/bestiary-HumblewoodCampaignSetting.json",
@@ -47477,6 +48471,7 @@
       "ExploringEberron": "data/bestiary/bestiary-ExploringEberron.json",
       "ExploringEberron24": "data/bestiary/bestiary-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/bestiary/bestiary-ChroniclesOfEberron.json",
+      "TLotRR": "data/bestiary/bestiary-TLotRR.json",
       "HelianasGuidetoMonsterHunting": "data/bestiary/bestiary-HelianasGuidetoMonsterHunting.json",
       "AotA": "data/bestiary/bestiary-AotA.json",
       "RotH": "data/bestiary/bestiary-RotH.json",
@@ -47494,7 +48489,7 @@
       "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
       "COMElemental": "data/bestiary/bestiary-COMElemental.json",
       "COMElementalLegendary": "data/bestiary/bestiary-COMElementalLegendary.json",
-      "COMFeyFaeriesLegendary": "data/bestiary/bestiary-COMFeyFaeriesLegendary.json",
+      "COMFeyFaeries": "data/bestiary/bestiary-COMFeyFaeries.json",
       "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
@@ -47507,7 +48502,6 @@
   "it": {
     "s": {
       "TalDoreiCampaignSettingReborn": "data/items/items-TalDoreiCampaignSettingReborn.json",
-      "TalDorei": "data/items/items-TalDorei.json",
       "ToB": "data/items/items-ToB.json",
       "ToB1-2023": "data/items/items-ToB1-2023.json",
       "ToB2": "data/items/items-ToB2.json",
@@ -47521,6 +48515,7 @@
       "DungeonsDrakkenheim": "data/items/items-DungeonsDrakkenheim.json",
       "MonstersOfDrakkenheim": "data/items/items-MonstersOfDrakkenheim.json",
       "GrimHollowWB": "data/items/items-GrimHollowWB.json",
+      "GrimHollowCG24": "data/items/items-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/items/items-GrimHollowLairsEtharis.json",
       "GHMG": "data/items/items-GHMG.json",
       "HumblewoodCampaignSetting": "data/items/items-HumblewoodCampaignSetting.json",
@@ -47531,6 +48526,7 @@
       "ExploringEberron": "data/items/items-ExploringEberron.json",
       "ExploringEberron24": "data/items/items-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/items/items-ChroniclesOfEberron.json",
+      "TLotRR": "data/items/items-TLotRR.json",
       "HelianasGuidetoMonsterHunting": "data/items/items-HelianasGuidetoMonsterHunting.json",
       "AotA": "data/items/items-AotA.json",
       "RotH": "data/items/items-RotH.json",
