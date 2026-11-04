@@ -12027,2904 +12027,6 @@
       "u": "zirnitran_tob3"
     },
     {
-      "n": "Aatxe",
-      "s": "CCodex",
-      "c": 1,
-      "p": 7,
-      "u": "aatxe_ccodex"
-    },
-    {
-      "n": "Acid Ant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 8,
-      "u": "acid_ant_ccodex"
-    },
-    {
-      "n": "Adult Light Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 114,
-      "u": "adult_light_dragon_ccodex"
-    },
-    {
-      "n": "Adult Wasteland Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 119,
-      "u": "adult_wasteland_dragon_ccodex"
-    },
-    {
-      "n": "Agnibarra",
-      "s": "CCodex",
-      "c": 1,
-      "p": 9,
-      "u": "agnibarra_ccodex"
-    },
-    {
-      "n": "Ahu-Nixta",
-      "s": "CCodex",
-      "c": 1,
-      "p": 11,
-      "u": "ahu-nixta_ccodex"
-    },
-    {
-      "n": "Ahuizotl",
-      "s": "CCodex",
-      "c": 1,
-      "p": 10,
-      "u": "ahuizotl_ccodex"
-    },
-    {
-      "n": "Alabaster Tree",
-      "s": "CCodex",
-      "c": 1,
-      "p": 301,
-      "u": "alabaster_tree_ccodex"
-    },
-    {
-      "n": "Albino Death Weasel",
-      "s": "CCodex",
-      "c": 1,
-      "p": 374,
-      "u": "albino_death_weasel_ccodex"
-    },
-    {
-      "n": "Alchemical Apprentice",
-      "s": "CCodex",
-      "c": 1,
-      "p": 281,
-      "u": "alchemical_apprentice_ccodex"
-    },
-    {
-      "n": "Alchemical Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 192,
-      "u": "alchemical_golem_ccodex"
-    },
-    {
-      "n": "Alchemist Archer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 141,
-      "u": "alchemist_archer_ccodex"
-    },
-    {
-      "n": "Alkonost",
-      "s": "CCodex",
-      "c": 1,
-      "p": 12,
-      "u": "alkonost_ccodex"
-    },
-    {
-      "n": "Alliumite",
-      "s": "CCodex",
-      "c": 1,
-      "p": 13,
-      "u": "alliumite_ccodex"
-    },
-    {
-      "n": "Alnaar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 82,
-      "u": "alnaar_ccodex"
-    },
-    {
-      "n": "Alp",
-      "s": "CCodex",
-      "c": 1,
-      "p": 14,
-      "u": "alp_ccodex"
-    },
-    {
-      "n": "Alpha Yek",
-      "s": "CCodex",
-      "c": 1,
-      "p": 95,
-      "u": "alpha_yek_ccodex"
-    },
-    {
-      "n": "Altar Flame Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 193,
-      "u": "altar_flame_golem_ccodex"
-    },
-    {
-      "n": "Ammut",
-      "s": "CCodex",
-      "c": 1,
-      "p": 15,
-      "u": "ammut_ccodex"
-    },
-    {
-      "n": "Ancient Light Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 116,
-      "u": "ancient_light_dragon_ccodex"
-    },
-    {
-      "n": "Ancient Mandriano",
-      "s": "CCodex",
-      "c": 1,
-      "p": 261,
-      "u": "ancient_mandriano_ccodex"
-    },
-    {
-      "n": "Ancient Wasteland Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 120,
-      "u": "ancient_wasteland_dragon_ccodex"
-    },
-    {
-      "n": "Ankou Soul Herald",
-      "s": "CCodex",
-      "c": 1,
-      "p": 37,
-      "u": "ankou_soul_herald_ccodex"
-    },
-    {
-      "n": "Ankou Soul Seeker",
-      "s": "CCodex",
-      "c": 1,
-      "p": 38,
-      "u": "ankou_soul_seeker_ccodex"
-    },
-    {
-      "n": "Anophiloi",
-      "s": "CCodex",
-      "c": 1,
-      "p": 39,
-      "u": "anophiloi_ccodex"
-    },
-    {
-      "n": "Arborcyte",
-      "s": "CCodex",
-      "c": 1,
-      "p": 40,
-      "u": "arborcyte_ccodex"
-    },
-    {
-      "n": "Arcamag",
-      "s": "CCodex",
-      "c": 1,
-      "p": 41,
-      "u": "arcamag_ccodex"
-    },
-    {
-      "n": "Arcanaphage",
-      "s": "CCodex",
-      "c": 1,
-      "p": 42,
-      "u": "arcanaphage_ccodex"
-    },
-    {
-      "n": "Archaeopteryx",
-      "s": "CCodex",
-      "c": 1,
-      "p": 108,
-      "u": "archaeopteryx_ccodex"
-    },
-    {
-      "n": "Armory Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 194,
-      "u": "armory_golem_ccodex"
-    },
-    {
-      "n": "Astral Snapper",
-      "s": "CCodex",
-      "c": 1,
-      "p": 43,
-      "u": "astral_snapper_ccodex"
-    },
-    {
-      "n": "Avatar of Shoth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 332,
-      "u": "avatar_of_shoth_ccodex"
-    },
-    {
-      "n": "Azeban",
-      "s": "CCodex",
-      "c": 1,
-      "p": 44,
-      "u": "azeban_ccodex"
-    },
-    {
-      "n": "Azi Dahaka",
-      "s": "CCodex",
-      "c": 1,
-      "p": 45,
-      "u": "azi_dahaka_ccodex"
-    },
-    {
-      "n": "Baba Yaga",
-      "s": "CCodex",
-      "c": 1,
-      "p": 46,
-      "u": "baba_yaga_ccodex"
-    },
-    {
-      "n": "Bar Brawl",
-      "s": "CCodex",
-      "c": 1,
-      "p": 48,
-      "u": "bar_brawl_ccodex"
-    },
-    {
-      "n": "Barong",
-      "s": "CCodex",
-      "c": 1,
-      "p": 49,
-      "u": "barong_ccodex"
-    },
-    {
-      "n": "Bat King",
-      "s": "CCodex",
-      "c": 1,
-      "p": 22,
-      "u": "bat_king_ccodex"
-    },
-    {
-      "n": "Bathhouse Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 126,
-      "u": "bathhouse_drake_ccodex"
-    },
-    {
-      "n": "Battle Mage",
-      "s": "CCodex",
-      "c": 1,
-      "p": 397,
-      "u": "battle_mage_ccodex"
-    },
-    {
-      "n": "Bearfolk Chieftain",
-      "s": "CCodex",
-      "c": 1,
-      "p": 51,
-      "u": "bearfolk_chieftain_ccodex"
-    },
-    {
-      "n": "Bearmit Crab",
-      "s": "CCodex",
-      "c": 1,
-      "p": 52,
-      "u": "bearmit_crab_ccodex"
-    },
-    {
-      "n": "Belphegor, Hell's Inventor",
-      "s": "CCodex",
-      "c": 1,
-      "p": 100,
-      "u": "belphegor_hell's_inventor_ccodex"
-    },
-    {
-      "n": "Berchta",
-      "s": "CCodex",
-      "c": 1,
-      "p": 153,
-      "u": "berchta_ccodex"
-    },
-    {
-      "n": "Bilwis",
-      "s": "CCodex",
-      "c": 1,
-      "p": 53,
-      "u": "bilwis_ccodex"
-    },
-    {
-      "n": "Black Sun Orc",
-      "s": "CCodex",
-      "c": 1,
-      "p": 289,
-      "u": "black_sun_orc_ccodex"
-    },
-    {
-      "n": "Black Sun Priestess",
-      "s": "CCodex",
-      "c": 1,
-      "p": 290,
-      "u": "black_sun_priestess_ccodex"
-    },
-    {
-      "n": "Blood Elemental",
-      "s": "CCodex",
-      "c": 1,
-      "p": 138,
-      "u": "blood_elemental_ccodex"
-    },
-    {
-      "n": "Blood Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 180,
-      "u": "blood_giant_ccodex"
-    },
-    {
-      "n": "Blood Mage",
-      "s": "CCodex",
-      "c": 1,
-      "p": 397,
-      "u": "blood_mage_ccodex"
-    },
-    {
-      "n": "Blood Mage (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 397,
-      "u": "blood_mage_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Blood Ooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 282,
-      "u": "blood_ooze_ccodex"
-    },
-    {
-      "n": "Blood Zombie",
-      "s": "CCodex",
-      "c": 1,
-      "p": 393,
-      "u": "blood_zombie_ccodex"
-    },
-    {
-      "n": "Bloody Bones",
-      "s": "CCodex",
-      "c": 1,
-      "p": 54,
-      "u": "bloody_bones_ccodex"
-    },
-    {
-      "n": "Bone Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 195,
-      "u": "bone_golem_ccodex"
-    },
-    {
-      "n": "Bookkeeper",
-      "s": "CCodex",
-      "c": 1,
-      "p": 55,
-      "u": "bookkeeper_ccodex"
-    },
-    {
-      "n": "Boot Grabber",
-      "s": "CCodex",
-      "c": 1,
-      "p": 56,
-      "u": "boot_grabber_ccodex"
-    },
-    {
-      "n": "Bronze Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 196,
-      "u": "bronze_golem_ccodex"
-    },
-    {
-      "n": "Brother Ox",
-      "s": "CCodex",
-      "c": 1,
-      "p": 24,
-      "u": "brother_ox_ccodex"
-    },
-    {
-      "n": "Cacus Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 181,
-      "u": "cacus_giant_ccodex"
-    },
-    {
-      "n": "Carbuncle",
-      "s": "CCodex",
-      "c": 1,
-      "p": 57,
-      "u": "carbuncle_ccodex"
-    },
-    {
-      "n": "Cats of Ulthar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 58,
-      "u": "cats_of_ulthar_ccodex"
-    },
-    {
-      "n": "Cauldronborn",
-      "s": "CCodex",
-      "c": 1,
-      "p": 59,
-      "u": "cauldronborn_ccodex"
-    },
-    {
-      "n": "Cave Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 182,
-      "u": "cave_giant_ccodex"
-    },
-    {
-      "n": "Centaur Chieftain",
-      "s": "CCodex",
-      "c": 1,
-      "p": 60,
-      "u": "centaur_chieftain_ccodex"
-    },
-    {
-      "n": "Chaos-spawn Goblin",
-      "s": "CCodex",
-      "c": 1,
-      "p": 190,
-      "u": "chaos-spawn_goblin_ccodex"
-    },
-    {
-      "n": "Chemosh, Demon Lord of Conquest",
-      "s": "CCodex",
-      "c": 1,
-      "p": 75,
-      "u": "chemosh_demon_lord_of_conquest_ccodex"
-    },
-    {
-      "n": "Child of Yggdrasil",
-      "s": "CCodex",
-      "c": 1,
-      "p": 61,
-      "u": "child_of_yggdrasil_ccodex"
-    },
-    {
-      "n": "Chittr'k'k, Demon Lord of Rats",
-      "s": "CCodex",
-      "c": 1,
-      "p": 76,
-      "u": "chittr'k'k_demon_lord_of_rats_ccodex"
-    },
-    {
-      "n": "Chuhaister",
-      "s": "CCodex",
-      "c": 1,
-      "p": 62,
-      "u": "chuhaister_ccodex"
-    },
-    {
-      "n": "Chupacabra",
-      "s": "CCodex",
-      "c": 1,
-      "p": 63,
-      "u": "chupacabra_ccodex"
-    },
-    {
-      "n": "Cipactli",
-      "s": "CCodex",
-      "c": 1,
-      "p": 83,
-      "u": "cipactli_ccodex"
-    },
-    {
-      "n": "Clacking Skeleton",
-      "s": "CCodex",
-      "c": 1,
-      "p": 340,
-      "u": "clacking_skeleton_ccodex"
-    },
-    {
-      "n": "Cleric of the Brew",
-      "s": "CCodex",
-      "c": 1,
-      "p": 399,
-      "u": "cleric_of_the_brew_ccodex"
-    },
-    {
-      "n": "Clockwork Assassin",
-      "s": "CCodex",
-      "c": 1,
-      "p": 64,
-      "u": "clockwork_assassin_ccodex"
-    },
-    {
-      "n": "Clockwork Servant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 65,
-      "u": "clockwork_servant_ccodex"
-    },
-    {
-      "n": "Clockwork Soldier",
-      "s": "CCodex",
-      "c": 1,
-      "p": 65,
-      "u": "clockwork_soldier_ccodex"
-    },
-    {
-      "n": "Corpse Thief",
-      "s": "CCodex",
-      "c": 1,
-      "p": 66,
-      "u": "corpse_thief_ccodex"
-    },
-    {
-      "n": "Corrupted Aatxe",
-      "s": "CCodex",
-      "c": 1,
-      "p": 7,
-      "u": "corrupted_aatxe_ccodex"
-    },
-    {
-      "n": "Crimson Mist",
-      "s": "CCodex",
-      "c": 1,
-      "p": 67,
-      "u": "crimson_mist_ccodex"
-    },
-    {
-      "n": "Crypt Spider",
-      "s": "CCodex",
-      "c": 1,
-      "p": 348,
-      "u": "crypt_spider_ccodex"
-    },
-    {
-      "n": "Cueyatl",
-      "s": "CCodex",
-      "c": 1,
-      "p": 68,
-      "u": "cueyatl_ccodex"
-    },
-    {
-      "n": "Cueyatl Moon Priest",
-      "s": "CCodex",
-      "c": 1,
-      "p": 68,
-      "u": "cueyatl_moon_priest_ccodex"
-    },
-    {
-      "n": "Cueyatl Sea Priest",
-      "s": "CCodex",
-      "c": 1,
-      "p": 69,
-      "u": "cueyatl_sea_priest_ccodex"
-    },
-    {
-      "n": "Cueyatl Warrior",
-      "s": "CCodex",
-      "c": 1,
-      "p": 69,
-      "u": "cueyatl_warrior_ccodex"
-    },
-    {
-      "n": "Dakini, Simhamukha",
-      "s": "CCodex",
-      "c": 1,
-      "p": 70,
-      "u": "dakini_simhamukha_ccodex"
-    },
-    {
-      "n": "Darakhul High Priestess",
-      "s": "CCodex",
-      "c": 1,
-      "p": 172,
-      "u": "darakhul_high_priestess_ccodex"
-    },
-    {
-      "n": "Darakhul Shadowmancer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 173,
-      "u": "darakhul_shadowmancer_ccodex"
-    },
-    {
-      "n": "Darakhul Shadowmancer (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 173,
-      "u": "darakhul_shadowmancer_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Dark Eye",
-      "s": "CCodex",
-      "c": 1,
-      "p": 72,
-      "u": "dark_eye_ccodex"
-    },
-    {
-      "n": "Dark Father",
-      "s": "CCodex",
-      "c": 1,
-      "p": 71,
-      "u": "dark_father_ccodex"
-    },
-    {
-      "n": "Dark Servant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 47,
-      "u": "dark_servant_ccodex"
-    },
-    {
-      "n": "Dark Voice",
-      "s": "CCodex",
-      "c": 1,
-      "p": 73,
-      "u": "dark_voice_ccodex"
-    },
-    {
-      "n": "Deathsworn",
-      "s": "CCodex",
-      "c": 1,
-      "p": 142,
-      "u": "deathsworn_ccodex"
-    },
-    {
-      "n": "Desert Troll",
-      "s": "CCodex",
-      "c": 1,
-      "p": 356,
-      "u": "desert_troll_ccodex"
-    },
-    {
-      "n": "Devil Bough",
-      "s": "CCodex",
-      "c": 1,
-      "p": 302,
-      "u": "devil_bough_ccodex"
-    },
-    {
-      "n": "Devil Shark",
-      "s": "CCodex",
-      "c": 1,
-      "p": 98,
-      "u": "devil_shark_ccodex"
-    },
-    {
-      "n": "Dhampir",
-      "s": "CCodex",
-      "c": 1,
-      "p": 106,
-      "u": "dhampir_ccodex"
-    },
-    {
-      "n": "Dhampir Commander",
-      "s": "CCodex",
-      "c": 1,
-      "p": 107,
-      "u": "dhampir_commander_ccodex"
-    },
-    {
-      "n": "Doom Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 197,
-      "u": "doom_golem_ccodex"
-    },
-    {
-      "n": "Doomspeaker",
-      "s": "CCodex",
-      "c": 1,
-      "p": 399,
-      "u": "doomspeaker_ccodex"
-    },
-    {
-      "n": "Doomspeaker (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 399,
-      "u": "doomspeaker_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Dracotaur of The Eastern Wind",
-      "s": "CCodex",
-      "c": 1,
-      "p": 110,
-      "u": "dracotaur_of_the_eastern_wind_ccodex"
-    },
-    {
-      "n": "Dracotaur of The Southern Wind",
-      "s": "CCodex",
-      "c": 1,
-      "p": 110,
-      "u": "dracotaur_of_the_southern_wind_ccodex"
-    },
-    {
-      "n": "Dracotaur of The Western Wind",
-      "s": "CCodex",
-      "c": 1,
-      "p": 110,
-      "u": "dracotaur_of_the_western_wind_ccodex"
-    },
-    {
-      "n": "Dracotaurof The Northern Wind",
-      "s": "CCodex",
-      "c": 1,
-      "p": 110,
-      "u": "dracotaurof_the_northern_wind_ccodex"
-    },
-    {
-      "n": "Dream Squire",
-      "s": "CCodex",
-      "c": 1,
-      "p": 134,
-      "u": "dream_squire_ccodex"
-    },
-    {
-      "n": "Dream Wraith",
-      "s": "CCodex",
-      "c": 1,
-      "p": 139,
-      "u": "dream_wraith_ccodex"
-    },
-    {
-      "n": "Droth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 333,
-      "u": "droth_ccodex"
-    },
-    {
-      "n": "Dust Goblin Chieftain",
-      "s": "CCodex",
-      "c": 1,
-      "p": 136,
-      "u": "dust_goblin_chieftain_ccodex"
-    },
-    {
-      "n": "Dvarapala",
-      "s": "CCodex",
-      "c": 1,
-      "p": 137,
-      "u": "dvarapala_ccodex"
-    },
-    {
-      "n": "Echo",
-      "s": "CCodex",
-      "c": 1,
-      "p": 84,
-      "u": "echo_ccodex"
-    },
-    {
-      "n": "Ecstatic Bloom",
-      "s": "CCodex",
-      "c": 1,
-      "p": 303,
-      "u": "ecstatic_bloom_ccodex"
-    },
-    {
-      "n": "Edjet",
-      "s": "CCodex",
-      "c": 1,
-      "p": 121,
-      "u": "edjet_ccodex"
-    },
-    {
-      "n": "Elder Ghost Boar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 169,
-      "u": "elder_ghost_boar_ccodex"
-    },
-    {
-      "n": "Elementalist",
-      "s": "CCodex",
-      "c": 1,
-      "p": 122,
-      "u": "elementalist_ccodex"
-    },
-    {
-      "n": "Elfmarked Human",
-      "s": "CCodex",
-      "c": 1,
-      "p": 403,
-      "u": "elfmarked_human_ccodex"
-    },
-    {
-      "n": "Elite Kobold",
-      "s": "CCodex",
-      "c": 1,
-      "p": 237,
-      "u": "elite_kobold_ccodex"
-    },
-    {
-      "n": "Elophar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 149,
-      "u": "elophar_ccodex"
-    },
-    {
-      "n": "Enchanter",
-      "s": "CCodex",
-      "c": 1,
-      "p": 143,
-      "u": "enchanter_ccodex"
-    },
-    {
-      "n": "Execrable Shrub",
-      "s": "CCodex",
-      "c": 1,
-      "p": 304,
-      "u": "execrable_shrub_ccodex"
-    },
-    {
-      "n": "Exploding Toad",
-      "s": "CCodex",
-      "c": 1,
-      "p": 150,
-      "u": "exploding_toad_ccodex"
-    },
-    {
-      "n": "Eye of the Gods",
-      "s": "CCodex",
-      "c": 1,
-      "p": 16,
-      "u": "eye_of_the_gods_ccodex"
-    },
-    {
-      "n": "Fang of the Great Wolf",
-      "s": "CCodex",
-      "c": 1,
-      "p": 384,
-      "u": "fang_of_the_great_wolf_ccodex"
-    },
-    {
-      "n": "Far Wanderer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 151,
-      "u": "far_wanderer_ccodex"
-    },
-    {
-      "n": "Fear Liath",
-      "s": "CCodex",
-      "c": 1,
-      "p": 152,
-      "u": "fear_liath_ccodex"
-    },
-    {
-      "n": "Fey Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 127,
-      "u": "fey_drake_ccodex"
-    },
-    {
-      "n": "Fierstjerren",
-      "s": "CCodex",
-      "c": 1,
-      "p": 157,
-      "u": "fierstjerren_ccodex"
-    },
-    {
-      "n": "Fire Imp",
-      "s": "CCodex",
-      "c": 1,
-      "p": 103,
-      "u": "fire_imp_ccodex"
-    },
-    {
-      "n": "Flame Eater Swarm",
-      "s": "CCodex",
-      "c": 1,
-      "p": 158,
-      "u": "flame_eater_swarm_ccodex"
-    },
-    {
-      "n": "Flame-scourged Scion",
-      "s": "CCodex",
-      "c": 1,
-      "p": 159,
-      "u": "flame-scourged_scion_ccodex"
-    },
-    {
-      "n": "Flesh Reaver",
-      "s": "CCodex",
-      "c": 1,
-      "p": 160,
-      "u": "flesh_reaver_ccodex"
-    },
-    {
-      "n": "Fleshpod Hornet",
-      "s": "CCodex",
-      "c": 1,
-      "p": 161,
-      "u": "fleshpod_hornet_ccodex"
-    },
-    {
-      "n": "Flying Polyp",
-      "s": "CCodex",
-      "c": 1,
-      "p": 162,
-      "u": "flying_polyp_ccodex"
-    },
-    {
-      "n": "Forest Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 128,
-      "u": "forest_drake_ccodex"
-    },
-    {
-      "n": "Foxfire Ooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 283,
-      "u": "foxfire_ooze_ccodex"
-    },
-    {
-      "n": "Foxin",
-      "s": "CCodex",
-      "c": 1,
-      "p": 163,
-      "u": "foxin_ccodex"
-    },
-    {
-      "n": "Fractal Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 198,
-      "u": "fractal_golem_ccodex"
-    },
-    {
-      "n": "Fragrite",
-      "s": "CCodex",
-      "c": 1,
-      "p": 164,
-      "u": "fragrite_ccodex"
-    },
-    {
-      "n": "Fulad-zereh",
-      "s": "CCodex",
-      "c": 1,
-      "p": 85,
-      "u": "fulad-zereh_ccodex"
-    },
-    {
-      "n": "Fulminar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 165,
-      "u": "fulminar_ccodex"
-    },
-    {
-      "n": "Fungal Acid Ant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 8,
-      "u": "fungal_acid_ant_ccodex"
-    },
-    {
-      "n": "Gaki",
-      "s": "CCodex",
-      "c": 1,
-      "p": 222,
-      "u": "gaki_ccodex"
-    },
-    {
-      "n": "Gargoctopus",
-      "s": "CCodex",
-      "c": 1,
-      "p": 167,
-      "u": "gargoctopus_ccodex"
-    },
-    {
-      "n": "Gear Mage",
-      "s": "CCodex",
-      "c": 1,
-      "p": 401,
-      "u": "gear_mage_ccodex"
-    },
-    {
-      "n": "Gear Mage (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 402,
-      "u": "gear_mage_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Ghast of Leng",
-      "s": "CCodex",
-      "c": 1,
-      "p": 168,
-      "u": "ghast_of_leng_ccodex"
-    },
-    {
-      "n": "Ghost Boar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 169,
-      "u": "ghost_boar_ccodex"
-    },
-    {
-      "n": "Ghost Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 170,
-      "u": "ghost_dragon_ccodex"
-    },
-    {
-      "n": "Ghost Dwarf",
-      "s": "CCodex",
-      "c": 1,
-      "p": 171,
-      "u": "ghost_dwarf_ccodex"
-    },
-    {
-      "n": "Ghoulsteed",
-      "s": "CCodex",
-      "c": 1,
-      "p": 177,
-      "u": "ghoulsteed_ccodex"
-    },
-    {
-      "n": "Giant Albino Bat",
-      "s": "CCodex",
-      "c": 1,
-      "p": 50,
-      "u": "giant_albino_bat_ccodex"
-    },
-    {
-      "n": "Giant Moth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 178,
-      "u": "giant_moth_ccodex"
-    },
-    {
-      "n": "Giant Shark Bowl",
-      "s": "CCodex",
-      "c": 1,
-      "p": 284,
-      "u": "giant_shark_bowl_ccodex"
-    },
-    {
-      "n": "Giant Sloth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 345,
-      "u": "giant_sloth_ccodex"
-    },
-    {
-      "n": "Giant Vampire Bat",
-      "s": "CCodex",
-      "c": 1,
-      "p": 50,
-      "u": "giant_vampire_bat_ccodex"
-    },
-    {
-      "n": "Glass Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 200,
-      "u": "glass_golem_ccodex"
-    },
-    {
-      "n": "Gloomflower",
-      "s": "CCodex",
-      "c": 1,
-      "p": 188,
-      "u": "gloomflower_ccodex"
-    },
-    {
-      "n": "Gnoll Slaver",
-      "s": "CCodex",
-      "c": 1,
-      "p": 189,
-      "u": "gnoll_slaver_ccodex"
-    },
-    {
-      "n": "Gnomish Knife Cultist",
-      "s": "CCodex",
-      "c": 1,
-      "p": 402,
-      "u": "gnomish_knife_cultist_ccodex"
-    },
-    {
-      "n": "Goliath Longlegs",
-      "s": "CCodex",
-      "c": 1,
-      "p": 206,
-      "u": "goliath_longlegs_ccodex"
-    },
-    {
-      "n": "Goreling",
-      "s": "CCodex",
-      "c": 1,
-      "p": 207,
-      "u": "goreling_ccodex"
-    },
-    {
-      "n": "Grave Behemoth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 208,
-      "u": "grave_behemoth_ccodex"
-    },
-    {
-      "n": "Graveslayer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 400,
-      "u": "graveslayer_ccodex"
-    },
-    {
-      "n": "Great Mandrake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 260,
-      "u": "great_mandrake_ccodex"
-    },
-    {
-      "n": "Greater Rakshasa",
-      "s": "CCodex",
-      "c": 1,
-      "p": 312,
-      "u": "greater_rakshasa_ccodex"
-    },
-    {
-      "n": "Greater Scrag",
-      "s": "CCodex",
-      "c": 1,
-      "p": 322,
-      "u": "greater_scrag_ccodex"
-    },
-    {
-      "n": "Green Abyss Orc",
-      "s": "CCodex",
-      "c": 1,
-      "p": 291,
-      "u": "green_abyss_orc_ccodex"
-    },
-    {
-      "n": "Green Knight of the Woods",
-      "s": "CCodex",
-      "c": 1,
-      "p": 209,
-      "u": "green_knight_of_the_woods_ccodex"
-    },
-    {
-      "n": "Grindylow",
-      "s": "CCodex",
-      "c": 1,
-      "p": 210,
-      "u": "grindylow_ccodex"
-    },
-    {
-      "n": "Gugalanna",
-      "s": "CCodex",
-      "c": 1,
-      "p": 211,
-      "u": "gugalanna_ccodex"
-    },
-    {
-      "n": "Gulon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 212,
-      "u": "gulon_ccodex"
-    },
-    {
-      "n": "Gumienniki",
-      "s": "CCodex",
-      "c": 1,
-      "p": 213,
-      "u": "gumienniki_ccodex"
-    },
-    {
-      "n": "Hair Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 200,
-      "u": "hair_golem_ccodex"
-    },
-    {
-      "n": "Hallowed Reed",
-      "s": "CCodex",
-      "c": 1,
-      "p": 304,
-      "u": "hallowed_reed_ccodex"
-    },
-    {
-      "n": "Haunted Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 183,
-      "u": "haunted_giant_ccodex"
-    },
-    {
-      "n": "Heavy Cavalry",
-      "s": "CCodex",
-      "c": 1,
-      "p": 123,
-      "u": "heavy_cavalry_ccodex"
-    },
-    {
-      "n": "Herald of Fire",
-      "s": "CCodex",
-      "c": 1,
-      "p": 215,
-      "u": "herald_of_fire_ccodex"
-    },
-    {
-      "n": "Herald of the Great Wyrm",
-      "s": "CCodex",
-      "c": 1,
-      "p": 217,
-      "u": "herald_of_the_great_wyrm_ccodex"
-    },
-    {
-      "n": "Herald of Undeath",
-      "s": "CCodex",
-      "c": 1,
-      "p": 219,
-      "u": "herald_of_undeath_ccodex"
-    },
-    {
-      "n": "Hierophant Lich",
-      "s": "CCodex",
-      "c": 1,
-      "p": 251,
-      "u": "hierophant_lich_ccodex"
-    },
-    {
-      "n": "Horned Serpent",
-      "s": "CCodex",
-      "c": 1,
-      "p": 220,
-      "u": "horned_serpent_ccodex"
-    },
-    {
-      "n": "Hound of Tindalos",
-      "s": "CCodex",
-      "c": 1,
-      "p": 221,
-      "u": "hound_of_tindalos_ccodex"
-    },
-    {
-      "n": "Ichneumon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 224,
-      "u": "ichneumon_ccodex"
-    },
-    {
-      "n": "Ijiraq",
-      "s": "CCodex",
-      "c": 1,
-      "p": 226,
-      "u": "ijiraq_ccodex"
-    },
-    {
-      "n": "Incinis",
-      "s": "CCodex",
-      "c": 1,
-      "p": 226,
-      "u": "incinis_ccodex"
-    },
-    {
-      "n": "Infernal Knight",
-      "s": "CCodex",
-      "c": 1,
-      "p": 104,
-      "u": "infernal_knight_ccodex"
-    },
-    {
-      "n": "Ink Guardian",
-      "s": "CCodex",
-      "c": 1,
-      "p": 285,
-      "u": "ink_guardian_ccodex"
-    },
-    {
-      "n": "Inkling",
-      "s": "CCodex",
-      "c": 1,
-      "p": 227,
-      "u": "inkling_ccodex"
-    },
-    {
-      "n": "Iron Sphere",
-      "s": "CCodex",
-      "c": 1,
-      "p": 229,
-      "u": "iron_sphere_ccodex"
-    },
-    {
-      "n": "Jaanavar Jal",
-      "s": "CCodex",
-      "c": 1,
-      "p": 229,
-      "u": "jaanavar_jal_ccodex"
-    },
-    {
-      "n": "Jiangshi",
-      "s": "CCodex",
-      "c": 1,
-      "p": 230,
-      "u": "jiangshi_ccodex"
-    },
-    {
-      "n": "Jinmenju",
-      "s": "CCodex",
-      "c": 1,
-      "p": 232,
-      "u": "jinmenju_ccodex"
-    },
-    {
-      "n": "Junk Shaman",
-      "s": "CCodex",
-      "c": 1,
-      "p": 238,
-      "u": "junk_shaman_ccodex"
-    },
-    {
-      "n": "Kallikantzaros",
-      "s": "CCodex",
-      "c": 1,
-      "p": 233,
-      "u": "kallikantzaros_ccodex"
-    },
-    {
-      "n": "Kapi",
-      "s": "CCodex",
-      "c": 1,
-      "p": 336,
-      "u": "kapi_ccodex"
-    },
-    {
-      "n": "Kappa",
-      "s": "CCodex",
-      "c": 1,
-      "p": 234,
-      "u": "kappa_ccodex"
-    },
-    {
-      "n": "Karakura",
-      "s": "CCodex",
-      "c": 1,
-      "p": 235,
-      "u": "karakura_ccodex"
-    },
-    {
-      "n": "Keg Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 199,
-      "u": "keg_golem_ccodex"
-    },
-    {
-      "n": "King Kobold",
-      "s": "CCodex",
-      "c": 1,
-      "p": 239,
-      "u": "king_kobold_ccodex"
-    },
-    {
-      "n": "Kinnara",
-      "s": "CCodex",
-      "c": 1,
-      "p": 17,
-      "u": "kinnara_ccodex"
-    },
-    {
-      "n": "Kitsune",
-      "s": "CCodex",
-      "c": 1,
-      "p": 236,
-      "u": "kitsune_ccodex"
-    },
-    {
-      "n": "Knight of the Road",
-      "s": "CCodex",
-      "c": 1,
-      "p": 146,
-      "u": "knight_of_the_road_ccodex"
-    },
-    {
-      "n": "Korrigan",
-      "s": "CCodex",
-      "c": 1,
-      "p": 242,
-      "u": "korrigan_ccodex"
-    },
-    {
-      "n": "Kryt",
-      "s": "CCodex",
-      "c": 1,
-      "p": 243,
-      "u": "kryt_ccodex"
-    },
-    {
-      "n": "Kuunganisha",
-      "s": "CCodex",
-      "c": 1,
-      "p": 245,
-      "u": "kuunganisha_ccodex"
-    },
-    {
-      "n": "Külmking",
-      "s": "CCodex",
-      "c": 1,
-      "p": 244,
-      "u": "külmking_ccodex"
-    },
-    {
-      "n": "Labyrinth Keeper",
-      "s": "CCodex",
-      "c": 1,
-      "p": 267,
-      "u": "labyrinth_keeper_ccodex"
-    },
-    {
-      "n": "Lady In White",
-      "s": "CCodex",
-      "c": 1,
-      "p": 246,
-      "u": "lady_in_white_ccodex"
-    },
-    {
-      "n": "Laestrigonian Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 184,
-      "u": "laestrigonian_giant_ccodex"
-    },
-    {
-      "n": "Lamassu",
-      "s": "CCodex",
-      "c": 1,
-      "p": 247,
-      "u": "lamassu_ccodex"
-    },
-    {
-      "n": "Leonino",
-      "s": "CCodex",
-      "c": 1,
-      "p": 250,
-      "u": "leonino_ccodex"
-    },
-    {
-      "n": "Lesser Scrag",
-      "s": "CCodex",
-      "c": 1,
-      "p": 322,
-      "u": "lesser_scrag_ccodex"
-    },
-    {
-      "n": "Light Cavalry",
-      "s": "CCodex",
-      "c": 1,
-      "p": 124,
-      "u": "light_cavalry_ccodex"
-    },
-    {
-      "n": "Light Dragon Wyrmling",
-      "s": "CCodex",
-      "c": 1,
-      "p": 113,
-      "u": "light_dragon_wyrmling_ccodex"
-    },
-    {
-      "n": "Living Shade",
-      "s": "CCodex",
-      "c": 1,
-      "p": 255,
-      "u": "living_shade_ccodex"
-    },
-    {
-      "n": "Living Star",
-      "s": "CCodex",
-      "c": 1,
-      "p": 256,
-      "u": "living_star_ccodex"
-    },
-    {
-      "n": "Lord of Vultures",
-      "s": "CCodex",
-      "c": 1,
-      "p": 26,
-      "u": "lord_of_vultures_ccodex"
-    },
-    {
-      "n": "Lord Zombie",
-      "s": "CCodex",
-      "c": 1,
-      "p": 394,
-      "u": "lord_zombie_ccodex"
-    },
-    {
-      "n": "Lost Minotaur",
-      "s": "CCodex",
-      "c": 1,
-      "p": 268,
-      "u": "lost_minotaur_ccodex"
-    },
-    {
-      "n": "Lotus Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 202,
-      "u": "lotus_golem_ccodex"
-    },
-    {
-      "n": "Lou Carcolh",
-      "s": "CCodex",
-      "c": 1,
-      "p": 257,
-      "u": "lou_carcolh_ccodex"
-    },
-    {
-      "n": "Lystrosaurus",
-      "s": "CCodex",
-      "c": 1,
-      "p": 108,
-      "u": "lystrosaurus_ccodex"
-    },
-    {
-      "n": "Manastorm Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 203,
-      "u": "manastorm_golem_ccodex"
-    },
-    {
-      "n": "Mandrake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 260,
-      "u": "mandrake_ccodex"
-    },
-    {
-      "n": "Mandriano",
-      "s": "CCodex",
-      "c": 1,
-      "p": 261,
-      "u": "mandriano_ccodex"
-    },
-    {
-      "n": "Mantik, Barbed King of the Manticores",
-      "s": "CCodex",
-      "c": 1,
-      "p": 262,
-      "u": "mantik_barbed_king_of_the_manticores_ccodex"
-    },
-    {
-      "n": "Master of Demon Mountain",
-      "s": "CCodex",
-      "c": 1,
-      "p": 264,
-      "u": "master_of_demon_mountain_ccodex"
-    },
-    {
-      "n": "Master of Demon Mountain (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 264,
-      "u": "master_of_demon_mountain_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Matriarch Serpentine Lamia",
-      "s": "CCodex",
-      "c": 1,
-      "p": 248,
-      "u": "matriarch_serpentine_lamia_ccodex"
-    },
-    {
-      "n": "Megapede",
-      "s": "CCodex",
-      "c": 1,
-      "p": 266,
-      "u": "megapede_ccodex"
-    },
-    {
-      "n": "Metee-Kolen-Ol",
-      "s": "CCodex",
-      "c": 1,
-      "p": 404,
-      "u": "metee-kolen-ol_ccodex"
-    },
-    {
-      "n": "Mold Zombie",
-      "s": "CCodex",
-      "c": 1,
-      "p": 395,
-      "u": "mold_zombie_ccodex"
-    },
-    {
-      "n": "Monarch Skeleton",
-      "s": "CCodex",
-      "c": 1,
-      "p": 341,
-      "u": "monarch_skeleton_ccodex"
-    },
-    {
-      "n": "Monkey King",
-      "s": "CCodex",
-      "c": 1,
-      "p": 337,
-      "u": "monkey_king_ccodex"
-    },
-    {
-      "n": "Moon Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 129,
-      "u": "moon_drake_ccodex"
-    },
-    {
-      "n": "Moon Nymph",
-      "s": "CCodex",
-      "c": 1,
-      "p": 269,
-      "u": "moon_nymph_ccodex"
-    },
-    {
-      "n": "Moon Priestess",
-      "s": "CCodex",
-      "c": 1,
-      "p": 267,
-      "u": "moon_priestess_ccodex"
-    },
-    {
-      "n": "Moonchild Naga",
-      "s": "CCodex",
-      "c": 1,
-      "p": 273,
-      "u": "moonchild_naga_ccodex"
-    },
-    {
-      "n": "Morko",
-      "s": "CCodex",
-      "c": 1,
-      "p": 270,
-      "u": "morko_ccodex"
-    },
-    {
-      "n": "Mountain Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 185,
-      "u": "mountain_giant_ccodex"
-    },
-    {
-      "n": "Mouse King",
-      "s": "CCodex",
-      "c": 1,
-      "p": 28,
-      "u": "mouse_king_ccodex"
-    },
-    {
-      "n": "Mud Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 201,
-      "u": "mud_golem_ccodex"
-    },
-    {
-      "n": "Mytholabe",
-      "s": "CCodex",
-      "c": 1,
-      "p": 271,
-      "u": "mytholabe_ccodex"
-    },
-    {
-      "n": "Nachzehrer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 272,
-      "u": "nachzehrer_ccodex"
-    },
-    {
-      "n": "Nalusa Falaya",
-      "s": "CCodex",
-      "c": 1,
-      "p": 274,
-      "u": "nalusa_falaya_ccodex"
-    },
-    {
-      "n": "Necromancer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 404,
-      "u": "necromancer_ccodex"
-    },
-    {
-      "n": "Necrophage Ghast",
-      "s": "CCodex",
-      "c": 1,
-      "p": 175,
-      "u": "necrophage_ghast_ccodex"
-    },
-    {
-      "n": "Necrotic Tick",
-      "s": "CCodex",
-      "c": 1,
-      "p": 275,
-      "u": "necrotic_tick_ccodex"
-    },
-    {
-      "n": "Neophron",
-      "s": "CCodex",
-      "c": 1,
-      "p": 87,
-      "u": "neophron_ccodex"
-    },
-    {
-      "n": "Nian",
-      "s": "CCodex",
-      "c": 1,
-      "p": 276,
-      "u": "nian_ccodex"
-    },
-    {
-      "n": "Nightgaunt",
-      "s": "CCodex",
-      "c": 1,
-      "p": 277,
-      "u": "nightgaunt_ccodex"
-    },
-    {
-      "n": "Ningyo",
-      "s": "CCodex",
-      "c": 1,
-      "p": 278,
-      "u": "ningyo_ccodex"
-    },
-    {
-      "n": "Nodosaurus",
-      "s": "CCodex",
-      "c": 1,
-      "p": 109,
-      "u": "nodosaurus_ccodex"
-    },
-    {
-      "n": "Oliphaunt",
-      "s": "CCodex",
-      "c": 1,
-      "p": 280,
-      "u": "oliphaunt_ccodex"
-    },
-    {
-      "n": "One-headed Clockwork Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 111,
-      "u": "one-headed_clockwork_dragon_ccodex"
-    },
-    {
-      "n": "Ophanim",
-      "s": "CCodex",
-      "c": 1,
-      "p": 18,
-      "u": "ophanim_ccodex"
-    },
-    {
-      "n": "Orthrus",
-      "s": "CCodex",
-      "c": 1,
-      "p": 292,
-      "u": "orthrus_ccodex"
-    },
-    {
-      "n": "Oth",
-      "s": "CCodex",
-      "c": 1,
-      "p": 334,
-      "u": "oth_ccodex"
-    },
-    {
-      "n": "Ouroban",
-      "s": "CCodex",
-      "c": 1,
-      "p": 125,
-      "u": "ouroban_ccodex"
-    },
-    {
-      "n": "Ouroboros",
-      "s": "CCodex",
-      "c": 1,
-      "p": 293,
-      "u": "ouroboros_ccodex"
-    },
-    {
-      "n": "Pact Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 130,
-      "u": "pact_drake_ccodex"
-    },
-    {
-      "n": "Pact Lich",
-      "s": "CCodex",
-      "c": 1,
-      "p": 253,
-      "u": "pact_lich_ccodex"
-    },
-    {
-      "n": "Paper Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 204,
-      "u": "paper_golem_ccodex"
-    },
-    {
-      "n": "Paper Golem Swarm",
-      "s": "CCodex",
-      "c": 1,
-      "p": 204,
-      "u": "paper_golem_swarm_ccodex"
-    },
-    {
-      "n": "Parzelon, King of Secrets",
-      "s": "CCodex",
-      "c": 1,
-      "p": 101,
-      "u": "parzelon_king_of_secrets_ccodex"
-    },
-    {
-      "n": "Pattern Dancer",
-      "s": "CCodex",
-      "c": 1,
-      "p": 147,
-      "u": "pattern_dancer_ccodex"
-    },
-    {
-      "n": "Pech",
-      "s": "CCodex",
-      "c": 1,
-      "p": 294,
-      "u": "pech_ccodex"
-    },
-    {
-      "n": "Pech Lithlord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 295,
-      "u": "pech_lithlord_ccodex"
-    },
-    {
-      "n": "Pech Stonemaster",
-      "s": "CCodex",
-      "c": 1,
-      "p": 295,
-      "u": "pech_stonemaster_ccodex"
-    },
-    {
-      "n": "Peluda Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 131,
-      "u": "peluda_drake_ccodex"
-    },
-    {
-      "n": "Phantom",
-      "s": "CCodex",
-      "c": 1,
-      "p": 296,
-      "u": "phantom_ccodex"
-    },
-    {
-      "n": "Philosopher's Ghost",
-      "s": "CCodex",
-      "c": 1,
-      "p": 297,
-      "u": "philosopher's_ghost_ccodex"
-    },
-    {
-      "n": "Piasa",
-      "s": "CCodex",
-      "c": 1,
-      "p": 298,
-      "u": "piasa_ccodex"
-    },
-    {
-      "n": "Pillar of the Lost Magocracy",
-      "s": "CCodex",
-      "c": 1,
-      "p": 299,
-      "u": "pillar_of_the_lost_magocracy_ccodex"
-    },
-    {
-      "n": "Pishacha",
-      "s": "CCodex",
-      "c": 1,
-      "p": 88,
-      "u": "pishacha_ccodex"
-    },
-    {
-      "n": "Pixiu",
-      "s": "CCodex",
-      "c": 1,
-      "p": 300,
-      "u": "pixiu_ccodex"
-    },
-    {
-      "n": "Plaresh",
-      "s": "CCodex",
-      "c": 1,
-      "p": 89,
-      "u": "plaresh_ccodex"
-    },
-    {
-      "n": "Preta",
-      "s": "CCodex",
-      "c": 1,
-      "p": 223,
-      "u": "preta_ccodex"
-    },
-    {
-      "n": "Purple Slime",
-      "s": "CCodex",
-      "c": 1,
-      "p": 307,
-      "u": "purple_slime_ccodex"
-    },
-    {
-      "n": "Queen of Birds",
-      "s": "CCodex",
-      "c": 1,
-      "p": 30,
-      "u": "queen_of_birds_ccodex"
-    },
-    {
-      "n": "Queen of Cats",
-      "s": "CCodex",
-      "c": 1,
-      "p": 32,
-      "u": "queen_of_cats_ccodex"
-    },
-    {
-      "n": "Queen of Serpents",
-      "s": "CCodex",
-      "c": 1,
-      "p": 34,
-      "u": "queen_of_serpents_ccodex"
-    },
-    {
-      "n": "Quickstep",
-      "s": "CCodex",
-      "c": 1,
-      "p": 308,
-      "u": "quickstep_ccodex"
-    },
-    {
-      "n": "Quiet Soul",
-      "s": "CCodex",
-      "c": 1,
-      "p": 309,
-      "u": "quiet_soul_ccodex"
-    },
-    {
-      "n": "Rageipede",
-      "s": "CCodex",
-      "c": 1,
-      "p": 310,
-      "u": "rageipede_ccodex"
-    },
-    {
-      "n": "Ramag Portal Master",
-      "s": "CCodex",
-      "c": 1,
-      "p": 313,
-      "u": "ramag_portal_master_ccodex"
-    },
-    {
-      "n": "Rangda, Demon Lord of Witches",
-      "s": "CCodex",
-      "c": 1,
-      "p": 49,
-      "u": "rangda_demon_lord_of_witches_ccodex"
-    },
-    {
-      "n": "Ratatosk Warlord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 314,
-      "u": "ratatosk_warlord_ccodex"
-    },
-    {
-      "n": "Ratfolk Mercenary",
-      "s": "CCodex",
-      "c": 1,
-      "p": 315,
-      "u": "ratfolk_mercenary_ccodex"
-    },
-    {
-      "n": "Ratfolk Warlock",
-      "s": "CCodex",
-      "c": 1,
-      "p": 316,
-      "u": "ratfolk_warlock_ccodex"
-    },
-    {
-      "n": "Rattok",
-      "s": "CCodex",
-      "c": 1,
-      "p": 90,
-      "u": "rattok_ccodex"
-    },
-    {
-      "n": "Razorleaf",
-      "s": "CCodex",
-      "c": 1,
-      "p": 317,
-      "u": "razorleaf_ccodex"
-    },
-    {
-      "n": "Red Queen",
-      "s": "CCodex",
-      "c": 1,
-      "p": 352,
-      "u": "red_queen_ccodex"
-    },
-    {
-      "n": "Reynard",
-      "s": "CCodex",
-      "c": 1,
-      "p": 155,
-      "u": "reynard_ccodex"
-    },
-    {
-      "n": "Rimewing",
-      "s": "CCodex",
-      "c": 1,
-      "p": 178,
-      "u": "rimewing_ccodex"
-    },
-    {
-      "n": "Ring Servant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 318,
-      "u": "ring_servant_ccodex"
-    },
-    {
-      "n": "Roachling Scout",
-      "s": "CCodex",
-      "c": 1,
-      "p": 319,
-      "u": "roachling_scout_ccodex"
-    },
-    {
-      "n": "Roggenwolf",
-      "s": "CCodex",
-      "c": 1,
-      "p": 320,
-      "u": "roggenwolf_ccodex"
-    },
-    {
-      "n": "Ruby Ooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 286,
-      "u": "ruby_ooze_ccodex"
-    },
-    {
-      "n": "Sammael",
-      "s": "CCodex",
-      "c": 1,
-      "p": 19,
-      "u": "sammael_ccodex"
-    },
-    {
-      "n": "Scitalis",
-      "s": "CCodex",
-      "c": 1,
-      "p": 321,
-      "u": "scitalis_ccodex"
-    },
-    {
-      "n": "Scorpion Assassin",
-      "s": "CCodex",
-      "c": 1,
-      "p": 405,
-      "u": "scorpion_assassin_ccodex"
-    },
-    {
-      "n": "Seeping Death Skeleton",
-      "s": "CCodex",
-      "c": 1,
-      "p": 288,
-      "u": "seeping_death_skeleton_ccodex"
-    },
-    {
-      "n": "Sentinel In Darkness",
-      "s": "CCodex",
-      "c": 1,
-      "p": 323,
-      "u": "sentinel_in_darkness_ccodex"
-    },
-    {
-      "n": "Serpentfolk of Yig",
-      "s": "CCodex",
-      "c": 1,
-      "p": 324,
-      "u": "serpentfolk_of_yig_ccodex"
-    },
-    {
-      "n": "Serpentine Lamia",
-      "s": "CCodex",
-      "c": 1,
-      "p": 248,
-      "u": "serpentine_lamia_ccodex"
-    },
-    {
-      "n": "Servant of the Vine",
-      "s": "CCodex",
-      "c": 1,
-      "p": 144,
-      "u": "servant_of_the_vine_ccodex"
-    },
-    {
-      "n": "Servant of Yig",
-      "s": "CCodex",
-      "c": 1,
-      "p": 325,
-      "u": "servant_of_yig_ccodex"
-    },
-    {
-      "n": "Shadow Blight",
-      "s": "CCodex",
-      "c": 1,
-      "p": 326,
-      "u": "shadow_blight_ccodex"
-    },
-    {
-      "n": "Shadow Fey Ambassador",
-      "s": "CCodex",
-      "c": 1,
-      "p": 145,
-      "u": "shadow_fey_ambassador_ccodex"
-    },
-    {
-      "n": "Shadow Fey Poisoner",
-      "s": "CCodex",
-      "c": 1,
-      "p": 148,
-      "u": "shadow_fey_poisoner_ccodex"
-    },
-    {
-      "n": "Shadow Goblin",
-      "s": "CCodex",
-      "c": 1,
-      "p": 191,
-      "u": "shadow_goblin_ccodex"
-    },
-    {
-      "n": "Shadow Ooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 287,
-      "u": "shadow_ooze_ccodex"
-    },
-    {
-      "n": "Shadow River Lord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 327,
-      "u": "shadow_river_lord_ccodex"
-    },
-    {
-      "n": "Shadow Skeleton",
-      "s": "CCodex",
-      "c": 1,
-      "p": 342,
-      "u": "shadow_skeleton_ccodex"
-    },
-    {
-      "n": "Shantak",
-      "s": "CCodex",
-      "c": 1,
-      "p": 328,
-      "u": "shantak_ccodex"
-    },
-    {
-      "n": "Shard Swarm",
-      "s": "CCodex",
-      "c": 1,
-      "p": 329,
-      "u": "shard_swarm_ccodex"
-    },
-    {
-      "n": "Shockwing",
-      "s": "CCodex",
-      "c": 1,
-      "p": 179,
-      "u": "shockwing_ccodex"
-    },
-    {
-      "n": "Shoreline Scrapper",
-      "s": "CCodex",
-      "c": 1,
-      "p": 330,
-      "u": "shoreline_scrapper_ccodex"
-    },
-    {
-      "n": "Sigilian",
-      "s": "CCodex",
-      "c": 1,
-      "p": 335,
-      "u": "sigilian_ccodex"
-    },
-    {
-      "n": "Simurg",
-      "s": "CCodex",
-      "c": 1,
-      "p": 339,
-      "u": "simurg_ccodex"
-    },
-    {
-      "n": "Skull Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 132,
-      "u": "skull_drake_ccodex"
-    },
-    {
-      "n": "Skull Lantern",
-      "s": "CCodex",
-      "c": 1,
-      "p": 343,
-      "u": "skull_lantern_ccodex"
-    },
-    {
-      "n": "Sleipnir",
-      "s": "CCodex",
-      "c": 1,
-      "p": 344,
-      "u": "sleipnir_ccodex"
-    },
-    {
-      "n": "Snow Cat",
-      "s": "CCodex",
-      "c": 1,
-      "p": 346,
-      "u": "snow_cat_ccodex"
-    },
-    {
-      "n": "Snow Hag",
-      "s": "CCodex",
-      "c": 1,
-      "p": 214,
-      "u": "snow_hag_ccodex"
-    },
-    {
-      "n": "Song",
-      "s": "CCodex",
-      "c": 1,
-      "p": 20,
-      "u": "song_ccodex"
-    },
-    {
-      "n": "Sootwing",
-      "s": "CCodex",
-      "c": 1,
-      "p": 329,
-      "u": "sootwing_ccodex"
-    },
-    {
-      "n": "Sooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 334,
-      "u": "sooze_ccodex"
-    },
-    {
-      "n": "Spawn of Chernobog",
-      "s": "CCodex",
-      "c": 1,
-      "p": 347,
-      "u": "spawn_of_chernobog_ccodex"
-    },
-    {
-      "n": "Spawn of Parzelon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 102,
-      "u": "spawn_of_parzelon_ccodex"
-    },
-    {
-      "n": "Speaker to the Darkness",
-      "s": "CCodex",
-      "c": 1,
-      "p": 96,
-      "u": "speaker_to_the_darkness_ccodex"
-    },
-    {
-      "n": "Spider Drake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 133,
-      "u": "spider_drake_ccodex"
-    },
-    {
-      "n": "Spirit Lamp",
-      "s": "CCodex",
-      "c": 1,
-      "p": 349,
-      "u": "spirit_lamp_ccodex"
-    },
-    {
-      "n": "Spree",
-      "s": "CCodex",
-      "c": 1,
-      "p": 91,
-      "u": "spree_ccodex"
-    },
-    {
-      "n": "Storm Lord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 139,
-      "u": "storm_lord_ccodex"
-    },
-    {
-      "n": "Storm Spirit",
-      "s": "CCodex",
-      "c": 1,
-      "p": 350,
-      "u": "storm_spirit_ccodex"
-    },
-    {
-      "n": "Sunset Raptor",
-      "s": "CCodex",
-      "c": 1,
-      "p": 351,
-      "u": "sunset_raptor_ccodex"
-    },
-    {
-      "n": "Suppurating Ooze",
-      "s": "CCodex",
-      "c": 1,
-      "p": 288,
-      "u": "suppurating_ooze_ccodex"
-    },
-    {
-      "n": "Swolbold",
-      "s": "CCodex",
-      "c": 1,
-      "p": 240,
-      "u": "swolbold_ccodex"
-    },
-    {
-      "n": "Tar Ghoul",
-      "s": "CCodex",
-      "c": 1,
-      "p": 176,
-      "u": "tar_ghoul_ccodex"
-    },
-    {
-      "n": "Terror Bird",
-      "s": "CCodex",
-      "c": 1,
-      "p": 352,
-      "u": "terror_bird_ccodex"
-    },
-    {
-      "n": "The Barbed",
-      "s": "CCodex",
-      "c": 1,
-      "p": 263,
-      "u": "the_barbed_ccodex"
-    },
-    {
-      "n": "The Iron Teeth of Baba Yaga",
-      "s": "CCodex",
-      "c": 1,
-      "p": 47,
-      "u": "the_iron_teeth_of_baba_yaga_ccodex"
-    },
-    {
-      "n": "Thief Lord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 406,
-      "u": "thief_lord_ccodex"
-    },
-    {
-      "n": "Thorned Sulfurlord",
-      "s": "CCodex",
-      "c": 1,
-      "p": 306,
-      "u": "thorned_sulfurlord_ccodex"
-    },
-    {
-      "n": "Thread-bound Constrictor Snake",
-      "s": "CCodex",
-      "c": 1,
-      "p": 353,
-      "u": "thread-bound_constrictor_snake_ccodex"
-    },
-    {
-      "n": "Three-headed Clockwork Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 112,
-      "u": "three-headed_clockwork_dragon_ccodex"
-    },
-    {
-      "n": "Three-headed Cobra",
-      "s": "CCodex",
-      "c": 1,
-      "p": 354,
-      "u": "three-headed_cobra_ccodex"
-    },
-    {
-      "n": "Tosculi Jeweled Drone",
-      "s": "CCodex",
-      "c": 1,
-      "p": 355,
-      "u": "tosculi_jeweled_drone_ccodex"
-    },
-    {
-      "n": "Trollkin Grunt",
-      "s": "CCodex",
-      "c": 1,
-      "p": 357,
-      "u": "trollkin_grunt_ccodex"
-    },
-    {
-      "n": "Trollkin Shaman",
-      "s": "CCodex",
-      "c": 1,
-      "p": 357,
-      "u": "trollkin_shaman_ccodex"
-    },
-    {
-      "n": "Tulpa",
-      "s": "CCodex",
-      "c": 1,
-      "p": 358,
-      "u": "tulpa_ccodex"
-    },
-    {
-      "n": "Tusked Crimson Ogre",
-      "s": "CCodex",
-      "c": 1,
-      "p": 279,
-      "u": "tusked_crimson_ogre_ccodex"
-    },
-    {
-      "n": "Tveirherjar",
-      "s": "CCodex",
-      "c": 1,
-      "p": 359,
-      "u": "tveirherjar_ccodex"
-    },
-    {
-      "n": "Two-headed Eagle",
-      "s": "CCodex",
-      "c": 1,
-      "p": 360,
-      "u": "two-headed_eagle_ccodex"
-    },
-    {
-      "n": "Typhon, Father of Monsters",
-      "s": "CCodex",
-      "c": 1,
-      "p": 81,
-      "u": "typhon_father_of_monsters_ccodex"
-    },
-    {
-      "n": "Undead Phoenix",
-      "s": "CCodex",
-      "c": 1,
-      "p": 361,
-      "u": "undead_phoenix_ccodex"
-    },
-    {
-      "n": "Undine",
-      "s": "CCodex",
-      "c": 1,
-      "p": 362,
-      "u": "undine_ccodex"
-    },
-    {
-      "n": "Unhatched",
-      "s": "CCodex",
-      "c": 1,
-      "p": 363,
-      "u": "unhatched_ccodex"
-    },
-    {
-      "n": "Ursa Polaris",
-      "s": "CCodex",
-      "c": 1,
-      "p": 364,
-      "u": "ursa_polaris_ccodex"
-    },
-    {
-      "n": "Vampire Patrician",
-      "s": "CCodex",
-      "c": 1,
-      "p": 366,
-      "u": "vampire_patrician_ccodex"
-    },
-    {
-      "n": "Vampire Priestess",
-      "s": "CCodex",
-      "c": 1,
-      "p": 367,
-      "u": "vampire_priestess_ccodex"
-    },
-    {
-      "n": "Vampire Priestess (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 367,
-      "u": "vampire_priestess_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Vampire Thrall",
-      "s": "CCodex",
-      "c": 1,
-      "p": 368,
-      "u": "vampire_thrall_ccodex"
-    },
-    {
-      "n": "Vampiric Knight",
-      "s": "CCodex",
-      "c": 1,
-      "p": 369,
-      "u": "vampiric_knight_ccodex"
-    },
-    {
-      "n": "Vanara",
-      "s": "CCodex",
-      "c": 1,
-      "p": 338,
-      "u": "vanara_ccodex"
-    },
-    {
-      "n": "Vellso",
-      "s": "CCodex",
-      "c": 1,
-      "p": 92,
-      "u": "vellso_ccodex"
-    },
-    {
-      "n": "Venom Elemental",
-      "s": "CCodex",
-      "c": 1,
-      "p": 140,
-      "u": "venom_elemental_ccodex"
-    },
-    {
-      "n": "Venom Maw Hydra",
-      "s": "CCodex",
-      "c": 1,
-      "p": 370,
-      "u": "venom_maw_hydra_ccodex"
-    },
-    {
-      "n": "Vines of Nemthyr",
-      "s": "CCodex",
-      "c": 1,
-      "p": 371,
-      "u": "vines_of_nemthyr_ccodex"
-    },
-    {
-      "n": "Void Cultist",
-      "s": "CCodex",
-      "c": 1,
-      "p": 407,
-      "u": "void_cultist_ccodex"
-    },
-    {
-      "n": "Void Giant",
-      "s": "CCodex",
-      "c": 1,
-      "p": 187,
-      "u": "void_giant_ccodex"
-    },
-    {
-      "n": "Void Speaker",
-      "s": "CCodex",
-      "c": 1,
-      "p": 408,
-      "u": "void_speaker_ccodex"
-    },
-    {
-      "n": "Void Speaker (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 408,
-      "u": "void_speaker_(midgard_version)_ccodex"
-    },
-    {
-      "n": "Voidwracked Mage",
-      "s": "CCodex",
-      "c": 1,
-      "p": 409,
-      "u": "voidwracked_mage_ccodex"
-    },
-    {
-      "n": "Voidwracked Mage (Midgard Version)",
-      "s": "CCodex",
-      "c": 1,
-      "p": 409,
-      "u": "voidwracked_mage_(midgard_version)_ccodex"
-    },
-    {
-      "n": "War Chaplain",
-      "s": "CCodex",
-      "c": 1,
-      "p": 410,
-      "u": "war_chaplain_ccodex"
-    },
-    {
-      "n": "War Machine Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 205,
-      "u": "war_machine_golem_ccodex"
-    },
-    {
-      "n": "War Priest",
-      "s": "CCodex",
-      "c": 1,
-      "p": 411,
-      "u": "war_priest_ccodex"
-    },
-    {
-      "n": "War Wyvern",
-      "s": "CCodex",
-      "c": 1,
-      "p": 386,
-      "u": "war_wyvern_ccodex"
-    },
-    {
-      "n": "Warlock's Trumpetbloom",
-      "s": "CCodex",
-      "c": 1,
-      "p": 372,
-      "u": "warlock's_trumpetbloom_ccodex"
-    },
-    {
-      "n": "Wasteland Dragon Wyrmling",
-      "s": "CCodex",
-      "c": 1,
-      "p": 118,
-      "u": "wasteland_dragon_wyrmling_ccodex"
-    },
-    {
-      "n": "Water Horse",
-      "s": "CCodex",
-      "c": 1,
-      "p": 373,
-      "u": "water_horse_ccodex"
-    },
-    {
-      "n": "Weirding Scroll",
-      "s": "CCodex",
-      "c": 1,
-      "p": 376,
-      "u": "weirding_scroll_ccodex"
-    },
-    {
-      "n": "Wendigo",
-      "s": "CCodex",
-      "c": 1,
-      "p": 377,
-      "u": "wendigo_ccodex"
-    },
-    {
-      "n": "Werebat",
-      "s": "CCodex",
-      "c": 1,
-      "p": 258,
-      "u": "werebat_ccodex"
-    },
-    {
-      "n": "Werehyena",
-      "s": "CCodex",
-      "c": 1,
-      "p": 259,
-      "u": "werehyena_ccodex"
-    },
-    {
-      "n": "Whisperer In Darkness",
-      "s": "CCodex",
-      "c": 1,
-      "p": 378,
-      "u": "whisperer_in_darkness_ccodex"
-    },
-    {
-      "n": "White Stag",
-      "s": "CCodex",
-      "c": 1,
-      "p": 379,
-      "u": "white_stag_ccodex"
-    },
-    {
-      "n": "Wickerman",
-      "s": "CCodex",
-      "c": 1,
-      "p": 380,
-      "u": "wickerman_ccodex"
-    },
-    {
-      "n": "Wind Demon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 93,
-      "u": "wind_demon_ccodex"
-    },
-    {
-      "n": "Wind Eater",
-      "s": "CCodex",
-      "c": 1,
-      "p": 381,
-      "u": "wind_eater_ccodex"
-    },
-    {
-      "n": "Wind Weasel",
-      "s": "CCodex",
-      "c": 1,
-      "p": 375,
-      "u": "wind_weasel_ccodex"
-    },
-    {
-      "n": "Wind's Harp",
-      "s": "CCodex",
-      "c": 1,
-      "p": 105,
-      "u": "wind's_harp_ccodex"
-    },
-    {
-      "n": "Wirbeln Fungi",
-      "s": "CCodex",
-      "c": 1,
-      "p": 166,
-      "u": "wirbeln_fungi_ccodex"
-    },
-    {
-      "n": "Witch Queen",
-      "s": "CCodex",
-      "c": 1,
-      "p": 97,
-      "u": "witch_queen_ccodex"
-    },
-    {
-      "n": "Wizard Kobold",
-      "s": "CCodex",
-      "c": 1,
-      "p": 241,
-      "u": "wizard_kobold_ccodex"
-    },
-    {
-      "n": "Wolpertinger",
-      "s": "CCodex",
-      "c": 1,
-      "p": 382,
-      "u": "wolpertinger_ccodex"
-    },
-    {
-      "n": "Wood Golem",
-      "s": "CCodex",
-      "c": 1,
-      "p": 201,
-      "u": "wood_golem_ccodex"
-    },
-    {
-      "n": "Woodwose",
-      "s": "CCodex",
-      "c": 1,
-      "p": 383,
-      "u": "woodwose_ccodex"
-    },
-    {
-      "n": "Wyvern Knight",
-      "s": "CCodex",
-      "c": 1,
-      "p": 385,
-      "u": "wyvern_knight_ccodex"
-    },
-    {
-      "n": "Xenabsorber",
-      "s": "CCodex",
-      "c": 1,
-      "p": 387,
-      "u": "xenabsorber_ccodex"
-    },
-    {
-      "n": "Xiphus",
-      "s": "CCodex",
-      "c": 1,
-      "p": 388,
-      "u": "xiphus_ccodex"
-    },
-    {
-      "n": "Yaga Goo",
-      "s": "CCodex",
-      "c": 1,
-      "p": 389,
-      "u": "yaga_goo_ccodex"
-    },
-    {
-      "n": "Yakirian",
-      "s": "CCodex",
-      "c": 1,
-      "p": 390,
-      "u": "yakirian_ccodex"
-    },
-    {
-      "n": "Yann-An-Oed",
-      "s": "CCodex",
-      "c": 1,
-      "p": 391,
-      "u": "yann-an-oed_ccodex"
-    },
-    {
-      "n": "Yek",
-      "s": "CCodex",
-      "c": 1,
-      "p": 95,
-      "u": "yek_ccodex"
-    },
-    {
-      "n": "Young Light Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 114,
-      "u": "young_light_dragon_ccodex"
-    },
-    {
-      "n": "Young Wasteland Dragon",
-      "s": "CCodex",
-      "c": 1,
-      "p": 118,
-      "u": "young_wasteland_dragon_ccodex"
-    },
-    {
-      "n": "Ziphius",
-      "s": "CCodex",
-      "c": 1,
-      "p": 392,
-      "u": "ziphius_ccodex"
-    },
-    {
-      "n": "Zoog",
-      "s": "CCodex",
-      "c": 1,
-      "p": 396,
-      "u": "zoog_ccodex"
-    },
-    {
-      "n": "Zoryas",
-      "s": "CCodex",
-      "c": 1,
-      "p": 21,
-      "u": "zoryas_ccodex"
-    },
-    {
       "n": "Adult Amethyst Dragon",
       "s": "GDoF",
       "c": 1,
@@ -25341,6 +22443,475 @@
       "u": "zombie_troll_ghmg"
     },
     {
+      "n": "Ardwyn, Elder of Meadowfen",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 190,
+      "u": "ardwyn_elder_of_meadowfen_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Ashsnake",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 177,
+      "u": "ashsnake_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Aspect of Fire",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 179,
+      "u": "aspect_of_fire_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Benna Seridan",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 193,
+      "u": "benna_seridan_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Dockmaster",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 190,
+      "u": "birdfolk_dockmaster_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Farmer",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 190,
+      "u": "birdfolk_farmer_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Guard",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 191,
+      "u": "birdfolk_guard_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Militia",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 191,
+      "u": "birdfolk_militia_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Sailor",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 191,
+      "u": "birdfolk_sailor_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Skeleton",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 180,
+      "u": "birdfolk_skeleton_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Birdfolk Skirmisher",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 191,
+      "u": "birdfolk_skirmisher_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Bita, the Council Speaker",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 193,
+      "u": "bita_the_council_speaker_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Cara Stormsinger",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 191,
+      "u": "cara_stormsinger_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Caustic Slime",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 186,
+      "u": "caustic_slime_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Cervan Bandit General",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 193,
+      "u": "cervan_bandit_general_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Cervan Priest",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 193,
+      "u": "cervan_priest_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Cobblefright",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 180,
+      "u": "cobblefright_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Corvax Revayne",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 194,
+      "u": "corvax_revayne_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Corvum Assassin",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 194,
+      "u": "corvum_assassin_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Corvum Diviner",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 194,
+      "u": "corvum_diviner_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Corvum Necromancer",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 194,
+      "u": "corvum_necromancer_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Eliza Pennygleam",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 196,
+      "u": "eliza_pennygleam_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Emberbat",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 182,
+      "u": "emberbat_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Figory Figgins",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 196,
+      "u": "figory_figgins_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Forest Prowler",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 183,
+      "u": "forest_prowler_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Fray Merridan",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "fray_merridan_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Gabe Windsworth",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 202,
+      "u": "gabe_windsworth_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Gallus Druid",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 196,
+      "u": "gallus_druid_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Gallus Monk",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 196,
+      "u": "gallus_monk_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Gallus Necromancer",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "gallus_necromancer_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Glinda Nightseed",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "glinda_nightseed_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Gregor Thornspur, Magistrate of Alderheart",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "gregor_thornspur_magistrate_of_alderheart_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Havel of the Autumn Moon",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "havel_of_the_autumn_moon_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Hedge Bard",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "hedge_bard_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Hedge Witch",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "hedge_witch_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Jell Platena",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 199,
+      "u": "jell_platena_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Jerbeen Swashbuckler",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 200,
+      "u": "jerbeen_swashbuckler_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Jerbeen Thief",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 200,
+      "u": "jerbeen_thief_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Kenna Brightspark",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 200,
+      "u": "kenna_brightspark_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Krall, the Scavenger King",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 202,
+      "u": "krall_the_scavenger_king_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Lesser Demon",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 184,
+      "u": "lesser_demon_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Luma Cleric of Ardea",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 201,
+      "u": "luma_cleric_of_ardea_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Luma Wizard",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 202,
+      "u": "luma_wizard_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Mapach Bandit",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 202,
+      "u": "mapach_bandit_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Mapach Brute",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 202,
+      "u": "mapach_brute_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Mapach Tinkerer",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "mapach_tinkerer_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Mordane Swiftgale",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "mordane_swiftgale_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Mountain Lion",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 184,
+      "u": "mountain_lion_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Oakheart",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "oakheart_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Odwald Ebonhart",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 194,
+      "u": "odwald_ebonhart_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Raptor Explorer",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "raptor_explorer_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Raptor Ranger",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "raptor_ranger_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Rhys Birchwalker",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 203,
+      "u": "rhys_birchwalker_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Riffin, the Ash-Knight",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 204,
+      "u": "riffin_the_ash-knight_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Shifting Slime",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 187,
+      "u": "shifting_slime_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Shyla Denn",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "shyla_denn_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Sticky Slime",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 188,
+      "u": "sticky_slime_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Strig Knight",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 204,
+      "u": "strig_knight_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Strig Tracker",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 206,
+      "u": "strig_tracker_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Susan of the Swamp",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 198,
+      "u": "susan_of_the_swamp_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Swarm of Emberbats",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 182,
+      "u": "swarm_of_emberbats_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Tevor of the Spring Path",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "tevor_of_the_spring_path_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Vulpin Captain",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "vulpin_captain_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Vulpin Noble",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "vulpin_noble_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Vulpin Priest of Kren",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 207,
+      "u": "vulpin_priest_of_kren_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Wakewyrm",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 187,
+      "u": "wakewyrm_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Walden Krane, Magistrate of Winnowing Reach",
+      "s": "HumblewoodCampaignSetting",
+      "c": 1,
+      "p": 209,
+      "u": "walden_krane_magistrate_of_winnowing_reach_humblewoodcampaignsetting"
+    },
+    {
       "n": "Aida Reedmane",
       "s": "HumblewoodTales",
       "c": 1,
@@ -27602,76 +25173,6 @@
       "u": "valaara_exploringeberron"
     },
     {
-      "n": "Du'ulora Quori",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "du'ulora_quori_exploringeberron24"
-    },
-    {
-      "n": "Final Messenger",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "final_messenger_exploringeberron24"
-    },
-    {
-      "n": "Inspired",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "inspired_exploringeberron24"
-    },
-    {
-      "n": "Meld",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "meld_exploringeberron24"
-    },
-    {
-      "n": "Merfolk Stormcaller",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "merfolk_stormcaller_exploringeberron24"
-    },
-    {
-      "n": "Plasmid",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "plasmid_exploringeberron24"
-    },
-    {
-      "n": "Sahuagin Claw of Sha'argon",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "sahuagin_claw_of_sha'argon_exploringeberron24"
-    },
-    {
-      "n": "The Forest Queen",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "the_forest_queen_exploringeberron24"
-    },
-    {
-      "n": "The Forgotten Prince",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "the_forgotten_prince_exploringeberron24"
-    },
-    {
-      "n": "Valaara",
-      "s": "ExploringEberron24",
-      "c": 1,
-      "p": 0,
-      "u": "valaara_exploringeberron24"
-    },
-    {
       "n": "Avassh",
       "s": "ChroniclesOfEberron",
       "c": 1,
@@ -28757,25 +26258,1334 @@
       "u": "young_suneater_owlbear_helianasguidetomonsterhunting"
     },
     {
-      "n": "Animated Statue",
-      "s": "underworld",
+      "n": "Accelerator",
+      "s": "AotA",
       "c": 1,
-      "p": 9,
-      "u": "animated_statue_underworld"
+      "p": 142,
+      "u": "accelerator_aota"
     },
     {
-      "n": "Behemoth",
-      "s": "underworld",
+      "n": "Aliopter",
+      "s": "AotA",
       "c": 1,
-      "p": 10,
-      "u": "behemoth_underworld"
+      "p": 144,
+      "u": "aliopter_aota"
     },
     {
-      "n": "Boatman",
-      "s": "underworld",
+      "n": "Anhedon",
+      "s": "AotA",
       "c": 1,
-      "p": 11,
-      "u": "boatman_underworld"
+      "p": 145,
+      "u": "anhedon_aota"
+    },
+    {
+      "n": "Arric Frog",
+      "s": "AotA",
+      "c": 1,
+      "p": 146,
+      "u": "arric_frog_aota"
+    },
+    {
+      "n": "Astraphin Monolith",
+      "s": "AotA",
+      "c": 1,
+      "p": 147,
+      "u": "astraphin_monolith_aota"
+    },
+    {
+      "n": "Basic Automaton, Type Five",
+      "s": "AotA",
+      "c": 1,
+      "p": 248,
+      "u": "basic_automaton_type_five_aota"
+    },
+    {
+      "n": "Basic Automaton, Type Four",
+      "s": "AotA",
+      "c": 1,
+      "p": 247,
+      "u": "basic_automaton_type_four_aota"
+    },
+    {
+      "n": "Basic Automaton, Type One",
+      "s": "AotA",
+      "c": 1,
+      "p": 246,
+      "u": "basic_automaton_type_one_aota"
+    },
+    {
+      "n": "Basic Automaton, Type Three",
+      "s": "AotA",
+      "c": 1,
+      "p": 247,
+      "u": "basic_automaton_type_three_aota"
+    },
+    {
+      "n": "Basic Automaton, Type Two",
+      "s": "AotA",
+      "c": 1,
+      "p": 246,
+      "u": "basic_automaton_type_two_aota"
+    },
+    {
+      "n": "Beastcoat Infiltrator",
+      "s": "AotA",
+      "c": 1,
+      "p": 149,
+      "u": "beastcoat_infiltrator_aota"
+    },
+    {
+      "n": "Blood Barm",
+      "s": "AotA",
+      "c": 1,
+      "p": 150,
+      "u": "blood_barm_aota"
+    },
+    {
+      "n": "Bowg",
+      "s": "AotA",
+      "c": 1,
+      "p": 151,
+      "u": "bowg_aota"
+    },
+    {
+      "n": "Callerail",
+      "s": "AotA",
+      "c": 1,
+      "p": 152,
+      "u": "callerail_aota"
+    },
+    {
+      "n": "Chirog",
+      "s": "AotA",
+      "c": 1,
+      "p": 154,
+      "u": "chirog_aota"
+    },
+    {
+      "n": "Cragworm",
+      "s": "AotA",
+      "c": 1,
+      "p": 155,
+      "u": "cragworm_aota"
+    },
+    {
+      "n": "Crith",
+      "s": "AotA",
+      "c": 1,
+      "p": 156,
+      "u": "crith_aota"
+    },
+    {
+      "n": "Cuiddit",
+      "s": "AotA",
+      "c": 1,
+      "p": 157,
+      "u": "cuiddit_aota"
+    },
+    {
+      "n": "Culova",
+      "s": "AotA",
+      "c": 1,
+      "p": 158,
+      "u": "culova_aota"
+    },
+    {
+      "n": "Cynoclept",
+      "s": "AotA",
+      "c": 1,
+      "p": 159,
+      "u": "cynoclept_aota"
+    },
+    {
+      "n": "Cypherid",
+      "s": "AotA",
+      "c": 1,
+      "p": 161,
+      "u": "cypherid_aota"
+    },
+    {
+      "n": "Dabirri",
+      "s": "AotA",
+      "c": 1,
+      "p": 163,
+      "u": "dabirri_aota"
+    },
+    {
+      "n": "Dark Fathom",
+      "s": "AotA",
+      "c": 1,
+      "p": 164,
+      "u": "dark_fathom_aota"
+    },
+    {
+      "n": "Deadeye",
+      "s": "AotA",
+      "c": 1,
+      "p": 166,
+      "u": "deadeye_aota"
+    },
+    {
+      "n": "Disassembler",
+      "s": "AotA",
+      "c": 1,
+      "p": 167,
+      "u": "disassembler_aota"
+    },
+    {
+      "n": "Dissector",
+      "s": "AotA",
+      "c": 1,
+      "p": 169,
+      "u": "dissector_aota"
+    },
+    {
+      "n": "Dread Destroyer",
+      "s": "AotA",
+      "c": 1,
+      "p": 170,
+      "u": "dread_destroyer_aota"
+    },
+    {
+      "n": "Entrope",
+      "s": "AotA",
+      "c": 1,
+      "p": 172,
+      "u": "entrope_aota"
+    },
+    {
+      "n": "Etterick",
+      "s": "AotA",
+      "c": 1,
+      "p": 173,
+      "u": "etterick_aota"
+    },
+    {
+      "n": "Ferno Walker",
+      "s": "AotA",
+      "c": 1,
+      "p": 174,
+      "u": "ferno_walker_aota"
+    },
+    {
+      "n": "Ganthanhar",
+      "s": "AotA",
+      "c": 1,
+      "p": 175,
+      "u": "ganthanhar_aota"
+    },
+    {
+      "n": "Gazer",
+      "s": "AotA",
+      "c": 1,
+      "p": 176,
+      "u": "gazer_aota"
+    },
+    {
+      "n": "Glaxter",
+      "s": "AotA",
+      "c": 1,
+      "p": 177,
+      "u": "glaxter_aota"
+    },
+    {
+      "n": "Gleresisk",
+      "s": "AotA",
+      "c": 1,
+      "p": 178,
+      "u": "gleresisk_aota"
+    },
+    {
+      "n": "Golthiar",
+      "s": "AotA",
+      "c": 1,
+      "p": 179,
+      "u": "golthiar_aota"
+    },
+    {
+      "n": "Grey Sampler",
+      "s": "AotA",
+      "c": 1,
+      "p": 181,
+      "u": "grey_sampler_aota"
+    },
+    {
+      "n": "Griefsteel",
+      "s": "AotA",
+      "c": 1,
+      "p": 182,
+      "u": "griefsteel_aota"
+    },
+    {
+      "n": "Haneek",
+      "s": "AotA",
+      "c": 1,
+      "p": 183,
+      "u": "haneek_aota"
+    },
+    {
+      "n": "Herder",
+      "s": "AotA",
+      "c": 1,
+      "p": 184,
+      "u": "herder_aota"
+    },
+    {
+      "n": "Hungry Pennon",
+      "s": "AotA",
+      "c": 1,
+      "p": 185,
+      "u": "hungry_pennon_aota"
+    },
+    {
+      "n": "Imusten Crawler",
+      "s": "AotA",
+      "c": 1,
+      "p": 187,
+      "u": "imusten_crawler_aota"
+    },
+    {
+      "n": "Jesanthum",
+      "s": "AotA",
+      "c": 1,
+      "p": 188,
+      "u": "jesanthum_aota"
+    },
+    {
+      "n": "Jiraskar",
+      "s": "AotA",
+      "c": 1,
+      "p": 189,
+      "u": "jiraskar_aota"
+    },
+    {
+      "n": "Jurulisk",
+      "s": "AotA",
+      "c": 1,
+      "p": 191,
+      "u": "jurulisk_aota"
+    },
+    {
+      "n": "Kanthid",
+      "s": "AotA",
+      "c": 1,
+      "p": 192,
+      "u": "kanthid_aota"
+    },
+    {
+      "n": "Killist",
+      "s": "AotA",
+      "c": 1,
+      "p": 193,
+      "u": "killist_aota"
+    },
+    {
+      "n": "Laak",
+      "s": "AotA",
+      "c": 1,
+      "p": 194,
+      "u": "laak_aota"
+    },
+    {
+      "n": "Latos",
+      "s": "AotA",
+      "c": 1,
+      "p": 196,
+      "u": "latos_aota"
+    },
+    {
+      "n": "Margr",
+      "s": "AotA",
+      "c": 1,
+      "p": 197,
+      "u": "margr_aota"
+    },
+    {
+      "n": "Mastigophore",
+      "s": "AotA",
+      "c": 1,
+      "p": 198,
+      "u": "mastigophore_aota"
+    },
+    {
+      "n": "Merkadian Soldier",
+      "s": "AotA",
+      "c": 1,
+      "p": 198,
+      "u": "merkadian_soldier_aota"
+    },
+    {
+      "n": "Mesomeme",
+      "s": "AotA",
+      "c": 1,
+      "p": 201,
+      "u": "mesomeme_aota"
+    },
+    {
+      "n": "Mlox",
+      "s": "AotA",
+      "c": 1,
+      "p": 203,
+      "u": "mlox_aota"
+    },
+    {
+      "n": "Murden",
+      "s": "AotA",
+      "c": 1,
+      "p": 204,
+      "u": "murden_aota"
+    },
+    {
+      "n": "Nalurus",
+      "s": "AotA",
+      "c": 1,
+      "p": 206,
+      "u": "nalurus_aota"
+    },
+    {
+      "n": "Nevajin",
+      "s": "AotA",
+      "c": 1,
+      "p": 207,
+      "u": "nevajin_aota"
+    },
+    {
+      "n": "Neveri",
+      "s": "AotA",
+      "c": 1,
+      "p": 208,
+      "u": "neveri_aota"
+    },
+    {
+      "n": "Ojj",
+      "s": "AotA",
+      "c": 1,
+      "p": 210,
+      "u": "ojj_aota"
+    },
+    {
+      "n": "Oorgolian Soldier",
+      "s": "AotA",
+      "c": 1,
+      "p": 212,
+      "u": "oorgolian_soldier_aota"
+    },
+    {
+      "n": "Peerless",
+      "s": "AotA",
+      "c": 1,
+      "p": 214,
+      "u": "peerless_aota"
+    },
+    {
+      "n": "Philethis",
+      "s": "AotA",
+      "c": 1,
+      "p": 217,
+      "u": "philethis_aota"
+    },
+    {
+      "n": "Plasmar",
+      "s": "AotA",
+      "c": 1,
+      "p": 218,
+      "u": "plasmar_aota"
+    },
+    {
+      "n": "Progenitor",
+      "s": "AotA",
+      "c": 1,
+      "p": 221,
+      "u": "progenitor_aota"
+    },
+    {
+      "n": "Progenitor Larva Swarm",
+      "s": "AotA",
+      "c": 1,
+      "p": 221,
+      "u": "progenitor_larva_swarm_aota"
+    },
+    {
+      "n": "Pygmy Hapax",
+      "s": "AotA",
+      "c": 1,
+      "p": 222,
+      "u": "pygmy_hapax_aota"
+    },
+    {
+      "n": "Quotien",
+      "s": "AotA",
+      "c": 1,
+      "p": 226,
+      "u": "quotien_aota"
+    },
+    {
+      "n": "Raster",
+      "s": "AotA",
+      "c": 1,
+      "p": 226,
+      "u": "raster_aota"
+    },
+    {
+      "n": "Ravage Bear",
+      "s": "AotA",
+      "c": 1,
+      "p": 227,
+      "u": "ravage_bear_aota"
+    },
+    {
+      "n": "Relentless Reaper",
+      "s": "AotA",
+      "c": 1,
+      "p": 228,
+      "u": "relentless_reaper_aota"
+    },
+    {
+      "n": "Sarrak",
+      "s": "AotA",
+      "c": 1,
+      "p": 231,
+      "u": "sarrak_aota"
+    },
+    {
+      "n": "Sathosh",
+      "s": "AotA",
+      "c": 1,
+      "p": 232,
+      "u": "sathosh_aota"
+    },
+    {
+      "n": "Seskii",
+      "s": "AotA",
+      "c": 1,
+      "p": 233,
+      "u": "seskii_aota"
+    },
+    {
+      "n": "Snow Loper",
+      "s": "AotA",
+      "c": 1,
+      "p": 234,
+      "u": "snow_loper_aota"
+    },
+    {
+      "n": "Steel Spider",
+      "s": "AotA",
+      "c": 1,
+      "p": 235,
+      "u": "steel_spider_aota"
+    },
+    {
+      "n": "Stratharian War Moths",
+      "s": "AotA",
+      "c": 1,
+      "p": 236,
+      "u": "stratharian_war_moths_aota"
+    },
+    {
+      "n": "Tetrahydra",
+      "s": "AotA",
+      "c": 1,
+      "p": 237,
+      "u": "tetrahydra_aota"
+    },
+    {
+      "n": "Thuman",
+      "s": "AotA",
+      "c": 1,
+      "p": 238,
+      "u": "thuman_aota"
+    },
+    {
+      "n": "Travonis Ul",
+      "s": "AotA",
+      "c": 1,
+      "p": 239,
+      "u": "travonis_ul_aota"
+    },
+    {
+      "n": "Varakith",
+      "s": "AotA",
+      "c": 1,
+      "p": 240,
+      "u": "varakith_aota"
+    },
+    {
+      "n": "Xi-Drake",
+      "s": "AotA",
+      "c": 1,
+      "p": 241,
+      "u": "xi-drake_aota"
+    },
+    {
+      "n": "Yellow Swarm",
+      "s": "AotA",
+      "c": 1,
+      "p": 242,
+      "u": "yellow_swarm_aota"
+    },
+    {
+      "n": "Yovok",
+      "s": "AotA",
+      "c": 1,
+      "p": 243,
+      "u": "yovok_aota"
+    },
+    {
+      "n": "Zhev",
+      "s": "AotA",
+      "c": 1,
+      "p": 244,
+      "u": "zhev_aota"
+    },
+    {
+      "n": "Adolescent Ogre",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "adolescent_ogre_roth"
+    },
+    {
+      "n": "Afflicted Cave Goblin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "afflicted_cave_goblin_roth"
+    },
+    {
+      "n": "Brown Hyena",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "brown_hyena_roth"
+    },
+    {
+      "n": "Bugbear Ambusher",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_ambusher_roth"
+    },
+    {
+      "n": "Bugbear Archer",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_archer_roth"
+    },
+    {
+      "n": "Bugbear Brute",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_brute_roth"
+    },
+    {
+      "n": "Bugbear Cutthroat",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_cutthroat_roth"
+    },
+    {
+      "n": "Bugbear Elder",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_elder_roth"
+    },
+    {
+      "n": "Bugbear Headman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_headman_roth"
+    },
+    {
+      "n": "Bugbear Hunter",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_hunter_roth"
+    },
+    {
+      "n": "Bugbear Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_shaman_roth"
+    },
+    {
+      "n": "Bugbear Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "bugbear_warrior_roth"
+    },
+    {
+      "n": "Cave Goblin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "cave_goblin_roth"
+    },
+    {
+      "n": "Cave Goblin Brute",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "cave_goblin_brute_roth"
+    },
+    {
+      "n": "Cave Goblin King",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "cave_goblin_king_roth"
+    },
+    {
+      "n": "Cave Goblin Runt",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "cave_goblin_runt_roth"
+    },
+    {
+      "n": "Cave Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "cave_troll_roth"
+    },
+    {
+      "n": "Crocotta",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "crocotta_roth"
+    },
+    {
+      "n": "Dragon Kobold Acolyte",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "dragon_kobold_acolyte_roth"
+    },
+    {
+      "n": "Dragon Kobold Mutant",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "dragon_kobold_mutant_roth"
+    },
+    {
+      "n": "Dragon Kobold Prophet",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "dragon_kobold_prophet_roth"
+    },
+    {
+      "n": "Dragon Kobold Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "dragon_kobold_warrior_roth"
+    },
+    {
+      "n": "Dragon Kobold Wizard",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "dragon_kobold_wizard_roth"
+    },
+    {
+      "n": "Feral Cave Goblin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "feral_cave_goblin_roth"
+    },
+    {
+      "n": "Forest Goblin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_goblin_roth"
+    },
+    {
+      "n": "Forest Goblin Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_goblin_shaman_roth"
+    },
+    {
+      "n": "Forest Goblin Sneak",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_goblin_sneak_roth"
+    },
+    {
+      "n": "Forest Goblin Thief",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_goblin_thief_roth"
+    },
+    {
+      "n": "Forest Goblin Trapper",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_goblin_trapper_roth"
+    },
+    {
+      "n": "Forest Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "forest_troll_roth"
+    },
+    {
+      "n": "Frost Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "frost_troll_roth"
+    },
+    {
+      "n": "Gutter Gnoll Fighter",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "gutter_gnoll_fighter_roth"
+    },
+    {
+      "n": "Gutter Gnoll Lightfoot",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "gutter_gnoll_lightfoot_roth"
+    },
+    {
+      "n": "Gutter Gnoll Pack Leader",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "gutter_gnoll_pack_leader_roth"
+    },
+    {
+      "n": "Gutter Gnoll Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "gutter_gnoll_shaman_roth"
+    },
+    {
+      "n": "Gutter Gnoll Tracker",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "gutter_gnoll_tracker_roth"
+    },
+    {
+      "n": "Hill Goblin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_roth"
+    },
+    {
+      "n": "Hill Goblin Alchemist",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_alchemist_roth"
+    },
+    {
+      "n": "Hill Goblin Archer",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_archer_roth"
+    },
+    {
+      "n": "Hill Goblin Beastmaster",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_beastmaster_roth"
+    },
+    {
+      "n": "Hill Goblin Bomber",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_bomber_roth"
+    },
+    {
+      "n": "Hill Goblin Champion",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_champion_roth"
+    },
+    {
+      "n": "Hill Goblin Driver",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_driver_roth"
+    },
+    {
+      "n": "Hill Goblin Warlord",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_warlord_roth"
+    },
+    {
+      "n": "Hill Goblin Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_goblin_warrior_roth"
+    },
+    {
+      "n": "Hill Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hill_troll_roth"
+    },
+    {
+      "n": "Hobgoblin Arbalester",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_arbalester_roth"
+    },
+    {
+      "n": "Hobgoblin Archer",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_archer_roth"
+    },
+    {
+      "n": "Hobgoblin Centurion",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_centurion_roth"
+    },
+    {
+      "n": "Hobgoblin Grunt",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_grunt_roth"
+    },
+    {
+      "n": "Hobgoblin Imperator",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_imperator_roth"
+    },
+    {
+      "n": "Hobgoblin Legate",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_legate_roth"
+    },
+    {
+      "n": "Hobgoblin Pikeman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_pikeman_roth"
+    },
+    {
+      "n": "Hobgoblin Scout",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_scout_roth"
+    },
+    {
+      "n": "Hobgoblin Soldier",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_soldier_roth"
+    },
+    {
+      "n": "Hobgoblin Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "hobgoblin_warrior_roth"
+    },
+    {
+      "n": "Kobold Beastmaster",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "kobold_beastmaster_roth"
+    },
+    {
+      "n": "Kobold Javelin Thrower",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "kobold_javelin_thrower_roth"
+    },
+    {
+      "n": "Kobold King",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "kobold_king_roth"
+    },
+    {
+      "n": "Kobold Miner",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "kobold_miner_roth"
+    },
+    {
+      "n": "Kobold Spearman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "kobold_spearman_roth"
+    },
+    {
+      "n": "Leucrotta",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "leucrotta_roth"
+    },
+    {
+      "n": "Mangy Rock Gnoll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "mangy_rock_gnoll_roth"
+    },
+    {
+      "n": "Mountain Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "mountain_troll_roth"
+    },
+    {
+      "n": "Ogre Berserker",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_berserker_roth"
+    },
+    {
+      "n": "Ogre Charger",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_charger_roth"
+    },
+    {
+      "n": "Ogre Collector",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_collector_roth"
+    },
+    {
+      "n": "Ogre Hurler",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_hurler_roth"
+    },
+    {
+      "n": "Ogre Master",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "ogre_master_roth"
+    },
+    {
+      "n": "Okiti Assassin",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_assassin_roth"
+    },
+    {
+      "n": "Okiti Brigand",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_brigand_roth"
+    },
+    {
+      "n": "Okiti Poisoner",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_poisoner_roth"
+    },
+    {
+      "n": "Okiti Ringleader",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_ringleader_roth"
+    },
+    {
+      "n": "Okiti Sneak",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_sneak_roth"
+    },
+    {
+      "n": "Okiti Swashbuckler",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "okiti_swashbuckler_roth"
+    },
+    {
+      "n": "Orc Archer",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_archer_roth"
+    },
+    {
+      "n": "Orc Battleborn",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_battleborn_roth"
+    },
+    {
+      "n": "Orc Berserker",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_berserker_roth"
+    },
+    {
+      "n": "Orc Bruiser",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_bruiser_roth"
+    },
+    {
+      "n": "Orc Captain",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_captain_roth"
+    },
+    {
+      "n": "Orc Commander",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_commander_roth"
+    },
+    {
+      "n": "Orc Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_shaman_roth"
+    },
+    {
+      "n": "Orc Soldier",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_soldier_roth"
+    },
+    {
+      "n": "Orc Warlord",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_warlord_roth"
+    },
+    {
+      "n": "Orc Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "orc_warrior_roth"
+    },
+    {
+      "n": "Plains Gnoll Archer",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_archer_roth"
+    },
+    {
+      "n": "Plains Gnoll Clanmother",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_clanmother_roth"
+    },
+    {
+      "n": "Plains Gnoll Runner",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_runner_roth"
+    },
+    {
+      "n": "Plains Gnoll Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_shaman_roth"
+    },
+    {
+      "n": "Plains Gnoll Spearman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_spearman_roth"
+    },
+    {
+      "n": "Plains Gnoll Warrior",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "plains_gnoll_warrior_roth"
+    },
+    {
+      "n": "Rock Gnoll Alpha",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "rock_gnoll_alpha_roth"
+    },
+    {
+      "n": "Rock Gnoll Runt",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "rock_gnoll_runt_roth"
+    },
+    {
+      "n": "Rock Gnoll Shaman",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "rock_gnoll_shaman_roth"
+    },
+    {
+      "n": "Rock Gnoll Sneak",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "rock_gnoll_sneak_roth"
+    },
+    {
+      "n": "Scrofa",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "scrofa_roth"
+    },
+    {
+      "n": "Scrofa Old Boar",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "scrofa_old_boar_roth"
+    },
+    {
+      "n": "Scutico (Scale Rat)",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "scutico_(scale_rat)_roth"
+    },
+    {
+      "n": "Seismosuchus (Tremor Crocodile)",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "seismosuchus_(tremor_crocodile)_roth"
+    },
+    {
+      "n": "Spotted Hyena",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "spotted_hyena_roth"
+    },
+    {
+      "n": "Striped Hyena",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "striped_hyena_roth"
+    },
+    {
+      "n": "Svaraskalos (Lizard Hound)",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "svaraskalos_(lizard_hound)_roth"
+    },
+    {
+      "n": "Swamp Troll",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "swamp_troll_roth"
+    },
+    {
+      "n": "Worg Alpha",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "worg_alpha_roth"
+    },
+    {
+      "n": "Worg Mother",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "worg_mother_roth"
+    },
+    {
+      "n": "Worg Pup",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "worg_pup_roth"
+    },
+    {
+      "n": "Worg Runt",
+      "s": "RotH",
+      "c": 1,
+      "p": 0,
+      "u": "worg_runt_roth"
     },
     {
       "n": "Alligator Turtle",
@@ -35491,13 +34301,6 @@
       "u": "mortimer's_armor_comconstruct"
     },
     {
-      "n": "Light Elemental",
-      "s": "COMElemental",
-      "c": 1,
-      "p": 0,
-      "u": "light_elemental_comelemental"
-    },
-    {
       "n": "Magis",
       "s": "COMElementalLegendary",
       "c": 1,
@@ -35517,20 +34320,6 @@
       "c": 1,
       "p": 0,
       "u": "queen_of_the_wisp_comfeyfaerieslegendary"
-    },
-    {
-      "n": "Goredrinker",
-      "s": "COMFiend",
-      "c": 1,
-      "p": 0,
-      "u": "goredrinker_comfiend"
-    },
-    {
-      "n": "Meridiana of Velvet Silk",
-      "s": "COMFiend",
-      "c": 1,
-      "p": 0,
-      "u": "meridiana_of_velvet_silk_comfiend"
     },
     {
       "n": "Barbarian",
@@ -37129,20 +35918,6 @@
       "c": 5,
       "p": 248,
       "u": "sheriff_berry_tob3"
-    },
-    {
-      "n": "Manual of the Lesser Golem",
-      "s": "CCodex",
-      "c": 5,
-      "p": 200,
-      "u": "manual_of_the_lesser_golem_ccodex"
-    },
-    {
-      "n": "Robe of Iridescence",
-      "s": "CCodex",
-      "c": 5,
-      "p": 321,
-      "u": "robe_of_iridescence_ccodex"
     },
     {
       "n": "Mantle of the Lightbender",
@@ -39782,6 +38557,41 @@
       "c": 5,
       "p": 417,
       "u": "wand_of_silence_ghmg"
+    },
+    {
+      "n": "Borealus",
+      "s": "HumblewoodCampaignSetting",
+      "c": 5,
+      "p": 213,
+      "u": "borealus_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Feathered Helm",
+      "s": "HumblewoodCampaignSetting",
+      "c": 5,
+      "p": 213,
+      "u": "feathered_helm_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Necronomicon Ex Corvis",
+      "s": "HumblewoodCampaignSetting",
+      "c": 5,
+      "p": 213,
+      "u": "necronomicon_ex_corvis_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Nest Charm",
+      "s": "HumblewoodCampaignSetting",
+      "c": 5,
+      "p": 214,
+      "u": "nest_charm_humblewoodcampaignsetting"
+    },
+    {
+      "n": "Wing Crest Shield",
+      "s": "HumblewoodCampaignSetting",
+      "c": 5,
+      "p": 214,
+      "u": "wing_crest_shield_humblewoodcampaignsetting"
     },
     {
       "n": "Alluring Dye",
@@ -42437,678 +41247,6 @@
       "u": "war_staff_exploringeberron"
     },
     {
-      "n": "Aereni Mask",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "aereni_mask_exploringeberron24"
-    },
-    {
-      "n": "Battle Rod",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "battle_rod_exploringeberron24"
-    },
-    {
-      "n": "Blast Disk (Common)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "blast_disk_(common)_exploringeberron24"
-    },
-    {
-      "n": "Blast Disk (Rare)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "blast_disk_(rare)_exploringeberron24"
-    },
-    {
-      "n": "Blast Disk (Uncommon)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "blast_disk_(uncommon)_exploringeberron24"
-    },
-    {
-      "n": "Breastplate of Kamvuul Norek",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "breastplate_of_kamvuul_norek_exploringeberron24"
-    },
-    {
-      "n": "Breath of Siberys",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "breath_of_siberys_exploringeberron24"
-    },
-    {
-      "n": "Cannith's Marvelous Miniatures",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "cannith's_marvelous_miniatures_exploringeberron24"
-    },
-    {
-      "n": "Charlatan's Gloves",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "charlatan's_gloves_exploringeberron24"
-    },
-    {
-      "n": "Cloak of Passage",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "cloak_of_passage_exploringeberron24"
-    },
-    {
-      "n": "Cloak of Shadows",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "cloak_of_shadows_exploringeberron24"
-    },
-    {
-      "n": "Coat of Many Eyes (Rare)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "coat_of_many_eyes_(rare)_exploringeberron24"
-    },
-    {
-      "n": "Coat of Many Eyes (Uncommon)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "coat_of_many_eyes_(uncommon)_exploringeberron24"
-    },
-    {
-      "n": "Coat of Many Eyes (Very Rare)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "coat_of_many_eyes_(very_rare)_exploringeberron24"
-    },
-    {
-      "n": "Crawling Gauntlet",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "crawling_gauntlet_exploringeberron24"
-    },
-    {
-      "n": "Deni Shield",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "deni_shield_exploringeberron24"
-    },
-    {
-      "n": "Detection Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "detection_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Detection Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "detection_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Detection Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "detection_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Drybrooch",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "drybrooch_exploringeberron24"
-    },
-    {
-      "n": "Duster",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "duster_exploringeberron24"
-    },
-    {
-      "n": "Eyes of the Dragonne",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "eyes_of_the_dragonne_exploringeberron24"
-    },
-    {
-      "n": "Final Messenger",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "final_messenger_exploringeberron24"
-    },
-    {
-      "n": "Finding Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "finding_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Finding Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "finding_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Finding Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "finding_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Ghaal'duur, the Mighty Dirge",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "ghaal'duur_the_mighty_dirge_exploringeberron24"
-    },
-    {
-      "n": "Ghallan Jug",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "ghallan_jug_exploringeberron24"
-    },
-    {
-      "n": "Ghallanda Cauldron",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "ghallanda_cauldron_exploringeberron24"
-    },
-    {
-      "n": "Gloves of Storing",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "gloves_of_storing_exploringeberron24"
-    },
-    {
-      "n": "Grieving Tree",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "grieving_tree_exploringeberron24"
-    },
-    {
-      "n": "Handling Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "handling_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Handling Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "handling_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Handling Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "handling_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Healing Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "healing_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Healing Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "healing_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Healing Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "healing_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Helm of the Sentinel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "helm_of_the_sentinel_exploringeberron24"
-    },
-    {
-      "n": "Hospitality Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "hospitality_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Hospitality Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "hospitality_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Hospitality Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "hospitality_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Houseward (Legendary)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "houseward_(legendary)_exploringeberron24"
-    },
-    {
-      "n": "Houseward (Rare)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "houseward_(rare)_exploringeberron24"
-    },
-    {
-      "n": "Houseward (Uncommon)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "houseward_(uncommon)_exploringeberron24"
-    },
-    {
-      "n": "Integrated Tool",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "integrated_tool_exploringeberron24"
-    },
-    {
-      "n": "Jora Charm",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "jora_charm_exploringeberron24"
-    },
-    {
-      "n": "Keeper's Fang",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "keeper's_fang_exploringeberron24"
-    },
-    {
-      "n": "Kundar Chains",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "kundar_chains_exploringeberron24"
-    },
-    {
-      "n": "Lamplighter",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "lamplighter_exploringeberron24"
-    },
-    {
-      "n": "Making Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "making_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Making Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "making_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Making Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "making_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Manor Key",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "manor_key_exploringeberron24"
-    },
-    {
-      "n": "Medani Dowser",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "medani_dowser_exploringeberron24"
-    },
-    {
-      "n": "Medi Spectacles",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "medi_spectacles_exploringeberron24"
-    },
-    {
-      "n": "Ori Boots",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "ori_boots_exploringeberron24"
-    },
-    {
-      "n": "Passage Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "passage_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Passage Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "passage_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Passage Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "passage_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Prospector's Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "prospector's_wand_exploringeberron24"
-    },
-    {
-      "n": "Quiver of Energy",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "quiver_of_energy_exploringeberron24"
-    },
-    {
-      "n": "Rod of Wild Dominion",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "rod_of_wild_dominion_exploringeberron24"
-    },
-    {
-      "n": "Scribing Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "scribing_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Scribing Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "scribing_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Scribing Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "scribing_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Sentinel Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "sentinel_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Sentinel Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "sentinel_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Sentinel Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "sentinel_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Serpentine Mirror",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "serpentine_mirror_exploringeberron24"
-    },
-    {
-      "n": "Shaarat'doovol, the Blade of Truth",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "shaarat'doovol_the_blade_of_truth_exploringeberron24"
-    },
-    {
-      "n": "Shadow Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "shadow_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Shadow Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "shadow_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Shadow Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "shadow_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Shadow Sibling",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "shadow_sibling_exploringeberron24"
-    },
-    {
-      "n": "Soarsled",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "soarsled_exploringeberron24"
-    },
-    {
-      "n": "Spark",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "spark_exploringeberron24"
-    },
-    {
-      "n": "Spellburrow",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "spellburrow_exploringeberron24"
-    },
-    {
-      "n": "Storm Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "storm_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Storm Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "storm_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Storm Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "storm_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Storm's Embrace",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "storm's_embrace_exploringeberron24"
-    },
-    {
-      "n": "Talking Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "talking_wand_exploringeberron24"
-    },
-    {
-      "n": "Throwing Scarab",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "throwing_scarab_exploringeberron24"
-    },
-    {
-      "n": "Thuranni Cloak",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "thuranni_cloak_exploringeberron24"
-    },
-    {
-      "n": "Thurimbar Rod",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "thurimbar_rod_exploringeberron24"
-    },
-    {
-      "n": "Tongueworm",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "tongueworm_exploringeberron24"
-    },
-    {
-      "n": "Uul'kur (Dream Key)",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "uul'kur_(dream_key)_exploringeberron24"
-    },
-    {
-      "n": "Vadalis Band",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "vadalis_band_exploringeberron24"
-    },
-    {
-      "n": "Vola'khesh",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "vola'khesh_exploringeberron24"
-    },
-    {
-      "n": "Wandering Eye",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "wandering_eye_exploringeberron24"
-    },
-    {
-      "n": "War Staff",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "war_staff_exploringeberron24"
-    },
-    {
-      "n": "Warding Brooch",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "warding_brooch_exploringeberron24"
-    },
-    {
-      "n": "Warding Channeling Wand",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "warding_channeling_wand_exploringeberron24"
-    },
-    {
-      "n": "Warding Dragonmark Channel",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "warding_dragonmark_channel_exploringeberron24"
-    },
-    {
-      "n": "Warding Dragonmark Reservoir",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "warding_dragonmark_reservoir_exploringeberron24"
-    },
-    {
-      "n": "Wind Stones",
-      "s": "ExploringEberron24",
-      "c": 5,
-      "p": 0,
-      "u": "wind_stones_exploringeberron24"
-    },
-    {
       "n": "Crossbow Silencer",
       "s": "ChroniclesOfEberron",
       "c": 5,
@@ -43830,11 +41968,3042 @@
       "u": "wyrm's_breath_grenade_(silver)_helianasguidetomonsterhunting"
     },
     {
-      "n": "Dumgi Fungi",
-      "s": "underworld",
+      "n": "Adhesion Gloves",
+      "s": "AotA",
       "c": 5,
-      "p": 11,
-      "u": "dumgi_fungi_underworld"
+      "p": 0,
+      "u": "adhesion_gloves_aota"
+    },
+    {
+      "n": "Aggression Eye",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "aggression_eye_aota"
+    },
+    {
+      "n": "Alertness Stimulant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "alertness_stimulant_aota"
+    },
+    {
+      "n": "Amber Casement",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "amber_casement_aota"
+    },
+    {
+      "n": "Amulet Of Numenera Safety",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "amulet_of_numenera_safety_aota"
+    },
+    {
+      "n": "Analyzing Shield",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "analyzing_shield_aota"
+    },
+    {
+      "n": "Antivenom Pill",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "antivenom_pill_aota"
+    },
+    {
+      "n": "Arm Bifurcator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "arm_bifurcator_aota"
+    },
+    {
+      "n": "Armored Flesh",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "armored_flesh_aota"
+    },
+    {
+      "n": "Astute Weapon Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "astute_weapon_nodule_aota"
+    },
+    {
+      "n": "Attractor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "attractor_aota"
+    },
+    {
+      "n": "Augmentation Heptagon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "augmentation_heptagon_aota"
+    },
+    {
+      "n": "Automated Bath",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "automated_bath_aota"
+    },
+    {
+      "n": "Automated Cook",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "automated_cook_aota"
+    },
+    {
+      "n": "Automaton Seed",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "automaton_seed_aota"
+    },
+    {
+      "n": "Banishing Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "banishing_nodule_aota"
+    },
+    {
+      "n": "Battle Armor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "battle_armor_aota"
+    },
+    {
+      "n": "Battlesuit",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "battlesuit_aota"
+    },
+    {
+      "n": "Beast Lure",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "beast_lure_aota"
+    },
+    {
+      "n": "Blinking Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "blinking_nodule_aota"
+    },
+    {
+      "n": "Body Duplicator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "body_duplicator_aota"
+    },
+    {
+      "n": "Bounding Boots",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "bounding_boots_aota"
+    },
+    {
+      "n": "Brain Bud",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "brain_bud_aota"
+    },
+    {
+      "n": "Brain Fogger",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "brain_fogger_aota"
+    },
+    {
+      "n": "Bread Sprayer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "bread_sprayer_aota"
+    },
+    {
+      "n": "Breathing Field Spinner",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "breathing_field_spinner_aota"
+    },
+    {
+      "n": "Bridge Builder",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "bridge_builder_aota"
+    },
+    {
+      "n": "Burrowing Boots",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "burrowing_boots_aota"
+    },
+    {
+      "n": "Calm Center",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "calm_center_aota"
+    },
+    {
+      "n": "Carryall",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "carryall_aota"
+    },
+    {
+      "n": "Catholicon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "catholicon_aota"
+    },
+    {
+      "n": "Catseye",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "catseye_aota"
+    },
+    {
+      "n": "Cellular Annealer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "cellular_annealer_aota"
+    },
+    {
+      "n": "Chameleon Cloak",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "chameleon_cloak_aota"
+    },
+    {
+      "n": "Chemical Factory",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "chemical_factory_aota"
+    },
+    {
+      "n": "City Shroud",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "city_shroud_aota"
+    },
+    {
+      "n": "Clawed Extremity",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "clawed_extremity_aota"
+    },
+    {
+      "n": "Clean Bright",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "clean_bright_aota"
+    },
+    {
+      "n": "Cloak Of Finery",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "cloak_of_finery_aota"
+    },
+    {
+      "n": "Cohesion Stabilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "cohesion_stabilizer_aota"
+    },
+    {
+      "n": "Comprehension Graft",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "comprehension_graft_aota"
+    },
+    {
+      "n": "Controlled Blinking Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "controlled_blinking_nodule_aota"
+    },
+    {
+      "n": "Corpse Likeness",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "corpse_likeness_aota"
+    },
+    {
+      "n": "Crafter's Eyes",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "crafter's_eyes_aota"
+    },
+    {
+      "n": "Cypher Bag",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "cypher_bag_aota"
+    },
+    {
+      "n": "Cypher Stabilizing Suit",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "cypher_stabilizing_suit_aota"
+    },
+    {
+      "n": "Death Protector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "death_protector_aota"
+    },
+    {
+      "n": "Deception Filter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "deception_filter_aota"
+    },
+    {
+      "n": "Density Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "density_nodule_aota"
+    },
+    {
+      "n": "Detextilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detextilizer_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Acid)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(acid)_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Cold)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(cold)_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Fire)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(fire)_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Lightning)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(lightning)_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Necrotic)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(necrotic)_aota"
+    },
+    {
+      "n": "Detonating Scuttler (Piercing)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonating_scuttler_(piercing)_aota"
+    },
+    {
+      "n": "Detonation (cell Disruption)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(cell_disruption)_aota"
+    },
+    {
+      "n": "Detonation (corrosion)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(corrosion)_aota"
+    },
+    {
+      "n": "Detonation (daggers)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(daggers)_aota"
+    },
+    {
+      "n": "Detonation (flame)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(flame)_aota"
+    },
+    {
+      "n": "Detonation (frost)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(frost)_aota"
+    },
+    {
+      "n": "Detonation (lightning)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_(lightning)_aota"
+    },
+    {
+      "n": "Detonation Of Blindness",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_blindness_aota"
+    },
+    {
+      "n": "Detonation Of Deafening",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_deafening_aota"
+    },
+    {
+      "n": "Detonation Of Decoy Sounds",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_decoy_sounds_aota"
+    },
+    {
+      "n": "Detonation Of Desiccation",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_desiccation_aota"
+    },
+    {
+      "n": "Detonation Of Flesh-rotting",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_flesh-rotting_aota"
+    },
+    {
+      "n": "Detonation Of Gravity",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_gravity_aota"
+    },
+    {
+      "n": "Detonation Of Matter Disruption",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_matter_disruption_aota"
+    },
+    {
+      "n": "Detonation Of Peace",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_peace_aota"
+    },
+    {
+      "n": "Detonation Of Soap",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_soap_aota"
+    },
+    {
+      "n": "Detonation Of Sobriety",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_sobriety_aota"
+    },
+    {
+      "n": "Detonation Of Spawning",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_spawning_aota"
+    },
+    {
+      "n": "Detonation Of Telekinesis",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_telekinesis_aota"
+    },
+    {
+      "n": "Detonation Of The Black Sphere",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_the_black_sphere_aota"
+    },
+    {
+      "n": "Detonation Of Tracking",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_tracking_aota"
+    },
+    {
+      "n": "Detonation Of Webs",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_of_webs_aota"
+    },
+    {
+      "n": "Detonation, Greater (cell Disruption)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(cell_disruption)_aota"
+    },
+    {
+      "n": "Detonation, Greater (corrosion)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(corrosion)_aota"
+    },
+    {
+      "n": "Detonation, Greater (daggers)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(daggers)_aota"
+    },
+    {
+      "n": "Detonation, Greater (flame)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(flame)_aota"
+    },
+    {
+      "n": "Detonation, Greater (frost)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(frost)_aota"
+    },
+    {
+      "n": "Detonation, Greater (lightning)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "detonation_greater_(lightning)_aota"
+    },
+    {
+      "n": "Device Stabilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "device_stabilizer_aota"
+    },
+    {
+      "n": "Devitilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "devitilizer_aota"
+    },
+    {
+      "n": "Diagnostic Graft",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "diagnostic_graft_aota"
+    },
+    {
+      "n": "Dimensional Armor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "dimensional_armor_aota"
+    },
+    {
+      "n": "Disrupting Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "disrupting_nodule_aota"
+    },
+    {
+      "n": "Disruption Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "disruption_blade_aota"
+    },
+    {
+      "n": "Drill Spear",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "drill_spear_aota"
+    },
+    {
+      "n": "Drink Distiller",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "drink_distiller_aota"
+    },
+    {
+      "n": "Eagleseye",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eagleseye_aota"
+    },
+    {
+      "n": "Eclipse Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eclipse_projector_aota"
+    },
+    {
+      "n": "Ecstasy Paralyzer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ecstasy_paralyzer_aota"
+    },
+    {
+      "n": "Effort Enhancement",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "effort_enhancement_aota"
+    },
+    {
+      "n": "Emotion Smoother",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "emotion_smoother_aota"
+    },
+    {
+      "n": "Empath's Lenses",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "empath's_lenses_aota"
+    },
+    {
+      "n": "Empty Field Generator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "empty_field_generator_aota"
+    },
+    {
+      "n": "Empty Hand",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "empty_hand_aota"
+    },
+    {
+      "n": "Endless Coil",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "endless_coil_aota"
+    },
+    {
+      "n": "Endless Stomach",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "endless_stomach_aota"
+    },
+    {
+      "n": "Energy Nullifier",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "energy_nullifier_aota"
+    },
+    {
+      "n": "Evolution Bud",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "evolution_bud_aota"
+    },
+    {
+      "n": "Exploding Arrow",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "exploding_arrow_aota"
+    },
+    {
+      "n": "Explorer's Gloves",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "explorer's_gloves_aota"
+    },
+    {
+      "n": "Explorer's Lenses",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "explorer's_lenses_aota"
+    },
+    {
+      "n": "External Skeleton",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "external_skeleton_aota"
+    },
+    {
+      "n": "Extradimensional Hand",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "extradimensional_hand_aota"
+    },
+    {
+      "n": "Extradimensional Viewer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "extradimensional_viewer_aota"
+    },
+    {
+      "n": "Eye Of Mental Contact",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eye_of_mental_contact_aota"
+    },
+    {
+      "n": "Eye Of Mental Supremacy",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eye_of_mental_supremacy_aota"
+    },
+    {
+      "n": "Eye-eating Loop",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eye-eating_loop_aota"
+    },
+    {
+      "n": "Eyepiece Of Understanding",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "eyepiece_of_understanding_aota"
+    },
+    {
+      "n": "Farspeaker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "farspeaker_aota"
+    },
+    {
+      "n": "Fearmaker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "fearmaker_aota"
+    },
+    {
+      "n": "Fiery Hellmaker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "fiery_hellmaker_aota"
+    },
+    {
+      "n": "Filtration Straw",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "filtration_straw_aota"
+    },
+    {
+      "n": "Fireproofing Spray",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "fireproofing_spray_aota"
+    },
+    {
+      "n": "Flame Cloak",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flame_cloak_aota"
+    },
+    {
+      "n": "Flame Gauntlet",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flame_gauntlet_aota"
+    },
+    {
+      "n": "Flame Halo",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flame_halo_aota"
+    },
+    {
+      "n": "Flame Suppressor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flame_suppressor_aota"
+    },
+    {
+      "n": "Flame-retardant Wall",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flame-retardant_wall_aota"
+    },
+    {
+      "n": "Flesh Disruptor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flesh_disruptor_aota"
+    },
+    {
+      "n": "Flesh Ink Pen",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "flesh_ink_pen_aota"
+    },
+    {
+      "n": "Fleshy Head Disguise",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "fleshy_head_disguise_aota"
+    },
+    {
+      "n": "Food Scanner",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "food_scanner_aota"
+    },
+    {
+      "n": "Food Tube",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "food_tube_aota"
+    },
+    {
+      "n": "Force Cube Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "force_cube_projector_aota"
+    },
+    {
+      "n": "Force Dome",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "force_dome_aota"
+    },
+    {
+      "n": "Force Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "force_nodule_aota"
+    },
+    {
+      "n": "Force Screen Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "force_screen_projector_aota"
+    },
+    {
+      "n": "Force Shield Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "force_shield_projector_aota"
+    },
+    {
+      "n": "Friction-reducing Gel",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "friction-reducing_gel_aota"
+    },
+    {
+      "n": "Frigid Wall Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "frigid_wall_projector_aota"
+    },
+    {
+      "n": "Gas Bomb",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_aota"
+    },
+    {
+      "n": "Gas Bomb ( Amnesia )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_amnesia_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Choking )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_choking_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Corrosive )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_corrosive_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Fear )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_fear_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Hallucionogenic )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_hallucionogenic_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Mind Numbing )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_mind_numbing_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Nerve )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_nerve_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Poison )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_poison_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Rage )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_rage_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Sleep )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_sleep_)_aota"
+    },
+    {
+      "n": "Gas Bomb ( Thick Smoke )",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gas_bomb_(_thick_smoke_)_aota"
+    },
+    {
+      "n": "Gauntlet Of Protection",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gauntlet_of_protection_aota"
+    },
+    {
+      "n": "Gauntlet Of Shield Brandishing",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gauntlet_of_shield_brandishing_aota"
+    },
+    {
+      "n": "Glowbrand",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "glowbrand_aota"
+    },
+    {
+      "n": "Glue Emitter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "glue_emitter_aota"
+    },
+    {
+      "n": "Golden Aura Cloak",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "golden_aura_cloak_aota"
+    },
+    {
+      "n": "Gravitevator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gravitevator_aota"
+    },
+    {
+      "n": "Gravity Changer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gravity_changer_aota"
+    },
+    {
+      "n": "Gravity Nullifier",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gravity_nullifier_aota"
+    },
+    {
+      "n": "Gravity-nullifying Spray",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "gravity-nullifying_spray_aota"
+    },
+    {
+      "n": "Hardening Spray",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "hardening_spray_aota"
+    },
+    {
+      "n": "Harmony Lamp",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "harmony_lamp_aota"
+    },
+    {
+      "n": "Headroom Helmet",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "headroom_helmet_aota"
+    },
+    {
+      "n": "Healing Sword",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "healing_sword_aota"
+    },
+    {
+      "n": "Health Resonator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "health_resonator_aota"
+    },
+    {
+      "n": "Heat Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "heat_nodule_aota"
+    },
+    {
+      "n": "Helm Of Illusion",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "helm_of_illusion_aota"
+    },
+    {
+      "n": "Helm Of Metal Control",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "helm_of_metal_control_aota"
+    },
+    {
+      "n": "Helm Of Metal Mastery",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "helm_of_metal_mastery_aota"
+    },
+    {
+      "n": "Helm Of Phantasm",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "helm_of_phantasm_aota"
+    },
+    {
+      "n": "Hiding Alarm Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "hiding_alarm_nodule_aota"
+    },
+    {
+      "n": "Hover Belt",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "hover_belt_aota"
+    },
+    {
+      "n": "Hover Square",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "hover_square_aota"
+    },
+    {
+      "n": "Hunter/Seeker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "hunter/seeker_aota"
+    },
+    {
+      "n": "Image Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "image_projector_aota"
+    },
+    {
+      "n": "Imager",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "imager_aota"
+    },
+    {
+      "n": "Immobilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "immobilizer_aota"
+    },
+    {
+      "n": "Inferno Wall Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "inferno_wall_projector_aota"
+    },
+    {
+      "n": "Infiltrator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "infiltrator_aota"
+    },
+    {
+      "n": "Infrastructure Drill",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "infrastructure_drill_aota"
+    },
+    {
+      "n": "Instant Bridge",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_bridge_aota"
+    },
+    {
+      "n": "Instant Item",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_item_aota"
+    },
+    {
+      "n": "Instant Servant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_servant_aota"
+    },
+    {
+      "n": "Instant Shelter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_shelter_aota"
+    },
+    {
+      "n": "Instant Wall",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_wall_aota"
+    },
+    {
+      "n": "Instant Workshop",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "instant_workshop_aota"
+    },
+    {
+      "n": "Intellect Boost",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "intellect_boost_aota"
+    },
+    {
+      "n": "Intellect Enhancement Patch",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "intellect_enhancement_patch_aota"
+    },
+    {
+      "n": "Iron Tamer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "iron_tamer_aota"
+    },
+    {
+      "n": "Kaon Preserver",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "kaon_preserver_aota"
+    },
+    {
+      "n": "Kinetic Shield",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "kinetic_shield_aota"
+    },
+    {
+      "n": "Knowledge Enhancement",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "knowledge_enhancement_aota"
+    },
+    {
+      "n": "Lacewing Shirt",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "lacewing_shirt_aota"
+    },
+    {
+      "n": "Launcher",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "launcher_aota"
+    },
+    {
+      "n": "Leadership Bud",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "leadership_bud_aota"
+    },
+    {
+      "n": "Light Spike",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "light_spike_aota"
+    },
+    {
+      "n": "Lightning Wall Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "lightning_wall_projector_aota"
+    },
+    {
+      "n": "Liquid Armor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "liquid_armor_aota"
+    },
+    {
+      "n": "Liquid Sword",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "liquid_sword_aota"
+    },
+    {
+      "n": "Liquid Transfer Orb",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "liquid_transfer_orb_aota"
+    },
+    {
+      "n": "Living Armor Sheath",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "living_armor_sheath_aota"
+    },
+    {
+      "n": "Living Conceptualization Sheath",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "living_conceptualization_sheath_aota"
+    },
+    {
+      "n": "Lore Siphon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "lore_siphon_aota"
+    },
+    {
+      "n": "Machine Control Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "machine_control_implant_aota"
+    },
+    {
+      "n": "Machine Steed",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "machine_steed_aota"
+    },
+    {
+      "n": "Machine Stimulator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "machine_stimulator_aota"
+    },
+    {
+      "n": "Magnetic Attack Drill",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "magnetic_attack_drill_aota"
+    },
+    {
+      "n": "Magnetic Master",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "magnetic_master_aota"
+    },
+    {
+      "n": "Magnetic Shield",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "magnetic_shield_aota"
+    },
+    {
+      "n": "Mask Of Machine Command",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mask_of_machine_command_aota"
+    },
+    {
+      "n": "Mask Of Machine Speaking",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mask_of_machine_speaking_aota"
+    },
+    {
+      "n": "Matter Evaporator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "matter_evaporator_aota"
+    },
+    {
+      "n": "Melding Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "melding_projector_aota"
+    },
+    {
+      "n": "Memory Extractor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "memory_extractor_aota"
+    },
+    {
+      "n": "Memory Goggles",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "memory_goggles_aota"
+    },
+    {
+      "n": "Mental Scrambler",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mental_scrambler_aota"
+    },
+    {
+      "n": "Mephitic Staff",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mephitic_staff_aota"
+    },
+    {
+      "n": "Metabolism Bud",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "metabolism_bud_aota"
+    },
+    {
+      "n": "Metal Death",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "metal_death_aota"
+    },
+    {
+      "n": "Midnight Field",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "midnight_field_aota"
+    },
+    {
+      "n": "Midnight Suit",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "midnight_suit_aota"
+    },
+    {
+      "n": "Mimetic Replicator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mimetic_replicator_aota"
+    },
+    {
+      "n": "Mind Imager",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mind_imager_aota"
+    },
+    {
+      "n": "Mindspeaking Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "mindspeaking_implant_aota"
+    },
+    {
+      "n": "Molecular Bonder",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "molecular_bonder_aota"
+    },
+    {
+      "n": "Monoblade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "monoblade_aota"
+    },
+    {
+      "n": "Monster Repulsor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "monster_repulsor_aota"
+    },
+    {
+      "n": "Morale Trauma",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "morale_trauma_aota"
+    },
+    {
+      "n": "Motion Sensor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "motion_sensor_aota"
+    },
+    {
+      "n": "Motion Stabilizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "motion_stabilizer_aota"
+    },
+    {
+      "n": "Multi-opener",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "multi-opener_aota"
+    },
+    {
+      "n": "Multidimensional Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "multidimensional_blade_aota"
+    },
+    {
+      "n": "Murder Globe",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "murder_globe_aota"
+    },
+    {
+      "n": "Nanite Resistance",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "nanite_resistance_aota"
+    },
+    {
+      "n": "Nano-needler",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "nano-needler_aota"
+    },
+    {
+      "n": "Natalitial",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "natalitial_aota"
+    },
+    {
+      "n": "Net Arrow",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "net_arrow_aota"
+    },
+    {
+      "n": "Null Orb",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "null_orb_aota"
+    },
+    {
+      "n": "Object Micronizer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "object_micronizer_aota"
+    },
+    {
+      "n": "Object Replicator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "object_replicator_aota"
+    },
+    {
+      "n": "Oddities",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "oddities_aota"
+    },
+    {
+      "n": "Oorgolian Slug Thrower",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "oorgolian_slug_thrower_aota"
+    },
+    {
+      "n": "Operon Reservoir",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "operon_reservoir_aota"
+    },
+    {
+      "n": "Organ Factory",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "organ_factory_aota"
+    },
+    {
+      "n": "Otherspace Stasis Chamber Skeleton Key",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "otherspace_stasis_chamber_skeleton_key_aota"
+    },
+    {
+      "n": "Otherspace Weapon Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "otherspace_weapon_nodule_aota"
+    },
+    {
+      "n": "Otherwhere Torch",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "otherwhere_torch_aota"
+    },
+    {
+      "n": "Pacifying Needler",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "pacifying_needler_aota"
+    },
+    {
+      "n": "Perception Extender",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "perception_extender_aota"
+    },
+    {
+      "n": "Personal Environment Field",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "personal_environment_field_aota"
+    },
+    {
+      "n": "Personal Telekinesis Field",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "personal_telekinesis_field_aota"
+    },
+    {
+      "n": "Phase Changer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "phase_changer_aota"
+    },
+    {
+      "n": "Phase Disrupter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "phase_disrupter_aota"
+    },
+    {
+      "n": "Phasing Detector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "phasing_detector_aota"
+    },
+    {
+      "n": "Phasing Gloves",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "phasing_gloves_aota"
+    },
+    {
+      "n": "Phasing Piton",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "phasing_piton_aota"
+    },
+    {
+      "n": "Plant Jar",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "plant_jar_aota"
+    },
+    {
+      "n": "Plasma Detonation",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "plasma_detonation_aota"
+    },
+    {
+      "n": "Poison Brain Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_brain_implant_aota"
+    },
+    {
+      "n": "Poison Of Detonation",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_detonation_aota"
+    },
+    {
+      "n": "Poison Of Emotion",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_aota"
+    },
+    {
+      "n": "Poison Of Emotion (anger)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(anger)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (complacency)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(complacency)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (fear)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(fear)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (joy)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(joy)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (love)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(love)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (lust)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(lust)_aota"
+    },
+    {
+      "n": "Poison Of Emotion (sadness)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_emotion_(sadness)_aota"
+    },
+    {
+      "n": "Poison Of Mind Control",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "poison_of_mind_control_aota"
+    },
+    {
+      "n": "Portable Feast",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "portable_feast_aota"
+    },
+    {
+      "n": "Precognitive Hoop Staff",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "precognitive_hoop_staff_aota"
+    },
+    {
+      "n": "Prevarication Exponent",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "prevarication_exponent_aota"
+    },
+    {
+      "n": "Prostheticlick",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "prostheticlick_aota"
+    },
+    {
+      "n": "Psychic Communique",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychic_communique_aota"
+    },
+    {
+      "n": "Psychic Defense Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychic_defense_nodule_aota"
+    },
+    {
+      "n": "Psychic Eradicator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychic_eradicator_aota"
+    },
+    {
+      "n": "Psychic Helmet",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychic_helmet_aota"
+    },
+    {
+      "n": "Psychic Whistle",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychic_whistle_aota"
+    },
+    {
+      "n": "Psychosome",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "psychosome_aota"
+    },
+    {
+      "n": "Puppeteering Sleeves",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "puppeteering_sleeves_aota"
+    },
+    {
+      "n": "Quantium Backtracker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "quantium_backtracker_aota"
+    },
+    {
+      "n": "Quantium Boost",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "quantium_boost_aota"
+    },
+    {
+      "n": "Rage Thrower",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rage_thrower_aota"
+    },
+    {
+      "n": "Rally Beacon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rally_beacon_aota"
+    },
+    {
+      "n": "Rampaging Form",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rampaging_form_aota"
+    },
+    {
+      "n": "Ray Emitter (cold)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(cold)_aota"
+    },
+    {
+      "n": "Ray Emitter (disruption)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(disruption)_aota"
+    },
+    {
+      "n": "Ray Emitter (force)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(force)_aota"
+    },
+    {
+      "n": "Ray Emitter (heat)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(heat)_aota"
+    },
+    {
+      "n": "Ray Emitter (lightning)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(lightning)_aota"
+    },
+    {
+      "n": "Ray Emitter (melting)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_(melting)_aota"
+    },
+    {
+      "n": "Ray Emitter Of Numbing",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_of_numbing_aota"
+    },
+    {
+      "n": "Ray Emitter Of Paralysis",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ray_emitter_of_paralysis_aota"
+    },
+    {
+      "n": "Reality Spike",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "reality_spike_aota"
+    },
+    {
+      "n": "Recorder Headband",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "recorder_headband_aota"
+    },
+    {
+      "n": "Redlight Clip",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "redlight_clip_aota"
+    },
+    {
+      "n": "Reflective Shield",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "reflective_shield_aota"
+    },
+    {
+      "n": "Rejuvenator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rejuvenator_aota"
+    },
+    {
+      "n": "Remote Clamp",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "remote_clamp_aota"
+    },
+    {
+      "n": "Remote Viewer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "remote_viewer_aota"
+    },
+    {
+      "n": "Repair Unit",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "repair_unit_aota"
+    },
+    {
+      "n": "Repeating Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "repeating_blade_aota"
+    },
+    {
+      "n": "Retaliation Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "retaliation_implant_aota"
+    },
+    {
+      "n": "Retaliation Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "retaliation_nodule_aota"
+    },
+    {
+      "n": "Retriever",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "retriever_aota"
+    },
+    {
+      "n": "Road Builder",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "road_builder_aota"
+    },
+    {
+      "n": "Rodule Of Branding",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rodule_of_branding_aota"
+    },
+    {
+      "n": "Rodule Of Inquisition",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rodule_of_inquisition_aota"
+    },
+    {
+      "n": "Rumbler",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "rumbler_aota"
+    },
+    {
+      "n": "Sacrilock",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sacrilock_aota"
+    },
+    {
+      "n": "Safe Corridor",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "safe_corridor_aota"
+    },
+    {
+      "n": "Salvage Pack",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "salvage_pack_aota"
+    },
+    {
+      "n": "Second Skin",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "second_skin_aota"
+    },
+    {
+      "n": "Shadowpath Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shadowpath_blade_aota"
+    },
+    {
+      "n": "Shapemetal",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shapemetal_aota"
+    },
+    {
+      "n": "Shapestone Sprayer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shapestone_sprayer_aota"
+    },
+    {
+      "n": "Shatter Wand",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shatter_wand_aota"
+    },
+    {
+      "n": "Sheen",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sheen_aota"
+    },
+    {
+      "n": "Shock Manacles",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shock_manacles_aota"
+    },
+    {
+      "n": "Shocker",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "shocker_aota"
+    },
+    {
+      "n": "Skill Boost",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_aota"
+    },
+    {
+      "n": "Skill Boost (acrobatics)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(acrobatics)_aota"
+    },
+    {
+      "n": "Skill Boost (ancients arcana)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(ancients_arcana)_aota"
+    },
+    {
+      "n": "Skill Boost (animal Handling)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(animal_handling)_aota"
+    },
+    {
+      "n": "Skill Boost (arcana)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(arcana)_aota"
+    },
+    {
+      "n": "Skill Boost (athletics)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(athletics)_aota"
+    },
+    {
+      "n": "Skill Boost (deception)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(deception)_aota"
+    },
+    {
+      "n": "Skill Boost (history)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(history)_aota"
+    },
+    {
+      "n": "Skill Boost (insight)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(insight)_aota"
+    },
+    {
+      "n": "Skill Boost (intimidation)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(intimidation)_aota"
+    },
+    {
+      "n": "Skill Boost (medicine)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(medicine)_aota"
+    },
+    {
+      "n": "Skill Boost (nature)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(nature)_aota"
+    },
+    {
+      "n": "Skill Boost (perception)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(perception)_aota"
+    },
+    {
+      "n": "Skill Boost (persuasion)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(persuasion)_aota"
+    },
+    {
+      "n": "Skill Boost (psionics)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(psionics)_aota"
+    },
+    {
+      "n": "Skill Boost (religion)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(religion)_aota"
+    },
+    {
+      "n": "Skill Boost (sleight of hand)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(sleight_of_hand)_aota"
+    },
+    {
+      "n": "Skill Boost (stealth)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(stealth)_aota"
+    },
+    {
+      "n": "Skill Boost (survival)",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skill_boost_(survival)_aota"
+    },
+    {
+      "n": "Skin Of Phasing",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skin_of_phasing_aota"
+    },
+    {
+      "n": "Skin Of Steel",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skin_of_steel_aota"
+    },
+    {
+      "n": "Skull Blaster",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "skull_blaster_aota"
+    },
+    {
+      "n": "Sleep Inducer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sleep_inducer_aota"
+    },
+    {
+      "n": "Slugspitter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "slugspitter_aota"
+    },
+    {
+      "n": "Smoke Ink Pen",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "smoke_ink_pen_aota"
+    },
+    {
+      "n": "Snipewand",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "snipewand_aota"
+    },
+    {
+      "n": "Sonic Hole",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sonic_hole_aota"
+    },
+    {
+      "n": "Sound Dampener",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sound_dampener_aota"
+    },
+    {
+      "n": "Spatial Warp",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spatial_warp_aota"
+    },
+    {
+      "n": "Speed Boost",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "speed_boost_aota"
+    },
+    {
+      "n": "Spider Line Dispenser",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spider_line_dispenser_aota"
+    },
+    {
+      "n": "Spikes Of The Zephyr",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spikes_of_the_zephyr_aota"
+    },
+    {
+      "n": "Spine Of Gravity",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spine_of_gravity_aota"
+    },
+    {
+      "n": "Spine Of Impact",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spine_of_impact_aota"
+    },
+    {
+      "n": "Spine Of Might",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spine_of_might_aota"
+    },
+    {
+      "n": "Spine Of Shock",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "spine_of_shock_aota"
+    },
+    {
+      "n": "Stability Spike",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stability_spike_aota"
+    },
+    {
+      "n": "Stasis Pod",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stasis_pod_aota"
+    },
+    {
+      "n": "Stealth Coating",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stealth_coating_aota"
+    },
+    {
+      "n": "Stealth Thrower",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stealth_thrower_aota"
+    },
+    {
+      "n": "Stim",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stim_aota"
+    },
+    {
+      "n": "Stormheart",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stormheart_aota"
+    },
+    {
+      "n": "Stormheart Tempest",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stormheart_tempest_aota"
+    },
+    {
+      "n": "Strength Boost",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "strength_boost_aota"
+    },
+    {
+      "n": "Structural Extruder",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "structural_extruder_aota"
+    },
+    {
+      "n": "Structural Reinforcer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "structural_reinforcer_aota"
+    },
+    {
+      "n": "Stunner",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "stunner_aota"
+    },
+    {
+      "n": "Subdual Field",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "subdual_field_aota"
+    },
+    {
+      "n": "Summoning Alarm Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "summoning_alarm_nodule_aota"
+    },
+    {
+      "n": "Sunfire Corona",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sunfire_corona_aota"
+    },
+    {
+      "n": "Sunfire Crown",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sunfire_crown_aota"
+    },
+    {
+      "n": "Surgeon Sphere",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "surgeon_sphere_aota"
+    },
+    {
+      "n": "Suspensor Belt",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "suspensor_belt_aota"
+    },
+    {
+      "n": "Sustenance Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "sustenance_implant_aota"
+    },
+    {
+      "n": "Synthetic Body",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "synthetic_body_aota"
+    },
+    {
+      "n": "Telepathic Wire",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "telepathic_wire_aota"
+    },
+    {
+      "n": "Telepathy Implant",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "telepathy_implant_aota"
+    },
+    {
+      "n": "Teleportation Beacon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "teleportation_beacon_aota"
+    },
+    {
+      "n": "Teleporter Of Bounding",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "teleporter_of_bounding_aota"
+    },
+    {
+      "n": "Teleporter Of Traveling",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "teleporter_of_traveling_aota"
+    },
+    {
+      "n": "Telltale Glass",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "telltale_glass_aota"
+    },
+    {
+      "n": "Temporal Duplicator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "temporal_duplicator_aota"
+    },
+    {
+      "n": "Temporal Viewer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "temporal_viewer_aota"
+    },
+    {
+      "n": "Temporary Wing",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "temporary_wing_aota"
+    },
+    {
+      "n": "Tendril Graft",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "tendril_graft_aota"
+    },
+    {
+      "n": "Tentacle Injector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "tentacle_injector_aota"
+    },
+    {
+      "n": "Thunder Cannon",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "thunder_cannon_aota"
+    },
+    {
+      "n": "Time Dilator Of Defense",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "time_dilator_of_defense_aota"
+    },
+    {
+      "n": "Time Dilator Of Offense",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "time_dilator_of_offense_aota"
+    },
+    {
+      "n": "Time Skipper",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "time_skipper_aota"
+    },
+    {
+      "n": "Toolbox Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "toolbox_blade_aota"
+    },
+    {
+      "n": "Toxic Fogger",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "toxic_fogger_aota"
+    },
+    {
+      "n": "Tracer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "tracer_aota"
+    },
+    {
+      "n": "Trackdarter",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "trackdarter_aota"
+    },
+    {
+      "n": "Trail Blazer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "trail_blazer_aota"
+    },
+    {
+      "n": "Transdimensional Lens",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "transdimensional_lens_aota"
+    },
+    {
+      "n": "Transdimensional Mixer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "transdimensional_mixer_aota"
+    },
+    {
+      "n": "Transdimensional Ray Projector",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "transdimensional_ray_projector_aota"
+    },
+    {
+      "n": "Travel Bubble",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "travel_bubble_aota"
+    },
+    {
+      "n": "Trigger Trap",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "trigger_trap_aota"
+    },
+    {
+      "n": "Troglit Creche",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "troglit_creche_aota"
+    },
+    {
+      "n": "Twilight Skin",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "twilight_skin_aota"
+    },
+    {
+      "n": "Unarmored Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "unarmored_nodule_aota"
+    },
+    {
+      "n": "Universal Solvent",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "universal_solvent_aota"
+    },
+    {
+      "n": "Ventriloquist Nodule",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "ventriloquist_nodule_aota"
+    },
+    {
+      "n": "Vigilant Eye",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "vigilant_eye_aota"
+    },
+    {
+      "n": "Visage Changer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "visage_changer_aota"
+    },
+    {
+      "n": "Vision Relayer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "vision_relayer_aota"
+    },
+    {
+      "n": "Visual Displacement Device",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "visual_displacement_device_aota"
+    },
+    {
+      "n": "Vocal Translator",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "vocal_translator_aota"
+    },
+    {
+      "n": "Voicebox Graft",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "voicebox_graft_aota"
+    },
+    {
+      "n": "Wasp Drone",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "wasp_drone_aota"
+    },
+    {
+      "n": "Water Breather",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "water_breather_aota"
+    },
+    {
+      "n": "Water Spigot",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "water_spigot_aota"
+    },
+    {
+      "n": "Waterproofing Spray",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "waterproofing_spray_aota"
+    },
+    {
+      "n": "Weapon Graft",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "weapon_graft_aota"
+    },
+    {
+      "n": "Windrider",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "windrider_aota"
+    },
+    {
+      "n": "Windslice Blade",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "windslice_blade_aota"
+    },
+    {
+      "n": "Wings Of Thunder",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "wings_of_thunder_aota"
+    },
+    {
+      "n": "Winter Torque",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "winter_torque_aota"
+    },
+    {
+      "n": "Wondrous Pocket",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "wondrous_pocket_aota"
+    },
+    {
+      "n": "Wood Ink Pen",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "wood_ink_pen_aota"
+    },
+    {
+      "n": "X-ray Viewer",
+      "s": "AotA",
+      "c": 5,
+      "p": 0,
+      "u": "x-ray_viewer_aota"
+    },
+    {
+      "n": "Alchemist potion (Wigmig)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "alchemist_potion_(wigmig)_roth"
+    },
+    {
+      "n": "Berserker Brew (Urd Fursa)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "berserker_brew_(urd_fursa)_roth"
+    },
+    {
+      "n": "Bugbear Harpoon (Gwaanuu)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "bugbear_harpoon_(gwaanuu)_roth"
+    },
+    {
+      "n": "Dragonsbreath Potion (Drakanandoshi)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "dragonsbreath_potion_(drakanandoshi)_roth"
+    },
+    {
+      "n": "Firebreath Potion (Fota-doshi)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "firebreath_potion_(fota-doshi)_roth"
+    },
+    {
+      "n": "Flask of Poison Cloud (Kivitkala)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "flask_of_poison_cloud_(kivitkala)_roth"
+    },
+    {
+      "n": "Flask of Sleeping Fog (Kivitishka)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "flask_of_sleeping_fog_(kivitishka)_roth"
+    },
+    {
+      "n": "Gnoll Battle Brew (Ya'aksha)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "gnoll_battle_brew_(ya'aksha)_roth"
+    },
+    {
+      "n": "Goblin Bomb (Fizzgok)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "goblin_bomb_(fizzgok)_roth"
+    },
+    {
+      "n": "Goblin Liquor (Gobsgog)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "goblin_liquor_(gobsgog)_roth"
+    },
+    {
+      "n": "Hyena Totem (Hwa'si)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "hyena_totem_(hwa'si)_roth"
+    },
+    {
+      "n": "Icebreath Potion (Paga-doshi)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "icebreath_potion_(paga-doshi)_roth"
+    },
+    {
+      "n": "Marching Ale (Koj'Karn)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "marching_ale_(koj'karn)_roth"
+    },
+    {
+      "n": "Sleeping Sap (Khuzgu-suud)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "sleeping_sap_(khuzgu-suud)_roth"
+    },
+    {
+      "n": "Trollsblood (Hengduur)",
+      "s": "RotH",
+      "c": 5,
+      "p": 0,
+      "u": "trollsblood_(hengduur)_roth"
     },
     {
       "n": "Stasis cage",
@@ -43887,7 +45056,6 @@
       "ToB1-2023": "data/bestiary/bestiary-ToB1-2023.json",
       "ToB2": "data/bestiary/bestiary-ToB2.json",
       "ToB3": "data/bestiary/bestiary-ToB3.json",
-      "CCodex": "data/bestiary/bestiary-CCodex.json",
       "GDoF": "data/bestiary/bestiary-GDoF.json",
       "FMprev": "data/bestiary/bestiary-FMprev.json",
       "FMp1": "data/bestiary/bestiary-FMp1.json",
@@ -43900,16 +45068,17 @@
       "GrimHollowCG24": "data/bestiary/bestiary-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/bestiary/bestiary-GrimHollowLairsEtharis.json",
       "GHMG": "data/bestiary/bestiary-GHMG.json",
+      "HumblewoodCampaignSetting": "data/bestiary/bestiary-HumblewoodCampaignSetting.json",
       "HumblewoodTales": "data/bestiary/bestiary-HumblewoodTales.json",
       "SGttEH": "data/bestiary/bestiary-SGttEH.json",
       "NLC": "data/bestiary/bestiary-NLC.json",
       "DarkMatter24": "data/bestiary/bestiary-DarkMatter24.json",
       "ExploringEberron": "data/bestiary/bestiary-ExploringEberron.json",
-      "ExploringEberron24": "data/bestiary/bestiary-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/bestiary/bestiary-ChroniclesOfEberron.json",
       "TLotRR": "data/bestiary/bestiary-TLotRR.json",
       "HelianasGuidetoMonsterHunting": "data/bestiary/bestiary-HelianasGuidetoMonsterHunting.json",
-      "underworld": "data/bestiary/bestiary-underworld.json",
+      "AotA": "data/bestiary/bestiary-AotA.json",
+      "RotH": "data/bestiary/bestiary-RotH.json",
       "LLCompendiumOfBeasts": "data/bestiary/bestiary-LLCompendiumOfBeasts.json",
       "LLCompendiumOfBeastsDinosaurs": "data/bestiary/bestiary-LLCompendiumOfBeastsDinosaurs.json",
       "FEF": "data/bestiary/bestiary-FEF.json",
@@ -43921,11 +45090,9 @@
       "COMCelestial": "data/bestiary/bestiary-COMCelestial.json",
       "COMCelestialLegendary": "data/bestiary/bestiary-COMCelestialLegendary.json",
       "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
-      "COMElemental": "data/bestiary/bestiary-COMElemental.json",
       "COMElementalLegendary": "data/bestiary/bestiary-COMElementalLegendary.json",
       "COMFeyFaeries": "data/bestiary/bestiary-COMFeyFaeries.json",
       "COMFeyFaeriesLegendary": "data/bestiary/bestiary-COMFeyFaeriesLegendary.json",
-      "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiNO": "data/bestiary/bestiary-KamiNO.json",
@@ -43942,7 +45109,6 @@
       "ToB1-2023": "data/items/items-ToB1-2023.json",
       "ToB2": "data/items/items-ToB2.json",
       "ToB3": "data/items/items-ToB3.json",
-      "CCodex": "data/items/items-CCodex.json",
       "FMprev": "data/items/items-FMprev.json",
       "FMp1": "data/items/items-FMp1.json",
       "FleeMortals": "data/items/items-FleeMortals.json",
@@ -43954,16 +45120,17 @@
       "GrimHollowCG24": "data/items/items-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/items/items-GrimHollowLairsEtharis.json",
       "GHMG": "data/items/items-GHMG.json",
+      "HumblewoodCampaignSetting": "data/items/items-HumblewoodCampaignSetting.json",
       "HumblewoodTales": "data/items/items-HumblewoodTales.json",
       "SGttEH": "data/items/items-SGttEH.json",
       "NLC": "data/items/items-NLC.json",
       "DarkMatter24": "data/items/items-DarkMatter24.json",
       "ExploringEberron": "data/items/items-ExploringEberron.json",
-      "ExploringEberron24": "data/items/items-ExploringEberron24.json",
       "ChroniclesOfEberron": "data/items/items-ChroniclesOfEberron.json",
       "TLotRR": "data/items/items-TLotRR.json",
       "HelianasGuidetoMonsterHunting": "data/items/items-HelianasGuidetoMonsterHunting.json",
-      "underworld": "data/items/items-underworld.json",
+      "AotA": "data/items/items-AotA.json",
+      "RotH": "data/items/items-RotH.json",
       "BookofFiends": "data/items/items-BookofFiends.json",
       "SLCC": "data/items/items-SLCC.json",
       "KamiES": "data/items/items-KamiES.json"
