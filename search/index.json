@@ -25341,475 +25341,6 @@
       "u": "zombie_troll_ghmg"
     },
     {
-      "n": "Ardwyn, Elder of Meadowfen",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 190,
-      "u": "ardwyn_elder_of_meadowfen_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Ashsnake",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 177,
-      "u": "ashsnake_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Aspect of Fire",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 179,
-      "u": "aspect_of_fire_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Benna Seridan",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 193,
-      "u": "benna_seridan_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Dockmaster",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 190,
-      "u": "birdfolk_dockmaster_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Farmer",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 190,
-      "u": "birdfolk_farmer_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Guard",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 191,
-      "u": "birdfolk_guard_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Militia",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 191,
-      "u": "birdfolk_militia_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Sailor",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 191,
-      "u": "birdfolk_sailor_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Skeleton",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 180,
-      "u": "birdfolk_skeleton_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Birdfolk Skirmisher",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 191,
-      "u": "birdfolk_skirmisher_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Bita, the Council Speaker",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 193,
-      "u": "bita_the_council_speaker_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Cara Stormsinger",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 191,
-      "u": "cara_stormsinger_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Caustic Slime",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 186,
-      "u": "caustic_slime_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Cervan Bandit General",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 193,
-      "u": "cervan_bandit_general_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Cervan Priest",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 193,
-      "u": "cervan_priest_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Cobblefright",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 180,
-      "u": "cobblefright_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Corvax Revayne",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 194,
-      "u": "corvax_revayne_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Corvum Assassin",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 194,
-      "u": "corvum_assassin_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Corvum Diviner",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 194,
-      "u": "corvum_diviner_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Corvum Necromancer",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 194,
-      "u": "corvum_necromancer_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Eliza Pennygleam",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 196,
-      "u": "eliza_pennygleam_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Emberbat",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 182,
-      "u": "emberbat_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Figory Figgins",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 196,
-      "u": "figory_figgins_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Forest Prowler",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 183,
-      "u": "forest_prowler_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Fray Merridan",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "fray_merridan_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Gabe Windsworth",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 202,
-      "u": "gabe_windsworth_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Gallus Druid",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 196,
-      "u": "gallus_druid_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Gallus Monk",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 196,
-      "u": "gallus_monk_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Gallus Necromancer",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "gallus_necromancer_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Glinda Nightseed",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "glinda_nightseed_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Gregor Thornspur, Magistrate of Alderheart",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "gregor_thornspur_magistrate_of_alderheart_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Havel of the Autumn Moon",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "havel_of_the_autumn_moon_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Hedge Bard",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "hedge_bard_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Hedge Witch",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "hedge_witch_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Jell Platena",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 199,
-      "u": "jell_platena_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Jerbeen Swashbuckler",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 200,
-      "u": "jerbeen_swashbuckler_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Jerbeen Thief",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 200,
-      "u": "jerbeen_thief_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Kenna Brightspark",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 200,
-      "u": "kenna_brightspark_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Krall, the Scavenger King",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 202,
-      "u": "krall_the_scavenger_king_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Lesser Demon",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 184,
-      "u": "lesser_demon_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Luma Cleric of Ardea",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 201,
-      "u": "luma_cleric_of_ardea_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Luma Wizard",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 202,
-      "u": "luma_wizard_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Mapach Bandit",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 202,
-      "u": "mapach_bandit_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Mapach Brute",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 202,
-      "u": "mapach_brute_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Mapach Tinkerer",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "mapach_tinkerer_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Mordane Swiftgale",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "mordane_swiftgale_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Mountain Lion",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 184,
-      "u": "mountain_lion_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Oakheart",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "oakheart_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Odwald Ebonhart",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 194,
-      "u": "odwald_ebonhart_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Raptor Explorer",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "raptor_explorer_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Raptor Ranger",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "raptor_ranger_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Rhys Birchwalker",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 203,
-      "u": "rhys_birchwalker_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Riffin, the Ash-Knight",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 204,
-      "u": "riffin_the_ash-knight_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Shifting Slime",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 187,
-      "u": "shifting_slime_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Shyla Denn",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "shyla_denn_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Sticky Slime",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 188,
-      "u": "sticky_slime_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Strig Knight",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 204,
-      "u": "strig_knight_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Strig Tracker",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 206,
-      "u": "strig_tracker_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Susan of the Swamp",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 198,
-      "u": "susan_of_the_swamp_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Swarm of Emberbats",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 182,
-      "u": "swarm_of_emberbats_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Tevor of the Spring Path",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "tevor_of_the_spring_path_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Vulpin Captain",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "vulpin_captain_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Vulpin Noble",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "vulpin_noble_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Vulpin Priest of Kren",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 207,
-      "u": "vulpin_priest_of_kren_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Wakewyrm",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 187,
-      "u": "wakewyrm_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Walden Krane, Magistrate of Winnowing Reach",
-      "s": "HumblewoodCampaignSetting",
-      "c": 1,
-      "p": 209,
-      "u": "walden_krane_magistrate_of_winnowing_reach_humblewoodcampaignsetting"
-    },
-    {
       "n": "Aida Reedmane",
       "s": "HumblewoodTales",
       "c": 1,
@@ -26480,559 +26011,6 @@
       "c": 1,
       "p": 233,
       "u": "zifa_freewind_humblewoodtales"
-    },
-    {
-      "n": "Abaddon, Failed Sentinel",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 390,
-      "u": "abaddon_failed_sentinel_sgtteh"
-    },
-    {
-      "n": "Abductor",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 322,
-      "u": "abductor_sgtteh"
-    },
-    {
-      "n": "Adult Eldritch Dragon",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 371,
-      "u": "adult_eldritch_dragon_sgtteh"
-    },
-    {
-      "n": "Ales Nebulae",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 330,
-      "u": "ales_nebulae_sgtteh"
-    },
-    {
-      "n": "Beryl",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 404,
-      "u": "beryl_sgtteh"
-    },
-    {
-      "n": "Biggs",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 410,
-      "u": "biggs_sgtteh"
-    },
-    {
-      "n": "Blood Screechwing",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 444,
-      "u": "blood_screechwing_sgtteh"
-    },
-    {
-      "n": "Blue-Flame Custodian",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 352,
-      "u": "blue-flame_custodian_sgtteh"
-    },
-    {
-      "n": "Borast Deepreaver",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 419,
-      "u": "borast_deepreaver_sgtteh"
-    },
-    {
-      "n": "Bram LeGrand",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 432,
-      "u": "bram_legrand_sgtteh"
-    },
-    {
-      "n": "Butcher",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 316,
-      "u": "butcher_sgtteh"
-    },
-    {
-      "n": "Caelum",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 477,
-      "u": "caelum_sgtteh"
-    },
-    {
-      "n": "Cervus Tenebris",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 354,
-      "u": "cervus_tenebris_sgtteh"
-    },
-    {
-      "n": "Cerwyn Raolet",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 439,
-      "u": "cerwyn_raolet_sgtteh"
-    },
-    {
-      "n": "Chained Giant",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 343,
-      "u": "chained_giant_sgtteh"
-    },
-    {
-      "n": "Cloistered Maiden",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 342,
-      "u": "cloistered_maiden_sgtteh"
-    },
-    {
-      "n": "Corrupted Dryad",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 439,
-      "u": "corrupted_dryad_sgtteh"
-    },
-    {
-      "n": "Corrupted Treant",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 474,
-      "u": "corrupted_treant_sgtteh"
-    },
-    {
-      "n": "Corvian Dweller",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 312,
-      "u": "corvian_dweller_sgtteh"
-    },
-    {
-      "n": "Crimson Ooze",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 440,
-      "u": "crimson_ooze_sgtteh"
-    },
-    {
-      "n": "Death",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 364,
-      "u": "death_sgtteh"
-    },
-    {
-      "n": "Devouring Belua",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 356,
-      "u": "devouring_belua_sgtteh"
-    },
-    {
-      "n": "Dreadcrow",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 338,
-      "u": "dreadcrow_sgtteh"
-    },
-    {
-      "n": "Dreamer's Minor Avatar",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 365,
-      "u": "dreamer's_minor_avatar_sgtteh"
-    },
-    {
-      "n": "Dullahan",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 331,
-      "u": "dullahan_sgtteh"
-    },
-    {
-      "n": "Ectellax, The Flayed",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 371,
-      "u": "ectellax_the_flayed_sgtteh"
-    },
-    {
-      "n": "Elara",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 477,
-      "u": "elara_sgtteh"
-    },
-    {
-      "n": "Enhanced Patient",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 314,
-      "u": "enhanced_patient_sgtteh"
-    },
-    {
-      "n": "Fallen Luyarnhian",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 311,
-      "u": "fallen_luyarnhian_sgtteh"
-    },
-    {
-      "n": "Father Hauke",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 409,
-      "u": "father_hauke_sgtteh"
-    },
-    {
-      "n": "Galvanized Prowler",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 362,
-      "u": "galvanized_prowler_sgtteh"
-    },
-    {
-      "n": "Geist",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 313,
-      "u": "geist_sgtteh"
-    },
-    {
-      "n": "Gerhard, Accursed Knight",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 394,
-      "u": "gerhard_accursed_knight_sgtteh"
-    },
-    {
-      "n": "Goat Mother's Avatar",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 378,
-      "u": "goat_mother's_avatar_sgtteh"
-    },
-    {
-      "n": "Guardian Angel",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 138,
-      "u": "guardian_angel_sgtteh"
-    },
-    {
-      "n": "Guardian Gargoyle",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 318,
-      "u": "guardian_gargoyle_sgtteh"
-    },
-    {
-      "n": "Gwena Fiss",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 477,
-      "u": "gwena_fiss_sgtteh"
-    },
-    {
-      "n": "Hollow Sentinel",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 346,
-      "u": "hollow_sentinel_sgtteh"
-    },
-    {
-      "n": "Hunter",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 319,
-      "u": "hunter_sgtteh"
-    },
-    {
-      "n": "Hunter (Frozen)",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 375,
-      "u": "hunter_(frozen)_sgtteh"
-    },
-    {
-      "n": "Jaeger",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 348,
-      "u": "jaeger_sgtteh"
-    },
-    {
-      "n": "Kaspar",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 403,
-      "u": "kaspar_sgtteh"
-    },
-    {
-      "n": "Kiston Blemish",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 403,
-      "u": "kiston_blemish_sgtteh"
-    },
-    {
-      "n": "Lieutenant Captain Adelle Roux",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 431,
-      "u": "lieutenant_captain_adelle_roux_sgtteh"
-    },
-    {
-      "n": "Living Artillery",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 334,
-      "u": "living_artillery_sgtteh"
-    },
-    {
-      "n": "Lord Thomathin Rehwoldt",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 418,
-      "u": "lord_thomathin_rehwoldt_sgtteh"
-    },
-    {
-      "n": "Lost Ones",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 472,
-      "u": "lost_ones_sgtteh"
-    },
-    {
-      "n": "Lunar Revenant",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 349,
-      "u": "lunar_revenant_sgtteh"
-    },
-    {
-      "n": "Maddon Gillet",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 415,
-      "u": "maddon_gillet_sgtteh"
-    },
-    {
-      "n": "Malach, Angel of Flesh",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 386,
-      "u": "malach_angel_of_flesh_sgtteh"
-    },
-    {
-      "n": "Nightgaunt",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 340,
-      "u": "nightgaunt_sgtteh"
-    },
-    {
-      "n": "Nightmare Centipede",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 336,
-      "u": "nightmare_centipede_sgtteh"
-    },
-    {
-      "n": "Orr, the Grieving Rebirth (First Form)",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 372,
-      "u": "orr_the_grieving_rebirth_(first_form)_sgtteh"
-    },
-    {
-      "n": "Orr, the Grieving Rebirth (Second Form)",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 375,
-      "u": "orr_the_grieving_rebirth_(second_form)_sgtteh"
-    },
-    {
-      "n": "Owlbear",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 357,
-      "u": "owlbear_sgtteh"
-    },
-    {
-      "n": "Parasitic Geist",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 310,
-      "u": "parasitic_geist_sgtteh"
-    },
-    {
-      "n": "Penitent",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 360,
-      "u": "penitent_sgtteh"
-    },
-    {
-      "n": "Percival Stanway",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 456,
-      "u": "percival_stanway_sgtteh"
-    },
-    {
-      "n": "Radiant Watcher",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 392,
-      "u": "radiant_watcher_sgtteh"
-    },
-    {
-      "n": "Razorblade Bitzer",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 320,
-      "u": "razorblade_bitzer_sgtteh"
-    },
-    {
-      "n": "Reflection",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 476,
-      "u": "reflection_sgtteh"
-    },
-    {
-      "n": "Revenant Bear",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 323,
-      "u": "revenant_bear_sgtteh"
-    },
-    {
-      "n": "Reviled Hound",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 326,
-      "u": "reviled_hound_sgtteh"
-    },
-    {
-      "n": "Roaring Mane",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 351,
-      "u": "roaring_mane_sgtteh"
-    },
-    {
-      "n": "Scorched Adjudicator",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 328,
-      "u": "scorched_adjudicator_sgtteh"
-    },
-    {
-      "n": "Scourge Lycan",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 317,
-      "u": "scourge_lycan_sgtteh"
-    },
-    {
-      "n": "Screechwing",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 321,
-      "u": "screechwing_sgtteh"
-    },
-    {
-      "n": "Skulking Shade",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 337,
-      "u": "skulking_shade_sgtteh"
-    },
-    {
-      "n": "Soul-Snatching Aranea",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 368,
-      "u": "soul-snatching_aranea_sgtteh"
-    },
-    {
-      "n": "Swarm of Blood Bats",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 444,
-      "u": "swarm_of_blood_bats_sgtteh"
-    },
-    {
-      "n": "The Defiled Librarian",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 382,
-      "u": "the_defiled_librarian_sgtteh"
-    },
-    {
-      "n": "The King of the Hunt",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 396,
-      "u": "the_king_of_the_hunt_sgtteh"
-    },
-    {
-      "n": "Tisiphone, the Primal Chaos",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 384,
-      "u": "tisiphone_the_primal_chaos_sgtteh"
-    },
-    {
-      "n": "Veiled Hunter",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 380,
-      "u": "veiled_hunter_sgtteh"
-    },
-    {
-      "n": "Vicar Henri Inonder",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 421,
-      "u": "vicar_henri_inonder_sgtteh"
-    },
-    {
-      "n": "Vicar Priscilla",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 388,
-      "u": "vicar_priscilla_sgtteh"
-    },
-    {
-      "n": "Wedge",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 410,
-      "u": "wedge_sgtteh"
-    },
-    {
-      "n": "Wisp Liege",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 324,
-      "u": "wisp_liege_sgtteh"
-    },
-    {
-      "n": "Zealot",
-      "s": "SGttEH",
-      "c": 1,
-      "p": 315,
-      "u": "zealot_sgtteh"
     },
     {
       "n": "Bladewolf",
@@ -31802,1075 +30780,3091 @@
       "u": "velociraptor_llcompendiumofbeastsdinosaurs"
     },
     {
-      "n": "Abolisher of Sorrow",
-      "s": "PB5E",
+      "n": "Aaztar-Ghola",
+      "s": "FEF",
       "c": 1,
       "p": 5,
-      "u": "abolisher_of_sorrow_pb5e"
+      "u": "aaztar-ghola_fef"
     },
     {
-      "n": "Accumulator",
-      "s": "PB5E",
+      "n": "Adherer",
+      "s": "FEF",
       "c": 1,
       "p": 6,
-      "u": "accumulator_pb5e"
+      "u": "adherer_fef"
     },
     {
-      "n": "Adult Portal Dragon",
-      "s": "PB5E",
+      "n": "Adult Leucrotta",
+      "s": "FEF",
       "c": 1,
-      "p": 106,
-      "u": "adult_portal_dragon_pb5e"
+      "p": 164,
+      "u": "adult_leucrotta_fef"
     },
     {
-      "n": "Agonizer",
-      "s": "PB5E",
+      "n": "Aerial Servant",
+      "s": "FEF",
       "c": 1,
       "p": 7,
-      "u": "agonizer_pb5e"
+      "u": "aerial_servant_fef"
     },
     {
-      "n": "Alterwrath",
-      "s": "PB5E",
+      "n": "Algoid",
+      "s": "FEF",
       "c": 1,
       "p": 8,
-      "u": "alterwrath_pb5e"
+      "u": "algoid_fef"
     },
     {
-      "n": "Anokapsik",
-      "s": "PB5E",
-      "c": 1,
-      "p": 11,
-      "u": "anokapsik_pb5e"
-    },
-    {
-      "n": "Avernus Observer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 29,
-      "u": "avernus_observer_pb5e"
-    },
-    {
-      "n": "Avessor",
-      "s": "PB5E",
-      "c": 1,
-      "p": 12,
-      "u": "avessor_pb5e"
-    },
-    {
-      "n": "Blister Rat",
-      "s": "PB5E",
-      "c": 1,
-      "p": 13,
-      "u": "blister_rat_pb5e"
-    },
-    {
-      "n": "Blood Hellion",
-      "s": "PB5E",
-      "c": 1,
-      "p": 30,
-      "u": "blood_hellion_pb5e"
-    },
-    {
-      "n": "Breath Thief",
-      "s": "PB5E",
-      "c": 1,
-      "p": 14,
-      "u": "breath_thief_pb5e"
-    },
-    {
-      "n": "Burrulk",
-      "s": "PB5E",
-      "c": 1,
-      "p": 15,
-      "u": "burrulk_pb5e"
-    },
-    {
-      "n": "Carcerian Ranger",
-      "s": "PB5E",
-      "c": 1,
-      "p": 16,
-      "u": "carcerian_ranger_pb5e"
-    },
-    {
-      "n": "Carcinisating Vilomah",
-      "s": "PB5E",
-      "c": 1,
-      "p": 17,
-      "u": "carcinisating_vilomah_pb5e"
-    },
-    {
-      "n": "Cerulean Vanura",
-      "s": "PB5E",
-      "c": 1,
-      "p": 143,
-      "u": "cerulean_vanura_pb5e"
-    },
-    {
-      "n": "Champion of Summer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 17,
-      "u": "champion_of_summer_pb5e"
-    },
-    {
-      "n": "Coal Nix",
-      "s": "PB5E",
-      "c": 1,
-      "p": 19,
-      "u": "coal_nix_pb5e"
-    },
-    {
-      "n": "Convergent Killer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 20,
-      "u": "convergent_killer_pb5e"
-    },
-    {
-      "n": "Crooked Roach",
-      "s": "PB5E",
-      "c": 1,
-      "p": 21,
-      "u": "crooked_roach_pb5e"
-    },
-    {
-      "n": "Cryptic Moth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 22,
-      "u": "cryptic_moth_pb5e"
-    },
-    {
-      "n": "Cumulopine",
-      "s": "PB5E",
-      "c": 1,
-      "p": 23,
-      "u": "cumulopine_pb5e"
-    },
-    {
-      "n": "Curse of the Crypt",
-      "s": "PB5E",
-      "c": 1,
-      "p": 24,
-      "u": "curse_of_the_crypt_pb5e"
-    },
-    {
-      "n": "Delurazon",
-      "s": "PB5E",
-      "c": 1,
-      "p": 25,
-      "u": "delurazon_pb5e"
-    },
-    {
-      "n": "Devouloth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 32,
-      "u": "devouloth_pb5e"
-    },
-    {
-      "n": "Dissolute Angel",
-      "s": "PB5E",
-      "c": 1,
-      "p": 9,
-      "u": "dissolute_angel_pb5e"
-    },
-    {
-      "n": "Distransit",
-      "s": "PB5E",
-      "c": 1,
-      "p": 33,
-      "u": "distransit_pb5e"
-    },
-    {
-      "n": "Divergent Skull",
-      "s": "PB5E",
-      "c": 1,
-      "p": 34,
-      "u": "divergent_skull_pb5e"
-    },
-    {
-      "n": "Doom of Retribution",
-      "s": "PB5E",
-      "c": 1,
-      "p": 35,
-      "u": "doom_of_retribution_pb5e"
-    },
-    {
-      "n": "Dwimmershrike",
-      "s": "PB5E",
-      "c": 1,
-      "p": 36,
-      "u": "dwimmershrike_pb5e"
-    },
-    {
-      "n": "Ebon Tullith",
-      "s": "PB5E",
-      "c": 1,
-      "p": 37,
-      "u": "ebon_tullith_pb5e"
-    },
-    {
-      "n": "Echo of Divinity",
-      "s": "PB5E",
-      "c": 1,
-      "p": 38,
-      "u": "echo_of_divinity_pb5e"
-    },
-    {
-      "n": "Eilfgar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 39,
-      "u": "eilfgar_pb5e"
-    },
-    {
-      "n": "Elar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 40,
-      "u": "elar_pb5e"
-    },
-    {
-      "n": "Etherclaw",
-      "s": "PB5E",
-      "c": 1,
-      "p": 43,
-      "u": "etherclaw_pb5e"
-    },
-    {
-      "n": "Eusker",
-      "s": "PB5E",
-      "c": 1,
-      "p": 44,
-      "u": "eusker_pb5e"
-    },
-    {
-      "n": "Evaclast",
-      "s": "PB5E",
-      "c": 1,
-      "p": 45,
-      "u": "evaclast_pb5e"
-    },
-    {
-      "n": "Feralflower",
-      "s": "PB5E",
-      "c": 1,
-      "p": 50,
-      "u": "feralflower_pb5e"
-    },
-    {
-      "n": "Festering Amnic",
-      "s": "PB5E",
-      "c": 1,
-      "p": 51,
-      "u": "festering_amnic_pb5e"
-    },
-    {
-      "n": "Fettered Gremlin",
-      "s": "PB5E",
-      "c": 1,
-      "p": 52,
-      "u": "fettered_gremlin_pb5e"
-    },
-    {
-      "n": "Flayed Messenger",
-      "s": "PB5E",
-      "c": 1,
-      "p": 53,
-      "u": "flayed_messenger_pb5e"
-    },
-    {
-      "n": "Flayer of Teeth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 54,
-      "u": "flayer_of_teeth_pb5e"
-    },
-    {
-      "n": "Flux Elemental",
-      "s": "PB5E",
-      "c": 1,
-      "p": 41,
-      "u": "flux_elemental_pb5e"
-    },
-    {
-      "n": "Galvanic Scar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 55,
-      "u": "galvanic_scar_pb5e"
-    },
-    {
-      "n": "Ganrejith",
-      "s": "PB5E",
-      "c": 1,
-      "p": 56,
-      "u": "ganrejith_pb5e"
-    },
-    {
-      "n": "Ghath",
-      "s": "PB5E",
-      "c": 1,
-      "p": 46,
-      "u": "ghath_pb5e"
-    },
-    {
-      "n": "Ghoul Beetle Swarm",
-      "s": "PB5E",
-      "c": 1,
-      "p": 57,
-      "u": "ghoul_beetle_swarm_pb5e"
-    },
-    {
-      "n": "Glacier Imp",
-      "s": "PB5E",
-      "c": 1,
-      "p": 58,
-      "u": "glacier_imp_pb5e"
-    },
-    {
-      "n": "Glimmer Moth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 59,
-      "u": "glimmer_moth_pb5e"
-    },
-    {
-      "n": "Gloom Strider",
-      "s": "PB5E",
-      "c": 1,
-      "p": 60,
-      "u": "gloom_strider_pb5e"
-    },
-    {
-      "n": "Gologoth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 47,
-      "u": "gologoth_pb5e"
-    },
-    {
-      "n": "Grethk",
-      "s": "PB5E",
-      "c": 1,
-      "p": 61,
-      "u": "grethk_pb5e"
-    },
-    {
-      "n": "Hag Exile",
-      "s": "PB5E",
-      "c": 1,
-      "p": 62,
-      "u": "hag_exile_pb5e"
-    },
-    {
-      "n": "Harrow Trooper",
-      "s": "PB5E",
-      "c": 1,
-      "p": 63,
-      "u": "harrow_trooper_pb5e"
-    },
-    {
-      "n": "Head of Hades",
-      "s": "PB5E",
-      "c": 1,
-      "p": 64,
-      "u": "head_of_hades_pb5e"
-    },
-    {
-      "n": "Headstone Golem",
-      "s": "PB5E",
-      "c": 1,
-      "p": 66,
-      "u": "headstone_golem_pb5e"
-    },
-    {
-      "n": "Hoard Giant",
-      "s": "PB5E",
-      "c": 1,
-      "p": 66,
-      "u": "hoard_giant_pb5e"
-    },
-    {
-      "n": "Howling Saw",
-      "s": "PB5E",
-      "c": 1,
-      "p": 67,
-      "u": "howling_saw_pb5e"
-    },
-    {
-      "n": "Hunakak",
-      "s": "PB5E",
-      "c": 1,
-      "p": 68,
-      "u": "hunakak_pb5e"
-    },
-    {
-      "n": "Immaculate Justiciar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 69,
-      "u": "immaculate_justiciar_pb5e"
-    },
-    {
-      "n": "Inexorable",
-      "s": "PB5E",
-      "c": 1,
-      "p": 26,
-      "u": "inexorable_pb5e"
-    },
-    {
-      "n": "Inferal Pyre",
-      "s": "PB5E",
-      "c": 1,
-      "p": 70,
-      "u": "inferal_pyre_pb5e"
-    },
-    {
-      "n": "Invex Avatar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 71,
-      "u": "invex_avatar_pb5e"
-    },
-    {
-      "n": "Iridescent Crake",
-      "s": "PB5E",
-      "c": 1,
-      "p": 72,
-      "u": "iridescent_crake_pb5e"
-    },
-    {
-      "n": "Iron Locust",
-      "s": "PB5E",
-      "c": 1,
-      "p": 73,
-      "u": "iron_locust_pb5e"
-    },
-    {
-      "n": "Iron Magus",
-      "s": "PB5E",
-      "c": 1,
-      "p": 74,
-      "u": "iron_magus_pb5e"
-    },
-    {
-      "n": "Izamaz",
-      "s": "PB5E",
-      "c": 1,
-      "p": 27,
-      "u": "izamaz_pb5e"
-    },
-    {
-      "n": "Joyful Trine",
-      "s": "PB5E",
-      "c": 1,
-      "p": 75,
-      "u": "joyful_trine_pb5e"
-    },
-    {
-      "n": "Khasasia",
-      "s": "PB5E",
-      "c": 1,
-      "p": 76,
-      "u": "khasasia_pb5e"
-    },
-    {
-      "n": "Knargalian",
-      "s": "PB5E",
-      "c": 1,
-      "p": 77,
-      "u": "knargalian_pb5e"
-    },
-    {
-      "n": "Krumveret",
-      "s": "PB5E",
-      "c": 1,
-      "p": 78,
-      "u": "krumveret_pb5e"
-    },
-    {
-      "n": "Labyrinth Stalker",
-      "s": "PB5E",
-      "c": 1,
-      "p": 79,
-      "u": "labyrinth_stalker_pb5e"
-    },
-    {
-      "n": "Lahairon Mind Thief",
-      "s": "PB5E",
-      "c": 1,
-      "p": 80,
-      "u": "lahairon_mind_thief_pb5e"
-    },
-    {
-      "n": "Lava Husk",
-      "s": "PB5E",
-      "c": 1,
-      "p": 81,
-      "u": "lava_husk_pb5e"
-    },
-    {
-      "n": "Lord of Dogs",
-      "s": "PB5E",
-      "c": 1,
-      "p": 82,
-      "u": "lord_of_dogs_pb5e"
-    },
-    {
-      "n": "Luck Lamprey",
-      "s": "PB5E",
-      "c": 1,
-      "p": 83,
-      "u": "luck_lamprey_pb5e"
-    },
-    {
-      "n": "Maroon Vanura",
-      "s": "PB5E",
-      "c": 1,
-      "p": 144,
-      "u": "maroon_vanura_pb5e"
-    },
-    {
-      "n": "Masked Skein",
-      "s": "PB5E",
-      "c": 1,
-      "p": 84,
-      "u": "masked_skein_pb5e"
-    },
-    {
-      "n": "Mileusian Bloom",
-      "s": "PB5E",
-      "c": 1,
-      "p": 85,
-      "u": "mileusian_bloom_pb5e"
-    },
-    {
-      "n": "Minauran Dealer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 86,
-      "u": "minauran_dealer_pb5e"
-    },
-    {
-      "n": "Mind Mold Wraith",
-      "s": "PB5E",
-      "c": 1,
-      "p": 88,
-      "u": "mind_mold_wraith_pb5e"
-    },
-    {
-      "n": "Modron Deadfall",
-      "s": "PB5E",
-      "c": 1,
-      "p": 90,
-      "u": "modron_deadfall_pb5e"
-    },
-    {
-      "n": "Moietan",
-      "s": "PB5E",
-      "c": 1,
-      "p": 90,
-      "u": "moietan_pb5e"
-    },
-    {
-      "n": "Moonstrider",
-      "s": "PB5E",
-      "c": 1,
-      "p": 91,
-      "u": "moonstrider_pb5e"
-    },
-    {
-      "n": "Morpheusian",
-      "s": "PB5E",
-      "c": 1,
-      "p": 92,
-      "u": "morpheusian_pb5e"
-    },
-    {
-      "n": "Myrmic Colossus",
-      "s": "PB5E",
-      "c": 1,
-      "p": 93,
-      "u": "myrmic_colossus_pb5e"
-    },
-    {
-      "n": "Nambu Bounty Hunter",
-      "s": "PB5E",
-      "c": 1,
-      "p": 94,
-      "u": "nambu_bounty_hunter_pb5e"
-    },
-    {
-      "n": "Necrostolon",
-      "s": "PB5E",
-      "c": 1,
-      "p": 95,
-      "u": "necrostolon_pb5e"
-    },
-    {
-      "n": "Neonate",
-      "s": "PB5E",
-      "c": 1,
-      "p": 96,
-      "u": "neonate_pb5e"
-    },
-    {
-      "n": "Nettle Blight",
-      "s": "PB5E",
-      "c": 1,
-      "p": 97,
-      "u": "nettle_blight_pb5e"
-    },
-    {
-      "n": "Nexus Foreteller",
-      "s": "PB5E",
-      "c": 1,
-      "p": 98,
-      "u": "nexus_foreteller_pb5e"
-    },
-    {
-      "n": "Nilim Shambler",
-      "s": "PB5E",
-      "c": 1,
-      "p": 99,
-      "u": "nilim_shambler_pb5e"
-    },
-    {
-      "n": "Obsidian Stalker",
-      "s": "PB5E",
-      "c": 1,
-      "p": 100,
-      "u": "obsidian_stalker_pb5e"
-    },
-    {
-      "n": "Ochre Vanura",
-      "s": "PB5E",
-      "c": 1,
-      "p": 145,
-      "u": "ochre_vanura_pb5e"
-    },
-    {
-      "n": "Orglin",
-      "s": "PB5E",
-      "c": 1,
-      "p": 48,
-      "u": "orglin_pb5e"
-    },
-    {
-      "n": "Ossuary Blob",
-      "s": "PB5E",
-      "c": 1,
-      "p": 101,
-      "u": "ossuary_blob_pb5e"
-    },
-    {
-      "n": "Ovisan Hunter",
-      "s": "PB5E",
-      "c": 1,
-      "p": 102,
-      "u": "ovisan_hunter_pb5e"
-    },
-    {
-      "n": "Pauvak",
-      "s": "PB5E",
-      "c": 1,
-      "p": 103,
-      "u": "pauvak_pb5e"
-    },
-    {
-      "n": "Peripleth",
-      "s": "PB5E",
-      "c": 1,
-      "p": 104,
-      "u": "peripleth_pb5e"
-    },
-    {
-      "n": "Planar Mite",
-      "s": "PB5E",
-      "c": 1,
-      "p": 105,
-      "u": "planar_mite_pb5e"
-    },
-    {
-      "n": "Portal Wight",
-      "s": "PB5E",
-      "c": 1,
-      "p": 107,
-      "u": "portal_wight_pb5e"
-    },
-    {
-      "n": "Primogenitor",
-      "s": "PB5E",
-      "c": 1,
-      "p": 108,
-      "u": "primogenitor_pb5e"
-    },
-    {
-      "n": "Prince of Dust",
-      "s": "PB5E",
-      "c": 1,
-      "p": 109,
-      "u": "prince_of_dust_pb5e"
-    },
-    {
-      "n": "Psionic Mold",
-      "s": "PB5E",
-      "c": 1,
-      "p": 87,
-      "u": "psionic_mold_pb5e"
-    },
-    {
-      "n": "Psychic Leech Swarm",
-      "s": "PB5E",
-      "c": 1,
-      "p": 110,
-      "u": "psychic_leech_swarm_pb5e"
-    },
-    {
-      "n": "Psychic War Veteran",
-      "s": "PB5E",
-      "c": 1,
-      "p": 111,
-      "u": "psychic_war_veteran_pb5e"
-    },
-    {
-      "n": "Puddle Weird",
-      "s": "PB5E",
-      "c": 1,
-      "p": 112,
-      "u": "puddle_weird_pb5e"
-    },
-    {
-      "n": "Pyske",
-      "s": "PB5E",
-      "c": 1,
-      "p": 113,
-      "u": "pyske_pb5e"
-    },
-    {
-      "n": "Qoreth-shemkur",
-      "s": "PB5E",
-      "c": 1,
-      "p": 114,
-      "u": "qoreth-shemkur_pb5e"
-    },
-    {
-      "n": "Ramiahn Outcast",
-      "s": "PB5E",
-      "c": 1,
-      "p": 115,
-      "u": "ramiahn_outcast_pb5e"
-    },
-    {
-      "n": "Reflection Hound",
-      "s": "PB5E",
-      "c": 1,
-      "p": 116,
-      "u": "reflection_hound_pb5e"
-    },
-    {
-      "n": "Refuse Revenant",
-      "s": "PB5E",
-      "c": 1,
-      "p": 117,
-      "u": "refuse_revenant_pb5e"
-    },
-    {
-      "n": "Residual",
-      "s": "PB5E",
-      "c": 1,
-      "p": 118,
-      "u": "residual_pb5e"
-    },
-    {
-      "n": "Reymcubus",
-      "s": "PB5E",
-      "c": 1,
-      "p": 119,
-      "u": "reymcubus_pb5e"
-    },
-    {
-      "n": "Roggidj",
-      "s": "PB5E",
-      "c": 1,
-      "p": 28,
-      "u": "roggidj_pb5e"
-    },
-    {
-      "n": "Roheen Conquerer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 120,
-      "u": "roheen_conquerer_pb5e"
-    },
-    {
-      "n": "Rust Hog",
-      "s": "PB5E",
-      "c": 1,
-      "p": 121,
-      "u": "rust_hog_pb5e"
-    },
-    {
-      "n": "Sand Elemental",
-      "s": "PB5E",
-      "c": 1,
-      "p": 42,
-      "u": "sand_elemental_pb5e"
-    },
-    {
-      "n": "Sangrelith Decapitae",
-      "s": "PB5E",
-      "c": 1,
-      "p": 122,
-      "u": "sangrelith_decapitae_pb5e"
-    },
-    {
-      "n": "Shape of Water",
-      "s": "PB5E",
-      "c": 1,
-      "p": 123,
-      "u": "shape_of_water_pb5e"
-    },
-    {
-      "n": "Shechnyku",
-      "s": "PB5E",
-      "c": 1,
-      "p": 124,
-      "u": "shechnyku_pb5e"
-    },
-    {
-      "n": "Shoe Thief",
-      "s": "PB5E",
-      "c": 1,
-      "p": 125,
-      "u": "shoe_thief_pb5e"
-    },
-    {
-      "n": "Shrouded Soldier",
-      "s": "PB5E",
-      "c": 1,
-      "p": 126,
-      "u": "shrouded_soldier_pb5e"
-    },
-    {
-      "n": "Smothering Tulum",
-      "s": "PB5E",
-      "c": 1,
-      "p": 127,
-      "u": "smothering_tulum_pb5e"
-    },
-    {
-      "n": "Solfatar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 128,
-      "u": "solfatar_pb5e"
-    },
-    {
-      "n": "Sorgonian",
-      "s": "PB5E",
-      "c": 1,
-      "p": 129,
-      "u": "sorgonian_pb5e"
-    },
-    {
-      "n": "Spell Incarnate",
-      "s": "PB5E",
-      "c": 1,
-      "p": 130,
-      "u": "spell_incarnate_pb5e"
-    },
-    {
-      "n": "Stormwing",
-      "s": "PB5E",
-      "c": 1,
-      "p": 131,
-      "u": "stormwing_pb5e"
-    },
-    {
-      "n": "Stygian Sleepfish",
-      "s": "PB5E",
-      "c": 1,
-      "p": 132,
-      "u": "stygian_sleepfish_pb5e"
-    },
-    {
-      "n": "Styx Jack",
-      "s": "PB5E",
-      "c": 1,
-      "p": 133,
-      "u": "styx_jack_pb5e"
-    },
-    {
-      "n": "Surk",
-      "s": "PB5E",
-      "c": 1,
-      "p": 134,
-      "u": "surk_pb5e"
-    },
-    {
-      "n": "Taker of Bones",
-      "s": "PB5E",
-      "c": 1,
-      "p": 31,
-      "u": "taker_of_bones_pb5e"
-    },
-    {
-      "n": "Thanatops",
-      "s": "PB5E",
-      "c": 1,
-      "p": 135,
-      "u": "thanatops_pb5e"
-    },
-    {
-      "n": "Thorn Dancer",
-      "s": "PB5E",
-      "c": 1,
-      "p": 136,
-      "u": "thorn_dancer_pb5e"
-    },
-    {
-      "n": "Trapdoor Lurker",
-      "s": "PB5E",
-      "c": 1,
-      "p": 138,
-      "u": "trapdoor_lurker_pb5e"
-    },
-    {
-      "n": "Traveler Guide",
-      "s": "PB5E",
-      "c": 1,
-      "p": 139,
-      "u": "traveler_guide_pb5e"
-    },
-    {
-      "n": "Trinivar",
-      "s": "PB5E",
-      "c": 1,
-      "p": 140,
-      "u": "trinivar_pb5e"
-    },
-    {
-      "n": "Umbral Slime",
-      "s": "PB5E",
-      "c": 1,
-      "p": 141,
-      "u": "umbral_slime_pb5e"
-    },
-    {
-      "n": "Verdigris Vanura",
-      "s": "PB5E",
-      "c": 1,
-      "p": 146,
-      "u": "verdigris_vanura_pb5e"
-    },
-    {
-      "n": "Vesied",
-      "s": "PB5E",
-      "c": 1,
-      "p": 147,
-      "u": "vesied_pb5e"
-    },
-    {
-      "n": "Vociferous Skew",
-      "s": "PB5E",
-      "c": 1,
-      "p": 148,
-      "u": "vociferous_skew_pb5e"
-    },
-    {
-      "n": "Vorothid",
-      "s": "PB5E",
-      "c": 1,
-      "p": 49,
-      "u": "vorothid_pb5e"
-    },
-    {
-      "n": "Wanderfervor Gadbill",
-      "s": "PB5E",
-      "c": 1,
-      "p": 149,
-      "u": "wanderfervor_gadbill_pb5e"
-    },
-    {
-      "n": "War Angel",
-      "s": "PB5E",
+      "n": "Amphoron of Yothri (Juggernaut)",
+      "s": "FEF",
       "c": 1,
       "p": 10,
-      "u": "war_angel_pb5e"
+      "u": "amphoron_of_yothri_(juggernaut)_fef"
     },
     {
-      "n": "Warden of the Lost",
-      "s": "PB5E",
+      "n": "Amphoron of Yothri (Warrior)",
+      "s": "FEF",
       "c": 1,
-      "p": 150,
-      "u": "warden_of_the_lost_pb5e"
+      "p": 10,
+      "u": "amphoron_of_yothri_(warrior)_fef"
     },
     {
-      "n": "Werebasilisk",
-      "s": "PB5E",
+      "n": "Amphoron of Yothri (Worker)",
+      "s": "FEF",
       "c": 1,
-      "p": 151,
-      "u": "werebasilisk_pb5e"
+      "p": 9,
+      "u": "amphoron_of_yothri_(worker)_fef"
     },
     {
-      "n": "Winter",
-      "s": "PB5E",
+      "n": "Ant Lion",
+      "s": "FEF",
+      "c": 1,
+      "p": 11,
+      "u": "ant_lion_fef"
+    },
+    {
+      "n": "Aranea",
+      "s": "FEF",
+      "c": 1,
+      "p": 13,
+      "u": "aranea_fef"
+    },
+    {
+      "n": "Arcanoplasm",
+      "s": "FEF",
+      "c": 1,
+      "p": 14,
+      "u": "arcanoplasm_fef"
+    },
+    {
+      "n": "Artificer of Yothri",
+      "s": "FEF",
+      "c": 1,
+      "p": 15,
+      "u": "artificer_of_yothri_fef"
+    },
+    {
+      "n": "Ascomoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 16,
+      "u": "ascomoid_fef"
+    },
+    {
+      "n": "Assassin Bug",
+      "s": "FEF",
+      "c": 1,
+      "p": 17,
+      "u": "assassin_bug_fef"
+    },
+    {
+      "n": "Astral Moth",
+      "s": "FEF",
+      "c": 1,
+      "p": 18,
+      "u": "astral_moth_fef"
+    },
+    {
+      "n": "Astral Shark",
+      "s": "FEF",
+      "c": 1,
+      "p": 19,
+      "u": "astral_shark_fef"
+    },
+    {
+      "n": "Aurumvorax (Golden Gorger)",
+      "s": "FEF",
+      "c": 1,
+      "p": 20,
+      "u": "aurumvorax_(golden_gorger)_fef"
+    },
+    {
+      "n": "Biclops",
+      "s": "FEF",
+      "c": 1,
+      "p": 26,
+      "u": "biclops_fef"
+    },
+    {
+      "n": "Black Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "black_dracolisk_fef"
+    },
+    {
+      "n": "Blood Hawk",
+      "s": "FEF",
+      "c": 1,
+      "p": 27,
+      "u": "blood_hawk_fef"
+    },
+    {
+      "n": "Blood Orchid",
+      "s": "FEF",
+      "c": 1,
+      "p": 28,
+      "u": "blood_orchid_fef"
+    },
+    {
+      "n": "Blood Orchid Grand Savant",
+      "s": "FEF",
+      "c": 1,
+      "p": 29,
+      "u": "blood_orchid_grand_savant_fef"
+    },
+    {
+      "n": "Blood Orchid Savant",
+      "s": "FEF",
+      "c": 1,
+      "p": 28,
+      "u": "blood_orchid_savant_fef"
+    },
+    {
+      "n": "Blood Pudding",
+      "s": "FEF",
+      "c": 1,
+      "p": 187,
+      "u": "blood_pudding_fef"
+    },
+    {
+      "n": "Bloodsuckle",
+      "s": "FEF",
+      "c": 1,
+      "p": 30,
+      "u": "bloodsuckle_fef"
+    },
+    {
+      "n": "Bloody Bones",
+      "s": "FEF",
+      "c": 1,
+      "p": 31,
+      "u": "bloody_bones_fef"
+    },
+    {
+      "n": "Blue Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "blue_dracolisk_fef"
+    },
+    {
+      "n": "Boalisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 32,
+      "u": "boalisk_fef"
+    },
+    {
+      "n": "Bone Cobbler",
+      "s": "FEF",
+      "c": 1,
+      "p": 33,
+      "u": "bone_cobbler_fef"
+    },
+    {
+      "n": "Bonesucker",
+      "s": "FEF",
+      "c": 1,
+      "p": 35,
+      "u": "bonesucker_fef"
+    },
+    {
+      "n": "Borsin (Ape Centaur)",
+      "s": "FEF",
+      "c": 1,
+      "p": 36,
+      "u": "borsin_(ape_centaur)_fef"
+    },
+    {
+      "n": "Brass Man",
+      "s": "FEF",
+      "c": 1,
+      "p": 37,
+      "u": "brass_man_fef"
+    },
+    {
+      "n": "Brine Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 199,
+      "u": "brine_sea_serpent_fef"
+    },
+    {
+      "n": "Brontotherium (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 183,
+      "u": "brontotherium_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Brume",
+      "s": "FEF",
+      "c": 1,
+      "p": 38,
+      "u": "brume_fef"
+    },
+    {
+      "n": "Burning Dervish",
+      "s": "FEF",
+      "c": 1,
+      "p": 39,
+      "u": "burning_dervish_fef"
+    },
+    {
+      "n": "Cadaver",
+      "s": "FEF",
+      "c": 1,
+      "p": 40,
+      "u": "cadaver_fef"
+    },
+    {
+      "n": "Cadaver Lord",
+      "s": "FEF",
+      "c": 1,
+      "p": 41,
+      "u": "cadaver_lord_fef"
+    },
+    {
+      "n": "Carbuncle",
+      "s": "FEF",
+      "c": 1,
+      "p": 42,
+      "u": "carbuncle_fef"
+    },
+    {
+      "n": "Caryatid Column",
+      "s": "FEF",
+      "c": 1,
+      "p": 43,
+      "u": "caryatid_column_fef"
+    },
+    {
+      "n": "Caterprism",
+      "s": "FEF",
+      "c": 1,
+      "p": 45,
+      "u": "caterprism_fef"
+    },
+    {
+      "n": "Catoblepas",
+      "s": "FEF",
+      "c": 1,
+      "p": 47,
+      "u": "catoblepas_fef"
+    },
+    {
+      "n": "Cave Cricket",
+      "s": "FEF",
+      "c": 1,
+      "p": 48,
+      "u": "cave_cricket_fef"
+    },
+    {
+      "n": "Cave Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 49,
+      "u": "cave_eel_fef"
+    },
+    {
+      "n": "Cave Fisher",
+      "s": "FEF",
+      "c": 1,
+      "p": 50,
+      "u": "cave_fisher_fef"
+    },
+    {
+      "n": "Cave Leech",
+      "s": "FEF",
+      "c": 1,
+      "p": 51,
+      "u": "cave_leech_fef"
+    },
+    {
+      "n": "Centipede Nest",
+      "s": "FEF",
+      "c": 1,
+      "p": 52,
+      "u": "centipede_nest_fef"
+    },
+    {
+      "n": "Cerebral Stalker",
+      "s": "FEF",
+      "c": 1,
+      "p": 53,
+      "u": "cerebral_stalker_fef"
+    },
+    {
+      "n": "Chain Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 54,
+      "u": "chain_worm_fef"
+    },
+    {
+      "n": "Chaos Knight",
+      "s": "FEF",
+      "c": 1,
+      "p": 55,
+      "u": "chaos_knight_fef"
+    },
+    {
+      "n": "Chupacabra",
+      "s": "FEF",
+      "c": 1,
+      "p": 56,
+      "u": "chupacabra_fef"
+    },
+    {
+      "n": "Church Grim",
+      "s": "FEF",
+      "c": 1,
+      "p": 57,
+      "u": "church_grim_fef"
+    },
+    {
+      "n": "Churr",
+      "s": "FEF",
+      "c": 1,
+      "p": 58,
+      "u": "churr_fef"
+    },
+    {
+      "n": "Cimota",
+      "s": "FEF",
+      "c": 1,
+      "p": 59,
+      "u": "cimota_fef"
+    },
+    {
+      "n": "Cimota Guardian",
+      "s": "FEF",
+      "c": 1,
+      "p": 59,
+      "u": "cimota_guardian_fef"
+    },
+    {
+      "n": "Clamor",
+      "s": "FEF",
+      "c": 1,
+      "p": 62,
+      "u": "clamor_fef"
+    },
+    {
+      "n": "Cobra Flower",
+      "s": "FEF",
+      "c": 1,
+      "p": 63,
+      "u": "cobra_flower_fef"
+    },
+    {
+      "n": "Coffer Corpse",
+      "s": "FEF",
+      "c": 1,
+      "p": 64,
+      "u": "coffer_corpse_fef"
+    },
+    {
+      "n": "Cooshee",
+      "s": "FEF",
+      "c": 1,
+      "p": 65,
+      "u": "cooshee_fef"
+    },
+    {
+      "n": "Corpse Rook",
+      "s": "FEF",
+      "c": 1,
+      "p": 66,
+      "u": "corpse_rook_fef"
+    },
+    {
+      "n": "Corpsespinner",
+      "s": "FEF",
+      "c": 1,
+      "p": 67,
+      "u": "corpsespinner_fef"
+    },
+    {
+      "n": "Corpsespun",
+      "s": "FEF",
+      "c": 1,
+      "p": 68,
+      "u": "corpsespun_fef"
+    },
+    {
+      "n": "Crabman",
+      "s": "FEF",
+      "c": 1,
+      "p": 69,
+      "u": "crabman_fef"
+    },
+    {
+      "n": "Crimson Basilisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 21,
+      "u": "crimson_basilisk_fef"
+    },
+    {
+      "n": "Crimson Mist",
+      "s": "FEF",
+      "c": 1,
+      "p": 71,
+      "u": "crimson_mist_fef"
+    },
+    {
+      "n": "Crypt Thing",
+      "s": "FEF",
+      "c": 1,
+      "p": 72,
+      "u": "crypt_thing_fef"
+    },
+    {
+      "n": "Dagon",
+      "s": "FEF",
+      "c": 1,
+      "p": 73,
+      "u": "dagon_fef"
+    },
+    {
+      "n": "Dark Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 74,
+      "u": "dark_creeper_fef"
+    },
+    {
+      "n": "Dark Stalker",
+      "s": "FEF",
+      "c": 1,
+      "p": 74,
+      "u": "dark_stalker_fef"
+    },
+    {
+      "n": "Dark Triton",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_fef"
+    },
+    {
+      "n": "Dark Triton Captain",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_captain_fef"
+    },
+    {
+      "n": "Dark Triton Lieutenant",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_lieutenant_fef"
+    },
+    {
+      "n": "Dark Triton Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 233,
+      "u": "dark_triton_shaman_fef"
+    },
+    {
+      "n": "Darnoc",
+      "s": "FEF",
+      "c": 1,
+      "p": 76,
+      "u": "darnoc_fef"
+    },
+    {
+      "n": "Death Dog",
+      "s": "FEF",
+      "c": 1,
+      "p": 77,
+      "u": "death_dog_fef"
+    },
+    {
+      "n": "Death Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 78,
+      "u": "death_worm_fef"
+    },
+    {
+      "n": "Decapus",
+      "s": "FEF",
+      "c": 1,
+      "p": 79,
+      "u": "decapus_fef"
+    },
+    {
+      "n": "Deep Hunter Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 200,
+      "u": "deep_hunter_sea_serpent_fef"
+    },
+    {
+      "n": "Demonic Knight",
+      "s": "FEF",
+      "c": 1,
+      "p": 82,
+      "u": "demonic_knight_fef"
+    },
+    {
+      "n": "Denizen of Leng",
+      "s": "FEF",
+      "c": 1,
+      "p": 83,
+      "u": "denizen_of_leng_fef"
+    },
+    {
+      "n": "Dire Corby",
+      "s": "FEF",
+      "c": 1,
+      "p": 84,
+      "u": "dire_corby_fef"
+    },
+    {
+      "n": "Doombat",
+      "s": "FEF",
+      "c": 1,
+      "p": 23,
+      "u": "doombat_fef"
+    },
+    {
+      "n": "Dust Digger",
+      "s": "FEF",
+      "c": 1,
+      "p": 88,
+      "u": "dust_digger_fef"
+    },
+    {
+      "n": "Eblis",
+      "s": "FEF",
+      "c": 1,
+      "p": 89,
+      "u": "eblis_fef"
+    },
+    {
+      "n": "Ectoplasm",
+      "s": "FEF",
+      "c": 1,
+      "p": 90,
+      "u": "ectoplasm_fef"
+    },
+    {
+      "n": "Elusa Hound",
+      "s": "FEF",
+      "c": 1,
+      "p": 93,
+      "u": "elusa_hound_fef"
+    },
+    {
+      "n": "Encephalon Gorger",
+      "s": "FEF",
+      "c": 1,
+      "p": 94,
+      "u": "encephalon_gorger_fef"
+    },
+    {
+      "n": "Fanged Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 201,
+      "u": "fanged_sea_serpent_fef"
+    },
+    {
+      "n": "Fear Guard",
+      "s": "FEF",
+      "c": 1,
+      "p": 98,
+      "u": "fear_guard_fef"
+    },
+    {
+      "n": "Fen Witch",
+      "s": "FEF",
+      "c": 1,
+      "p": 99,
+      "u": "fen_witch_fef"
+    },
+    {
+      "n": "Feral Undead Cat",
+      "s": "FEF",
+      "c": 1,
+      "p": 44,
+      "u": "feral_undead_cat_fef"
+    },
+    {
+      "n": "Fetch",
+      "s": "FEF",
+      "c": 1,
+      "p": 100,
+      "u": "fetch_fef"
+    },
+    {
+      "n": "Fire Drake",
+      "s": "FEF",
+      "c": 1,
+      "p": 86,
+      "u": "fire_drake_fef"
+    },
+    {
+      "n": "Flagstone Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 126,
+      "u": "flagstone_golem_fef"
+    },
+    {
+      "n": "Flail Snail",
+      "s": "FEF",
+      "c": 1,
+      "p": 103,
+      "u": "flail_snail_fef"
+    },
+    {
+      "n": "Flowershroud",
+      "s": "FEF",
+      "c": 1,
+      "p": 104,
+      "u": "flowershroud_fef"
+    },
+    {
+      "n": "Flying Ape",
+      "s": "FEF",
+      "c": 1,
+      "p": 12,
+      "u": "flying_ape_fef"
+    },
+    {
+      "n": "Foo Dog",
+      "s": "FEF",
+      "c": 1,
+      "p": 105,
+      "u": "foo_dog_fef"
+    },
+    {
+      "n": "Forester's Bane",
+      "s": "FEF",
+      "c": 1,
+      "p": 106,
+      "u": "forester's_bane_fef"
+    },
+    {
+      "n": "Four-Armed Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 113,
+      "u": "four-armed_gargoyle_fef"
+    },
+    {
+      "n": "Foxwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 227,
+      "u": "foxwere_fef"
+    },
+    {
+      "n": "Froghemoth",
+      "s": "FEF",
+      "c": 1,
+      "p": 107,
+      "u": "froghemoth_fef"
+    },
+    {
+      "n": "Fungoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 108,
+      "u": "fungoid_fef"
+    },
+    {
+      "n": "Fungus Bat",
+      "s": "FEF",
+      "c": 1,
+      "p": 109,
+      "u": "fungus_bat_fef"
+    },
+    {
+      "n": "Fungus Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 114,
+      "u": "fungus_gargoyle_fef"
+    },
+    {
+      "n": "Furnace Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 127,
+      "u": "furnace_golem_fef"
+    },
+    {
+      "n": "Fyr",
+      "s": "FEF",
+      "c": 1,
+      "p": 110,
+      "u": "fyr_fef"
+    },
+    {
+      "n": "Gallows Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 111,
+      "u": "gallows_tree_fef"
+    },
+    {
+      "n": "Gallows Tree Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 112,
+      "u": "gallows_tree_zombie_fef"
+    },
+    {
+      "n": "Ghost Ammonite",
+      "s": "FEF",
+      "c": 1,
+      "p": 118,
+      "u": "ghost_ammonite_fef"
+    },
+    {
+      "n": "Giant Ant Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 95,
+      "u": "giant_ant_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Beetle Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 96,
+      "u": "giant_beetle_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Clam",
+      "s": "FEF",
+      "c": 1,
+      "p": 61,
+      "u": "giant_clam_fef"
+    },
+    {
+      "n": "Giant Crab Exoskeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 97,
+      "u": "giant_crab_exoskeleton_fef"
+    },
+    {
+      "n": "Giant Electric Catfish",
+      "s": "FEF",
+      "c": 1,
+      "p": 46,
+      "u": "giant_electric_catfish_fef"
+    },
+    {
+      "n": "Giant Horsefly",
+      "s": "FEF",
+      "c": 1,
+      "p": 146,
+      "u": "giant_horsefly_fef"
+    },
+    {
+      "n": "Giant Moray Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 91,
+      "u": "giant_moray_eel_fef"
+    },
+    {
+      "n": "Giant Rhinoceros Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 24,
+      "u": "giant_rhinoceros_beetle_fef"
+    },
+    {
+      "n": "Giant Seahorse",
+      "s": "FEF",
+      "c": 1,
+      "p": 205,
+      "u": "giant_seahorse_fef"
+    },
+    {
+      "n": "Giant Slicer Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 24,
+      "u": "giant_slicer_beetle_fef"
+    },
+    {
+      "n": "Giant Slug of P'nakh",
+      "s": "FEF",
+      "c": 1,
+      "p": 119,
+      "u": "giant_slug_of_p'nakh_fef"
+    },
+    {
+      "n": "Giant Water Beetle",
+      "s": "FEF",
+      "c": 1,
+      "p": 25,
+      "u": "giant_water_beetle_fef"
+    },
+    {
+      "n": "Gillmonkey",
+      "s": "FEF",
+      "c": 1,
+      "p": 121,
+      "u": "gillmonkey_fef"
+    },
+    {
+      "n": "Glacial Ooze",
+      "s": "FEF",
+      "c": 1,
+      "p": 178,
+      "u": "glacial_ooze_fef"
+    },
+    {
+      "n": "Gloom Crawler",
+      "s": "FEF",
+      "c": 1,
+      "p": 122,
+      "u": "gloom_crawler_fef"
+    },
+    {
+      "n": "Gnarlwood",
+      "s": "FEF",
+      "c": 1,
+      "p": 123,
+      "u": "gnarlwood_fef"
+    },
+    {
+      "n": "Golden Cat",
+      "s": "FEF",
+      "c": 1,
+      "p": 125,
+      "u": "golden_cat_fef"
+    },
+    {
+      "n": "Gorbel",
+      "s": "FEF",
+      "c": 1,
+      "p": 130,
+      "u": "gorbel_fef"
+    },
+    {
+      "n": "Gorgimera",
+      "s": "FEF",
+      "c": 1,
+      "p": 131,
+      "u": "gorgimera_fef"
+    },
+    {
+      "n": "Gorilla Bear",
+      "s": "FEF",
+      "c": 1,
+      "p": 132,
+      "u": "gorilla_bear_fef"
+    },
+    {
+      "n": "Gray Nisp",
+      "s": "FEF",
+      "c": 1,
+      "p": 133,
+      "u": "gray_nisp_fef"
+    },
+    {
+      "n": "Greater Basilisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 22,
+      "u": "greater_basilisk_fef"
+    },
+    {
+      "n": "Greater Boneneedle",
+      "s": "FEF",
+      "c": 1,
+      "p": 34,
+      "u": "greater_boneneedle_fef"
+    },
+    {
+      "n": "Greater Fire Crab",
+      "s": "FEF",
+      "c": 1,
+      "p": 101,
+      "u": "greater_fire_crab_fef"
+    },
+    {
+      "n": "Green Brain",
+      "s": "FEF",
+      "c": 1,
+      "p": 134,
+      "u": "green_brain_fef"
+    },
+    {
+      "n": "Green Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "green_dracolisk_fef"
+    },
+    {
+      "n": "Green Guardian Gargoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 115,
+      "u": "green_guardian_gargoyle_fef"
+    },
+    {
+      "n": "Grimm",
+      "s": "FEF",
+      "c": 1,
+      "p": 135,
+      "u": "grimm_fef"
+    },
+    {
+      "n": "Grippli",
+      "s": "FEF",
+      "c": 1,
+      "p": 136,
+      "u": "grippli_fef"
+    },
+    {
+      "n": "Grippli Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 136,
+      "u": "grippli_shaman_fef"
+    },
+    {
+      "n": "Grue (Type 1)",
+      "s": "FEF",
       "c": 1,
       "p": 137,
-      "u": "winter_pb5e"
+      "u": "grue_(type_1)_fef"
     },
     {
-      "n": "Winter Herald",
-      "s": "PB5E",
+      "n": "Grue (Type 2)",
+      "s": "FEF",
+      "c": 1,
+      "p": 138,
+      "u": "grue_(type_2)_fef"
+    },
+    {
+      "n": "Gulper Eel",
+      "s": "FEF",
+      "c": 1,
+      "p": 92,
+      "u": "gulper_eel_fef"
+    },
+    {
+      "n": "Hanged Man",
+      "s": "FEF",
+      "c": 1,
+      "p": 139,
+      "u": "hanged_man_fef"
+    },
+    {
+      "n": "Hangman Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 140,
+      "u": "hangman_tree_fef"
+    },
+    {
+      "n": "Hanu-Naga",
+      "s": "FEF",
+      "c": 1,
+      "p": 175,
+      "u": "hanu-naga_fef"
+    },
+    {
+      "n": "Hawanar Genie",
+      "s": "FEF",
+      "c": 1,
+      "p": 117,
+      "u": "hawanar_genie_fef"
+    },
+    {
+      "n": "Hawktoad",
+      "s": "FEF",
+      "c": 1,
+      "p": 141,
+      "u": "hawktoad_fef"
+    },
+    {
+      "n": "Helix Moth Adult",
+      "s": "FEF",
+      "c": 1,
+      "p": 142,
+      "u": "helix_moth_adult_fef"
+    },
+    {
+      "n": "Helix Moth Larva",
+      "s": "FEF",
+      "c": 1,
+      "p": 142,
+      "u": "helix_moth_larva_fef"
+    },
+    {
+      "n": "Hieroglyphicroc",
+      "s": "FEF",
+      "c": 1,
+      "p": 143,
+      "u": "hieroglyphicroc_fef"
+    },
+    {
+      "n": "High Cimota",
+      "s": "FEF",
+      "c": 1,
+      "p": 60,
+      "u": "high_cimota_fef"
+    },
+    {
+      "n": "Hippocampus",
+      "s": "FEF",
+      "c": 1,
+      "p": 144,
+      "u": "hippocampus_fef"
+    },
+    {
+      "n": "Hoar Fox",
+      "s": "FEF",
+      "c": 1,
+      "p": 145,
+      "u": "hoar_fox_fef"
+    },
+    {
+      "n": "Huggermugger",
+      "s": "FEF",
+      "c": 1,
+      "p": 147,
+      "u": "huggermugger_fef"
+    },
+    {
+      "n": "Hyaenodon (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 184,
+      "u": "hyaenodon_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Hydra Cloud Gohl",
+      "s": "FEF",
+      "c": 1,
+      "p": 124,
+      "u": "hydra_cloud_gohl_fef"
+    },
+    {
+      "n": "Ice Drake",
+      "s": "FEF",
+      "c": 1,
+      "p": 87,
+      "u": "ice_drake_fef"
+    },
+    {
+      "n": "Igniguana",
+      "s": "FEF",
+      "c": 1,
+      "p": 148,
+      "u": "igniguana_fef"
+    },
+    {
+      "n": "Jack-in-Irons Giant",
+      "s": "FEF",
+      "c": 1,
+      "p": 120,
+      "u": "jack-in-irons_giant_fef"
+    },
+    {
+      "n": "Jackal of Darkness",
+      "s": "FEF",
+      "c": 1,
+      "p": 149,
+      "u": "jackal_of_darkness_fef"
+    },
+    {
+      "n": "Jaculi",
+      "s": "FEF",
+      "c": 1,
+      "p": 150,
+      "u": "jaculi_fef"
+    },
+    {
+      "n": "Jupiter Bloodsucker",
+      "s": "FEF",
       "c": 1,
       "p": 152,
-      "u": "winter_herald_pb5e"
+      "u": "jupiter_bloodsucker_fef"
     },
     {
-      "n": "Worm Queen",
-      "s": "PB5E",
+      "n": "Kamadan",
+      "s": "FEF",
       "c": 1,
       "p": 153,
-      "u": "worm_queen_pb5e"
+      "u": "kamadan_fef"
     },
     {
-      "n": "Xenophage Defender",
-      "s": "PB5E",
+      "n": "Kampfult",
+      "s": "FEF",
       "c": 1,
       "p": 154,
-      "u": "xenophage_defender_pb5e"
+      "u": "kampfult_fef"
     },
     {
-      "n": "Xenophage Watcher",
-      "s": "PB5E",
-      "c": 1,
-      "p": 154,
-      "u": "xenophage_watcher_pb5e"
-    },
-    {
-      "n": "Yox",
-      "s": "PB5E",
+      "n": "Kech",
+      "s": "FEF",
       "c": 1,
       "p": 155,
-      "u": "yox_pb5e"
+      "u": "kech_fef"
     },
     {
-      "n": "Ysgard Nemesis",
-      "s": "PB5E",
+      "n": "Kelpie",
+      "s": "FEF",
       "c": 1,
-      "p": 155,
-      "u": "ysgard_nemesis_pb5e"
+      "p": 156,
+      "u": "kelpie_fef"
     },
     {
-      "n": "Zeitgebar Witness",
-      "s": "PB5E",
+      "n": "Khargra",
+      "s": "FEF",
       "c": 1,
       "p": 157,
-      "u": "zeitgebar_witness_pb5e"
+      "u": "khargra_fef"
+    },
+    {
+      "n": "Korred",
+      "s": "FEF",
+      "c": 1,
+      "p": 158,
+      "u": "korred_fef"
+    },
+    {
+      "n": "Kurok-spirit",
+      "s": "FEF",
+      "c": 1,
+      "p": 159,
+      "u": "kurok-spirit_fef"
+    },
+    {
+      "n": "Land Lamprey",
+      "s": "FEF",
+      "c": 1,
+      "p": 160,
+      "u": "land_lamprey_fef"
+    },
+    {
+      "n": "Lava Child",
+      "s": "FEF",
+      "c": 1,
+      "p": 161,
+      "u": "lava_child_fef"
+    },
+    {
+      "n": "Lava Child Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 161,
+      "u": "lava_child_shaman_fef"
+    },
+    {
+      "n": "Lava Weird",
+      "s": "FEF",
+      "c": 1,
+      "p": 244,
+      "u": "lava_weird_fef"
+    },
+    {
+      "n": "Leng Spider",
+      "s": "FEF",
+      "c": 1,
+      "p": 162,
+      "u": "leng_spider_fef"
+    },
+    {
+      "n": "Lesser Boneneedle",
+      "s": "FEF",
+      "c": 1,
+      "p": 34,
+      "u": "lesser_boneneedle_fef"
+    },
+    {
+      "n": "Lesser Fire Crab",
+      "s": "FEF",
+      "c": 1,
+      "p": 101,
+      "u": "lesser_fire_crab_fef"
+    },
+    {
+      "n": "Lesser Shadow",
+      "s": "FEF",
+      "c": 1,
+      "p": 208,
+      "u": "lesser_shadow_fef"
+    },
+    {
+      "n": "Lightning Treant",
+      "s": "FEF",
+      "c": 1,
+      "p": 231,
+      "u": "lightning_treant_fef"
+    },
+    {
+      "n": "Lionwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 228,
+      "u": "lionwere_fef"
+    },
+    {
+      "n": "Lithonnite",
+      "s": "FEF",
+      "c": 1,
+      "p": 165,
+      "u": "lithonnite_fef"
+    },
+    {
+      "n": "Magma Ooze",
+      "s": "FEF",
+      "c": 1,
+      "p": 179,
+      "u": "magma_ooze_fef"
+    },
+    {
+      "n": "Magmoid",
+      "s": "FEF",
+      "c": 1,
+      "p": 166,
+      "u": "magmoid_fef"
+    },
+    {
+      "n": "Mandragora",
+      "s": "FEF",
+      "c": 1,
+      "p": 167,
+      "u": "mandragora_fef"
+    },
+    {
+      "n": "Mandrill",
+      "s": "FEF",
+      "c": 1,
+      "p": 168,
+      "u": "mandrill_fef"
+    },
+    {
+      "n": "Mantari",
+      "s": "FEF",
+      "c": 1,
+      "p": 169,
+      "u": "mantari_fef"
+    },
+    {
+      "n": "Margoyle",
+      "s": "FEF",
+      "c": 1,
+      "p": 116,
+      "u": "margoyle_fef"
+    },
+    {
+      "n": "Mastodon (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 185,
+      "u": "mastodon_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Midnight Peddler",
+      "s": "FEF",
+      "c": 1,
+      "p": 170,
+      "u": "midnight_peddler_fef"
+    },
+    {
+      "n": "Mite",
+      "s": "FEF",
+      "c": 1,
+      "p": 171,
+      "u": "mite_fef"
+    },
+    {
+      "n": "Monstrous Crayfish",
+      "s": "FEF",
+      "c": 1,
+      "p": 70,
+      "u": "monstrous_crayfish_fef"
+    },
+    {
+      "n": "Mummy of the Deep",
+      "s": "FEF",
+      "c": 1,
+      "p": 173,
+      "u": "mummy_of_the_deep_fef"
+    },
+    {
+      "n": "Murder Crow",
+      "s": "FEF",
+      "c": 1,
+      "p": 174,
+      "u": "murder_crow_fef"
+    },
+    {
+      "n": "Mustard Jelly",
+      "s": "FEF",
+      "c": 1,
+      "p": 151,
+      "u": "mustard_jelly_fef"
+    },
+    {
+      "n": "Olive Slime",
+      "s": "FEF",
+      "c": 1,
+      "p": 176,
+      "u": "olive_slime_fef"
+    },
+    {
+      "n": "Olive Slime Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 177,
+      "u": "olive_slime_zombie_fef"
+    },
+    {
+      "n": "Origami Warrior",
+      "s": "FEF",
+      "c": 1,
+      "p": 180,
+      "u": "origami_warrior_fef"
+    },
+    {
+      "n": "Owlwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 229,
+      "u": "owlwere_fef"
+    },
+    {
+      "n": "Pech",
+      "s": "FEF",
+      "c": 1,
+      "p": 181,
+      "u": "pech_fef"
+    },
+    {
+      "n": "Pestie Mite",
+      "s": "FEF",
+      "c": 1,
+      "p": 172,
+      "u": "pestie_mite_fef"
+    },
+    {
+      "n": "Phycomid",
+      "s": "FEF",
+      "c": 1,
+      "p": 182,
+      "u": "phycomid_fef"
+    },
+    {
+      "n": "Poisonous Fire Snake",
+      "s": "FEF",
+      "c": 1,
+      "p": 102,
+      "u": "poisonous_fire_snake_fef"
+    },
+    {
+      "n": "Poisonous Kamadan",
+      "s": "FEF",
+      "c": 1,
+      "p": 153,
+      "u": "poisonous_kamadan_fef"
+    },
+    {
+      "n": "Pyrolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 188,
+      "u": "pyrolisk_fef"
+    },
+    {
+      "n": "Quadricorn",
+      "s": "FEF",
+      "c": 1,
+      "p": 189,
+      "u": "quadricorn_fef"
+    },
+    {
+      "n": "Quickwood",
+      "s": "FEF",
+      "c": 1,
+      "p": 190,
+      "u": "quickwood_fef"
+    },
+    {
+      "n": "Red Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "red_dracolisk_fef"
+    },
+    {
+      "n": "Red Jester",
+      "s": "FEF",
+      "c": 1,
+      "p": 192,
+      "u": "red_jester_fef"
+    },
+    {
+      "n": "Ronus",
+      "s": "FEF",
+      "c": 1,
+      "p": 193,
+      "u": "ronus_fef"
+    },
+    {
+      "n": "Russet Mold",
+      "s": "FEF",
+      "c": 1,
+      "p": 194,
+      "u": "russet_mold_fef"
+    },
+    {
+      "n": "Ryven",
+      "s": "FEF",
+      "c": 1,
+      "p": 195,
+      "u": "ryven_fef"
+    },
+    {
+      "n": "Ryven Shaman",
+      "s": "FEF",
+      "c": 1,
+      "p": 195,
+      "u": "ryven_shaman_fef"
+    },
+    {
+      "n": "Sandling",
+      "s": "FEF",
+      "c": 1,
+      "p": 196,
+      "u": "sandling_fef"
+    },
+    {
+      "n": "Screaming Devilkin",
+      "s": "FEF",
+      "c": 1,
+      "p": 197,
+      "u": "screaming_devilkin_fef"
+    },
+    {
+      "n": "Scythe Tree",
+      "s": "FEF",
+      "c": 1,
+      "p": 198,
+      "u": "scythe_tree_fef"
+    },
+    {
+      "n": "Sepulchral Guardian",
+      "s": "FEF",
+      "c": 1,
+      "p": 206,
+      "u": "sepulchral_guardian_fef"
+    },
+    {
+      "n": "Shadow Mastiff",
+      "s": "FEF",
+      "c": 1,
+      "p": 207,
+      "u": "shadow_mastiff_fef"
+    },
+    {
+      "n": "Shadow Rat",
+      "s": "FEF",
+      "c": 1,
+      "p": 191,
+      "u": "shadow_rat_fef"
+    },
+    {
+      "n": "Shipbreaker Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 202,
+      "u": "shipbreaker_sea_serpent_fef"
+    },
+    {
+      "n": "Shroom",
+      "s": "FEF",
+      "c": 1,
+      "p": 209,
+      "u": "shroom_fef"
+    },
+    {
+      "n": "Skeleton Warrior",
+      "s": "FEF",
+      "c": 1,
+      "p": 210,
+      "u": "skeleton_warrior_fef"
+    },
+    {
+      "n": "Skelzi",
+      "s": "FEF",
+      "c": 1,
+      "p": 213,
+      "u": "skelzi_fef"
+    },
+    {
+      "n": "Skulk",
+      "s": "FEF",
+      "c": 1,
+      "p": 214,
+      "u": "skulk_fef"
+    },
+    {
+      "n": "Slithering Tracker",
+      "s": "FEF",
+      "c": 1,
+      "p": 215,
+      "u": "slithering_tracker_fef"
+    },
+    {
+      "n": "Snow Leopard",
+      "s": "FEF",
+      "c": 1,
+      "p": 163,
+      "u": "snow_leopard_fef"
+    },
+    {
+      "n": "Soul Reaper",
+      "s": "FEF",
+      "c": 1,
+      "p": 216,
+      "u": "soul_reaper_fef"
+    },
+    {
+      "n": "Spectral Troll",
+      "s": "FEF",
+      "c": 1,
+      "p": 234,
+      "u": "spectral_troll_fef"
+    },
+    {
+      "n": "Spitting Sea Serpent",
+      "s": "FEF",
+      "c": 1,
+      "p": 204,
+      "u": "spitting_sea_serpent_fef"
+    },
+    {
+      "n": "Stegocentipede",
+      "s": "FEF",
+      "c": 1,
+      "p": 217,
+      "u": "stegocentipede_fef"
+    },
+    {
+      "n": "Stone Guardian Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 128,
+      "u": "stone_guardian_golem_fef"
+    },
+    {
+      "n": "Strangle Weed",
+      "s": "FEF",
+      "c": 1,
+      "p": 218,
+      "u": "strangle_weed_fef"
+    },
+    {
+      "n": "Stygian Skeleton",
+      "s": "FEF",
+      "c": 1,
+      "p": 212,
+      "u": "stygian_skeleton_fef"
+    },
+    {
+      "n": "Tabaxi",
+      "s": "FEF",
+      "c": 1,
+      "p": 219,
+      "u": "tabaxi_fef"
+    },
+    {
+      "n": "Taer",
+      "s": "FEF",
+      "c": 1,
+      "p": 220,
+      "u": "taer_fef"
+    },
+    {
+      "n": "Tangtal",
+      "s": "FEF",
+      "c": 1,
+      "p": 221,
+      "u": "tangtal_fef"
+    },
+    {
+      "n": "Tazelwurm",
+      "s": "FEF",
+      "c": 1,
+      "p": 222,
+      "u": "tazelwurm_fef"
+    },
+    {
+      "n": "Temporal Crawler",
+      "s": "FEF",
+      "c": 1,
+      "p": 223,
+      "u": "temporal_crawler_fef"
+    },
+    {
+      "n": "Tendriculos",
+      "s": "FEF",
+      "c": 1,
+      "p": 224,
+      "u": "tendriculos_fef"
+    },
+    {
+      "n": "Tentacled Horror",
+      "s": "FEF",
+      "c": 1,
+      "p": 225,
+      "u": "tentacled_horror_fef"
+    },
+    {
+      "n": "Teratashia, Demon Princess of Dimensions",
+      "s": "FEF",
+      "c": 1,
+      "p": 80,
+      "u": "teratashia_demon_princess_of_dimensions_fef"
+    },
+    {
+      "n": "Thalasskoptis, Demon Prince",
+      "s": "FEF",
+      "c": 1,
+      "p": 81,
+      "u": "thalasskoptis_demon_prince_fef"
+    },
+    {
+      "n": "Tri-FLower Frond",
+      "s": "FEF",
+      "c": 1,
+      "p": 232,
+      "u": "tri-flower_frond_fef"
+    },
+    {
+      "n": "Tunnel Prawn",
+      "s": "FEF",
+      "c": 1,
+      "p": 236,
+      "u": "tunnel_prawn_fef"
+    },
+    {
+      "n": "Tunnel Worm",
+      "s": "FEF",
+      "c": 1,
+      "p": 237,
+      "u": "tunnel_worm_fef"
+    },
+    {
+      "n": "Two-Headed Troll",
+      "s": "FEF",
+      "c": 1,
+      "p": 235,
+      "u": "two-headed_troll_fef"
+    },
+    {
+      "n": "Vampire Rose",
+      "s": "FEF",
+      "c": 1,
+      "p": 238,
+      "u": "vampire_rose_fef"
+    },
+    {
+      "n": "Vegepygmy Chief",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_chief_fef"
+    },
+    {
+      "n": "Vegepygmy Commoner and Worker",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_commoner_and_worker_fef"
+    },
+    {
+      "n": "Vegepygmy Guard",
+      "s": "FEF",
+      "c": 1,
+      "p": 239,
+      "u": "vegepygmy_guard_fef"
+    },
+    {
+      "n": "Volt (Bolt Wurm)",
+      "s": "FEF",
+      "c": 1,
+      "p": 241,
+      "u": "volt_(bolt_wurm)_fef"
+    },
+    {
+      "n": "Vorin",
+      "s": "FEF",
+      "c": 1,
+      "p": 242,
+      "u": "vorin_fef"
+    },
+    {
+      "n": "Vulchling",
+      "s": "FEF",
+      "c": 1,
+      "p": 243,
+      "u": "vulchling_fef"
+    },
+    {
+      "n": "Were-Mist",
+      "s": "FEF",
+      "c": 1,
+      "p": 245,
+      "u": "were-mist_fef"
+    },
+    {
+      "n": "Weredactyl",
+      "s": "FEF",
+      "c": 1,
+      "p": 246,
+      "u": "weredactyl_fef"
+    },
+    {
+      "n": "White Dracolisk",
+      "s": "FEF",
+      "c": 1,
+      "p": 85,
+      "u": "white_dracolisk_fef"
+    },
+    {
+      "n": "Widow Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 247,
+      "u": "widow_creeper_fef"
+    },
+    {
+      "n": "Witch Grass",
+      "s": "FEF",
+      "c": 1,
+      "p": 248,
+      "u": "witch_grass_fef"
+    },
+    {
+      "n": "Witherstench",
+      "s": "FEF",
+      "c": 1,
+      "p": 249,
+      "u": "witherstench_fef"
+    },
+    {
+      "n": "Wolfwere",
+      "s": "FEF",
+      "c": 1,
+      "p": 230,
+      "u": "wolfwere_fef"
+    },
+    {
+      "n": "Wooden Golem",
+      "s": "FEF",
+      "c": 1,
+      "p": 129,
+      "u": "wooden_golem_fef"
+    },
+    {
+      "n": "Woolly Rhinoceros (Pleistocene Animal)",
+      "s": "FEF",
+      "c": 1,
+      "p": 186,
+      "u": "woolly_rhinoceros_(pleistocene_animal)_fef"
+    },
+    {
+      "n": "Yellow Musk Creeper",
+      "s": "FEF",
+      "c": 1,
+      "p": 250,
+      "u": "yellow_musk_creeper_fef"
+    },
+    {
+      "n": "Yellow Musk Zombie",
+      "s": "FEF",
+      "c": 1,
+      "p": 251,
+      "u": "yellow_musk_zombie_fef"
+    },
+    {
+      "n": "Young Leucrotta",
+      "s": "FEF",
+      "c": 1,
+      "p": 164,
+      "u": "young_leucrotta_fef"
+    },
+    {
+      "n": "Zombie Raven",
+      "s": "FEF",
+      "c": 1,
+      "p": 252,
+      "u": "zombie_raven_fef"
+    },
+    {
+      "n": "Abandoned dream",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "abandoned_dream_bookoffiends"
+    },
+    {
+      "n": "Abigor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "abigor_bookoffiends"
+    },
+    {
+      "n": "Adult Abyssal Dragon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "adult_abyssal_dragon_bookoffiends"
+    },
+    {
+      "n": "Aezidion",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "aezidion_bookoffiends"
+    },
+    {
+      "n": "Ahrimanes",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ahrimanes_bookoffiends"
+    },
+    {
+      "n": "Akop",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "akop_bookoffiends"
+    },
+    {
+      "n": "Alastor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "alastor_bookoffiends"
+    },
+    {
+      "n": "Alrune",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "alrune_bookoffiends"
+    },
+    {
+      "n": "Amorine",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "amorine_bookoffiends"
+    },
+    {
+      "n": "Amorine Mound",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "amorine_mound_bookoffiends"
+    },
+    {
+      "n": "Antaia, the Witch Queen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "antaia_the_witch_queen_bookoffiends"
+    },
+    {
+      "n": "Armageddon Beast",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "armageddon_beast_bookoffiends"
+    },
+    {
+      "n": "Asakku",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "asakku_bookoffiends"
+    },
+    {
+      "n": "Ashmede",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ashmede_bookoffiends"
+    },
+    {
+      "n": "Azalar",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "azalar_bookoffiends"
+    },
+    {
+      "n": "Balan",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "balan_bookoffiends"
+    },
+    {
+      "n": "Bearer of False Burdens",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bearer_of_false_burdens_bookoffiends"
+    },
+    {
+      "n": "Beldrake, Balan's hunter",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "beldrake_balan's_hunter_bookoffiends"
+    },
+    {
+      "n": "Bitter",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bitter_bookoffiends"
+    },
+    {
+      "n": "Bonedreg Biped",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bonedreg_biped_bookoffiends"
+    },
+    {
+      "n": "Bonedreg Quadruped",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bonedreg_quadruped_bookoffiends"
+    },
+    {
+      "n": "Bonedreg, Biped",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bonedreg_biped_bookoffiends"
+    },
+    {
+      "n": "Bonedreg, Quadruped",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bonedreg_quadruped_bookoffiends"
+    },
+    {
+      "n": "Borgeg",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "borgeg_bookoffiends"
+    },
+    {
+      "n": "Bulugon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bulugon_bookoffiends"
+    },
+    {
+      "n": "Bune",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "bune_bookoffiends"
+    },
+    {
+      "n": "Calumnite",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "calumnite_bookoffiends"
+    },
+    {
+      "n": "Chamagon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "chamagon_bookoffiends"
+    },
+    {
+      "n": "Chernobue",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "chernobue_bookoffiends"
+    },
+    {
+      "n": "Cranial Wretch",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "cranial_wretch_bookoffiends"
+    },
+    {
+      "n": "Crausus",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "crausus_bookoffiends"
+    },
+    {
+      "n": "Cresil the Impure",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "cresil_the_impure_bookoffiends"
+    },
+    {
+      "n": "Crun",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "crun_bookoffiends"
+    },
+    {
+      "n": "Dagon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "dagon_bookoffiends"
+    },
+    {
+      "n": "Darba",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "darba_bookoffiends"
+    },
+    {
+      "n": "Darksphinx",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "darksphinx_bookoffiends"
+    },
+    {
+      "n": "Distender",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "distender_bookoffiends"
+    },
+    {
+      "n": "Enforcer of dis",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "enforcer_of_dis_bookoffiends"
+    },
+    {
+      "n": "Enticer",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "enticer_bookoffiends"
+    },
+    {
+      "n": "Entropus",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "entropus_bookoffiends"
+    },
+    {
+      "n": "Enveloper of the Innocent",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "enveloper_of_the_innocent_bookoffiends"
+    },
+    {
+      "n": "Eunuch",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "eunuch_bookoffiends"
+    },
+    {
+      "n": "Eunuch Patriarch",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "eunuch_patriarch_bookoffiends"
+    },
+    {
+      "n": "Eurynomus the Corpse Eater",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "eurynomus_the_corpse_eater_bookoffiends"
+    },
+    {
+      "n": "Faceless",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "faceless_bookoffiends"
+    },
+    {
+      "n": "Faces of the Great",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "faces_of_the_great_bookoffiends"
+    },
+    {
+      "n": "Fair one",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "fair_one_bookoffiends"
+    },
+    {
+      "n": "Fallen angel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "fallen_angel_bookoffiends"
+    },
+    {
+      "n": "Falstaff",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "falstaff_bookoffiends"
+    },
+    {
+      "n": "Feasting",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "feasting_bookoffiends"
+    },
+    {
+      "n": "Feasting Swarm",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "feasting_swarm_bookoffiends"
+    },
+    {
+      "n": "Felugon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "felugon_bookoffiends"
+    },
+    {
+      "n": "Flabule",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "flabule_bookoffiends"
+    },
+    {
+      "n": "Flesh Sculptor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "flesh_sculptor_bookoffiends"
+    },
+    {
+      "n": "Fleshtearer",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "fleshtearer_bookoffiends"
+    },
+    {
+      "n": "Furtivin",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "furtivin_bookoffiends"
+    },
+    {
+      "n": "Gladiatrix",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "gladiatrix_bookoffiends"
+    },
+    {
+      "n": "Glomeray",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "glomeray_bookoffiends"
+    },
+    {
+      "n": "Hadriel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hadriel_bookoffiends"
+    },
+    {
+      "n": "Harbinger of Vengeance",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "harbinger_of_vengeance_bookoffiends"
+    },
+    {
+      "n": "Harlequin",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "harlequin_bookoffiends"
+    },
+    {
+      "n": "Hell horse",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hell_horse_bookoffiends"
+    },
+    {
+      "n": "Hellwarden",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hellwarden_bookoffiends"
+    },
+    {
+      "n": "Herlekin",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "herlekin_bookoffiends"
+    },
+    {
+      "n": "Hoarder",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hoarder_bookoffiends"
+    },
+    {
+      "n": "Horde demon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "horde_demon_bookoffiends"
+    },
+    {
+      "n": "Hunger",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hunger_bookoffiends"
+    },
+    {
+      "n": "Hungry",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hungry_bookoffiends"
+    },
+    {
+      "n": "Hydraggon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "hydraggon_bookoffiends"
+    },
+    {
+      "n": "Iblis",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "iblis_bookoffiends"
+    },
+    {
+      "n": "Ice Stalker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ice_stalker_bookoffiends"
+    },
+    {
+      "n": "Ignagon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ignagon_bookoffiends"
+    },
+    {
+      "n": "Inciter",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "inciter_bookoffiends"
+    },
+    {
+      "n": "Indolent",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "indolent_bookoffiends"
+    },
+    {
+      "n": "Inmai",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "inmai_bookoffiends"
+    },
+    {
+      "n": "Irecunda",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "irecunda_bookoffiends"
+    },
+    {
+      "n": "Jageth",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "jageth_bookoffiends"
+    },
+    {
+      "n": "Jahi",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "jahi_bookoffiends"
+    },
+    {
+      "n": "Jalie Squarefoot",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "jalie_squarefoot_bookoffiends"
+    },
+    {
+      "n": "Kere",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "kere_bookoffiends"
+    },
+    {
+      "n": "Knocker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "knocker_bookoffiends"
+    },
+    {
+      "n": "Kok-lir",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "kok-lir_bookoffiends"
+    },
+    {
+      "n": "Krobulon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "krobulon_bookoffiends"
+    },
+    {
+      "n": "Krotep",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "krotep_bookoffiends"
+    },
+    {
+      "n": "Kurgel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "kurgel_bookoffiends"
+    },
+    {
+      "n": "Languishing",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "languishing_bookoffiends"
+    },
+    {
+      "n": "Least horde demon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "least_horde_demon_bookoffiends"
+    },
+    {
+      "n": "Lel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "lel_bookoffiends"
+    },
+    {
+      "n": "Lesser horde demon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "lesser_horde_demon_bookoffiends"
+    },
+    {
+      "n": "Lustful",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "lustful_bookoffiends"
+    },
+    {
+      "n": "Mabaxa",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mabaxa_bookoffiends"
+    },
+    {
+      "n": "Magugon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "magugon_bookoffiends"
+    },
+    {
+      "n": "Malgrin",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "malgrin_bookoffiends"
+    },
+    {
+      "n": "Malicious Captain",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "malicious_captain_bookoffiends"
+    },
+    {
+      "n": "Malicious Footman",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "malicious_footman_bookoffiends"
+    },
+    {
+      "n": "Malicious lieutenant",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "malicious_lieutenant_bookoffiends"
+    },
+    {
+      "n": "Malohin",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "malohin_bookoffiends"
+    },
+    {
+      "n": "Mandragoras",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mandragoras_bookoffiends"
+    },
+    {
+      "n": "Maodon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "maodon_bookoffiends"
+    },
+    {
+      "n": "Mazareen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mazareen_bookoffiends"
+    },
+    {
+      "n": "Merihim",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "merihim_bookoffiends"
+    },
+    {
+      "n": "Mindkiller nettle",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mindkiller_nettle_bookoffiends"
+    },
+    {
+      "n": "Miser",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "miser_bookoffiends"
+    },
+    {
+      "n": "Mockery in Flame",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mockery_in_flame_bookoffiends"
+    },
+    {
+      "n": "Mother Igwyre",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "mother_igwyre_bookoffiends"
+    },
+    {
+      "n": "Naamah",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "naamah_bookoffiends"
+    },
+    {
+      "n": "Necroripper",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "necroripper_bookoffiends"
+    },
+    {
+      "n": "Nekhet",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "nekhet_bookoffiends"
+    },
+    {
+      "n": "Nergal",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "nergal_bookoffiends"
+    },
+    {
+      "n": "Nyogoth",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "nyogoth_bookoffiends"
+    },
+    {
+      "n": "Ograq",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ograq_bookoffiends"
+    },
+    {
+      "n": "Orusula",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "orusula_bookoffiends"
+    },
+    {
+      "n": "Oubliette",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "oubliette_bookoffiends"
+    },
+    {
+      "n": "Paesod",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "paesod_bookoffiends"
+    },
+    {
+      "n": "Paigoel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "paigoel_bookoffiends"
+    },
+    {
+      "n": "Pain Mistress",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "pain_mistress_bookoffiends"
+    },
+    {
+      "n": "Painshrieker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "painshrieker_bookoffiends"
+    },
+    {
+      "n": "Pertoblen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "pertoblen_bookoffiends"
+    },
+    {
+      "n": "Philotanus the Seducer",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "philotanus_the_seducer_bookoffiends"
+    },
+    {
+      "n": "Phlogiston Monitor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "phlogiston_monitor_bookoffiends"
+    },
+    {
+      "n": "Proud",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "proud_bookoffiends"
+    },
+    {
+      "n": "Rahu the Tormentor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "rahu_the_tormentor_bookoffiends"
+    },
+    {
+      "n": "Rashede",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "rashede_bookoffiends"
+    },
+    {
+      "n": "Razorwire Golem",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "razorwire_golem_bookoffiends"
+    },
+    {
+      "n": "Remnant",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "remnant_bookoffiends"
+    },
+    {
+      "n": "Ruin in Flesh",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "ruin_in_flesh_bookoffiends"
+    },
+    {
+      "n": "Sathreen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "sathreen_bookoffiends"
+    },
+    {
+      "n": "Schir",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "schir_bookoffiends"
+    },
+    {
+      "n": "Selidim",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "selidim_bookoffiends"
+    },
+    {
+      "n": "She",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "she_bookoffiends"
+    },
+    {
+      "n": "Shiggarreb",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "shiggarreb_bookoffiends"
+    },
+    {
+      "n": "Shining one",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "shining_one_bookoffiends"
+    },
+    {
+      "n": "Shissen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "shissen_bookoffiends"
+    },
+    {
+      "n": "Shogarr",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "shogarr_bookoffiends"
+    },
+    {
+      "n": "Shoggti",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "shoggti_bookoffiends"
+    },
+    {
+      "n": "Skulldugger",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "skulldugger_bookoffiends"
+    },
+    {
+      "n": "Slothen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "slothen_bookoffiends"
+    },
+    {
+      "n": "Slumbering Valor",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "slumbering_valor_bookoffiends"
+    },
+    {
+      "n": "Solesik",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "solesik_bookoffiends"
+    },
+    {
+      "n": "Soul Taker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "soul_taker_bookoffiends"
+    },
+    {
+      "n": "Soulkeeper",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "soulkeeper_bookoffiends"
+    },
+    {
+      "n": "Soulsniffer",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "soulsniffer_bookoffiends"
+    },
+    {
+      "n": "Spawn of Draqolath",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "spawn_of_draqolath_bookoffiends"
+    },
+    {
+      "n": "Spawn of Marbas",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "spawn_of_marbas_bookoffiends"
+    },
+    {
+      "n": "Spinder",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "spinder_bookoffiends"
+    },
+    {
+      "n": "Spineseeker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "spineseeker_bookoffiends"
+    },
+    {
+      "n": "Spite",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "spite_bookoffiends"
+    },
+    {
+      "n": "Stitchface",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "stitchface_bookoffiends"
+    },
+    {
+      "n": "Stoker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "stoker_bookoffiends"
+    },
+    {
+      "n": "Striga",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "striga_bookoffiends"
+    },
+    {
+      "n": "Stygian Interloper",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "stygian_interloper_bookoffiends"
+    },
+    {
+      "n": "Swarm of Uncs",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "swarm_of_uncs_bookoffiends"
+    },
+    {
+      "n": "Taker",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "taker_bookoffiends"
+    },
+    {
+      "n": "Taurgen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "taurgen_bookoffiends"
+    },
+    {
+      "n": "That Which Cannot Be",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "that_which_cannot_be_bookoffiends"
+    },
+    {
+      "n": "Thief of dreams",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "thief_of_dreams_bookoffiends"
+    },
+    {
+      "n": "Torthen",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "torthen_bookoffiends"
+    },
+    {
+      "n": "U'ulgan",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "u'ulgan_bookoffiends"
+    },
+    {
+      "n": "Umplebum",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "umplebum_bookoffiends"
+    },
+    {
+      "n": "Undelon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "undelon_bookoffiends"
+    },
+    {
+      "n": "Urhydra",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "urhydra_bookoffiends"
+    },
+    {
+      "n": "Vashtuk",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vashtuk_bookoffiends"
+    },
+    {
+      "n": "Vecrose",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vecrose_bookoffiends"
+    },
+    {
+      "n": "Veezel",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "veezel_bookoffiends"
+    },
+    {
+      "n": "Vierhaander",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vierhaander_bookoffiends"
+    },
+    {
+      "n": "Vlogar",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vlogar_bookoffiends"
+    },
+    {
+      "n": "Vuall",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vuall_bookoffiends"
+    },
+    {
+      "n": "Vulcan demolisher",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "vulcan_demolisher_bookoffiends"
+    },
+    {
+      "n": "Weeping Coils",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "weeping_coils_bookoffiends"
+    },
+    {
+      "n": "Whiptail",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "whiptail_bookoffiends"
+    },
+    {
+      "n": "Wrathful",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "wrathful_bookoffiends"
+    },
+    {
+      "n": "Wugart",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "wugart_bookoffiends"
+    },
+    {
+      "n": "Xaiex",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "xaiex_bookoffiends"
+    },
+    {
+      "n": "Young Abyssal Dragon",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "young_abyssal_dragon_bookoffiends"
+    },
+    {
+      "n": "Zallax",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "zallax_bookoffiends"
+    },
+    {
+      "n": "Zovarik",
+      "s": "BookofFiends",
+      "c": 1,
+      "p": 0,
+      "u": "zovarik_bookoffiends"
     },
     {
       "n": "Acid Shambler",
@@ -34189,18 +35183,11 @@
       "u": "yudha_comcelestiallegendary"
     },
     {
-      "n": "Animated Trap",
-      "s": "COMConstruct",
+      "n": "Light Elemental",
+      "s": "COMElemental",
       "c": 1,
       "p": 0,
-      "u": "animated_trap_comconstruct"
-    },
-    {
-      "n": "Mortimer's Armor",
-      "s": "COMConstruct",
-      "c": 1,
-      "p": 0,
-      "u": "mortimer's_armor_comconstruct"
+      "u": "light_elemental_comelemental"
     },
     {
       "n": "Magis",
@@ -34210,18 +35197,25 @@
       "u": "magis_comelementallegendary"
     },
     {
-      "n": "Air Guardian",
-      "s": "COMFeyFaeries",
-      "c": 1,
-      "p": 0,
-      "u": "air_guardian_comfeyfaeries"
-    },
-    {
       "n": "Queen of the Wisp",
       "s": "COMFeyFaeriesLegendary",
       "c": 1,
       "p": 0,
       "u": "queen_of_the_wisp_comfeyfaerieslegendary"
+    },
+    {
+      "n": "Goredrinker",
+      "s": "COMFiend",
+      "c": 1,
+      "p": 0,
+      "u": "goredrinker_comfiend"
+    },
+    {
+      "n": "Meridiana of Velvet Silk",
+      "s": "COMFiend",
+      "c": 1,
+      "p": 0,
+      "u": "meridiana_of_velvet_silk_comfiend"
     },
     {
       "n": "Barbarian",
@@ -38475,41 +39469,6 @@
       "u": "wand_of_silence_ghmg"
     },
     {
-      "n": "Borealus",
-      "s": "HumblewoodCampaignSetting",
-      "c": 5,
-      "p": 213,
-      "u": "borealus_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Feathered Helm",
-      "s": "HumblewoodCampaignSetting",
-      "c": 5,
-      "p": 213,
-      "u": "feathered_helm_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Necronomicon Ex Corvis",
-      "s": "HumblewoodCampaignSetting",
-      "c": 5,
-      "p": 213,
-      "u": "necronomicon_ex_corvis_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Nest Charm",
-      "s": "HumblewoodCampaignSetting",
-      "c": 5,
-      "p": 214,
-      "u": "nest_charm_humblewoodcampaignsetting"
-    },
-    {
-      "n": "Wing Crest Shield",
-      "s": "HumblewoodCampaignSetting",
-      "c": 5,
-      "p": 214,
-      "u": "wing_crest_shield_humblewoodcampaignsetting"
-    },
-    {
       "n": "Alluring Dye",
       "s": "HumblewoodTales",
       "c": 5,
@@ -38893,629 +39852,6 @@
       "c": 5,
       "p": 249,
       "u": "whistle_of_freedom_humblewoodtales"
-    },
-    {
-      "n": "Abyss Warden's Axeblade",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 219,
-      "u": "abyss_warden's_axeblade_sgtteh"
-    },
-    {
-      "n": "Awakened Abyss Warden's Axeblade",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 234,
-      "u": "awakened_abyss_warden's_axeblade_sgtteh"
-    },
-    {
-      "n": "Bag of Cannonballs",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 205,
-      "u": "bag_of_cannonballs_sgtteh"
-    },
-    {
-      "n": "Bead of Forbiddance",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 470,
-      "u": "bead_of_forbiddance_sgtteh"
-    },
-    {
-      "n": "Big Bertha",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 211,
-      "u": "big_bertha_sgtteh"
-    },
-    {
-      "n": "Black Fungic Tea",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 206,
-      "u": "black_fungic_tea_sgtteh"
-    },
-    {
-      "n": "Blue Fungic Tea",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 206,
-      "u": "blue_fungic_tea_sgtteh"
-    },
-    {
-      "n": "Calamitous Crumbler",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 234,
-      "u": "calamitous_crumbler_sgtteh"
-    },
-    {
-      "n": "Caldera",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 235,
-      "u": "caldera_sgtteh"
-    },
-    {
-      "n": "Cordyceps Sinensis",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 220,
-      "u": "cordyceps_sinensis_sgtteh"
-    },
-    {
-      "n": "Curse of Moon-Blood, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 256,
-      "u": "curse_of_moon-blood_drawn_sgtteh"
-    },
-    {
-      "n": "Curse of Moon-Blood, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "curse_of_moon-blood_scarified_sgtteh"
-    },
-    {
-      "n": "Curse of Moon-Blood, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "curse_of_moon-blood_tattooed_sgtteh"
-    },
-    {
-      "n": "Damascena",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 205,
-      "u": "damascena_sgtteh"
-    },
-    {
-      "n": "Deadly Potion of Poison",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 436,
-      "u": "deadly_potion_of_poison_sgtteh"
-    },
-    {
-      "n": "Dream Executioner",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 221,
-      "u": "dream_executioner_sgtteh"
-    },
-    {
-      "n": "Electric Sawblade",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 222,
-      "u": "electric_sawblade_sgtteh"
-    },
-    {
-      "n": "Ethereal Moongold Equalizer",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 239,
-      "u": "ethereal_moongold_equalizer_sgtteh"
-    },
-    {
-      "n": "Explosive Bullets (10)",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 208,
-      "u": "explosive_bullets_(10)_sgtteh"
-    },
-    {
-      "n": "Faux Lunaire",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 240,
-      "u": "faux_lunaire_sgtteh"
-    },
-    {
-      "n": "First Carving, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 267,
-      "u": "first_carving_drawn_sgtteh"
-    },
-    {
-      "n": "First Carving, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "first_carving_scarified_sgtteh"
-    },
-    {
-      "n": "First Carving, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "first_carving_tattooed_sgtteh"
-    },
-    {
-      "n": "Flare",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 182,
-      "u": "flare_sgtteh"
-    },
-    {
-      "n": "Galvanized Claw",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 241,
-      "u": "galvanized_claw_sgtteh"
-    },
-    {
-      "n": "Gravitational Partisan",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 223,
-      "u": "gravitational_partisan_sgtteh"
-    },
-    {
-      "n": "Greater Holy Tonic",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 207,
-      "u": "greater_holy_tonic_sgtteh"
-    },
-    {
-      "n": "Guillotine Shears",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 215,
-      "u": "guillotine_shears_sgtteh"
-    },
-    {
-      "n": "Hand of Glory",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 206,
-      "u": "hand_of_glory_sgtteh"
-    },
-    {
-      "n": "Heart of Darkness",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 455,
-      "u": "heart_of_darkness_sgtteh"
-    },
-    {
-      "n": "Holy Tonic",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 207,
-      "u": "holy_tonic_sgtteh"
-    },
-    {
-      "n": "Hunter's Kit",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 175,
-      "u": "hunter's_kit_sgtteh"
-    },
-    {
-      "n": "Improved Guillotine Shears",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 242,
-      "u": "improved_guillotine_shears_sgtteh"
-    },
-    {
-      "n": "Improved Meat Hookshot",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 224,
-      "u": "improved_meat_hookshot_sgtteh"
-    },
-    {
-      "n": "Improved Phantom Limb",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 243,
-      "u": "improved_phantom_limb_sgtteh"
-    },
-    {
-      "n": "Improved Ravenous Gazer",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 244,
-      "u": "improved_ravenous_gazer_sgtteh"
-    },
-    {
-      "n": "Improved Rifling Cleaver",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 225,
-      "u": "improved_rifling_cleaver_sgtteh"
-    },
-    {
-      "n": "Lead Bullets (10)",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 208,
-      "u": "lead_bullets_(10)_sgtteh"
-    },
-    {
-      "n": "Leaded Blood, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 260,
-      "u": "leaded_blood_drawn_sgtteh"
-    },
-    {
-      "n": "Leaded Blood, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "leaded_blood_scarified_sgtteh"
-    },
-    {
-      "n": "Leaded Blood, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "leaded_blood_tattooed_sgtteh"
-    },
-    {
-      "n": "Lightning Scion, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 262,
-      "u": "lightning_scion_drawn_sgtteh"
-    },
-    {
-      "n": "Lightning Scion, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "lightning_scion_scarified_sgtteh"
-    },
-    {
-      "n": "Lightning Scion, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "lightning_scion_tattooed_sgtteh"
-    },
-    {
-      "n": "Maiden's Osteosymbiosis",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 245,
-      "u": "maiden's_osteosymbiosis_sgtteh"
-    },
-    {
-      "n": "Meat Hookshot",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 216,
-      "u": "meat_hookshot_sgtteh"
-    },
-    {
-      "n": "Mephitic Seal, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 264,
-      "u": "mephitic_seal_drawn_sgtteh"
-    },
-    {
-      "n": "Mephitic Seal, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "mephitic_seal_scarified_sgtteh"
-    },
-    {
-      "n": "Mephitic Seal, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "mephitic_seal_tattooed_sgtteh"
-    },
-    {
-      "n": "Moongilded Tarblood",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 226,
-      "u": "moongilded_tarblood_sgtteh"
-    },
-    {
-      "n": "Moongold Equalizer",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 227,
-      "u": "moongold_equalizer_sgtteh"
-    },
-    {
-      "n": "Naw're's Blessing, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 263,
-      "u": "naw're's_blessing_drawn_sgtteh"
-    },
-    {
-      "n": "Naw're's Blessing, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "naw're's_blessing_scarified_sgtteh"
-    },
-    {
-      "n": "Naw're's Blessing, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "naw're's_blessing_tattooed_sgtteh"
-    },
-    {
-      "n": "Orphan's Cradle",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 246,
-      "u": "orphan's_cradle_sgtteh"
-    },
-    {
-      "n": "Phantasmal Executioner",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 247,
-      "u": "phantasmal_executioner_sgtteh"
-    },
-    {
-      "n": "Phantom Limb",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 228,
-      "u": "phantom_limb_sgtteh"
-    },
-    {
-      "n": "Prophecy",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 249,
-      "u": "prophecy_sgtteh"
-    },
-    {
-      "n": "Python Bladewhip",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 249,
-      "u": "python_bladewhip_sgtteh"
-    },
-    {
-      "n": "Ravenous Gazer",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 229,
-      "u": "ravenous_gazer_sgtteh"
-    },
-    {
-      "n": "Revelations",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 248,
-      "u": "revelations_sgtteh"
-    },
-    {
-      "n": "Rifling Cleaver",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 219,
-      "u": "rifling_cleaver_sgtteh"
-    },
-    {
-      "n": "Sacrificial Brand, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 260,
-      "u": "sacrificial_brand_drawn_sgtteh"
-    },
-    {
-      "n": "Sacrificial Brand, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "sacrificial_brand_scarified_sgtteh"
-    },
-    {
-      "n": "Sacrificial Brand, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "sacrificial_brand_tattooed_sgtteh"
-    },
-    {
-      "n": "Sanctified Cannon",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 211,
-      "u": "sanctified_cannon_sgtteh"
-    },
-    {
-      "n": "Sanctified Partisan",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 217,
-      "u": "sanctified_partisan_sgtteh"
-    },
-    {
-      "n": "Scatter Bullets (10)",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 208,
-      "u": "scatter_bullets_(10)_sgtteh"
-    },
-    {
-      "n": "Second Carving, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 266,
-      "u": "second_carving_drawn_sgtteh"
-    },
-    {
-      "n": "Second Carving, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "second_carving_scarified_sgtteh"
-    },
-    {
-      "n": "Second Carving, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "second_carving_tattooed_sgtteh"
-    },
-    {
-      "n": "Serpent Bladewhip",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 231,
-      "u": "serpent_bladewhip_sgtteh"
-    },
-    {
-      "n": "Shard of Moonlight",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 252,
-      "u": "shard_of_moonlight_sgtteh"
-    },
-    {
-      "n": "Stick",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 218,
-      "u": "stick_sgtteh"
-    },
-    {
-      "n": "Superior Holy Tonic",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 207,
-      "u": "superior_holy_tonic_sgtteh"
-    },
-    {
-      "n": "Sword of the Radiant Watcher",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 253,
-      "u": "sword_of_the_radiant_watcher_sgtteh"
-    },
-    {
-      "n": "Third Carving, Drawn",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 265,
-      "u": "third_carving_drawn_sgtteh"
-    },
-    {
-      "n": "Third Carving, Scarified",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "third_carving_scarified_sgtteh"
-    },
-    {
-      "n": "Third Carving, Tattooed",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 0,
-      "u": "third_carving_tattooed_sgtteh"
-    },
-    {
-      "n": "Thirsting Épée Sanguine",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 255,
-      "u": "thirsting_épée_sanguine_sgtteh"
-    },
-    {
-      "n": "Torture Tools",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 156,
-      "u": "torture_tools_sgtteh"
-    },
-    {
-      "n": "Tree Stride Amulet",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 332,
-      "u": "tree_stride_amulet_sgtteh"
-    },
-    {
-      "n": "Unbound Épée Solaire",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 256,
-      "u": "unbound_épée_solaire_sgtteh"
-    },
-    {
-      "n": "Uncharged Claw",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 232,
-      "u": "uncharged_claw_sgtteh"
-    },
-    {
-      "n": "Unstable Crumbler",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 233,
-      "u": "unstable_crumbler_sgtteh"
-    },
-    {
-      "n": "White Fungic Tea",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 206,
-      "u": "white_fungic_tea_sgtteh"
-    },
-    {
-      "n": "Yellow Fungic Tea",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 206,
-      "u": "yellow_fungic_tea_sgtteh"
-    },
-    {
-      "n": "Épée Sanguine",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 237,
-      "u": "épée_sanguine_sgtteh"
-    },
-    {
-      "n": "Épée Solaire",
-      "s": "SGttEH",
-      "c": 5,
-      "p": 238,
-      "u": "épée_solaire_sgtteh"
     },
     {
       "n": "Bulwark of the Earth",
@@ -45601,6 +45937,13 @@
       "u": "dumgi_fungi_underworld"
     },
     {
+      "n": "Stasis cage",
+      "s": "BookofFiends",
+      "c": 5,
+      "p": 0,
+      "u": "stasis_cage_bookoffiends"
+    },
+    {
       "n": "Foolscap",
       "s": "SLCC",
       "c": 5,
@@ -45657,9 +46000,7 @@
       "GrimHollowCG24": "data/bestiary/bestiary-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/bestiary/bestiary-GrimHollowLairsEtharis.json",
       "GHMG": "data/bestiary/bestiary-GHMG.json",
-      "HumblewoodCampaignSetting": "data/bestiary/bestiary-HumblewoodCampaignSetting.json",
       "HumblewoodTales": "data/bestiary/bestiary-HumblewoodTales.json",
-      "SGttEH": "data/bestiary/bestiary-SGttEH.json",
       "NLC": "data/bestiary/bestiary-NLC.json",
       "DarkMatter24": "data/bestiary/bestiary-DarkMatter24.json",
       "ExploringEberron": "data/bestiary/bestiary-ExploringEberron.json",
@@ -45672,16 +46013,17 @@
       "underworld": "data/bestiary/bestiary-underworld.json",
       "LLCompendiumOfBeasts": "data/bestiary/bestiary-LLCompendiumOfBeasts.json",
       "LLCompendiumOfBeastsDinosaurs": "data/bestiary/bestiary-LLCompendiumOfBeastsDinosaurs.json",
-      "PB5E": "data/bestiary/bestiary-PB5E.json",
+      "FEF": "data/bestiary/bestiary-FEF.json",
+      "BookofFiends": "data/bestiary/bestiary-BookofFiends.json",
       "SLCC": "data/bestiary/bestiary-SLCC.json",
       "COMAberration": "data/bestiary/bestiary-COMAberration.json",
       "COMAberrationLegendary": "data/bestiary/bestiary-COMAberrationLegendary.json",
       "COMCelestial": "data/bestiary/bestiary-COMCelestial.json",
       "COMCelestialLegendary": "data/bestiary/bestiary-COMCelestialLegendary.json",
-      "COMConstruct": "data/bestiary/bestiary-COMConstruct.json",
+      "COMElemental": "data/bestiary/bestiary-COMElemental.json",
       "COMElementalLegendary": "data/bestiary/bestiary-COMElementalLegendary.json",
-      "COMFeyFaeries": "data/bestiary/bestiary-COMFeyFaeries.json",
       "COMFeyFaeriesLegendary": "data/bestiary/bestiary-COMFeyFaeriesLegendary.json",
+      "COMFiend": "data/bestiary/bestiary-COMFiend.json",
       "COMHumanoid": "data/bestiary/bestiary-COMHumanoid.json",
       "COMRavenloft": "data/bestiary/bestiary-COMRavenloft.json",
       "KamiNO": "data/bestiary/bestiary-KamiNO.json",
@@ -45710,9 +46052,7 @@
       "GrimHollowCG24": "data/items/items-GrimHollowCG24.json",
       "GrimHollowLairsEtharis": "data/items/items-GrimHollowLairsEtharis.json",
       "GHMG": "data/items/items-GHMG.json",
-      "HumblewoodCampaignSetting": "data/items/items-HumblewoodCampaignSetting.json",
       "HumblewoodTales": "data/items/items-HumblewoodTales.json",
-      "SGttEH": "data/items/items-SGttEH.json",
       "NLC": "data/items/items-NLC.json",
       "DarkMatter24": "data/items/items-DarkMatter24.json",
       "ExploringEberron": "data/items/items-ExploringEberron.json",
@@ -45723,6 +46063,7 @@
       "AotA": "data/items/items-AotA.json",
       "RotH": "data/items/items-RotH.json",
       "underworld": "data/items/items-underworld.json",
+      "BookofFiends": "data/items/items-BookofFiends.json",
       "SLCC": "data/items/items-SLCC.json",
       "KamiES": "data/items/items-KamiES.json"
     }
